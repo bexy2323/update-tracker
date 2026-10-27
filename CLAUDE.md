@@ -8,9 +8,9 @@ visit.
 
 Branch: `claude/cool-cerf-dsfp4z`. Commit and push all run results there.
 Timezone for everything: Malaysia (MYT, UTC+8).
-Report recipient: niksern.lim@yycadvisors.com.
+Reports are delivered in the chat of the session that runs the check. Do not send email.
 
-## A check run (scheduled at 10:00 and 15:00 MYT)
+## A check run (scheduled at 09:38 and 14:38 MYT, in the user's session)
 
 1. **Get up to date.**
    `git fetch origin claude/cool-cerf-dsfp4z && git checkout claude/cool-cerf-dsfp4z && git pull --ff-only origin claude/cool-cerf-dsfp4z`
@@ -71,15 +71,10 @@ Report recipient: niksern.lim@yycadvisors.com.
    then `git push -u origin claude/cool-cerf-dsfp4z`. If the push fails because
    of a network error, retry up to 4 times, waiting 2s, 4s, 8s and 16s.
 
-7. **Email the report** through the Microsoft 365 connector
-   (`outlook_send_mail`) to niksern.lim@yycadvisors.com with
-   `bodyType: html` and the contents of `reports/<run-id>.html` as the body.
-   Subject: `Tax website updates: <DD/MM/YYYY HH:MM> MYT – <N> update(s)`, or
-   `– no updates` when there are none. Send it every run, because it also lists
-   the sites that need the user's sign-in and the sites that could not be reached.
-
-8. **Finish** with a short chat summary: the update titles with links, which
-   sites need the user's sign-in, and which sites could not be reached.
+7. **Notify the user in the chat** with a short summary: each update's title,
+   publication date, what changed (and what it replaces or amends) and its
+   link, or say there are no updates. Also list the sites that need the user's
+   sign-in and the sites that could not be reached. Do not send email.
 
 ## Rules
 
