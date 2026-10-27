@@ -205,9 +205,22 @@ async function resolveUrl(page, check, previous) {
 // years offered in the Year list, then searches all categories for the newest
 // year and records the forms listed.
 async function fetchHasilFormsPage(page, url) {
-  const base = await fetchPage(page, url);
-  const years = await page.$$eval('#crud-year-select option', os =>
-    os.map(o => o.value).filter(v => /^\d{4}$/.test(v)).map(Number));
+  // The page reloads itself once after loading (it adds ?isStampsSite=...), so
+  // wait for that to settle before reading the form.
+  let base;
+  let years = [];
+  for (let attempt = 1; attempt <= 3 && !years.length; attempt++) {
+    try {
+      base = await fetchPage(page, url);
+      await page.waitForTimeout(3000);
+      await page.waitForLoadState('networkidle', { timeout: 20000 }).catch(() => {});
+      await page.waitForSelector('#crud-year-select', { state: 'attached', timeout: 20000 });
+      years = await page.$$eval('#crud-year-select option', os =>
+        os.map(o => o.value).filter(v => /^\d{4}$/.test(v)).map(Number));
+    } catch (e) {
+      if (attempt === 3) throw e;
+    }
+  }
   if (!years.length) throw new Error('Year list not found on the forms page');
   const newest = Math.max(...years);
   await Promise.all([
