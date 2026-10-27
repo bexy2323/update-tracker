@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-download-forms",
   "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
-  "fetched_at": "2026-10-27T06:34:08.900Z",
+  "fetched_at": "2026-10-27T06:44:15.849Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
@@ -306,9 +306,69 @@
     },
     {
       "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-cukai-pegangan/",
-      "title": "",
-      "error": "page.waitForNavigation: net::ERR_CONNECTION_RESET\n=========================== logs ===========================\nwaiting for navigation until \"domcontentloaded\"\n============================================================",
-      "items": [],
+      "title": "Muat Turun Borang Cukai Pegangan",
+      "items": [
+        {
+          "label": "| Remittance Slip Of Increase In Tax Pursuant To Subsection 109(2)/109B(2)/109D(3)/109DA(3)/109E(4)/109F(2) Or 109G(2) Income Tax Act 1967 Form CP147 - Pin 1/2024 (129.48 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp147-pin1_2024.pdf"
+        },
+        {
+          "label": "| Remittance Slip for Payment of Increase In Tax - Subsection 107A(2) of the Income Tax Act 1967 Form CP147[1] Pin 1/2024 (95.55 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp147-1-pin-1_2024.pdf"
+        },
+        {
+          "label": "| Account Of Deduction From Royalty And Interest To A Non-Resident Person Form CP37 Pin 1/2024 (121.67 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp37-pin-1_2024.pdf"
+        },
+        {
+          "label": "| Account Of Deductions From Contract Payment To Non-Resident Contractors Form CP37A Pin 1/2024 (83.16 KB) e-CP37A This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri MalaysiaFor taxpayers that have the digital certificates for individual files (SG or OG) or the digital certificates for company files (OeF)-(file C), they can now pay withholding taxes under form CP37A electronic",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp37a-pin-1_2024.pdf"
+        },
+        {
+          "label": "| Account Of Deductions From Interest (Other Than Interest Exempt Under The Income Tax Act 1967) Paid To Resident Individuals Form CP37C Pin 1/2024 (101.07 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp37c-pin-1_-2024.pdf"
+        },
+        {
+          "label": "| Account Of Deductions From Special Classes Of Income In Accordance With Section 4A Income Tax Act 1967 Form CP37D Pin 1/2024 (72.43 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp37d-pin-1_2024.pdf"
+        },
+        {
+          "label": "| Account Of Deductions From Special Classes Of Income In Accordance With Section 4A Income Tax Act 1967 In Respect Of Joint Development Area (P.U.(A) 398/95) Form CP37D(1) Pin 1/2024 (72.36 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp37d-1-pin-1_2024.pdf"
+        },
+        {
+          "label": "| Account Of Deductions From Special Classes Of Income In Accordance With Section 4A Income Tax Act 1967 Form CP37DS 1/2025 (88.32 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri MalaysiaThis form only for small value withholding tax payments",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp37ds_pin-1_2025.pdf"
+        },
+        {
+          "label": "| Account Of Deductions From Real Estate Investment Trust Income Distributed To A Non-Resident Person Form CP37E Pin 1/2024 (REIT) (107.04 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp37e-pin-1_2024.pdf"
+        },
+        {
+          "label": "| Account Of Deductions From Family Fund, Family Re-Takaful Fund Or General Fund Under Section 60AA Income Tax Act 1967 Form CP37E (T) Pin 1/2024 (120.17 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp37e-t-pin-1_2024.pdf"
+        },
+        {
+          "label": "| Deduction Account Of Income Received From Distribution By Retail Money Market Fund Unit Trust (RMMF) To Investor Other Than Individuals (Resident) CP37E(R) - Pin 1/2025 (215.63 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp37e-r-pin-1_2025.pdf"
+        },
+        {
+          "label": "| Deduction Account Of Income Received From Distribution By Retail Money Market Fund Unit Trust (RMMF) To Investor Other Than Individual (Non-Resident) CP37E(NR) - Pin 1/2024 (216.38 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp37e-nr-pin-1_2024.pdf"
+        },
+        {
+          "label": "| Account Of Deductions From Payment To A Non-Resident Person Chargeable Under Paragraph 4(f) Income Tax Act 1967 Form CP37F Pin 1/2024 (119.01 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp37f-pin-1_2024.pdf"
+        },
+        {
+          "label": "| Account Of Deductions From Withdrawal From A Fund Under A Deferred Annuity Scheme Or A Private Retirement Scheme Form CP37G Pin 1/2024 (118.84 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp37g-pin-1_2024.pdf"
+        },
+        {
+          "label": "| Account Of Deduction From Royalty And Interest To A Non-Resident Person Form CP37S 1/2025 (123.94 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri MalaysiaThis form only for small value withholding tax payments",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp37s-pin-1_2025.pdf"
+        }
+      ],
       "lines": []
     },
     {

@@ -198,14 +198,14 @@ sources:
           from: https://www.customs.gov.my/ms/utama
           link_text: [Pengumuman]
           url_hint: https://www.customs.gov.my/ms/utama
-        ignore: ['^Pergi ke halaman', '^Go to (next|last|first|previous) page']
+        ignore: ['^Pergi ke halaman', '^Go to (next|last|first|previous) page', 'hit\(s\)']
       - id: customs-berita-media
         section: Berita dan Media (News and Media)
         discover:
           from: https://www.customs.gov.my/ms/utama
           link_text: [Berita dan Media, Berita & Media, Berita]
           url_hint: https://www.customs.gov.my/ms/utama
-        ignore: ['^Pergi ke halaman', '^Go to (next|last|first|previous) page']
+        ignore: ['^Pergi ke halaman', '^Go to (next|last|first|previous) page', 'hit\(s\)']
 
   - id: ctim
     name: Chartered Tax Institute of Malaysia
