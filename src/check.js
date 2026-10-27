@@ -11,6 +11,7 @@
 const fs = require('fs');
 const path = require('path');
 const yaml = require('js-yaml');
+const { execFileSync } = require('child_process');
 const { chromium } = loadPlaywright();
 
 const ROOT = path.resolve(__dirname, '..');
@@ -18,6 +19,7 @@ const SNAP_DIR = path.join(ROOT, 'data', 'snapshots');
 const RUNS_DIR = path.join(ROOT, 'data', 'runs');
 const TIMEZONE = 'Asia/Kuala_Lumpur';
 const NAV_TIMEOUT = 60000;
+const USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
 const MAX_TEXT_LINES_IN_DIFF = 40;
 // Failures that mean the host can't be reached at all (DNS, proxy refusal, reset).
 const NETWORK_ERROR = /net::ERR_(TUNNEL_CONNECTION_FAILED|NAME_NOT_RESOLVED|CONNECTION_(RESET|REFUSED|CLOSED|TIMED_OUT)|PROXY_CONNECTION_FAILED|ADDRESS_UNREACHABLE)/;
@@ -131,14 +133,39 @@ function extractPage(imageSelector) {
   return { title: document.title, items, text };
 }
 
-async function fetchPage(page, url, imageSelector = null) {
+// Downloads the page with curl and loads the HTML into the browser without running
+// its scripts. For server-rendered sites that the browser can't load reliably (LOM).
+async function loadStatic(page, url) {
+  const out = execFileSync('curl', ['-sSL', '-m', '60', '-A', USER_AGENT, '-w', '\n%{http_code}', url],
+    { encoding: 'utf8', maxBuffer: 50 * 1024 * 1024 });
+  const cut = out.lastIndexOf('\n');
+  const status = Number(out.slice(cut + 1));
+  if (status >= 400 || !status) throw new Error(`HTTP ${status || 'no response'}`);
+  const html = out.slice(0, cut).replace(/<script\b[\s\S]*?<\/script>/gi, '');
+  await page.route('**/*', route => route.abort());
+  try {
+    await page.goto('about:blank');
+    await page.setContent(html.replace(/<head[^>]*>/i, m => `${m}<base href="${url}">`), { waitUntil: 'domcontentloaded' });
+  } finally {
+    await page.unroute('**/*');
+  }
+  return status;
+}
+
+async function fetchPage(page, url, { images: imageSelector = null, wait_for: waitFor = null, static: isStatic = false } = {}) {
   let lastError;
-  for (let attempt = 1; attempt <= 2; attempt++) {
+  for (let attempt = 1; attempt <= 3; attempt++) {
     try {
-      const resp = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: NAV_TIMEOUT });
-      await page.waitForLoadState('networkidle', { timeout: 20000 }).catch(() => {});
-      const status = resp ? resp.status() : 0;
-      if (status >= 400) throw new Error(`HTTP ${status}`);
+      if (isStatic) {
+        await loadStatic(page, url);
+      } else {
+        const resp = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: NAV_TIMEOUT });
+        await page.waitForLoadState('networkidle', { timeout: 20000 }).catch(() => {});
+        const status = resp ? resp.status() : 0;
+        if (status >= 400) throw new Error(`HTTP ${status}`);
+      }
+      // Content that the page fills in after loading (e.g. LOM's P.U.(A) table).
+      if (waitFor) await page.waitForSelector(waitFor, { timeout: 45000 });
       const data = await page.evaluate(extractPage, imageSelector);
       // Content inside iframes (some bulletin boards are embedded this way).
       for (const frame of page.frames()) {
@@ -150,11 +177,13 @@ async function fetchPage(page, url, imageSelector = null) {
           data.text += '\n' + f.text;
         } catch { /* cross-origin or detached frame */ }
       }
-      data.finalUrl = page.url();
+      data.finalUrl = isStatic ? url : page.url();
       return data;
     } catch (e) {
       lastError = e;
-      if (NETWORK_ERROR.test(e.message)) break;
+      if (NETWORK_ERROR.test(e.message) || /HTTP 4\d\d/.test(e.message)) break;
+      // Server errors (502 etc.) are often momentary: wait and try again.
+      if (attempt < 3) await page.waitForTimeout(attempt * 10000);
     }
   }
   throw new Error(String(lastError.message || lastError).split('\n')[0]);
@@ -209,25 +238,28 @@ async function fetchHasilFormsPage(page, url) {
   // wait for that to settle before reading the form.
   let base;
   let years = [];
-  for (let attempt = 1; attempt <= 3 && !years.length; attempt++) {
+  for (let attempt = 1; attempt <= 3; attempt++) {
     try {
       base = await fetchPage(page, url);
       await page.waitForTimeout(3000);
       await page.waitForLoadState('networkidle', { timeout: 20000 }).catch(() => {});
-      await page.waitForSelector('#crud-year-select', { state: 'attached', timeout: 20000 });
+      base = { ...base, ...(await page.evaluate(extractPage, null)) };
+      base.links = await page.$$eval('a[href]', as => as.map(a => a.href));
       years = await page.$$eval('#crud-year-select option', os =>
         os.map(o => o.value).filter(v => /^\d{4}$/.test(v)).map(Number));
+      break;
     } catch (e) {
+      // "Execution context was destroyed": the page reloaded itself; try again.
       if (attempt === 3) throw e;
     }
   }
-  if (!years.length) throw new Error('Year list not found on the forms page');
-  const newest = Math.max(...years);
+  // Some categories (e.g. Stamp Duty) have no Year filter: search all categories only.
+  const newest = years.length ? Math.max(...years) : null;
   await Promise.all([
     page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: NAV_TIMEOUT }),
     page.evaluate(year => {
       document.querySelector('#crud-cat-select').value = 'all';
-      document.querySelector('#crud-year-select').value = String(year);
+      if (year) document.querySelector('#crud-year-select').value = String(year);
       document.querySelector('#crud-cat-select').form.submit();
     }, newest),
   ]);
@@ -248,7 +280,7 @@ async function fetchHasilFormsPage(page, url) {
   const seen = new Set();
   const unique = items.filter(i => !seen.has(i.label + i.href) && seen.add(i.label + i.href));
   const category = (base.title || url).replace(/\s*[-–|].*$/, '').trim();
-  return { title: base.title, items: unique, text: '', years, category, newest_year: newest };
+  return { title: base.title, items: unique, text: '', years: years.length ? years : null, category, newest_year: newest, links: base.links };
 }
 
 // Forms mode: which years are listed for each form, e.g. "Form BE" -> [2024, 2025].
@@ -272,19 +304,27 @@ function formYears(items) {
 
 async function snapshotCheck(page, check, previous) {
   const url = await resolveUrl(page, check, previous);
-  const visit = u => (check.mode === 'hasil_forms' ? fetchHasilFormsPage(page, u) : fetchPage(page, u, check.images));
+  const visit = u => (check.mode === 'hasil_forms' ? fetchHasilFormsPage(page, u) : fetchPage(page, u, check));
   const pages = [{ url, ...(await visit(url)) }];
 
   if (check.crawl) {
     const prefix = check.crawl.path_prefix;
     const max = check.crawl.max_pages || 30;
     const origin = new URL(url).origin;
-    const queue = [...new Set(pages[0].items.map(i => i.href.split('#')[0]))].filter(h => {
+    const hrefs = pages[0].links || pages[0].items.map(i => i.href);
+    // One visit per path: query strings and trailing slashes don't make a new page.
+    const pathKey = h => { const u = new URL(h); return u.origin + u.pathname.replace(/\/$/, ''); };
+    const seenPaths = new Set([pathKey(url)]);
+    const queue = [];
+    for (const h of hrefs) {
       try {
         const u = new URL(h);
-        return u.origin === origin && u.pathname.startsWith(prefix) && h !== url && !/\.(pdf|docx?|xlsx?|zip)$/i.test(u.pathname);
-      } catch { return false; }
-    });
+        if (u.origin !== origin || !u.pathname.startsWith(prefix) || /\.(pdf|docx?|xlsx?|zip)$/i.test(u.pathname)) continue;
+        if (seenPaths.has(pathKey(h))) continue;
+        seenPaths.add(pathKey(h));
+        queue.push(u.origin + u.pathname);
+      } catch { /* not a URL */ }
+    }
     for (const sub of queue.slice(0, max)) {
       try {
         pages.push({ url: sub, ...(await visit(sub)) });
@@ -401,7 +441,7 @@ async function main() {
 
   const browser = await chromium.launch();
   const context = await browser.newContext({
-    userAgent: 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36',
+    userAgent: USER_AGENT,
     locale: 'en-MY',
     timezoneId: TIMEZONE,
   });

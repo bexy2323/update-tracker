@@ -1,0 +1,34 @@
+{
+  "run_id": "2026-10-27_1436",
+  "started_at": "2026-10-27T06:36:10.862Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [],
+  "unchanged": [],
+  "baselined": [
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-latest",
+      "section": "Latest Acts and P.U. (A) on the home page (tax-relevant, incl. Finance Acts)",
+      "url": "https://lom.agc.gov.my/index.php",
+      "items": 46
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-principal-acts",
+      "section": "Principal Act (tax-relevant only)",
+      "url": "https://lom.agc.gov.my/principal.php?type=original",
+      "items": 6
+    }
+  ],
+  "needs_login": [],
+  "errors": [
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-pua",
+      "section": "List of P.U. (A) (tax-relevant only)",
+      "url": "https://lom.agc.gov.my/subsid.php?type=pua",
+      "error": "HTTP 502"
+    }
+  ],
+  "finished_at": "2026-10-27T06:37:14.881Z"
+}

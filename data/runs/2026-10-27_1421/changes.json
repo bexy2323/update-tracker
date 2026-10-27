@@ -1,0 +1,19 @@
+{
+  "run_id": "2026-10-27_1421",
+  "started_at": "2026-10-27T06:21:21.495Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [],
+  "unchanged": [],
+  "baselined": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (years listed per form category)",
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+      "items": 191
+    }
+  ],
+  "needs_login": [],
+  "errors": [],
+  "finished_at": "2026-10-27T06:27:08.891Z"
+}

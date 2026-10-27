@@ -1,0 +1,261 @@
+{
+  "run_id": "2026-10-27_1402",
+  "started_at": "2026-10-27T06:02:18.640Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-pengumuman",
+      "section": "Pengumuman (Announcements)",
+      "url": "https://customs.gov.my/ms/arkib/pengumuman",
+      "new_items": [],
+      "removed_items": [
+        {
+          "page": "https://customs.gov.my/ms/arkib/pengumuman",
+          "label": "Pergi ke halaman seterusnya",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=20"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/pengumuman",
+          "label": "Pergi ke halaman akhir",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=140"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-berita-media",
+      "section": "Berita dan Media (News and Media)",
+      "url": "https://customs.gov.my/ms/arkib/liputan-media",
+      "new_items": [],
+      "removed_items": [
+        {
+          "page": "https://customs.gov.my/ms/arkib/liputan-media",
+          "label": "Pergi ke halaman seterusnya",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=20"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/liputan-media",
+          "label": "Pergi ke halaman akhir",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=80"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "MySToDS (Service Tax on Digital Services)",
+      "check_id": "mystods-bulletin",
+      "section": "Bulletin Board",
+      "url": "https://mystods.customs.gov.my/",
+      "new_items": [
+        {
+          "page": "https://mystods.customs.gov.my/",
+          "label": "05/09/2024 - Offer of penalty and surcharge remission incentive for the year 2024 for cases of Goods and Services Tax, Tourism Tax, Sales Tax, Service Tax, and Departure Levy. More >",
+          "href": "https://mystods.customs.gov.my/bulletin2"
+        },
+        {
+          "page": "https://mystods.customs.gov.my/",
+          "label": "27/02/2024 - Service Tax (Rate Of Digital Services Tax) (Amendment) Order 2024 More >",
+          "href": "https://mystods.customs.gov.my/bulletin1"
+        },
+        {
+          "page": "https://mystods.customs.gov.my/",
+          "label": "14/02/2024 - Guide on Transitional Rules for the Change in Service Tax Rate to 8% on Digital Service Provided by Foreign Registered Person More >",
+          "href": "https://mystods.customs.gov.my/bulletin1"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://mystods.customs.gov.my/",
+          "label": "Welcome to MySToDS - REGISTRATION",
+          "href": "https://www.youtube.com/watch?v=9UmS_psydP8"
+        },
+        {
+          "page": "https://mystods.customs.gov.my/",
+          "label": "Sharul Nizam",
+          "href": "https://www.youtube.com/channel/UCdJqrzSsT7Bt9ME0vBp5law"
+        },
+        {
+          "page": "https://mystods.customs.gov.my/",
+          "label": "Watch on",
+          "href": "https://www.youtube.com/watch?v=9UmS_psydP8"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-transfer-pricing",
+      "section": "Transfer Pricing",
+      "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/"
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-latest-announcements",
+      "section": "Pengumuman Terkini (Latest Announcements)",
+      "url": "https://mysst.customs.gov.my/"
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-announcements",
+      "section": "All announcements",
+      "url": "https://mysst.customs.gov.my/announcements/"
+    },
+    {
+      "source": "Ministry of Finance",
+      "check_id": "mof-news",
+      "section": "News (tax-relevant only)",
+      "url": "https://www.mof.gov.my/portal/en/news"
+    },
+    {
+      "source": "Rahmat Lim & Partners (RDS) - Tax Focus",
+      "check_id": "rds-tax-focus",
+      "section": "Tax Focus publications (for the monthly update class)",
+      "url": "https://www.rdslawpartners.com/publications/categories/tax-focus"
+    },
+    {
+      "source": "MDEC - National e-Invoicing",
+      "check_id": "mdec-einvoicing",
+      "section": "New Updates (Peppol-Ready Solution)",
+      "url": "https://mdec.my/national-einvoicing"
+    },
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "url": "https://mytax.hasil.gov.my/"
+    },
+    {
+      "source": "MIDA - Announcements & Media Releases",
+      "check_id": "mida-announcements",
+      "section": "Announcements & media releases (tax-relevant only)",
+      "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/"
+    }
+  ],
+  "baselined": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-announcements-media",
+      "section": "Home > Kenyataan Media & Pengumuman (Media Statements & Announcements)",
+      "url": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+      "items": 93
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invois/",
+      "items": 0
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-myinvois-epos",
+      "section": "Pautan Popular > MyInvois e-POS",
+      "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/",
+      "items": 1
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-return-form-filing-programme",
+      "section": "Forms > Return Form Filing Programme",
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+      "items": 6
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/perundangan/",
+      "items": 6
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-principal-acts",
+      "section": "Principal Act",
+      "url": "https://lom.agc.gov.my/principal.php?type=updated",
+      "items": 6
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-pua",
+      "section": "List of P.U. (A) (tax-relevant only)",
+      "url": "https://lom.agc.gov.my/subsid.php?type=pua",
+      "items": 1
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-dt",
+      "section": "Technical News > Direct Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/",
+      "items": 93
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-ectim",
+      "section": "eCTIM (titles listed on the public home page; full text needs member sign-in)",
+      "url": "https://www.ctim.org.my/",
+      "items": 80
+    }
+  ],
+  "needs_login": [
+    {
+      "source": "HASiL Facebook page",
+      "check_id": "hasil-facebook",
+      "section": "Facebook posts",
+      "url": "https://www.facebook.com/HASiLMalaysia"
+    },
+    {
+      "source": "CCH iKnowConnect (Malaysia)",
+      "check_id": "cch-news",
+      "section": "Latest news and articles",
+      "url": "https://iknowconnect.cch.com/MYS/home"
+    }
+  ],
+  "errors": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (years listed per form category)",
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+      "error": "page.$$eval: Execution context was destroyed, most likely because of a navigation"
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-finance-bill",
+      "section": "Finance Bill (if any)",
+      "url": "https://lom.agc.gov.my/bills.php",
+      "error": "HTTP 404"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-it",
+      "section": "Technical News > Indirect Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-indirect-taxation-tc-it/",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "Parliament of Malaysia - Dewan Rakyat bills",
+      "check_id": "parlimen-bills",
+      "section": "Bills (Income Tax Act and Finance Bills only)",
+      "url": "https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "HRD Corp - Circulars",
+      "check_id": "hrdcorp-circulars",
+      "section": "Circulars",
+      "url": "https://hrdcorp.gov.my/circulars",
+      "error": "HTTP 403"
+    }
+  ],
+  "finished_at": "2026-10-27T06:09:18.355Z"
+}

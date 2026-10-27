@@ -1,0 +1,18 @@
+{
+  "run_id": "2026-10-27_1437",
+  "started_at": "2026-10-27T06:37:32.318Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [],
+  "unchanged": [
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-latest",
+      "section": "Principal Act / List of P.U. (A) / Finance Bill (latest legislation feed, tax-relevant only)",
+      "url": "https://lom.agc.gov.my/index.php"
+    }
+  ],
+  "baselined": [],
+  "needs_login": [],
+  "errors": [],
+  "finished_at": "2026-10-27T06:37:36.052Z"
+}

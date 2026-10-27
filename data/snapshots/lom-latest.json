@@ -1,0 +1,222 @@
+{
+  "check_id": "lom-latest",
+  "url": "https://lom.agc.gov.my/index.php",
+  "fetched_at": "2026-10-27T06:37:36.008Z",
+  "pages": [
+    {
+      "url": "https://lom.agc.gov.my/index.php",
+      "title": "Malaysia Federal Legislation",
+      "items": [
+        {
+          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "href": "https://lom.agc.gov.my/index.php#tabs-1"
+        },
+        {
+          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "href": "https://lom.agc.gov.my/index.php#tabs-2"
+        },
+        {
+          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "href": "https://lom.agc.gov.my/index.php#tabs-3"
+        },
+        {
+          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "href": "https://lom.agc.gov.my/index.php#tabs-4"
+        },
+        {
+          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "href": "https://lom.agc.gov.my/index.php#tabs-5"
+        },
+        {
+          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "href": "https://lom.agc.gov.my/index.php#tabs-6"
+        },
+        {
+          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (A) 368/2026 - COMPANIES (AMENDMENT OF FOURTH SCHEDULE) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzY4LzIwMjZ8NjQ2YmY2OWE3NjEzYTQ0MTc2OWVjZWY3MjA5YmZiN2QyOTFjYmY5YmQzY2ZlZDgzNTI3M2FjZWJmMDJiOGExOQ%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 369/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzY5LzIwMjZ8YTAxMzIyN2FkNzUxNDQwNDYzYTMyMzNhYmZjZGI1YjUzNDg5NjEzNTk5ZjcwZjEyNWI3YTdjNTIwZDdlYmUyYg%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 436/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM2LzIwMjZ8M2JjOGJjNTkzZmQwMTg5YWNlNzA5NDY0ZGMwODkyZjE4YzE1YzEwYTY0NGMxMjg3MTY4ZDNmY2ZkYzZlMTY3Yw%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 437/2026 - DECLARATION OF HERITAGE OBJECT (NO. 3) 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM3LzIwMjZ8MWNmN2JmMTIxNGE1OWFlNzlmOTJjY2FlNDAxZGMzZWVhYzhmNmU0NmM4NjljOWI3Yzk2ZWI1ZjE2Yjg0YmE5NA%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 438/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM4LzIwMjZ8ODQwZmQzOGY4ZjFkODM1MDZiODdiMWE1OWNmNmUzZGFiZmU1YzEyNzdlNGJmZWRiZjE5NzYwZTNhNjRhZWY4ZQ%3D%3D"
+        },
+        {
+          "label": "887 - STATISTICS ACT 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZhY3Q9ODg3fGU4N2RhY2NkODY2MDVkODNlYWNhODgwNGU2Y2Y3MjgxNGNkNzg0MjViZGEzZTcyMzQ1OWQ5YzQ3YzJlMmEyYTM%3D"
+        },
+        {
+          "label": "A1800 - COMPETITION (AMENDMENT) ACT 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZ0eXBlPWFtZW5kbWVudCZhY3Q9QTE4MDB8Y2JjZWE3M2VlYjgzNzkwZDgzNTI4MWRiYjFjOTFjOTc5ZGMyMWRjYWQyMjZkMDA1Y2I0N2QxZDBlYWI3NWVmZQ%3D%3D"
+        },
+        {
+          "label": "A1801 - COMPETITION COMMISSION (AMENDMENT) ACT 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZ0eXBlPWFtZW5kbWVudCZhY3Q9QTE4MDF8NDE2NmVkMGJkYTIxNzZiYTY4NDQzNGVmNGRlM2E5NGNlNDZmMWY0MGUwZGMxOWEzNDc3ODkxMmUwN2U1MDg3Mw%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 433/2026 - NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDMzLzIwMjZ8NGFlMTg0MTQ2NDE5MjEyNDU3Y2I2NDVkMDY3NWY3ZDRmY2RhOWYwMjVhZmNlNjk4ZDhjYzgwOWQ3OGZkOTcxMg%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 434/2026 - NOTICE UNDER SECTION 70",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM0LzIwMjZ8NGNiMjY1MGMxMmZjMWY0NDk5MjIwNTQxMmNjNjhmNDFhYjcyZmJhMzI5MmJjNjZhNDQ5Mjg1ZWE1ZjM1NjZmNA%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 435/2026 - NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM1LzIwMjZ8M2VhNzBkNmIxNjNiNTMwNGRkZGNkMjNlMDhiNzgyNGFjNTJhODVjODFkOGI3OTNlYWNlNzNiM2VhMzgxOGRkMQ%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 367/2026 - INCOME TAX (DIVIDEND INCOME RECEIVED IN MALAYSIA FROM OUTSIDE MALAYSIA) (EXEMPTION) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzY3LzIwMjZ8OWQ2Zjc2MzkzZjQ3YzcxM2VlNmJjZGMyMjNjZjFmNjFiOWRhMmI5NzM0Njc5YzM3M2QwMjMzZjZkYWU0ZjFiMQ%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 432/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF SEPTEMBER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDMyLzIwMjZ8ZGI3YTNlMmRmYmRlNDdmMzI0MWVjZTAwZmQ2OGJlMjM0OTdlNGE5ZjE0Yjk4NDVlM2U4YWNlODBmMjQ1ODYyNg%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 364/2026 - NATIONAL HERITAGE (DECLARATION OF LIVING PERSON AS A NATIONAL HERITAGE) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzY0LzIwMjZ8NmZiOWQ3MGZjOTE5MzM2N2M3ZmY1ZTViNjZiZjI0NjViMzk2YTA1NTdhNDVkY2FlYzJlYWIyYzc2MmI5NjNhOQ%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 365/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzY1LzIwMjZ8ZDUyM2ZhYWExZWQzYzIyZmI3NjhkNTgwNDBmYWE0N2I0YjEwMjg5NzljNTY5Njk1YWFiNGJmYTJlMDNlMWNhMw%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 366/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 2) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzY2LzIwMjZ8ZTRhNzBkZWVlYTRkYThjZDFlN2IyYTkyNTU4YjZkMzYwZDc0OThiMTg5Y2JhZTBiNjUxNjMyNTJjNzcyNjVjYQ%3D%3D"
+        },
+        {
+          "label": "STATISTICS ACT 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZhY3Q9ODg3fGU4N2RhY2NkODY2MDVkODNlYWNhODgwNGU2Y2Y3MjgxNGNkNzg0MjViZGEzZTcyMzQ1OWQ5YzQ3YzJlMmEyYTM%3D"
+        },
+        {
+          "label": "THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZhY3Q9ODg2fDUzNjZjNTk5ZWFlNGQzNGQ0OGE4OGNhNGVlYTZiZDJjMjNkYjU0MmViMDMxZGVmMzJlOTkxNGU2NThkZTZmOWQ%3D"
+        },
+        {
+          "label": "NATIONAL TRUST FUND ACT 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZhY3Q9ODg1fGU5NGFiOTYxMTBhOTJjZmE4YTg2ZDAxNWUyYTdiY2FjN2NhZTIxNDljNDBhNmMyNjM2NzA3NjFhZjA0MDg0ODg%3D"
+        },
+        {
+          "label": "Act 887 - STATISTICS ACT 2026 Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026) Act 885 - NATIONAL TRUST FUND ACT 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9b3JpZ2luYWwmbGFuZ3VhZ2U9Qkl8MmRmNDE2MGEzZjY4OGFjZmQyOTIyY2NmNWY5ZGQ1Y2RiMjljNThlZGQwMWI2NGNjYTEzNzEyNGRjZGRjYWM4NA%3D%3D"
+        },
+        {
+          "label": "COMPETITION COMMISSION (AMENDMENT) ACT 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZ0eXBlPWFtZW5kbWVudCZhY3Q9QTE4MDF8NDE2NmVkMGJkYTIxNzZiYTY4NDQzNGVmNGRlM2E5NGNlNDZmMWY0MGUwZGMxOWEzNDc3ODkxMmUwN2U1MDg3Mw%3D%3D"
+        },
+        {
+          "label": "COMPETITION (AMENDMENT) ACT 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZ0eXBlPWFtZW5kbWVudCZhY3Q9QTE4MDB8Y2JjZWE3M2VlYjgzNzkwZDgzNTI4MWRiYjFjOTFjOTc5ZGMyMWRjYWQyMjZkMDA1Y2I0N2QxZDBlYWI3NWVmZQ%3D%3D"
+        },
+        {
+          "label": "MALAYSIAN COMMUNICATIONS AND MULTIMEDIA COMMISSION (AMENDMENT) ACT 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZ0eXBlPWFtZW5kbWVudCZhY3Q9QTE3OTl8MWI5YTFlMzEwNDE1YWM4MTQ2ZTEwNGVlNTU4MDZiZjY4ZThiODhlMDJmYzUyODViNWRmYTgxZTgwYzNiMjQxOQ%3D%3D"
+        },
+        {
+          "label": "Act A1801 - COMPETITION COMMISSION (AMENDMENT) ACT 2026 Act A1800 - COMPETITION (AMENDMENT) ACT 2026 Act A1799 - MALAYSIAN COMMUNICATIONS AND MULTIMEDIA COMMISSION (AMENDMENT) ACT 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9YW1lbmRtZW50Jmxhbmd1YWdlPUJJfGU0NGQyMzUzY2MyNjFmNjk1Njg2OWM2ZDk3YjJiZjQ2ODg4MzBiYzZiMTk0MGJlMDVkOWZhNmU5Y2FmZWQ2OWE%3D"
+        },
+        {
+          "label": "ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzY5LzIwMjZ8NDgyMTEwNDNmNmMwZjgxYmRkNDM5MDY0MjJjZWZiMzFhN2RiMDQ3MGM5NWFlMmEzYjk0OWYwMjViMTA0ODdmYg%3D%3D"
+        },
+        {
+          "label": "COMPANIES (AMENDMENT OF FOURTH SCHEDULE) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzY4LzIwMjZ8MGI5Yjg0MWQ5MjI5NzQ1YTBkOTI0MDBhODVlMzhhYWFkYWFlYzcyMzYxZWVlYTM3NDk1MTdkNzkwMzVhNDkzMw%3D%3D"
+        },
+        {
+          "label": "INCOME TAX (DIVIDEND INCOME RECEIVED IN MALAYSIA FROM OUTSIDE MALAYSIA) (EXEMPTION) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzY3LzIwMjZ8ODhhNmQ0NjU5MTQ5NzY2Mjc1Mzg0ZmNiNjExOTgwOGQ4OGRjNDBlZDVhZjdkMjI1YjViMGNhYWY4MzFjZDhmMg%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 369/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026 P.U. (A) 368/2026 - COMPANIES (AMENDMENT OF FOURTH SCHEDULE) ORDER 2026 P.U. (A) 367/2026 - INCOME TAX (DIVIDEND INCOME RECEIVED IN MALAYSIA FROM OUTSIDE MALAYSIA) (EXEMPTION) ORDER 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+        },
+        {
+          "label": "NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDM4LzIwMjZ8OTRmNjlhYTcxNzVkNTI4NjA1NWE1M2MwYWEzZjgxMzU2NmMzNjQ4OTk2MjE2MzExYTZhZDc5OWNjMjE0MzA0OQ%3D%3D"
+        },
+        {
+          "label": "DECLARATION OF HERITAGE OBJECT (NO. 3) 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDM3LzIwMjZ8OWNmMDVkY2I0YjA0ODg1NjQwNzIwMzQ0MzEyZGJhYTU5ZjU5NTg2YTk3N2FmYTgxNjBhOWQwOTA0NzFmMmI5NQ%3D%3D"
+        },
+        {
+          "label": "NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDM2LzIwMjZ8N2M1ZGQwOGVlYTZjODc4ZmQyNTZjNzFlMzQxMDgzMzU1NTUzNmNhY2JhN2Y5YzZhYWViNjU1ZDg0ZjBmOTk2Yg%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 438/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK P.U. (B) 437/2026 - DECLARATION OF HERITAGE OBJECT (NO. 3) 2026 P.U. (B) 436/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
+        },
+        {
+          "label": "FEDERAL CONSTITUTION",
+          "href": "https://lom.agc.gov.my/federal-constitution.php"
+        },
+        {
+          "label": "P.U. (A) 367/2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzY3LzIwMjZ8ODhhNmQ0NjU5MTQ5NzY2Mjc1Mzg0ZmNiNjExOTgwOGQ4OGRjNDBlZDVhZjdkMjI1YjViMGNhYWY4MzFjZDhmMg%3D%3D"
+        }
+      ],
+      "lines": [
+        "What's New",
+        "Today",
+        "26 Oct",
+        "25 Oct",
+        "24 Oct",
+        "23 Oct",
+        "22 Oct",
+        "21 Oct",
+        "There is no record to display",
+        "P.U. (A)",
+        "P.U. (A) 368/2026 - COMPANIES (AMENDMENT OF FOURTH SCHEDULE) ORDER 2026",
+        "P.U. (A) 369/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026",
+        "P.U. (B)",
+        "P.U. (B) 436/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
+        "P.U. (B) 437/2026 - DECLARATION OF HERITAGE OBJECT (NO. 3) 2026",
+        "P.U. (B) 438/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
+        "Principal Act",
+        "887 - STATISTICS ACT 2026",
+        "Amendment Act",
+        "A1800 - COMPETITION (AMENDMENT) ACT 2026",
+        "A1801 - COMPETITION COMMISSION (AMENDMENT) ACT 2026",
+        "P.U. (B) 433/2026 - NOTICE TO THIRD PARTIES",
+        "P.U. (B) 434/2026 - NOTICE UNDER SECTION 70",
+        "P.U. (B) 435/2026 - NOTICE TO THIRD PARTIES",
+        "P.U. (A) 367/2026 - INCOME TAX (DIVIDEND INCOME RECEIVED IN MALAYSIA FROM OUTSIDE MALAYSIA) (EXEMPTION) ORDER 2026",
+        "P.U. (B) 432/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF SEPTEMBER 2026",
+        "P.U. (A) 364/2026 - NATIONAL HERITAGE (DECLARATION OF LIVING PERSON AS A NATIONAL HERITAGE) ORDER 2026",
+        "P.U. (A) 365/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) ORDER 2026",
+        "P.U. (A) 366/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 2) ORDER 2026",
+        "Act 887 - STATISTICS ACT 2026",
+        "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
+        "Act 885 - NATIONAL TRUST FUND ACT 2026",
+        "See All...",
+        "Act A1801 - COMPETITION COMMISSION (AMENDMENT) ACT 2026",
+        "Act A1800 - COMPETITION (AMENDMENT) ACT 2026",
+        "Act A1799 - MALAYSIAN COMMUNICATIONS AND MULTIMEDIA COMMISSION (AMENDMENT) ACT 2026",
+        "List of P.U. (A)",
+        "List of P.U. (B)",
+        "Top Hit (All Time)",
+        "Views",
+        "Top Hit (Weekly)",
+        "P.U. (A) 367/2026 790",
+        "Act 854 744"
+      ]
+    }
+  ]
+}

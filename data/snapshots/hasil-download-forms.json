@@ -1,22 +1,940 @@
 {
   "check_id": "hasil-download-forms",
-  "url": "https://www.hasil.gov.my/en/borang/muat-turun-borang/",
-  "fetched_at": "2026-10-27T05:51:36.643Z",
+  "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+  "fetched_at": "2026-10-27T06:34:08.900Z",
   "pages": [
     {
-      "url": "https://www.hasil.gov.my/en/borang/muat-turun-borang/",
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
       "title": "Muat Turun Borang Individu",
+      "items": [
+        {
+          "label": "| Business, Employment and Other Income BE, B, BT, M & MT Computation Guide Working Sheets (9.15 MB) Other information Appendices (1.41 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/working_sheet_2.pdf"
+        },
+        {
+          "label": "| Method of payment for tax or balance of tax payable BE, B, BT, M & MT ByrHASiL Payment via https://mytax.hasil.gov.my/ > Perkhidmatan ezHasil > ByrHASiL",
+          "href": "https://byrhasil.hasil.gov.my/"
+        },
+        {
+          "label": "| Business, Employment and Other Income e-M 2025 Non-resident individuals are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is available only in English Language version. Sample Form M 2025 (850.94 KB) M 2025 Explanatory Notes (804.54 KB) Working",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Business, Employment and Other Income Amended Return Form M 2025 (326.13 KB) This form is available only in English Language version. This form can be downloaded and submitted to the HASiL office which handles your income tax file or to the nearest HASiL state office. Guide Notes on Amended Return Form M 2025 (122.72 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_m2025_2.pdf"
+        },
+        {
+          "label": "| Business, Employment and Other Income (Knowledge Worker) e-MT 2025 Non-resident individuals who are knowledge workers are required to furnish their returns via electronic medium or by way of electronic transmission to Lembaga Hasil Dalam Negeri Malaysia. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is available only in English Language version.",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Business, Employment and Other Income (Knowledge Worker) Amended Return Form MT 2025 (314.90 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form MT 2025 (122.72 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_mt2025_2.pdf"
+        },
+        {
+          "label": "| Business, Employment and Other Income (Knowledge Worker / Expert Worker / Non-Citizen Worker Holding Key Position) e-BT 2025 Resident individuals who are knowledge workers / expert workers / non-citizen workers holding key positions are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Business, Employment and Other Income (Knowledge Workers / Expert Workers) Amended Return Form BT 2025 (624.08 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form BT 2025 (142.55 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_bt2025_2.pdf"
+        },
+        {
+          "label": "| Business, Employment and Other Income e-B 2025 Resident individuals who carry on business are required to furnish their returns via electronic medium or by way of electronic transmission to Lembaga Hasil Dalam Negeri Malaysia. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay language version for submission ",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Business, Employment and Other Income Amended Return Form B 2025 (925.22 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form B 2025 (122.35 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_b2025_2.pdf"
+        },
+        {
+          "label": "| Employment and Other Income e-BE 2025 Resident individuals who do not carry on business are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay language version for submission to HASiL office. Sample Form BE ",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Employment and Other Income Amended Return Form BE 2025 (536.53 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form BE 2025 (122.34 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_be2025_2.pdf"
+        }
+      ],
+      "lines": []
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-syarikat/",
+      "title": "Muat Turun Borang Syarikat",
+      "items": [
+        {
+          "label": "| Company e-C 2026 (from 1 April 2026) Companies are required to furnish their returns based on audited financial statements and submit via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via https://mytax.hasil.gov.my/ Sample Company Return Form 2026 and Appendices (1.02 MB) Guidebook ",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Company e-BNT C 2026 (From 1 October 2026) With effect from Year of Assessment 2024, companies are required to furnish their returns via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. Tax agents are required to use the TAeF to submit return form via https://mytax.hasil.gov.my/ Sample Amended Return Form C 2026 and related references are as below: Samp",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "lines": []
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-selain-syarikat-selain-individu/",
+      "title": "Muat Turun Borang Selain Syarikat & Selain Individu",
+      "items": [
+        {
+          "label": "| Business Trust Tax Returns TN TN 2026 Form Printing Requirement (117.80 KB) e-Filing will be the primary method for submission of tax return in the future. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay version for manual submission to LHDNM. TN 2026 Explanatory Notes",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/syaratcetakan_1.pdf"
+        },
+        {
+          "label": "| Real Estate Investment Trust/Property Trust Fund Amended Return Form TR e-ARF TR 2026 For the Year of Assessment 2026, real estate investment trust/property trust fund are required to furnish their Amended Return Form by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Amended Return Form for Real Estate Investment Trust/Property Trust Fund Return Fo",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Real Estate Investment Trust / Property Trust Fund Tax Returns TR e-TR 2026 (from 1 September 2026) Real estate investment trust/property trust fund are required to furnish their Tax Returns by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Real Estate Investment Trust/Property Trust Fund Return Form 2026 and Appendices (986.61 KB) Explanatory Note",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Unit Trust/Property Trust Tax Returns TC e-TC 2026 (From 1 July 2026) Unit Trust/Property Trust are required to furnish their Tax Returns by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample Unit Trust/Property Trust Return Form 2026 and Appendices Explanatory Notes TC 2026",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Trust Body Amended Tax Returns TA ARF TA 2026 (726.16 KB) (From 15 December 2026) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes of Amended R",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/arf_ta2026_2-1.pdf"
+        },
+        {
+          "label": "| Trust Body Tax Returns TA e-TA 2026 (from 1 August 2026) Trust bodies are required to furnish their Tax Returns by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Trust Body Return Form 2026 and Appendices (705.32 KB) TA 2026 Explanatory Notes (1.20 MB)",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Limited Liability Partneship Amended Return Form PT ARF PT 2026 (811.40 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes Amended Return For",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ARF-PT-2026_2.pdf"
+        },
+        {
+          "label": "| Limited Liability Partnership Tax Returns PT e-PT 2026 (From 1st May 2025) LLP are required to submit their Tax Returns via electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Limited Liability Partnership Return Form 2026 & Appendices (830.84 KB) PT 2026 Explanatory Notes (2.12 MB)",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Co-operative society Amended Return Form C1 ARF C1 2026 (884.72 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (ITRF) as stipulated on the LHDNM Portal. Guide Notes Amended Return Form C1",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ARF-C1-2026_2.pdf"
+        },
+        {
+          "label": "| Co-operative society Tax Returns C1 e-C1 2026 (from 1 August 2026) Co-operative societies are required to furnish their Tax Returns by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Co-Operative Society Return Form 2026 and Appendices (1.32 MB) Guidebook C1 2026 (5.49 MB)",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "lines": []
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-majikan/",
+      "title": "Muat Turun Borang Majikan",
+      "items": [
+        {
+          "label": "| Employer e-E 2025 e-Data Praisi / e-CP8D With effect from Year of Remuneration 2023, employer of all categories is mandatory to submit Form E (e-E) and C.P.8D via online. Tax agents are required to submit Form e-E through Tax Agent e-Filing System (TAeF) version 2.0 via MyTax Portal: https://mytax.hasil.gov.my/ Samples of Form E, C.P.8D and related references are as below: Sample of Form E 2025 ",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "lines": []
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-duti-setem/",
+      "title": "Muat Turun Borang Duti Setem",
+      "items": [
+        {
+          "label": "| Borang Nyata Duti Setem Penyeteman Surat Cara Sewa / Pajakan di Bawah Seksyen 35A Akta Setem 1949 Borang PDS 15 - Sewa / Pajakan (241.79 KB) Nota Penerangan Borang PDS 15 – Penyeteman Surat Cara Sewa / Pajakan (253.44 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-pds-15_sewa-pajakan.pdf"
+        },
+        {
+          "label": "| Borang Nyata Duti Setem Penyeteman Surat Cara Sekuriti di Bawah Seksyen 35A Akta Setem 1949 Borang PDS 15 - Sekuriti (153.36 KB) Nota Penerangan Borang PDS 15 – Penyeteman Surat Cara Sekuriti (211.45 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-pds-15_sekuriti.pdf"
+        },
+        {
+          "label": "| Borang Nyata Duti Setem Penyeteman Surat Cara Am di Bawah Seksyen 35A Akta Setem 1949 Borang PDS 15 - Am (157.36 KB) Nota Penerangan Borang PDS 15 – Penyeteman Surat Cara Am (203.96 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-pds-15_am.pdf"
+        }
+      ],
+      "lines": []
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-tuntutan-galakan/",
+      "title": "Muat Turun Borang Tuntutan Galakan",
+      "items": [
+        {
+          "label": "| Claim For Reinvestment Allowance (RA) For The Qualifying Project Under Schedule 7A, Income Tax Act 1967 Gross Domestic Product (1998 - 2004) Industrial Production Growth Rates for Manufacturing Sector Year Assessment 2005 - 2007 Industrial Productivity Rate For Manufacturing Sector (2008 GDP 1998-2004 (10.95 KB) KPPP 2005 (11.39 KB) KPPP 2006 (3.66 KB) KPPP 2007 (3.66 KB) KPTI 2008 (7.39 KB) GDP",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GDP_1.pdf"
+        },
+        {
+          "label": "| Deduction For Promotion Of Exports Provided Under Section 41 Promotion Of Investments Act 1986 And Income Tax (Deduction For Promotion Of Of Exports) Rules 2002 [P.U. (A) 115/2002] And (Deduction For Promotion Of Exports) Rules 2007 [P.U. (A) 14/2007] Form LHDN/BT/DD/POE/2020 (688.74 KB) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LHDN_BT_DD_POE_2020_1.pdf"
+        },
+        {
+          "label": "| Deduction Under Income Tax (Deduction For Overseas Expenses For Promotion Of Tourism) Rules 1991 [P. U. (A) 412/1991] And (Deduction For Overseas Expenses For Promotion Of Tourism) (Amendment) Rules 2003 [P. U. (A) 263/2003] Form LHDN/BT/DD/POT/2020 (689.06 KB) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LHDN_BT_DD_POT_2020_1.pdf"
+        },
+        {
+          "label": "| Exemption Of Income For The Value Of Increased Exports Of Services Under Income Tax (Exemption) (No.2) Order 2001 [P.U. (A) 154/2001] And (Exemption) (No.9) Order 2002 [P.U. (A) 57/2002] And (Exemption) (Amendment) Order 2006 [P.U. (A) 275/2006] Form LHDN/BT/EX/AIES/2020 (615.79 KB) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LHDN_BT_EX_AIES_2020_1.pdf"
+        },
+        {
+          "label": "| Exemption Of Income For The Value Of Increased Exports Under Income Tax (Exemption) (No.7) Order 2019 [P.U. (A) 163/2019] Form LHDN/BT/EX/S1/2020-3 (611.32 KB) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LHDN_BT_EX_S1_2020_3_1.pdf"
+        },
+        {
+          "label": "| Exemption Of Income For The Value Of Increased Exports Under Income Tax (Exemption) (No.6) Order 2019 [P.U. (A) 162/2019] (Replacing Income Tax (Allowance For Increased Exports) Rules 1999 [P.U. (A) 128/1999] And (Allowance For Increased Exports) (Amendment) Rules 2003 [P.U. (A) 309/2003]) Form LHDN/BT/EX/S1/2020-2 (613.66 KB) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LHDN_BT_EX_S1_2020_2_1.pdf"
+        },
+        {
+          "label": "| Exemption Of Income For The Value Of Increased Exports Under Income Tax (Exemption) (No.5) Order 2019 [P.U. (A) 161/2019] (Replacing Income Tax (Exemption) (No.17) Order 2005 [P.U. (A) 158/2005] ) Form LHDN/BT/EX/S1/2020-1 (611.49 KB) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LHDN_BT_EX_S1_2020_1_1.pdf"
+        },
+        {
+          "label": "| Deduction Under Income Tax (Deduction For Advertising Expenditure On Malaysian Brand Name Goods) Rules 2002 [P.U. (A) 62/2002]; And Deduction Under Income Tax (Deduction For Advertising Expenditure On Malaysian Brand Name Goods) (Amendment) Rules 2007 [P.U. (A) 171/2007] Form LHDN/BT/DD/BNG/2020 (689.82 KB) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LHDN_BT_DD_BNG_2020_1.pdf"
+        },
+        {
+          "label": "| Deduction Under Income Tax (Deduction For Promotion Of Export Of Services) Rules 1999 [P. U. (A) 114/1999], (Deduction For Promotion Of Export Of Services) (Amendment) Rules 2003 [P. U. (A) 262/2003] And (Deduction For Promotion Of Export Of Services) (Amendment) Rules 2005 [P. U. (A) 271/2005] (Deduction For Promotion Of Export Of Services) Rules 2002 [P. U. (A) 114/2002] And (Deduction For Pro",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LHDN_BT_DD_POE_S_2020_1.pdf"
+        },
+        {
+          "label": "| Promotion Of Investments Act 1986 Deduction Under Income Tax (Promotion Of Exports) (Amendment) Rules 2001 [P.U.(A) 170/2001] (Professional Fees Incurred For Packaging Design) Form LHDN/BT/DD/POE/PD/2020 (593.76 KB) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LHDN_BT_DD_POE_PD_2020_1.pdf"
+        },
+        {
+          "label": "| Single Deduction For Promotion Of Exports Under Income Tax (Deduction For Promotion Of Exports) (No.2) Rules 2002 [P.U. (A) 116/2002], (Deduction For Promotion Of Exports) (No.3) Rules 2002 [P.U. (A) 116/2002] And (Deduction For Promotion Of Exports) Rules 2007 [P.U. (A) 14/2007] Form LHDN/BT/SD/POE/2020 (576.75 KB) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LHDN_BT_SD_POE_2020_1.pdf"
+        },
+        {
+          "label": "| Deduction Under Income Tax (Deduction For Promotion Of Export Of Professional Services) Rules 2003 [P. U. (A) 124/2003] And (Deduction For Promotion Of Export Of Professional Services) (Amendment) Rules 2005 [P. U. (A) 270/2005] Form LHDN/BT/DD/POE/PS/2020 (641.35 KB) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LHDN_BT_DD_POE_PS_2020_1.pdf"
+        },
+        {
+          "label": "| Deduction Under Income Tax (Deductions For Promotion Of Export Of Higher Education) Rules 2001 [P.U. (A) 185/2001] And (Deductions For Promotion Of Export Of Higher Education) (Amendment) Rules 2003 [P.U. (A) 261/2003] Form LHDN/BT/DD/POE/HE/2020 (642.62 KB) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LHDN_BT_DD_POE_HE_2020_1.pdf"
+        },
+        {
+          "label": "| Calculation of Process Efficiency (PE) Calculation (PE) (19.67 KB) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CALCULATIONPE_2.pdf"
+        }
+      ],
+      "lines": []
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-ckht/",
+      "title": "Muat Turun Borang CKHT",
+      "items": [
+        {
+          "label": "| Borang Kuasa Pemfailan Borang Secara Elektronik (CKHT 57A) CKHT57A (82.08 KB) Peguam perlu mendapatkan surat lantikan pembayar cukai menggunakan Borang Kuasa Pemfailan Borang Secara Elektronik (Borang CKHT 57A) sebelum memohon peranan peguam di MyTax. Borang CKHT 57A ini hendaklah disimpan dan dikemukakan ke LHDNM sekiranya diminta.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ckht-57a-surat-kuasa-lantikan-peguam.pdf"
+        },
+        {
+          "label": "| Pemerolehan Harta Tanah / Syer Dalam Syarikat Harta Tanah e-CKHT (Mandatori mulai 01 Januari 2025) Borang ini diisi oleh pemeroleh. Mulai 01 Januari 2025, pemeroleh hendaklah mengemukakan Borang CKHT melalui e-CKHT di MyTax ke LHDNM di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Man",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pelupusan Harta Tanah / Syer Dalam Syarikat Harta Tanah e-CKHT (Mandatori mulai 01 Januari 2025) Borang ini diisi oleh pelupus. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT melalui e-CKHT di MyTax ke LHDNM di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Manual Pe",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Borang Kuasa Pemfailan Borang Secara Elektronik (CKHT 57A) CKHT57A (82.08 KB) Peguam perlu mendapatkan surat lantikan pembayar cukai menggunakan Borang Kuasa Pemfailan Borang Secara Elektronik (Borang CKHT 57A) sebelum memohon peranan peguam di MyTax. Borang CKHT 57A ini hendaklah disimpan dan dikemukakan ke LHDNM sekiranya diminta.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/6-contoh-borang-ckht-57a.pdf"
+        },
+        {
+          "label": "| Bayaran di Bawah Seksyen 21B ACKHT 1976 (CKHT 502) e-CKHT 502 (Mandatori bagi pelupusan sehingga 31 Disember 2024) Diisi oleh pemeroleh bagi tujuan pembayaran di bawah seksyen 21B ACKHT 1976. Pemeroleh hendaklah mengemukakan Slip Bayaran CKHT 502 bagi pelupusan sehingga 31 Disember 2024 secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan P",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pemberitahuan di Bawah Seksyen 13(6) Pengecualian / Pelupusan Tidak Dikenakan Cukai e-CKHT 3 (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pelupus dan dikemukakan bersama-sama Borang CKHT 1A atau CKHT 1B. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT 3 bersama-sama Borang CKHT 1A atau 1B secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pemerolehan Harta Tanah atau Syer Tertakluk Kepada ACKHT 1976 e-CKHT 2A (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pemeroleh bagi pelaporan pemerolehan aset tertakluk kepada ACKHT 1976 dan menjana Nombor Bil bagi tujuan pembayaran di bawah seksyen 21B ACKHT 1976. Mulai 01 Januari 2025, pemeroleh hendaklah mengemukakan Borang CKHT 2A secara secara dalam talian melalui e-CKHT di",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pelupusan Syer Tertakluk Kepada ACKHT 1976 e-CKHT 1B (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pelupus. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT 1B secara secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pelupusan Harta Tanah e-CKHT 1A (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pelupus. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT 1A secara secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Manual Penggu",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Bayaran di Bawah Seksyen 21B ACKHT 1976 e-CKHT 502 (Mandatori bagi pelupusan sehingga 31 Disember 2024) Diisi oleh pemeroleh bagi tujuan pembayaran di bawah seksyen 21B ACKHT 1976. Pemeroleh hendaklah mengemukakan Slip Bayaran CKHT 502 bagi pelupusan sehingga 31 Disember 2024 secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan Peranan Pegu",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pindaan Syer Tertakluk Kepada ACKHT 1976 e-BNT CKHT 1B (Mandatori mulai Tahun 2025) Pelupus yang melupuskan aset mulai 01 Januari 2025 boleh mengemukakan Borang Nyata Terpinda secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax https://mytax.hasil.gov.my • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasi",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/mytax.hasil.gov.my"
+        },
+        {
+          "label": "| Pindaan Pelupusan Harta Tanah e-BNT CKHT 1A (Mandatori mulai Tahun 2025) Pelupus yang melupuskan aset mulai 01 Januari 2025 boleh mengemukakan Borang Nyata Terpinda secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax https://mytax.hasil.gov.my • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ N",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/mytax.hasil.gov.my"
+        },
+        {
+          "label": "| Borang Kuasa Pemfailan Borang Secara Elektronik (CKHT 57A) CKHT57A (82.08 KB) Peguam perlu mendapatkan surat lantikan pembayar cukai menggunakan Borang Kuasa Pemfailan Borang Secara Elektronik (Borang CKHT 57A) sebelum memohon peranan peguam di MyTax. Borang CKHT 57A ini hendaklah disimpan dan dikemukakan ke LHDNM sekiranya diminta.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/5-contoh-borang-ckht-57a.pdf"
+        },
+        {
+          "label": "| Pelupusan Syer Tertakluk Kepada ACKHT 1976 e-CKHT 1B (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pelupus. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT 1B secara secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax• Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.go",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pelupusan Harta Tanah e-CKHT 1A (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pelupus. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT 1A secara secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax• Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh Borang C",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pindaan Syer Tertakluk Kepada ACKHT 1976 e-BNT CKHT 1B Pelupus yang melupuskan aset mulai 01 Januari 2026 boleh mengemukakan Borang Nyata Terpinda secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax https://mytax.hasil.gov.my • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh BNT CKHT 1B ",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pindaan Pelupusan Harta Tanah e-BNT CKHT 1A Pelupus yang melupuskan aset mulai 01 Januari 2026 boleh mengemukakan Borang Nyata Terpinda secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax https://mytax.hasil.gov.my • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh BNT CKHT 1A dan panduan",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pemberitahuan di Bawah Seksyen 13(6) Pengecualian / Pelupusan Tidak Dikenakan Cukai e-CKHT 3 Borang ini perlu diisi oleh pelupus dan dikemukakan bersama-sama Borang CKHT 1A atau CKHT 1B. • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh Borang CKHT 3 dan panduan pengisian seperti di bawah: • Contoh Borang CKH",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pemerolehan Harta Tanah atau Syer Tertakluk Kepada ACKHT 1976 e-CKHT 2A Borang ini perlu diisi oleh pemeroleh bagi pelaporan pemerolehan aset tertakluk kepada ACKHT 1976 dan menjana Nombor Bil bagi tujuan pembayaran di bawah seksyen 21B ACKHT 1976. • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh Borang CKHT",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pelupusan Syer Tertakluk Kepada ACKHT 1976 e-CKHT 1B Borang ini perlu diisi oleh pelupus. • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh Borang CKHT 1B dan panduan pengisian seperti di bawah: • Contoh Borang CKHT 1B 2026 (229.05 KB) • Nota Panduan Borang CKHT 1B 2026 (316.96 KB)",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pelupusan Harta Tanah e-CKHT 1A Borang ini perlu diisi oleh pelupus. • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh Borang CKHT 1A dan panduan pengisian seperti di bawah: • Contoh Borang CKHT 1A 2026 (322.10 KB) • Nota Panduan Borang CKHT 1A 2026 (326.84 KB)",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "lines": []
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-cukai-pegangan/",
+      "title": "",
+      "error": "page.waitForNavigation: net::ERR_CONNECTION_RESET\n=========================== logs ===========================\nwaiting for navigation until \"domcontentloaded\"\n============================================================",
       "items": [],
-      "lines": [
-        "Skip to content",
-        "Download Forms",
-        "Individual",
-        "Category",
-        "-- Select --",
-        "Year",
-        "Search"
-      ]
+      "lines": []
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-pendaftaran/",
+      "title": "Muat Turun Borang Pendaftaran",
+      "items": [
+        {
+          "label": "| Association e-Daftar From 1 January 2024, a new application for registration of Tax Identification Number (TIN) for Association must be made online through the e-Daftar application at MyTax. Registration Form for Association (Restricted Use Only): Form CP600F [Pin.1/2020] (219.84 KB) Business Codes (448.34 KB)",
+          "href": "https://mytax.hasil.gov.my/ezHasil?data=e-Daftar&id=ezHasil%20sebelum"
+        },
+        {
+          "label": "| Business Trust e-Daftar From 1 January 2024, a new application for registration of Tax Identification Number (TIN) for Business Trust must be made online through the e-Daftar application at MyTax. Sample of Registration Form for Business Trust: Form CP600TN [Pin.1/2020] (178.14 KB) Business Codes (448.34 KB)",
+          "href": "https://mytax.hasil.gov.my/ezHasil?data=e-Daftar&id=ezHasil%20sebelum"
+        },
+        {
+          "label": "| Co-Operative Society e-Daftar From 1 January 2024, a new application for registration of Tax Identification Number (TIN) for Co-operative Society must be made online through the e-Daftar application at MyTax. Sample of Registration Form for Co-operative Society: Form CP600CS [Pin.1/2020] (201.63 KB) Business Codes (448.34 KB)",
+          "href": "https://mytax.hasil.gov.my/ezHasil?data=e-Daftar&id=ezHasil%20sebelum"
+        },
+        {
+          "label": "| Company e-Daftar From 1 January 2024, a new application for registration of Tax Identification Number (TIN) for Company must be made online through the e-Daftar application at MyTax. Sample of Registration Form for Company: Form CP600C [Pin.1/2020] (181.98 KB) Business Codes (448.34 KB)",
+          "href": "https://mytax.hasil.gov.my/ezHasil?data=e-Daftar&id=ezHasil%20sebelum"
+        },
+        {
+          "label": "| Deceased Person'S Estate Form CP57 (223.71 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_CP57_1.pdf"
+        },
+        {
+          "label": "| Employer e-Daftar From 1 January 2024, a new application for registration of Tax Identification Number (TIN) for Employer must be made online through the e-Daftar application at MyTax. Sample of Registration Form for Employer: Form CP600E [Pin.1/2020] (210.01 KB)",
+          "href": "https://mytax.hasil.gov.my/ezHasil?data=e-Daftar&id=ezHasil%20sebelum"
+        },
+        {
+          "label": "| Individual e-Daftar From 1 January 2023, the Tax Identification Number (TIN) for individual citizens and permanent residents aged 18 and above will be automatically registered. How to check the registered TIN (375.97 KB) From 1 January 2024, a new application for registration of Tax Identification Number (TIN) for Individual must be made online through the e-Daftar application at MyTax. Sample o",
+          "href": "https://mytax.hasil.gov.my/ezHasil?data=e-Daftar&id=ezHasil%20sebelum"
+        },
+        {
+          "label": "| Labuan Entity Borang CP600LE (438.94 KB) This form can be downloaded and submitted to : Lembaga Hasil Dalam Negeri Malaysia Seksyen Antarabangsa Labuan Tingkat 1, Aras Podium Kompleks Ujana Kewangan Jalan Merdeka 87000 Wilayah Persekutuan Labuan",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_Daftar_EntitiLabuan_1.pdf"
+        },
+        {
+          "label": "| Limited Liability Partnership e-Daftar TFrom 1 January 2024, a new application for registration of Tax Identification Number (TIN) for Limited Liability Partnership must be made online through the e-Daftar application at MyTax. Sample of Registration Form for Limited Liability Partnership: Form CP600PT [Pin.1/2020] (185.39 KB) Business Codes (448.34 KB)",
+          "href": "https://mytax.hasil.gov.my/ezHasil?data=e-Daftar&id=ezHasil%20sebelum"
+        },
+        {
+          "label": "| Non-Resident Public Entertainer And Foreign Visitors Form CP600FA (1.45 MB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia Guide Notes (344.43 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang_cp600fa_final.pdf"
+        },
+        {
+          "label": "| Partnership e-Daftar From 1 January 2024, a new application for registration of Tax Identification Number (TIN) for Partnership must be made online through the e-Daftar application at MyTax. Sample of Registration Form for Partnership: Form CP600D [Pin.1/2020] (204.02 KB) Business Codes (448.34 KB)",
+          "href": "https://mytax.hasil.gov.my/ezHasil?data=e-Daftar&id=ezHasil%20sebelum"
+        },
+        {
+          "label": "| Petroleum Form CP600CPP (208.18 KB) This form can be downloaded and submitted to : Lembaga Hasil Dalam Negeri Malaysia Cawangan Industri Khusus Blok 8, Tingkat 11 - 13 Kompleks Bangunan Kerajaan, Jalan Tuanku Abdul Halim 50600 Kuala Lumpur Business Codes (448.34 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/form-cp600cpp.pdf"
+        },
+        {
+          "label": "| Trust Body / Unit Trust / Property Trust / Real Estate Investment Trust / Property Trust Fund e-Daftar From 1 January 2024, a new application for registration of Tax Identification Number (TIN) for Trust Body / Unit Trust / Property Trust / Real Estate Investment Trust / Property Trust Fund must be made online through the e-Daftar application at MyTax. Sample of Registration Form for Trust Body ",
+          "href": "https://mytax.hasil.gov.my/ezHasil?data=e-Daftar&id=ezHasil%20sebelum"
+        }
+      ],
+      "lines": []
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-lain-lain-borang/",
+      "title": "Muat Turun Borang Lain-lain Borang",
+      "items": [
+        {
+          "label": "| Non-Resident Public Entertainer and Foreign Visitors Form CP600FA (1.45 MB) This form replaces Form Perfoma B and Form NR/R/PS1. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia Guide Notes (344.43 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-cp600fa.pdf"
+        },
+        {
+          "label": "| Statement of Monetary and Non-Monetory Incentive Payment to An Agent, Dealer or Distributor Pursuant to Section 83A of the Income Tax Act 1967 Form CP58 (In pdf format) (223.53 KB) Form CP58 (In Excel format) (28.23 KB) This form can be downloaded and can be used (In pdf & Excel format) Guide Notes on Filling out Form CP58 (323.68 KB) (Please refer to IRBM's Press Release) (539.86 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_CP58_Pin_012022_1.pdf"
+        },
+        {
+          "label": "| Notification of The Demise of Taxpayer Form CP57 (223.71 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_CP57_1.pdf"
+        },
+        {
+          "label": "| Notification of New Employee e-CP22 TFrom 1 September 2024, notification of new employee is mandatory to be submitted online through MyTax portal using e-CP22 application. Tax agents are required to submit e-CP22 through TAef 2.0 via https://mytax.hasil.gov.my/ Sample Form CP22 [Pin.1/2021] (171.48 KB)",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| CP22B - Tax Clearance Form For Cessation Of Employment / Termination Of Employment / Cessation By Reason Of Death Of Public Sector Employees e-SPC Tax clearance letter application for individual must be submitted through the e-SPC application on the MyTax Portal. From 1 September 2024, notice on amendment or addition is MANDATORY to be submitted through e-SPC. Notice on CANCELLATION can be submi",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| CP 22A - Tax Clearance Form for Cessation of Employment of Private Sector Employees e-SPC Tax clearance letter application for individual must be submitted through the e-SPC application on the MyTax Portal. From 1 September 2024, notice on amendment or addition is MANDATORY to be submitted through e-SPC. Notice on CANCELLATION can be submitted manually to the HASiL office that handles the employ",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| CP21 - Notification by Employer of Departure from the Country of an Employee e-SPC Tax clearance letter application for individual must be submitted through the e-SPC application on the MyTax Portal. From 1 September 2024, notice on amendment or addition is MANDATORY to be submitted through e-SPC. Notice on CANCELLATION can be submitted manually to the HASiL office that handles the employee's fi",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Permohonan untuk Lanjutan Tempoh bagi membuat rayuan kepada Pesuruhjaya Khas Cukai Pendapatan (Kes Cukai Aktiviti Perniagaan Labuan) Form LBATA 15 - 2025 (84.00 KB) Borang ini boleh dimuat turun dan diguna pakai",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lbata-15-2025-borang-n-lbata.pdf"
+        },
+        {
+          "label": "| Application For Extension of Time For Appeal To The Special Commisioners of Income Tax (Withholding Tax) Form CP 15E - Amend. 1/2025 (81.24 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp-15e-pin-1-2025-borang-n-acp-wht.pdf"
+        },
+        {
+          "label": "| Application For Extension of Time For Appeal To The Special Commisioners of Petroleum Income Tax Form CP 136 - Amend. 1/2025 (85.23 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp-136-pin-1-2025-borang-n-pita.pdf"
+        },
+        {
+          "label": "| Application for Extension of Period for Making an Appeal to The Special Commissioners of Income Tax (Real Property Gains Tax Act 1976) Form CKHT 17 - Amend. 1/2025 (82.46 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ckht-17-pin-1-2025-borang-n-ackht.pdf"
+        },
+        {
+          "label": "| Application for Extension of Period for Making an Appeal to The Special Commissioners of Income Tax (Income Tax Act 1967) Form CP 15 - Amend. 1/2025 (82.58 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp-15-pin-1-2025-borang-n-acp.pdf"
+        },
+        {
+          "label": "| Statement of Remuneration from Employment - Private Sector Form C.P.8A (EA) (372.82 KB) This form is only for viewing. Guide Notes for Forms EA & EC (961.19 KB) Notes for Part F of Form EA (342.07 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang_ea__c.p.8a_-_pin._2023_.pdf"
+        },
+        {
+          "label": "| Statement of Remuneration from Employment - Public Sector Form C.P.8C (EC) (270.75 KB) This form is only for viewing. Guide Notes for Forms EA & EC (961.19 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang_ec__c.p._8c_-_pin._2023_.pdf"
+        },
+        {
+          "label": "| Company/Co-operative/Trust Body tax amendment form for 5th or 9th amendment e-CP204A Companies, Limited Liability Partnership, Trust Body, and Co-Operative Society are required to furnish their tax amendment form through the e-CP204A application on the MyTax Portal.",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Company/Co-operative/Trust Body tax estimation form e-CP204 Companies, Limited Liability Partnership, Trust Body, and Co-Operative Society are required to furnish their tax estimate form through the e-CP204 application on the MyTax Portal.",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Notification of Change in Accounting Period by a Company/Limited Liability Partnership/Co-operative Society/Trust Body e-CP204B Companies, limited liability partnerships, trust bodies and co-operative societies are encouraged to furnish their notification of change in accounting period through e-CP204B at MyTax Portal. e-Filing will be the primary method for submission of Form CP204B in the futu",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Petroleum Form CP250 (270.09 KB) Form CP251 *NEW FORMS CP250 & CP 251 WILL TAKE EFFECT FROM JUNE 2018 (359.02 KB) Available in Malay Language only. This form can be downloaded and submitted to: Lembaga Hasil Dalam Negeri Malaysia Special Industry Branch, Tingkat 11-13, Blok 8 Kompleks Bangunan Kerajaan, Jalan Tuanku Abdul Halim 50600 Kuala Lumpur",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CP250_2018.pdf"
+        },
+        {
+          "label": "| Petroleum Form CP250 (126.63 KB) Form CP251 (269.83 KB) Available in Malay Language only. This form can be downloaded and submitted to: Lembaga Hasil Dalam Negeri Malaysia Special Industry Branch, Tingkat 11-13, Blok 8 Kompleks Bangunan Kerajaan, Jalan Tuanku Abdul Halim 50600 Kuala Lumpur",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CP250_PIN2015.pdf"
+        },
+        {
+          "label": "| Remittance Slip for Companies / Co-operative Societies / Trust Bodies Form CP207 (30.39 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CP207_Pin2010_2.pdf"
+        },
+        {
+          "label": "| Notis Rayuan kepada Pesuruhjaya Khas Cukai Pendapatan (Kes Cukai Aktiviti Perniagaan Labuan) Borang LBATA 14 - 2025 (86.44 KB) Borang ini boleh dimuat turun dan diguna pakai",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lbata-14-2025-borang-q-lbata.pdf"
+        },
+        {
+          "label": "| Notice of Appeal to The Special Commissioners of Income Tax under Section 109H Income Tax Act 1967 (Withholding Tax) Form CP 15D - Amend. 1/2025 (84.34 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp-15d-pin-1-2025-borang-q-acp-wht.pdf"
+        },
+        {
+          "label": "| Notice of Appeal to the Special Commisioners of Petroleum Income Tax Form CP 135 - Amend. 1/2025 (88.09 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp-135-pin-1-2025-borang-q-pita.pdf"
+        },
+        {
+          "label": "| Notice of Appeal to the Special Commissioners of Income Tax (Real Property Gains Tax Act 1976) Form CKHT 18 - Amend. 1/2025 (84.96 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ckht-18-pin-1-2025-borang-q-ackht.pdf"
+        },
+        {
+          "label": "| Notice of Appeal to the Special Commissioners of Income Tax (Income Tax Act 1967) Form CP 14 - Amend. 1/2025 (85.93 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp-14-pin-1-2025-borang-q-acp.pdf"
+        },
+        {
+          "label": "| Employer's Statement on Payment of Tax Form PCB 2(II) (Pin.2012) (10.32 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/PCB2II_Pin2012_2.pdf"
+        },
+        {
+          "label": "| Monthly Tax Deduction (MTD) - Form regarding Claim of Deduction and Rebate by Individual Form PCB/TP1 (148.89 KB) Available in Malay language only. This form can be downloaded and submitted to the employer. Explanatory Notes MTD/TP1 (553.67 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/bi-tp1-form-2026.pdf"
+        },
+        {
+          "label": "| Form of Information Related to Employment with Previous Employer Form PCB/TP3 (169.77 KB) Available in Malay language only. This form can be downloaded and submitted to the employer. Explanatory Notes MTD/TP3 (551.93 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/bi-tp3-form-2026.pdf"
+        },
+        {
+          "label": "| Notification of Change in Address Form CP600B (128.56 KB) e-Kemaskini MyTax Individual and company taxpayers are required to submit a Notification of Change in Address online via electronic medium through e-Kemaskini on the MyTax Portal.Taxpayers other than individuals and companies are still allowed to submit Notification of Change in Address using Form CP600B until e-Kemaskini is extended or p",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp600b-pin1-tahun-2024.pdf"
+        },
+        {
+          "label": "| Option Form to Disregard the 108 Balance / Revised 108 Balance pursuant to Section 50 of the Saving and Transitional Provisions of Finance Act 2007 (Act 683) Form R50 (36.57 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/R50_2.pdf"
+        },
+        {
+          "label": "| e-Filing PIN Number Application Form for Tax Agent Firm Form CP55A [1/2008] (In pdf format) (18.15 KB) Form CP55A [1/2008] (In Excel format) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia (In pdf and Excel format).",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CP55A_Pin2008_2.pdf"
+        },
+        {
+          "label": "| Authority to File Return Electronically - Declaration by Taxpayer Form CP55 [1/2019] (238.20 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CP55_Pin2019.pdf"
+        },
+        {
+          "label": "| Group Relief Form for Claimant Company Form C (RK-T) [Amend. 2023] (115.44 KB) This form is only for viewing.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/c_rkt_2.pdf"
+        },
+        {
+          "label": "| Group Relief Form for Claimant Business Trust Form TN (RK-T) [2023] (163.06 KB) This form is only for viewing. Please use the Malay language version for submission to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/tn_rkt_2.pdf"
+        },
+        {
+          "label": "| Group Relief Form for Surrendering Company Form C (RK-S) [Amend. 2023] (115.40 KB) This form is only for viewing.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/c_rks_2.pdf"
+        },
+        {
+          "label": "| Group Relief Form for Surrendering Business Trust Form TN (RK-S) [2023] (163.12 KB) This form is only for viewing. Please use the Malay language version for submission to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/tn_rks_2.pdf"
+        },
+        {
+          "label": "| Form for Chargeable Person who Surrenders Qualifying Exploration Expenditure under Paragraph 3A Schedule 1 of the Petroleum (Income Tax) Act 1967 Form PEL-S (2013) (102.28 KB) This form is only for viewing. Please use the Malay language version for submission to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Brg_PEL_S_2.pdf"
+        },
+        {
+          "label": "| Form for Claiming Qualifying Exploration Expenditure under Paragraph 3A Schedule 1 of the Petroleum (Income Tax) Act 1967 Form PEL-T (2013) (102.13 KB) This form is only for viewing. Please use the Malay language version for submission to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Brg_PEL_T_2.pdf"
+        },
+        {
+          "label": "| Application to the Director General of Inland Revenue for Relief in respect of Error or Mistake Form CP 15C - Amend. 1/2026 (127.03 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp-15c-pin-1-2026-borang-permohonan-relif-acp-s131.pdf"
+        },
+        {
+          "label": "| Application to the Director General of Inland Revenue for Relief in respect of other than Error or Mistake Form CP 15F - Amend. 1/2026 (125.72 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp-15f-pin-1-2026-borang-permohonan-relif-acp-131a.pdf"
+        },
+        {
+          "label": "| Permohonan Relif kepada Ketua Pengarah Hasil Dalam Negeri berkaitan kesalahan atau kesilapan di bawah Akta Cukai Keuntungan Harta Tanah 1976 Form CKHT 15H – 1/2026 (102.12 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ckht-15h-1-2026-borang-permohonan-relif-seksyen-19-ackht-1976-pin2026.pdf"
+        },
+        {
+          "label": "| Permohonan Relif kepada Ketua Pengarah Hasil Dalam Negeri berkaitan selain daripada kesalahan atau kesilapan di bawah Akta Cukai Keuntungan Harta Tanah 1976 Form CKHT 15J – 1/2026 (102.36 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ckht-15j-1-2026-borang-permohonan-relif-seksyen-19a-ackht-1976-pin2026.pdf"
+        },
+        {
+          "label": "| Request form to forward the relief application to The Special Commissioner of Petroleum Income Tax Form CP.136A – 1/2022 (115.39 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/BORANG_RF_CP_136A_1_2022_1.pdf"
+        },
+        {
+          "label": "| Request form to forward the relief application to The Special Commissioner of Income Tax Form CP.15G – 1/2022 (113.79 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/BORANG_RF_CP_15G_1_2022_1.pdf"
+        },
+        {
+          "label": "| Borang Permintaan Kepada Pesuruhjaya Khas Cukai Pendapatan di bawah Akta Cukai Keuntungan Harta Tanah 1976 (Permohonan Relif) Form CKHT 15K – 1/2026 (106.00 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-ckht-15k-1-2026.pdf"
+        },
+        {
+          "label": "| Application Form of Tax Clearance Letter for Dissolution by Strike Off e-SPC (314.79 KB) Applications for Tax Clearance Letter (TCL) for company must be submitted online via the e-SPC application in MyTax. Sample of Form CP7 : Form CP7 (155.28 KB) Appendix 3A (128.43 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp7_syarikat_2.pdf"
+        },
+        {
+          "label": "| Application Form of Tax Clearance Letter for Dissolution (other than Strike-Off) e-SPC Applications for Tax Clearance Letter (TCL) for company must be submitted online via the e-SPC application in MyTax.",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Application form of Tax Clearance Letter for Limited Liability Partnership e-SPC Applications for Tax Clearance Letter (TCL) for limited liability partnership must be submitted online via the e-SPC application in MyTax. Sample of Form CP7(PT): Form CP7(PT) (124.16 KB) Appendix 3B (63.20 KB)",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Application Form of Tax Clearance Letter for Labuan Entity Form CP7(LE) (163.39 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia. Appendix 3C (157.48 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp7_le_2.pdf"
+        },
+        {
+          "label": "| Application Form for Unilateral Advance Pricing Arrangement Form APA 1 [Pin. 1/2020] (926.20 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/APA1_Amend1of2020.pdf"
+        },
+        {
+          "label": "| Application Form for Bilateral Advance Pricing Arrangement Form APA 2 [Pin. 1/2020] (258.78 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/APA2_Amend1of2020.pdf"
+        },
+        {
+          "label": "| Advance Ruling Application Form Form KA (44.18 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia. Guidelines on Advance Rulings (256.06 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_KA_1.pdf"
+        },
+        {
+          "label": "| Application Form for Certificate of Residence Checklist (191.21 KB) Form STM1 (326.62 KB) Form STM1A (84.41 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CHECKLIST_2.pdf"
+        },
+        {
+          "label": "| Cross Border Transaction Form MNE [Pin. 1/2021] (112.44 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/MNE_Form_Pin_1_2021.pdf"
+        },
+        {
+          "label": "| Claim For Special Provisions (Single Deduction) Under Subsection 34(7) Of The Income Tax Act 1967 Form 4 Form 4 Appendix 1 This form can be downloaded",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-4-pind2023.docx"
+        },
+        {
+          "label": "| Application For An Approved Research And Development Activity Under Section 34A Of The Income Tax Act 1967 Form 1 Form 1 Appendix 1 This form can be downloaded",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-1-pind-2023.docx"
+        },
+        {
+          "label": "| Claim For Special Deductions (Double Deductions) Under Section 34B Of The Income Tax Act 1967 Form 3 Form 3 Appendix 1 This form can be downloaded",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-3-pind2023.docx"
+        },
+        {
+          "label": "| Claim For Double Deduction On Research And Development Expenditure Under Section 34A Of The Income Tax Act 1967 Form 2 This form can be downloaded",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-2-pind2023.docx"
+        },
+        {
+          "label": "| Application Form For Amendment Of Instalment Payment Form CP502 (167.04 KB) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/form-cp502.pdf"
+        },
+        {
+          "label": "| Payment in Monetary Form to Agent, Dealer or Distributor (Resident Individual) e-107D Panduan Pengemukaan Borang dan Lampiran Bagi Bayaran Seksyen 107D 2025 (10.83 KB)",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Tax Corporate Governance (TCG) Program Participation Form Form (98.65 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-penyertaan-program-tcg.pdf"
+        }
+      ],
+      "lines": []
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-petroleum/",
+      "title": "Muat Turun Borang Petroleum",
+      "items": [
+        {
+          "label": "| Petroleum e-BNT CPE 2026 With effect from Year of 2025, Petroleum can submit their amended returns form. Sample of Amended Return Form CPE 2026 (556.63 KB)",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Petroleum e-BNT CPP 2026 With effect from Year of Assessment 2026, Petroleum are required to furnish their returns via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. Tax agents are required to use the TAeF to submit return form via https://mytax.hasil.gov.my/ Sample of Amended Return Form for CPP 2026 (634.45 KB)",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Petroleum e-CPE 2026 e-CPP 2026 (From 1 July 2026) With effect from Year of Assessment 2024 Petroleum are required to furnish their return via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. With effect from Year of Assessment 2024 Petroleum are required to furnish their return via electronic medium or by way of electronic transmission to Inland Revenu",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "lines": []
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-entiti-labuan/",
+      "title": "Muat Turun Borang Entiti Labuan",
+      "items": [
+        {
+          "label": "| 1. Return Of Profits By A Labuan Entity Under Section 5 Of The Labuan Business Activity Tax Act 1990 Form LE1 (293.43 KB) This form can be downloaded and submitted to: Lembaga Hasil Dalam Negeri Malaysia Cawangan Labuan Unit E.004 & E.005 Tingkat 1, Aras Podium Kompleks Ujana Kewangan Jalan Merdeka 87000 Wilayah Persekutuan Labuan",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LE1_2019_1.pdf"
+        },
+        {
+          "label": "| 2. Irrevocable Election By A Labuan Entity Under Section 7 Of The Labuan Business Activity Tax Act 1990 Form LE2 (292.68 KB) This form can be downloaded and submitted to: Lembaga Hasil Dalam Negeri Malaysia Cawangan Labuan Unit E.004 & E.005 Tingkat 1, Aras Podium Kompleks Ujana Kewangan Jalan Merdeka 87000 Wilayah Persekutuan Labuan",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LE2_2019_1.pdf"
+        },
+        {
+          "label": "| 3. Irrevocable Election By A Labuan Entity Under Section 3A Of The Labuan Business Activity Tax Act 1990 Form LE3 (261.58 KB) This form can be downloaded and submitted to: Lembaga Hasil Dalam Negeri Malaysia Cawangan Labuan Unit E.004 & E.005 Tingkat 1, Aras Podium Kompleks Ujana Kewangan Jalan Merdeka 87000 Wilayah Persekutuan Labuan",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LE3_1.pdf"
+        },
+        {
+          "label": "| 4. Statutory Declaration Under Section 5 / 7 / 8 Of The Labuan Business Activity Tax Act 1990 Form LE4 (223.55 KB) This form can be downloaded and submitted to: Lembaga Hasil Dalam Negeri Malaysia Cawangan Labuan Unit E.004 & E.005 Tingkat 1, Aras Podium Kompleks Ujana Kewangan Jalan Merdeka 87000 Wilayah Persekutuan Labuan",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LE4_2019_1.pdf"
+        },
+        {
+          "label": "| 5. Statutory Declaration Under Section 10 Of The Labuan Business Activity Tax Act 1990 Form LE5 (222.89 KB) This form can be downloaded and submitted to: Lembaga Hasil Dalam Negeri Malaysia Cawangan Labuan Unit E.004 & E.005 Tingkat 1, Aras Podium Kompleks Ujana Kewangan Jalan Merdeka 87000 Wilayah Persekutuan Labuan",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LE5_2019_1.pdf"
+        },
+        {
+          "label": "| 6. Application For Advance Ruling Under Section 17B Of The Labuan Business Activity Tax Act 1990 Form LE6 (221.71 KB) This form can be downloaded and submitted to: Lembaga Hasil Dalam Negeri Malaysia Cawangan Labuan Unit E.004 & E.005 Tingkat 1, Aras Podium Kompleks Ujana Kewangan Jalan Merdeka 87000 Wilayah Persekutuan Labuan",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LE6_1.pdf"
+        },
+        {
+          "label": "| 1. Return Of Profits By A Labuan Entity Under Section 5 And Subsection 2B(1A) Of The Labuan Business Activity Tax Act 1990 Form LE1 (339.11 KB) Business Code Activity (28.61 KB) LE1 Explanatory Notes (870.29 KB) This form can be downloaded and submitted to: Lembaga Hasil Dalam Negeri Malaysia Cawangan Labuan Unit E.004 & E.005 Tingkat 1, Aras Podium Kompleks Ujana Kewangan Jalan Merdeka 87000 Wi",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LE1_1.pdf"
+        },
+        {
+          "label": "| 5. Application For Advance Ruling Under Section 17B Of The Labuan Business Activity Tax Act 1990 Form LE6 (221.71 KB) This form can be downloaded and submitted to: Lembaga Hasil Dalam Negeri Malaysia Cawangan Labuan Unit E.004 & E.005 Tingkat 1, Aras Podium Kompleks Ujana Kewangan Jalan Merdeka 87000 Wilayah Persekutuan Labuan",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LE6_1.pdf"
+        },
+        {
+          "label": "| 4. Statutory Declaration Under Section 10 Of The Labuan Business Activity Tax Act 1990 Form LE5 (276.46 KB) P.U. (A) 392/2018 (450.75 KB) P.U. (A) 177/2020 (573.49 KB) This form can be downloaded and submitted to: Lembaga Hasil Dalam Negeri Malaysia Cawangan Labuan Unit E.004 & E.005 Tingkat 1, Aras Podium Kompleks Ujana Kewangan Jalan Merdeka 87000 Wilayah Persekutuan Labuan",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LE5_1.pdf"
+        },
+        {
+          "label": "| 3. Statutory Declaration Under Section 5 Of The Labuan Business Activity Tax Act 1990 Form LE4 (275.40 KB) P.U. (A) 392/2018 (450.75 KB) This form can be downloaded and submitted to: Lembaga Hasil Dalam Negeri Malaysia Cawangan Labuan Unit E.004 & E.005 Tingkat 1, Aras Podium Kompleks Ujana Kewangan Jalan Merdeka 87000 Wilayah Persekutuan Labuan",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LE4_1.pdf"
+        },
+        {
+          "label": "| 2. Irrevocable Election By A Labuan Entity Under Section 3A Of The Labuan Business Activity Tax Act 1990 Form LE3 (261.58 KB) This form can be downloaded and submitted to: Lembaga Hasil Dalam Negeri Malaysia Cawangan Labuan Unit E.004 & E.005 Tingkat 1, Aras Podium Kompleks Ujana Kewangan Jalan Merdeka 87000 Wilayah Persekutuan Labuan",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LE3_1.pdf"
+        },
+        {
+          "label": "| 4. Statutory Declaration Under Section 10 Of The Labuan Business Activity Tax Act 1990 Form LE5 (479.01 KB) P.U. (A) 482/2021 (423.64 KB) This form can be downloaded and submitted to: LEMBAGA HASIL DALAM NEGERI MALAYSIA SEKSYEN ANTARABANGSA LABUAN TINGKAT 1, ARAS PODIUM KOMPLEKS UJANA KEWANGAN, JALAN MERDEKA 87000 WILAYAH PERSEKUTUAN LABUAN",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/04-borang-le5-v1-2024-v2_final-clean.pdf"
+        },
+        {
+          "label": "| 5. Application For Advance Ruling Under Section 17B Of The Labuan Business Activity Tax Act 1990 Form LE6 This form can be downloaded and submitted to: LEMBAGA HASIL DALAM NEGERI MALAYSIA SEKSYEN ANTARABANGSA LABUAN TINGKAT 1, ARAS PODIUM KOMPLEKS UJANA KEWANGAN, JALAN MERDEKA 87000 WILAYAH PERSEKUTUAN LABUAN",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_LE6_2022_1.pdf"
+        },
+        {
+          "label": "| 1. Return Of Profits By A Labuan Entity Under Section 5 And Section 10 Of The Labuan Business Activity Tax Act 1990 Form LE1 (623.31 KB) Business Code Activity (193.78 KB) LE1 Explanatory Notes (927.06 KB) This form can be downloaded and submitted to: LEMBAGA HASIL DALAM NEGERI MALAYSIA SEKSYEN ANTARABANGSA LABUAN TINGKAT 1, ARAS PODIUM KOMPLEKS UJANA KEWANGAN, JALAN MERDEKA 87000 WILAYAH PERSEK",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-le1.pdf"
+        },
+        {
+          "label": "| 2. Irrevocable Election By A Labuan Entity Under Section 3A Of The Labuan Business Activity Tax Act 1990 Form LE3 (483.78 KB) This form can be downloaded and submitted to: LEMBAGA HASIL DALAM NEGERI MALAYSIA SEKSYEN ANTARABANGSA LABUAN TINGKAT 1, ARAS PODIUM KOMPLEKS UJANA KEWANGAN, JALAN MERDEKA 87000 WILAYAH PERSEKUTUAN LABUAN",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-le3.pdf"
+        },
+        {
+          "label": "| 3. Statutory Declaration Under Section 5 Of The Labuan Business Activity Tax Act 1990 Form LE4 (478.50 KB) P.U. (A) 392/2018 (450.75 KB) This form can be downloaded and submitted to: LEMBAGA HASIL DALAM NEGERI MALAYSIA SEKSYEN ANTARABANGSA LABUAN TINGKAT 1, ARAS PODIUM KOMPLEKS UJANA KEWANGAN, JALAN MERDEKA 87000 WILAYAH PERSEKUTUAN LABUAN",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-le4.pdf"
+        },
+        {
+          "label": "| 1. Return Of Profits By A Labuan Entity Under Section 5 And Section 10 Of The Labuan Business Activity Tax Act 1990 Form LE1 (641.59 KB) Business Code Activity LE1 Explanatory Notes (935.22 KB) This form can be downloaded and submitted to: LEMBAGA HASIL DALAM NEGERI MALAYSIA SEKSYEN ANTARABANGSA LABUAN TINGKAT 1, ARAS PODIUM KOMPLEKS UJANA KEWANGAN, JALAN MERDEKA 87000 WILAYAH PERSEKUTUAN LABUAN",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/01-borang-le1-v1-2024-v3_final-clean.pdf"
+        },
+        {
+          "label": "| 2. Irrevocable Election By A Labuan Entity Under Section 3A Of The Labuan Business Activity Tax Act 1990 Form LE3 (484.00 KB) This form can be downloaded and submitted to: LEMBAGA HASIL DALAM NEGERI MALAYSIA SEKSYEN ANTARABANGSA LABUAN TINGKAT 1, ARAS PODIUM KOMPLEKS UJANA KEWANGAN, JALAN MERDEKA 87000 WILAYAH PERSEKUTUAN LABUAN",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/02-borang-le3-v1-2024-v2_final-clean.pdf"
+        },
+        {
+          "label": "| 3. Statutory Declaration Under Section 5 Of The Labuan Business Activity Tax Act 1990 Form LE4 (479.48 KB) P.U. (A) 423/2021 P.U. (A) 482/2021 (423.64 KB) This form can be downloaded and submitted to: LEMBAGA HASIL DALAM NEGERI MALAYSIA SEKSYEN ANTARABANGSA LABUAN TINGKAT 1, ARAS PODIUM KOMPLEKS UJANA KEWANGAN, JALAN MERDEKA 87000 WILAYAH PERSEKUTUAN LABUAN",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/03-borang-le4-v1-2024-v2_final-clean.pdf"
+        },
+        {
+          "label": "| 4. Statutory Declaration Under Section 10 Of The Labuan Business Activity Tax Act 1990 Form LE5 (479.01 KB) P.U. (A) 482/2021 This form can be downloaded and submitted to: LEMBAGA HASIL DALAM NEGERI MALAYSIA SEKSYEN ANTARABANGSA LABUAN TINGKAT 1, ARAS PODIUM KOMPLEKS UJANA KEWANGAN, JALAN MERDEKA 87000 WILAYAH PERSEKUTUAN LABUAN",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/04-borang-le5-v1-2024-v2_final-clean.pdf"
+        },
+        {
+          "label": "| 5. Application For Advance Ruling Under Section 17B Of The Labuan Business Activity Tax Act 1990 Form LE6 (221.71 KB) This form can be downloaded and submitted to: LEMBAGA HASIL DALAM NEGERI MALAYSIA SEKSYEN ANTARABANGSA LABUAN TINGKAT 1, ARAS PODIUM KOMPLEKS UJANA KEWANGAN, JALAN MERDEKA 87000 WILAYAH PERSEKUTUAN LABUAN",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang_le6_2022_1.pdf"
+        },
+        {
+          "label": "| 1. Return Of Profits By A Labuan Entity Under Section 5 And Section 10 Of The Labuan Business Activity Tax Act 1990 e-LE1 2025 (from 15 August 2025) (1.11 MB) With effect from Year of Assessment 2025, Labuan Entity are required to furnish their return of profits and submit via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. Tax agents are encouraged to",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| 3. Application For Advance Ruling Under Section 17B Of The Labuan Business Activity Tax Act 1990 Form LE6 (221.71 KB) This form can be downloaded and submitted to: LEMBAGA HASIL DALAM NEGERI MALAYSIA SEKSYEN ANTARABANGSA LABUAN TINGKAT 1, ARAS PODIUM KOMPLEKS UJANA KEWANGAN, JALAN MERDEKA 87000 WILAYAH PERSEKUTUAN LABUAN",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang_le6_2022_1.pdf"
+        },
+        {
+          "label": "| 2. Irrevocable Election By A Labuan Entity Under Section 3A Of The Labuan Business Activity Tax Act 1990 Form LE3 (484.00 KB) This form can be downloaded and submitted to: LEMBAGA HASIL DALAM NEGERI MALAYSIA SEKSYEN ANTARABANGSA LABUAN TINGKAT 1, ARAS PODIUM KOMPLEKS UJANA KEWANGAN, JALAN MERDEKA 87000 WILAYAH PERSEKUTUAN LABUAN",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-le3-2024.pdf"
+        },
+        {
+          "label": "| 1. Return Of Profits By A Labuan Entity Under Section 5 Or Section 10 Of The Labuan Business Activity Tax Act 1990 e-LE1 2026 (from Year of Assessment 2026) (1.05 MB) With effect from Year of Assessment 2025, Labuan Entity are required to furnish their return of profits and submit via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. Tax agents are encou",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "lines": []
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-cukai-keuntungan-modal/",
+      "title": "Muat Turun Borang Cukai Keuntungan Modal",
+      "items": [
+        {
+          "label": "| Capital Gains Tax Return Form (CGTRF) under subsection 77A(1B) of the Income Tax Act 1967 e-CKM (Starting 1 March 2024) From 1 March 2024, Capital Gains Tax reporting must be submitted through an electronic medium using e-CKM. Taxpayers or the appointed licensed tax agent can access e-CKM through the MyTax portal at https://taef.hasil.gov.my/ The CKM forms and related reference materials are as ",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Amended Return Form of Capital Gains Tax under section 77B of the Income Tax Act 1967 e-BNT CKM (From 15 October 2024) With effect from Year of Assessment 2024, submission of Amended Return Form of Capital Gains Tax has to be made via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. Tax agents are required to use the TAeF to submit return form via https",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "lines": []
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+      "title": "Muat Turun Borang Surat Penyelesaian Cukai",
+      "items": [
+        {
+          "label": "| Company Income Tax Return Form for the purpose of Tax Clearance Letter application Form C 2026 (720.67 KB) (For TCL Purpose Only) This Form C 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 1 of 2022: Application for a Tax Clearance Letter for Companies, Limited Liability Partn",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/C2026_SPC.pdf"
+        },
+        {
+          "label": "| Borang E 2026 (467.08 KB) (Untuk Tujuan SPC) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-e2026-untuk-tujuan-spc.pdf"
+        },
+        {
+          "label": "| Borang B 2026 (1.18 MB) (Untuk Tujuan SPC) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang_b2025__untuk_tujuan_spc_.pdf"
+        },
+        {
+          "label": "| Borang M 2026 (1.07 MB) (Untuk Tujuan SPC) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/form-m2025-untuk-tujuan-spc.pdf"
+        },
+        {
+          "label": "| Borang MT 2026 (943.97 KB) (Untuk Tujuan SPC) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/form-mt2025-untuk-tujuan-spc.pdf"
+        },
+        {
+          "label": "| Borang BT 2026 (1.42 MB) (Untuk Tujuan SPC) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-bt2025-untuk-tujuan-spc.pdf"
+        },
+        {
+          "label": "| Borang BE 2026 (1.24 MB) (Untuk Tujuan SPC) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-be2025-untuk-tujuan-spc.pdf"
+        },
+        {
+          "label": "| Borang TF 2026 (1.01 MB) (Untuk Tujuan SPC) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-tf2026-untuk-tujuan-spc.pdf"
+        },
+        {
+          "label": "| Limited Liability Partnership Tax Return Form for the purpose of Tax Clearance Letter application PT2026 SPC (651.94 KB)(For TCL Purpose Only) This Form PT 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 1 of 2022: Application for a Tax Clearance Letter for Companies, Limited L",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/PT2026-SPC.pdf"
+        }
+      ],
+      "lines": []
     }
   ],
-  "forms": {}
+  "forms": {
+    "Muat Turun Borang Individu": [
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007,
+      2006,
+      2005,
+      2004,
+      2003,
+      2002,
+      2001
+    ],
+    "Muat Turun Borang Syarikat": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007,
+      2006,
+      2005,
+      2004,
+      2003,
+      2002,
+      2001
+    ],
+    "Muat Turun Borang Selain Syarikat & Selain Individu": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007,
+      2006,
+      2005,
+      2004,
+      2003,
+      2002,
+      2001
+    ],
+    "Muat Turun Borang Majikan": [
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007,
+      2006,
+      2005,
+      2004,
+      2003,
+      2001
+    ],
+    "Muat Turun Borang Petroleum": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012
+    ],
+    "Muat Turun Borang Surat Penyelesaian Cukai": [
+      2026
+    ]
+  }
 }

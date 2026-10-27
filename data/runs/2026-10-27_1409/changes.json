@@ -1,0 +1,41 @@
+{
+  "run_id": "2026-10-27_1409",
+  "started_at": "2026-10-27T06:09:35.915Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [],
+  "unchanged": [
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-pua",
+      "section": "List of P.U. (A) (tax-relevant only)",
+      "url": "https://lom.agc.gov.my/subsid.php?type=pua"
+    }
+  ],
+  "baselined": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (years listed per form category)",
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+      "items": 12
+    }
+  ],
+  "needs_login": [],
+  "errors": [
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-latest",
+      "section": "Latest Acts and P.U. (A) on the home page (tax-relevant, incl. Finance Acts)",
+      "url": "https://lom.agc.gov.my/index.php",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-principal-acts",
+      "section": "Principal Act (tax-relevant only)",
+      "url": "https://lom.agc.gov.my/principal.php?type=original",
+      "error": "HTTP 502"
+    }
+  ],
+  "finished_at": "2026-10-27T06:10:16.793Z"
+}
