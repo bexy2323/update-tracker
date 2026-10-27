@@ -16,6 +16,8 @@
 #                    max_pages:   safety cap
 #   mode           links (default): track the list of links/items on the page
 #                  forms: track which years are listed for each form
+#                  hasil_forms: HASiL Download Forms search pages; tracks the
+#                  years offered per category and the forms for the newest year
 #   keywords       name of a keyword list below. New items not matching it are left
 #                  out of the report (but are still saved in the snapshot).
 #   requires_login true: never fetched automatically; listed in every report as
@@ -96,63 +98,42 @@ sources:
     name: HASiL (Inland Revenue Board)
     url: https://www.hasil.gov.my/en/
     checks:
-      - id: hasil-media-statements
-        section: Home > Kenyataan Media (Media Statements)
-        discover:
-          from: https://www.hasil.gov.my/en/
-          link_text: [Media Statement, Media Statements, Kenyataan Media]
-          url_hint: https://www.hasil.gov.my/en/media-statement/
-      - id: hasil-announcements
-        section: Home > Pengumuman (Announcements)
-        discover:
-          from: https://www.hasil.gov.my/en/
-          link_text: [Announcement, Announcements, Pengumuman]
-          url_hint: https://www.hasil.gov.my/en/announcement/
+      - id: hasil-announcements-media
+        section: Home > Kenyataan Media & Pengumuman (Media Statements & Announcements)
+        url: https://www.hasil.gov.my/en/pengumuman-kenyataan-media/
       - id: hasil-e-invoice
         section: Pautan Popular > E-Invois
-        discover:
-          from: https://www.hasil.gov.my/en/
-          link_text: [e-Invoice, E-Invois, e-Invois]
-          url_hint: https://www.hasil.gov.my/en/e-invoice/
+        url: https://www.hasil.gov.my/en/e-invois/
+        crawl:
+          path_prefix: /en/e-invois/
+          max_pages: 40
       - id: hasil-myinvois-epos
         section: Pautan Popular > MyInvois e-POS
-        discover:
-          from: https://www.hasil.gov.my/en/
-          link_text: [MyInvois e-POS, e-POS]
-          url_hint: https://www.hasil.gov.my/en/e-invoice/myinvois-e-pos/
+        url: https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/
+        crawl:
+          path_prefix: /en/myinvoisepos/
+          max_pages: 20
       - id: hasil-return-form-filing-programme
         section: Forms > Return Form Filing Programme
-        discover:
-          from: https://www.hasil.gov.my/en/
-          link_text: [Return Form Filing Programme, Program Memfail Borang Nyata]
-          url_hint: https://www.hasil.gov.my/en/forms/return-form-filing-programme/
+        url: https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/
       - id: hasil-download-forms
-        section: Forms > Download Forms (form years listed)
-        mode: forms
-        discover:
-          from: https://www.hasil.gov.my/en/
-          link_text: [Download Forms, Muat Turun Borang]
-          url_hint: https://www.hasil.gov.my/en/forms/download-forms/
+        section: Forms > Download Forms (years listed per form category)
+        mode: hasil_forms
+        url: https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/
         crawl:
-          path_prefix: /en/forms/download-forms/
-          max_pages: 40
+          path_prefix: /en/muat-turun-borang/muat-turun-borang-
+          max_pages: 20
       - id: hasil-legislation
         section: Legislation (everything)
-        discover:
-          from: https://www.hasil.gov.my/en/
-          link_text: [Legislation, Perundangan]
-          url_hint: https://www.hasil.gov.my/en/legislation/
+        url: https://www.hasil.gov.my/en/perundangan/
         crawl:
-          path_prefix: /en/legislation/
+          path_prefix: /en/perundangan/
           max_pages: 60
       - id: hasil-transfer-pricing
         section: Transfer Pricing
-        discover:
-          from: https://www.hasil.gov.my/en/
-          link_text: [Transfer Pricing, Pindahan Harga]
-          url_hint: https://www.hasil.gov.my/en/international/transfer-pricing/
+        url: https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/
         crawl:
-          path_prefix: /en/international/transfer-pricing/
+          path_prefix: /en/antarabangsa/harga-pindahan/
           max_pages: 20
 
   - id: hasil-facebook
@@ -231,16 +212,15 @@ sources:
     name: Chartered Tax Institute of Malaysia
     url: https://www.ctim.org.my/
     checks:
-      - id: ctim-technical-news
-        section: Technical News
-        discover:
-          from: https://www.ctim.org.my/
-          link_text: [Technical News]
-          url_hint: https://www.ctim.org.my/
+      - id: ctim-technical-news-dt
+        section: Technical News > Direct Taxation
+        url: https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/
+      - id: ctim-technical-news-it
+        section: Technical News > Indirect Taxation
+        url: https://www.ctim.org.my/technical-developments-indirect-taxation-tc-it/
       - id: ctim-ectim
-        section: eCTIM
+        section: eCTIM (titles listed on the public home page; full text needs member sign-in)
         url: https://www.ctim.org.my/
-        requires_login: true
 
   - id: parlimen
     name: Parliament of Malaysia - Dewan Rakyat bills

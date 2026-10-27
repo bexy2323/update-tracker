@@ -80,16 +80,21 @@ function extractPage(imageSelector) {
   const items = [];
   const seen = new Set();
   for (const a of usable) {
-    const href = a.href;
-    if (!href || /^(javascript:|mailto:|tel:)/i.test(href) || href.endsWith('#')) continue;
+    let href = a.href;
+    if (!href || /^(mailto:|tel:)/i.test(href)) continue;
+    // Script-driven links (e.g. CTIM's e-CTIM list) are kept, pointing at the page itself.
+    const scripted = /^javascript:/i.test(href);
+    if (scripted) href = location.href.split('#')[0];
     // In-page anchors such as "Skip to content" or "Scroll to top".
-    if (href.includes('#') && href.split('#')[0] === location.href.split('#')[0]) continue;
-    let label = norm(a.innerText || a.getAttribute('title') || a.getAttribute('aria-label'));
+    else if (href.includes('#') && href.split('#')[0] === location.href.split('#')[0]) continue;
+    // textContent also reads items in hidden tabs, which innerText skips.
+    let label = norm(a.innerText || a.textContent || a.getAttribute('title') || a.getAttribute('aria-label'));
+    if (scripted && (!label || GENERIC.test(label))) continue;
     // "More" / "Download" links: take the label from the surrounding row or card.
     if (!label || label.length < 12 || GENERIC.test(label)) {
       let el = a.parentElement;
       for (let depth = 0; el && depth < 5; depth++, el = el.parentElement) {
-        const t = norm(el.innerText);
+        const t = norm(el.innerText || el.textContent);
         if (t.length > 400) break;
         if (t.length > label.length + 5) { label = t; break; }
       }
@@ -138,6 +143,7 @@ async function fetchPage(page, url, imageSelector = null) {
       // Content inside iframes (some bulletin boards are embedded this way).
       for (const frame of page.frames()) {
         if (frame === page.mainFrame() || !frame.url().startsWith('http')) continue;
+        if (new URL(frame.url()).host !== new URL(page.url()).host) continue;
         try {
           const f = await frame.evaluate(extractPage, imageSelector);
           data.items.push(...f.items);
@@ -186,14 +192,50 @@ async function resolveUrl(page, check, previous) {
       })));
       for (const t of texts) {
         const want = t.toLowerCase();
-        const hit = links.find(l => l.text.toLowerCase() === want)
-          || links.find(l => l.text.toLowerCase().startsWith(want));
+        const hit = links.find(l => l.text.toLowerCase() === want);
         if (hit && /^https?:/.test(hit.href)) return hit.href;
       }
     } catch { /* fall back to the hint */ }
   }
   if (hint) return hint;
   throw new Error('Could not find the page: no matching link and no url_hint');
+}
+
+// HASiL "Download Forms" pages are a search form (Category + Year). Records the
+// years offered in the Year list, then searches all categories for the newest
+// year and records the forms listed.
+async function fetchHasilFormsPage(page, url) {
+  const base = await fetchPage(page, url);
+  const years = await page.$$eval('#crud-year-select option', os =>
+    os.map(o => o.value).filter(v => /^\d{4}$/.test(v)).map(Number));
+  if (!years.length) throw new Error('Year list not found on the forms page');
+  const newest = Math.max(...years);
+  await Promise.all([
+    page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: NAV_TIMEOUT }),
+    page.evaluate(year => {
+      document.querySelector('#crud-cat-select').value = 'all';
+      document.querySelector('#crud-year-select').value = String(year);
+      document.querySelector('#crud-cat-select').form.submit();
+    }, newest),
+  ]);
+  await page.waitForLoadState('networkidle', { timeout: 20000 }).catch(() => {});
+  const items = await page.$$eval('table', tables => {
+    const norm = s => (s || '').replace(/\s+/g, ' ').trim();
+    const out = [];
+    for (const t of tables) {
+      const caption = norm((t.caption && t.caption.innerText) || (t.previousElementSibling && t.previousElementSibling.innerText) || '');
+      for (const tr of t.querySelectorAll('tr')) {
+        const a = tr.querySelector('a[href]');
+        if (!a) continue;
+        out.push({ label: norm(`${caption} | ${tr.innerText}`).slice(0, 400), href: a.href });
+      }
+    }
+    return out;
+  });
+  const seen = new Set();
+  const unique = items.filter(i => !seen.has(i.label + i.href) && seen.add(i.label + i.href));
+  const category = (base.title || url).replace(/\s*[-–|].*$/, '').trim();
+  return { title: base.title, items: unique, text: '', years, category, newest_year: newest };
 }
 
 // Forms mode: which years are listed for each form, e.g. "Form BE" -> [2024, 2025].
@@ -217,7 +259,8 @@ function formYears(items) {
 
 async function snapshotCheck(page, check, previous) {
   const url = await resolveUrl(page, check, previous);
-  const pages = [{ url, ...(await fetchPage(page, url, check.images)) }];
+  const visit = u => (check.mode === 'hasil_forms' ? fetchHasilFormsPage(page, u) : fetchPage(page, u, check.images));
+  const pages = [{ url, ...(await visit(url)) }];
 
   if (check.crawl) {
     const prefix = check.crawl.path_prefix;
@@ -231,7 +274,7 @@ async function snapshotCheck(page, check, previous) {
     });
     for (const sub of queue.slice(0, max)) {
       try {
-        pages.push({ url: sub, ...(await fetchPage(page, sub)) });
+        pages.push({ url: sub, ...(await visit(sub)) });
       } catch (e) {
         pages.push({ url: sub, error: e.message, items: [], text: '' });
       }
@@ -252,6 +295,8 @@ async function snapshotCheck(page, check, previous) {
   };
   if (check.mode === 'forms') {
     snapshot.forms = formYears(snapshot.pages.flatMap(p => p.items));
+  } else if (check.mode === 'hasil_forms') {
+    snapshot.forms = Object.fromEntries(pages.filter(p => p.years).map(p => [p.category, p.years]));
   }
   return snapshot;
 }
@@ -290,7 +335,7 @@ function diffSnapshots(prev, curr, check, matcher) {
     }
   }
 
-  if (check.mode === 'forms' && prev.forms && curr.forms) {
+  if (prev.forms && curr.forms) {
     for (const [form, years] of Object.entries(curr.forms)) {
       const before = prev.forms[form];
       if (!before) changes.new_forms.push({ form, years });
@@ -370,7 +415,8 @@ async function main() {
         const snap = await snapshotCheck(page, check, previous);
         const reachable = snap.pages[0] && !snap.pages[0].error;
         if (!reachable) throw new Error(snap.pages[0].error || 'no content');
-        if (!previous) {
+        // A check whose page changed in the config starts again from a new baseline.
+        if (!previous || previous.url !== snap.url) {
           result.baselined.push({ ...meta, url: snap.url, items: snap.pages.reduce((n, p) => n + p.items.length, 0) });
           console.log('baseline saved');
         } else {
