@@ -1,0 +1,14 @@
+{
+  "name": "update-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Checks Malaysian tax websites for updates and compiles a report of what changed since the last visit.",
+  "scripts": {
+    "check": "node src/check.js",
+    "report": "node src/report.js"
+  },
+  "dependencies": {
+    "exceljs": "4.4.0",
+    "js-yaml": "4.1.0"
+  }
+}

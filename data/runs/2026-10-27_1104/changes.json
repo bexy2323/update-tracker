@@ -1,0 +1,200 @@
+{
+  "run_id": "2026-10-27_1104",
+  "started_at": "2026-10-27T03:04:10.845Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [],
+  "unchanged": [],
+  "baselined": [
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-latest-announcements",
+      "section": "Pengumuman Terkini (Latest Announcements)",
+      "url": "https://mysst.customs.gov.my/",
+      "items": 22
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-announcements",
+      "section": "All announcements",
+      "url": "https://mysst.customs.gov.my/announcements/",
+      "items": 10
+    },
+    {
+      "source": "MySToDS (Service Tax on Digital Services)",
+      "check_id": "mystods-bulletin",
+      "section": "Bulletin Board",
+      "url": "https://mystods.customs.gov.my/",
+      "items": 1
+    },
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "url": "https://mytax.hasil.gov.my/",
+      "items": 0
+    }
+  ],
+  "needs_login": [
+    {
+      "source": "HASiL Facebook page",
+      "check_id": "hasil-facebook",
+      "section": "Facebook posts",
+      "url": "https://www.facebook.com/HASiLMalaysia"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-ectim",
+      "section": "eCTIM",
+      "url": "https://www.ctim.org.my/"
+    },
+    {
+      "source": "CCH iKnowConnect (Malaysia)",
+      "check_id": "cch-news",
+      "section": "Latest news and articles",
+      "url": "https://iknowconnect.cch.com/MYS/home"
+    }
+  ],
+  "errors": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-media-statements",
+      "section": "Home > Kenyataan Media (Media Statements)",
+      "url": "https://www.hasil.gov.my/en/media-statement/",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.hasil.gov.my/en/media-statement/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-announcements",
+      "section": "Home > Pengumuman (Announcements)",
+      "url": "https://www.hasil.gov.my/en/announcement/",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.hasil.gov.my/en/media-statement/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invoice/",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.hasil.gov.my/en/media-statement/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-myinvois-epos",
+      "section": "Pautan Popular > MyInvois e-POS",
+      "url": "https://www.hasil.gov.my/en/e-invoice/myinvois-e-pos/",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.hasil.gov.my/en/media-statement/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-return-form-filing-programme",
+      "section": "Forms > Return Form Filing Programme",
+      "url": "https://www.hasil.gov.my/en/forms/return-form-filing-programme/",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.hasil.gov.my/en/media-statement/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (form years listed)",
+      "url": "https://www.hasil.gov.my/en/forms/download-forms/",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.hasil.gov.my/en/media-statement/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/legislation/",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.hasil.gov.my/en/media-statement/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-transfer-pricing",
+      "section": "Transfer Pricing",
+      "url": "https://www.hasil.gov.my/en/international/transfer-pricing/",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.hasil.gov.my/en/media-statement/"
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-principal-acts",
+      "section": "Principal Act",
+      "url": "https://lom.agc.gov.my/principal.php?type=updated",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-pua",
+      "section": "List of P.U. (A) (tax-relevant only)",
+      "url": "https://lom.agc.gov.my/subsid.php?type=pua",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-finance-bill",
+      "section": "Finance Bill (if any)",
+      "url": "https://lom.agc.gov.my/bills.php",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "Ministry of Finance",
+      "check_id": "mof-news",
+      "section": "News (tax-relevant only)",
+      "url": "https://www.mof.gov.my/portal/en/news",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.mof.gov.my/portal/en/news"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-pengumuman",
+      "section": "Pengumuman (Announcements)",
+      "url": "https://www.customs.gov.my/ms/utama",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.customs.gov.my/ms/utama"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-berita-media",
+      "section": "Berita dan Media (News and Media)",
+      "url": "https://www.customs.gov.my/ms/utama",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.customs.gov.my/ms/utama"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news",
+      "section": "Technical News",
+      "url": "https://www.ctim.org.my/",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.ctim.org.my/"
+    },
+    {
+      "source": "Parliament of Malaysia - Dewan Rakyat bills",
+      "check_id": "parlimen-bills",
+      "section": "Bills (Income Tax Act and Finance Bills only)",
+      "url": "https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en"
+    },
+    {
+      "source": "Rahmat Lim & Partners (RDS) - Tax Focus",
+      "check_id": "rds-tax-focus",
+      "section": "Tax Focus publications (for the monthly update class)",
+      "url": "https://www.rdslawpartners.com/publications/categories/tax-focus",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.rdslawpartners.com/publications/categories/tax-focus"
+    },
+    {
+      "source": "MDEC - National e-Invoicing",
+      "check_id": "mdec-einvoicing",
+      "section": "New Updates (Peppol-Ready Solution)",
+      "url": "https://mdec.my/national-einvoicing",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://mdec.my/national-einvoicing"
+    },
+    {
+      "source": "HRD Corp - Circulars",
+      "check_id": "hrdcorp-circulars",
+      "section": "Circulars",
+      "url": "https://hrdcorp.gov.my/circulars",
+      "error": "HTTP 403"
+    },
+    {
+      "source": "MIDA - Announcements & Media Releases",
+      "check_id": "mida-announcements",
+      "section": "Announcements & media releases (tax-relevant only)",
+      "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/",
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.mida.gov.my/media-and-events/announcement-media-release/"
+    }
+  ],
+  "finished_at": "2026-10-27T03:05:54.982Z"
+}

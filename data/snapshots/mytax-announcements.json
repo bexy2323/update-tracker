@@ -1,0 +1,65 @@
+{
+  "check_id": "mytax-announcements",
+  "url": "https://mytax.hasil.gov.my/",
+  "fetched_at": "2026-10-27T03:06:42.207Z",
+  "pages": [
+    {
+      "url": "https://mytax.hasil.gov.my/",
+      "title": "MyTax",
+      "items": [
+        {
+          "label": "Image: GetFile?bannerId=89",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=89",
+          "image": true
+        },
+        {
+          "label": "Image: GetFile?bannerId=87",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=87",
+          "image": true
+        },
+        {
+          "label": "Image: GetFile?bannerId=86",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=86",
+          "image": true
+        },
+        {
+          "label": "Image: GetFile?bannerId=84",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=84",
+          "image": true
+        },
+        {
+          "label": "Image: GetFile?bannerId=77",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=77",
+          "image": true
+        },
+        {
+          "label": "Image: GetFile?bannerId=75",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=75",
+          "image": true
+        }
+      ],
+      "lines": [
+        "Portal Rasmi HASiL",
+        "Perkhidmatan ezHasil",
+        "e-Janji Temu",
+        "Maklum Balas Pelanggan",
+        "Panduan Pengguna",
+        "e-POS",
+        "ENG",
+        "Cerah",
+        "Sila Masukkan Maklumat Anda",
+        "Sila Pilih Jenis Pengenalan",
+        "MyKad/MyPR/MyKAS",
+        "No. Pasport/Dokumen Lain",
+        "Hantar",
+        "Carian TIN",
+        "e-Daftar",
+        "ByrHASiL",
+        "e-TT",
+        "Previous",
+        "Next",
+        "© 2026 Hak Cipta Terpelihara LHDNM"
+      ]
+    }
+  ]
+}

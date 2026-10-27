@@ -1,0 +1,312 @@
+# Websites to check, taken from "Websites to Check.xlsx".
+#
+# Each source has one or more checks. A check is one page whose content is
+# snapshotted and compared with the previous visit.
+#
+# Check fields:
+#   id             unique id, used as the snapshot file name
+#   section        the subcategory from the Excel listing
+#   url            page to visit. If omitted, the page is found through `discover`.
+#   discover       find the page by link text on another page:
+#                    from:      page to search
+#                    link_text: candidate link texts (first match wins, case-insensitive)
+#                    url_hint:  fallback URL if no link matches
+#   crawl          also snapshot pages linked from this one (one level deep):
+#                    path_prefix: only follow links whose URL path starts with this
+#                    max_pages:   safety cap
+#   mode           links (default): track the list of links/items on the page
+#                  forms: track which years are listed for each form
+#   keywords       name of a keyword list below. New items not matching it are left
+#                  out of the report (but are still saved in the snapshot).
+#   requires_login true: never fetched automatically; listed in every report as
+#                  needing a manual sign-in check.
+#   ignore         regexes; matching text lines are ignored (visitor counters, clocks).
+#   images         CSS selector for images to track, for announcements shown only as
+#                  pictures (e.g. a banner slider).
+
+keyword_lists:
+  tax:
+    - tax
+    - cukai
+    - income
+    - pendapatan
+    - SST
+    - sales tax
+    - service tax
+    - jualan
+    - perkhidmatan
+    - stamp
+    - setem
+    - RPGT
+    - real property gains
+    - keuntungan harta tanah
+    - e-invoice
+    - e-invois
+    - einvoice
+    - MyInvois
+    - exemption
+    - pengecualian
+    - incentive
+    - insentif
+    - allowance
+    - elaun
+    - deduction
+    - potongan
+    - withholding
+    - pegangan
+    - transfer pricing
+    - pindahan harga
+    - double taxation
+    - DTA
+    - avoidance
+    - levy
+    - levi
+    - duty
+    - duti
+    - customs
+    - kastam
+    - excise
+    - eksais
+    - capital gains
+    - keuntungan modal
+    - Budget
+    - Bajet
+    - Belanjawan
+    - pioneer
+    - perintis
+    - investment tax
+    - global minimum tax
+    - GMT
+    - Pillar Two
+    - LHDN
+    - HASiL
+    - IRB
+    - JKDM
+    - RMCD
+  parliament_bills:
+    - income tax
+    - cukai pendapatan
+    - finance bill
+    - rang undang-undang kewangan
+    - finance (no.
+    - kewangan (no.
+
+sources:
+  - id: hasil
+    name: HASiL (Inland Revenue Board)
+    url: https://www.hasil.gov.my/en/
+    checks:
+      - id: hasil-media-statements
+        section: Home > Kenyataan Media (Media Statements)
+        discover:
+          from: https://www.hasil.gov.my/en/
+          link_text: [Media Statement, Media Statements, Kenyataan Media]
+          url_hint: https://www.hasil.gov.my/en/media-statement/
+      - id: hasil-announcements
+        section: Home > Pengumuman (Announcements)
+        discover:
+          from: https://www.hasil.gov.my/en/
+          link_text: [Announcement, Announcements, Pengumuman]
+          url_hint: https://www.hasil.gov.my/en/announcement/
+      - id: hasil-e-invoice
+        section: Pautan Popular > E-Invois
+        discover:
+          from: https://www.hasil.gov.my/en/
+          link_text: [e-Invoice, E-Invois, e-Invois]
+          url_hint: https://www.hasil.gov.my/en/e-invoice/
+      - id: hasil-myinvois-epos
+        section: Pautan Popular > MyInvois e-POS
+        discover:
+          from: https://www.hasil.gov.my/en/
+          link_text: [MyInvois e-POS, e-POS]
+          url_hint: https://www.hasil.gov.my/en/e-invoice/myinvois-e-pos/
+      - id: hasil-return-form-filing-programme
+        section: Forms > Return Form Filing Programme
+        discover:
+          from: https://www.hasil.gov.my/en/
+          link_text: [Return Form Filing Programme, Program Memfail Borang Nyata]
+          url_hint: https://www.hasil.gov.my/en/forms/return-form-filing-programme/
+      - id: hasil-download-forms
+        section: Forms > Download Forms (form years listed)
+        mode: forms
+        discover:
+          from: https://www.hasil.gov.my/en/
+          link_text: [Download Forms, Muat Turun Borang]
+          url_hint: https://www.hasil.gov.my/en/forms/download-forms/
+        crawl:
+          path_prefix: /en/forms/download-forms/
+          max_pages: 40
+      - id: hasil-legislation
+        section: Legislation (everything)
+        discover:
+          from: https://www.hasil.gov.my/en/
+          link_text: [Legislation, Perundangan]
+          url_hint: https://www.hasil.gov.my/en/legislation/
+        crawl:
+          path_prefix: /en/legislation/
+          max_pages: 60
+      - id: hasil-transfer-pricing
+        section: Transfer Pricing
+        discover:
+          from: https://www.hasil.gov.my/en/
+          link_text: [Transfer Pricing, Pindahan Harga]
+          url_hint: https://www.hasil.gov.my/en/international/transfer-pricing/
+        crawl:
+          path_prefix: /en/international/transfer-pricing/
+          max_pages: 20
+
+  - id: hasil-facebook
+    name: HASiL Facebook page
+    url: https://www.facebook.com/HASiLMalaysia
+    checks:
+      - id: hasil-facebook
+        section: Facebook posts
+        url: https://www.facebook.com/HASiLMalaysia
+        requires_login: true
+
+  - id: lom
+    name: Laws of Malaysia (AGC)
+    url: https://lom.agc.gov.my/index.php
+    checks:
+      - id: lom-principal-acts
+        section: Principal Act
+        keywords: tax
+        discover:
+          from: https://lom.agc.gov.my/index.php
+          link_text: [Principal Act, Principal Acts, Akta Ibu]
+          url_hint: https://lom.agc.gov.my/principal.php?type=updated
+      - id: lom-pua
+        section: List of P.U. (A) (tax-relevant only)
+        keywords: tax
+        discover:
+          from: https://lom.agc.gov.my/index.php
+          link_text: [P.U. (A), P.U.(A), List of P.U. (A)]
+          url_hint: https://lom.agc.gov.my/subsid.php?type=pua
+      - id: lom-finance-bill
+        section: Finance Bill (if any)
+        keywords: parliament_bills
+        discover:
+          from: https://lom.agc.gov.my/index.php
+          link_text: [Bills, Rang Undang-Undang]
+          url_hint: https://lom.agc.gov.my/bills.php
+
+  - id: mysst
+    name: MySST (Royal Malaysian Customs)
+    url: https://mysst.customs.gov.my/
+    checks:
+      - id: mysst-latest-announcements
+        section: Pengumuman Terkini (Latest Announcements)
+        url: https://mysst.customs.gov.my/
+      - id: mysst-announcements
+        section: All announcements
+        url: https://mysst.customs.gov.my/announcements/
+
+  - id: mof
+    name: Ministry of Finance
+    url: https://www.mof.gov.my/portal/en/news
+    checks:
+      - id: mof-news
+        section: News (tax-relevant only)
+        keywords: tax
+        url: https://www.mof.gov.my/portal/en/news
+
+  - id: customs
+    name: Royal Malaysian Customs Department
+    url: https://www.customs.gov.my/ms/utama
+    checks:
+      - id: customs-pengumuman
+        section: Pengumuman (Announcements)
+        discover:
+          from: https://www.customs.gov.my/ms/utama
+          link_text: [Pengumuman]
+          url_hint: https://www.customs.gov.my/ms/utama
+      - id: customs-berita-media
+        section: Berita dan Media (News and Media)
+        discover:
+          from: https://www.customs.gov.my/ms/utama
+          link_text: [Berita dan Media, Berita & Media, Berita]
+          url_hint: https://www.customs.gov.my/ms/utama
+
+  - id: ctim
+    name: Chartered Tax Institute of Malaysia
+    url: https://www.ctim.org.my/
+    checks:
+      - id: ctim-technical-news
+        section: Technical News
+        discover:
+          from: https://www.ctim.org.my/
+          link_text: [Technical News]
+          url_hint: https://www.ctim.org.my/
+      - id: ctim-ectim
+        section: eCTIM
+        url: https://www.ctim.org.my/
+        requires_login: true
+
+  - id: parlimen
+    name: Parliament of Malaysia - Dewan Rakyat bills
+    url: https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en
+    checks:
+      - id: parlimen-bills
+        section: Bills (Income Tax Act and Finance Bills only)
+        keywords: parliament_bills
+        url: https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en
+
+  - id: mystods
+    name: MySToDS (Service Tax on Digital Services)
+    url: https://mystods.customs.gov.my/
+    checks:
+      - id: mystods-bulletin
+        section: Bulletin Board
+        url: https://mystods.customs.gov.my/
+        ignore: ['^\d+$', 'Visitor', 'Pelawat']
+
+  - id: rds
+    name: Rahmat Lim & Partners (RDS) - Tax Focus
+    url: https://www.rdslawpartners.com/publications/categories/tax-focus
+    checks:
+      - id: rds-tax-focus
+        section: Tax Focus publications (for the monthly update class)
+        url: https://www.rdslawpartners.com/publications/categories/tax-focus
+
+  - id: mdec
+    name: MDEC - National e-Invoicing
+    url: https://mdec.my/national-einvoicing
+    checks:
+      - id: mdec-einvoicing
+        section: New Updates (Peppol-Ready Solution)
+        url: https://mdec.my/national-einvoicing
+
+  - id: hrdcorp
+    name: HRD Corp - Circulars
+    url: https://hrdcorp.gov.my/circulars
+    checks:
+      - id: hrdcorp-circulars
+        section: Circulars
+        url: https://hrdcorp.gov.my/circulars
+
+  - id: mytax
+    name: MyTax portal (HASiL)
+    url: https://mytax.hasil.gov.my/
+    checks:
+      - id: mytax-announcements
+        section: Announcement (bottom left of the site)
+        url: https://mytax.hasil.gov.my/
+        images: .carousel-item img
+
+  - id: mida
+    name: MIDA - Announcements & Media Releases
+    url: https://www.mida.gov.my/media-and-events/announcement-media-release/
+    checks:
+      - id: mida-announcements
+        section: Announcements & media releases (tax-relevant only)
+        keywords: tax
+        url: https://www.mida.gov.my/media-and-events/announcement-media-release/
+
+  - id: cch
+    name: CCH iKnowConnect (Malaysia)
+    url: https://iknowconnect.cch.com/MYS/home
+    checks:
+      - id: cch-news
+        section: Latest news and articles
+        url: https://iknowconnect.cch.com/MYS/home
+        requires_login: true

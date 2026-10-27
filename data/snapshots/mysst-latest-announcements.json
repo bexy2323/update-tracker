@@ -1,0 +1,155 @@
+{
+  "check_id": "mysst-latest-announcements",
+  "url": "https://mysst.customs.gov.my/",
+  "fetched_at": "2026-10-27T03:04:35.422Z",
+  "pages": [
+    {
+      "url": "https://mysst.customs.gov.my/",
+      "title": "MySST",
+      "items": [
+        {
+          "label": "See all announcements",
+          "href": "https://mysst.customs.gov.my/announcements/"
+        },
+        {
+          "label": "17/06/2025 Frequently Asked Questions (FAQ) - (FAQ) - Expansion Of Service Tax Scope 2025 More",
+          "href": "https://mysst.customs.gov.my/faq-expansion-of-service-tax-scope-2025/"
+        },
+        {
+          "label": "16/06/2025 Frequently Asked Questions (FAQ) - (FAQ) - Transition Of Sales Tax Rate Changes 2025 More",
+          "href": "https://mysst.customs.gov.my/faq-transition-of-sales-tax-rate-changes-2025/"
+        },
+        {
+          "label": "26/10/2026 Service Tax Policy No. 6/2026 (Amendment No.1) More",
+          "href": "https://mysst.customs.gov.my/service-tax-policy/"
+        },
+        {
+          "label": "22/10/2026 Sales Tax (Imposition Of Sales Tax In Respect Of Designated Areas) (Amendment) Order 2025 More",
+          "href": "https://mysst.customs.gov.my/sst-orders/"
+        },
+        {
+          "label": "07/10/2026 Service Tax Policy No. 6/2026 More",
+          "href": "https://mysst.customs.gov.my/service-tax-policy/"
+        },
+        {
+          "label": "25/09/2026 Service Tax (Imposition Of Tax For Taxable Service In Respect Of Designated Areas Excluding Pulau 1 And Special Areas) (Amendment) Order 2026 More",
+          "href": "https://mysst.customs.gov.my/sst-orders/"
+        },
+        {
+          "label": "21/09/2026 Ketetapan Umum Bil. 6/2026 - Borang, Penyata, Cara Permohonan Dan Kaedah Bayaran Di Bawah Akta Cukai Pelancongan 2017, Akta Cukai Jualan 2018 Dan Akta Cukai Perkhidmatan 2018 More",
+          "href": "https://mysst.customs.gov.my/public-rulings/"
+        },
+        {
+          "label": "09/09/2026 Service Tax Policy No. 5/2026 More",
+          "href": "https://mysst.customs.gov.my/service-tax-policy/"
+        },
+        {
+          "label": "28/08/2026 Sales Tax (Persons Exempted From Sales Tax) (Amendment) (No. 2) Order 2026More",
+          "href": "https://mysst.customs.gov.my/sst-orders/"
+        },
+        {
+          "label": "18/08/2026 Ketetapan Umum Bil. 5/2026 - Penetapan Maksud Penempatan Pekerja Secara Sementara (Secondment Of Employees) Bagi Perkhidmatan PekerjaanMore",
+          "href": "https://mysst.customs.gov.my/public-rulings/"
+        },
+        {
+          "label": "Learn more about SST",
+          "href": "https://mysst.customs.gov.my/understanding-sst/"
+        },
+        {
+          "label": "Infographic Visual overview of key changes under the SST expansion, including affected sectors, new tax scope, and timelines.",
+          "href": "https://mysst.customs.gov.my/expansion-scope-infographic/"
+        },
+        {
+          "label": "Press Release Media communication highlighting the government’s direction, stakeholder impact, and public response to the SST update.",
+          "href": "https://mysst.customs.gov.my/expansion-scope-press-release/"
+        },
+        {
+          "label": "Announcement Official statement from the Royal Malaysian Customs Department outlining the implementation and objectives of SST 2025.",
+          "href": "https://mysst.customs.gov.my/expansion-scope-announcement/"
+        },
+        {
+          "label": "Video Brief explanatory video covering the SST expansion, featuring highlights and guidance for businesses.",
+          "href": "https://mysst.customs.gov.my/expansion-scope-video/"
+        },
+        {
+          "label": "Royal Malaysian Customs Department Providing access to Customs-related services, information, and updates",
+          "href": "https://www.customs.gov.my/ms/pages/utama.aspx"
+        },
+        {
+          "label": "Ministry of Finance Platform for information on national budgets, taxation, financial policies, and MOF services",
+          "href": "https://www.mof.gov.my/ms/"
+        },
+        {
+          "label": "Malaysian Government Tax Management Malaysia’s official online tax management and information system, provided by MOF",
+          "href": "https://mycukai.treasury.gov.my/portal"
+        },
+        {
+          "label": "Service Tax On Digital Services System for administering SToDS provided by foreign-registered service providers (FRPs)",
+          "href": "https://mystods.customs.gov.my/index.php"
+        },
+        {
+          "label": "JKDM HS Explorer Look up HS codes, duty rates, and import/export controls for goods moving through borders",
+          "href": "https://ezhs.customs.gov.my/"
+        },
+        {
+          "label": "eSemakan Online facility provided to apply for a review of the Director General of Customs’ decisions.",
+          "href": "https://esemakan.customs.gov.my/"
+        }
+      ],
+      "lines": [
+        "Skip to content",
+        "Latest Announcements",
+        "See all announcements",
+        "17/06/2025",
+        "Frequently Asked Questions (FAQ) - (FAQ) - Expansion Of Service Tax Scope 2025",
+        "More",
+        "16/06/2025",
+        "Frequently Asked Questions (FAQ) - (FAQ) - Transition Of Sales Tax Rate Changes 2025",
+        "26/10/2026",
+        "Service Tax Policy No. 6/2026 (Amendment No.1)",
+        "22/10/2026",
+        "Sales Tax (Imposition Of Sales Tax In Respect Of Designated Areas) (Amendment) Order 2025",
+        "07/10/2026",
+        "Service Tax Policy No. 6/2026",
+        "25/09/2026",
+        "Service Tax (Imposition Of Tax For Taxable Service In Respect Of Designated Areas Excluding Pulau 1 And Special Areas) (Amendment) Order 2026",
+        "21/09/2026",
+        "Ketetapan Umum Bil. 6/2026 - Borang, Penyata, Cara Permohonan Dan Kaedah Bayaran Di Bawah Akta Cukai Pelancongan 2017, Akta Cukai Jualan 2018 Dan Akta Cukai Perkhidmatan 2018",
+        "09/09/2026",
+        "Service Tax Policy No. 5/2026",
+        "WELCOME TO THE",
+        "Official Website",
+        "Malaysia Sales & Service Tax",
+        "The MySST system is a sales and service tax management system. Sales tax is a single stage tax imposed and levied on taxable goods manufactured in Malaysia by registered persons and sold by them (including disposal and own use) and on the importation of taxable goods into Malaysia. Meanwhile, Service tax is a tax charged and levied on taxable services provided by any taxable person in Malaysia in the course and furtherance of business. Service tax also include imported taxable services by any person into Malaysia for the purpose of business.",
+        "The MySST system was first launched on August 6, 2018, following the implementation of the Sales Tax Act 2018 and Service Tax Act 2018, replacing the Goods and Services Tax Act 2015 (GST), which came into effect on September 1, 2018.",
+        "Learn more about SST",
+        "EXPANSION SCOPE OF",
+        "Sales & Service Tax 2025",
+        "Starting from 1 July 2025, Malaysia’s Sales and Service Tax (SST) framework will be updated to broaden the tax base. This enhancement is part of the government’s effort to strengthen the country’s indirect tax system and ensure long-term revenue sustainability.",
+        "Learn more about SST Expansion",
+        "Infographic",
+        "Visual overview of key changes under the SST expansion, including affected sectors, new tax scope, and timelines.",
+        "Press Release",
+        "Media communication highlighting the government’s direction, stakeholder impact, and public response to the SST update.",
+        "Announcement",
+        "Official statement from the Royal Malaysian Customs Department outlining the implementation and objectives of SST 2025.",
+        "Video",
+        "Brief explanatory video covering the SST expansion, featuring highlights and guidance for businesses.",
+        "Useful Links",
+        "Quick links to services at the Malaysia Sales & Service Tax (SST)",
+        "Royal Malaysian Customs Department",
+        "Providing access to Customs-related services, information, and updates",
+        "Ministry of Finance",
+        "Platform for information on national budgets, taxation, financial policies, and MOF services",
+        "Malaysian Government Tax Management",
+        "Malaysia’s official online tax management and information system, provided by MOF",
+        "Service Tax On Digital Services",
+        "System for administering SToDS provided by foreign-registered service providers (FRPs)",
+        "JKDM HS Explorer",
+        "Look up HS codes, duty rates, and import/export controls for goods moving through borders",
+        "eSemakan",
+        "Online facility provided to apply for a review of the Director General of Customs’ decisions."
+      ]
+    }
+  ]
+}
