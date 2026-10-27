@@ -18,7 +18,7 @@
 #                  forms: track which years are listed for each form
 #                  hasil_forms: HASiL Download Forms search pages; tracks the
 #                  years offered per category and the forms for the newest year
-#   keywords       name of a keyword list below. New items not matching it are left
+#   keywords       name of a keyword list below (or a list of names). New items not matching it are left
 #                  out of the report (but are still saved in the snapshot).
 #   requires_login true: never fetched automatically; listed in every report as
 #                  needing a manual sign-in check.
@@ -85,6 +85,12 @@ keyword_lists:
     - IRB
     - JKDM
     - RMCD
+  finance_acts:
+    - finance act
+    - akta kewangan
+    - finance (no.
+    - kewangan (no.
+    - supplementary supply
   parliament_bills:
     - income tax
     - cukai pendapatan
@@ -149,27 +155,18 @@ sources:
     name: Laws of Malaysia (AGC)
     url: https://lom.agc.gov.my/index.php
     checks:
+      - id: lom-latest
+        section: Latest Acts and P.U. (A) on the home page (tax-relevant, incl. Finance Acts)
+        keywords: [tax, finance_acts]
+        url: https://lom.agc.gov.my/index.php
       - id: lom-principal-acts
-        section: Principal Act
-        keywords: tax
-        discover:
-          from: https://lom.agc.gov.my/index.php
-          link_text: [Principal Act, Principal Acts, Akta Ibu]
-          url_hint: https://lom.agc.gov.my/principal.php?type=updated
+        section: Principal Act (tax-relevant only)
+        keywords: [tax, finance_acts]
+        url: https://lom.agc.gov.my/principal.php?type=original
       - id: lom-pua
         section: List of P.U. (A) (tax-relevant only)
         keywords: tax
-        discover:
-          from: https://lom.agc.gov.my/index.php
-          link_text: [P.U. (A), P.U.(A), List of P.U. (A)]
-          url_hint: https://lom.agc.gov.my/subsid.php?type=pua
-      - id: lom-finance-bill
-        section: Finance Bill (if any)
-        keywords: parliament_bills
-        discover:
-          from: https://lom.agc.gov.my/index.php
-          link_text: [Bills, Rang Undang-Undang]
-          url_hint: https://lom.agc.gov.my/bills.php
+        url: https://lom.agc.gov.my/subsid.php?type=pua
 
   - id: mysst
     name: MySST (Royal Malaysian Customs)

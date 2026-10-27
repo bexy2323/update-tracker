@@ -378,9 +378,13 @@ function diffSnapshots(prev, curr, check, matcher) {
 async function main() {
   const args = parseArgs(process.argv.slice(2));
   const config = yaml.load(fs.readFileSync(path.join(ROOT, 'config', 'sources.yaml'), 'utf8'));
-  const matchers = Object.fromEntries(
-    Object.entries(config.keyword_lists || {}).map(([k, v]) => [k, keywordMatcher(v)]),
-  );
+  for (const source of config.sources) {
+    for (const check of source.checks) {
+      for (const k of [].concat(check.keywords || [])) {
+        if (!config.keyword_lists[k]) throw new Error(`${check.id}: unknown keyword list "${k}"`);
+      }
+    }
+  }
   fs.mkdirSync(SNAP_DIR, { recursive: true });
 
   const id = runId();
@@ -433,7 +437,9 @@ async function main() {
           result.baselined.push({ ...meta, url: snap.url, items: snap.pages.reduce((n, p) => n + p.items.length, 0) });
           console.log('baseline saved');
         } else {
-          const diff = diffSnapshots(previous, snap, check, check.keywords ? matchers[check.keywords] : null);
+          const lists = [].concat(check.keywords || []);
+          const matcher = lists.length ? keywordMatcher(lists.flatMap(k => config.keyword_lists[k])) : null;
+          const diff = diffSnapshots(previous, snap, check, matcher);
           if (diff) {
             result.changed.push({ ...meta, url: snap.url, ...diff });
             console.log('CHANGED');
