@@ -1,0 +1,35 @@
+{
+  "check_id": "mdec-einvoicing",
+  "url": "https://mdec.my/national-einvoicing",
+  "fetched_at": "2026-10-27T05:54:50.334Z",
+  "pages": [
+    {
+      "url": "https://mdec.my/national-einvoicing",
+      "title": "National E-Invoicing Initiative | MDEC",
+      "items": [
+        {
+          "label": "Read more about Peppol",
+          "href": "https://peppol.org/about/"
+        }
+      ],
+      "lines": [
+        "National E-Invoicing Initiative",
+        "A national digitalisation agenda to improve",
+        "business efficiency and productivity.",
+        "CONTACT US NOW",
+        "What are the benefits?",
+        "Boost Business Efficiency",
+        "Streamline invoicing processes, reduce manual work and minimise errors through digital automation.",
+        "Improve Cashflow",
+        "Enable faster, more seamless invoice processing to support timely payments and healthier cash flow.",
+        "Stay Compliant & Connected",
+        "Adopt a secure, interoperable e-Invoicing framework that supports LHDNM compliance and seamless business integration.",
+        "Objective",
+        "The National E-Invoicing Initiative aims to drive interoperable E-Invoicing by digitalising how businesses send invoices to other businesses, allowing different accounting software and Enterprise Resource Planning (ERP) systems to send and receive e-invoices in a system-to-system manner.",
+        "MDEC as Malaysia's Peppol Authority",
+        "As a Peppol Authority, MDEC plays the role of accrediting Malaysia's Peppol service providers and Peppol ready solution providers, specifying local requirements and technical standards, governing the overall Peppol framework compliance and promote the business adoption of E-Invoicing in Malaysia.",
+        "Read more about Peppol"
+      ]
+    }
+  ]
+}

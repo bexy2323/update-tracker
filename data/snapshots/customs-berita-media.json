@@ -1,0 +1,733 @@
+{
+  "check_id": "customs-berita-media",
+  "url": "https://customs.gov.my/ms/arkib/liputan-media",
+  "fetched_at": "2026-10-27T05:53:33.246Z",
+  "pages": [
+    {
+      "url": "https://customs.gov.my/ms/arkib/liputan-media",
+      "title": "Liputan & Media",
+      "items": [
+        {
+          "label": "Laporan Tahunan",
+          "href": "https://www.customs.gov.my/images/penerbitan/laporan-tahunan-jkdm-2023-new.pdf"
+        },
+        {
+          "label": "Pengumuman",
+          "href": "https://customs.gov.my/ms/arkib/pengumuman"
+        },
+        {
+          "label": "Struktur Organisasi",
+          "href": "https://customs.gov.my/ms/korporat/struktur-organisasi"
+        },
+        {
+          "label": "Berita",
+          "href": "https://customs.gov.my/ms/arkib/liputan-media"
+        },
+        {
+          "label": "Soalan Lazim",
+          "href": "https://customs.gov.my/ms/faq/kastam"
+        },
+        {
+          "label": "Pencapaian Piagam Pelanggan",
+          "href": "https://customs.gov.my/ms/korporat/piagam-pelanggan"
+        },
+        {
+          "label": "Maklumat & Lokasi",
+          "href": "https://customs.gov.my/ms/hubungi-kami/jabatan-kastam"
+        },
+        {
+          "label": "Pegawai Keselamatan ICT",
+          "href": "https://www.customs.gov.my/ms/korporat/ketua-pegawai-digital-cdo"
+        },
+        {
+          "label": "ePenyertaan",
+          "href": "https://customs.gov.my/ms/e-perkhidmatan"
+        },
+        {
+          "label": "Tax Stamp",
+          "href": "https://setemcukai.customs.gov.my/tms/"
+        },
+        {
+          "label": "SST 10",
+          "href": "https://gamma.malaysia.gov.my/appdetails/872"
+        },
+        {
+          "label": "Tender & Sebut Harga",
+          "href": "https://customs.gov.my/ms/arkib/tender-sebut-harga"
+        },
+        {
+          "label": "MyGoverment",
+          "href": "https://www.malaysia.gov.my/"
+        },
+        {
+          "label": "Pengumuman Liputan & Media Tender & Sebut Harga",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman"
+        },
+        {
+          "label": "Liputan & Media",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media"
+        },
+        {
+          "label": "Tender & Sebut Harga",
+          "href": "https://www.customs.gov.my/ms/arkib/tender-sebut-harga"
+        },
+        {
+          "label": "THE 30TH JOINT CUSTOMS COMMITTEE (JCC) MEETING FOR THE JOINT DEVELOPMENT AREA (JDA)",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/the-30th-joint-customs-committee-jcc-meeting-for-the-joint-development-area-jda"
+        },
+        {
+          "label": "KUNJUNGAN HORMAT PENGURUSAN TERTINGGI JKDM KE JABATAN IMIGRESEN MALAYSIA",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/kunjungan-hormat-pengurusan-tertinggi-jkdm-ke-jabatan-imigresen-malaysia"
+        },
+        {
+          "label": "PELUPUSAN SECARA HADIAH KEPADA ZOO NEGARA MALAYSIA",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/pelupusan-secara-hadiah-kepada-zoo-negara-malaysia"
+        },
+        {
+          "label": "APEC CUSTOMS BUSINESS DIALOGUE DAN SCCP MEETING MEMPERKUKUH KERJASAMA KASTAM DI PERSADA ANTARABANGSA",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/apec-customs-business-dialogue-dan-sccp-meeting-memperkukuh-kerjasama-kastam-di-persada-antarabangsa"
+        },
+        {
+          "label": "KASTAM PERKUKUH KOMPETENSI PEGAWAI DALAM PELAKSANAAN CUKAI PELANCONGAN BERSEMPENA TAHUN MELAWAT MALAYSIA 2026",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/kastam-perkukuh-kompetensi-pegawai-dalam-pelaksanaan-cukai-pelancongan-bersempena-tahun-melawat-malaysia-2026"
+        },
+        {
+          "label": "MAJLIS MENUAI BAKTI, SEJUTA KENANGAN - TUAN ABU BAKAR @ SALLEH BIN JAMBOL, TIMBALAN KETUA PENGARAH KASTAM (PENGURUSAN), IBU PEJABAT",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/majlis-menuai-bakti-sejuta-kenangan-tuan-abu-bakar-salleh-bin-jambol-timbalan-ketua-pengarah-kastam-pengurusan-ibu-pejabat"
+        },
+        {
+          "label": "SESI KUNJUNGAN HORMAT JABATAN KASTAM DIRAJA MALAYSIA (JKDM) KE PEJABAT TANAH DAN GALIAN (PTG) NEGERI SELANGOR",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/sesi-kunjungan-hormat-jabatan-kastam-diraja-malaysia-jkdm-ke-pejabat-tanah-dan-galian-ptg-negeri-selangor"
+        },
+        {
+          "label": "KUNJUNGAN HORMAT PENGARAH KASTAM NEGERI PULAU PINANG KE ATAS TUAN YANG TERUTAMA YANG DI-PERTUA NEGERI PULAU PINANG",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/kunjungan-hormat-pengarah-kastam-negeri-pulau-pinang-ke-atas-tuan-yang-terutama-yang-di-pertua-negeri-pulau-pinang"
+        },
+        {
+          "label": "ISTIADAT PERBARISAN SEMPENA SAMBUTAN HARI PAHLAWAN TAHUN 2026",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/istiadat-perbarisan-sempena-sambutan-hari-pahlawan-tahun-2026"
+        },
+        {
+          "label": "KUNJUNGAN HORMAT DELEGASI HOMELAND SECURITY INVESTIGATIONS (HSI) & U.S. CUSTOMS AND BORDER PROTECTION (USCBP) PERKUKUH KERJASAMA STRATEGIK KASTAM DAN KESELAMATAN SEMPADAN",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/kunjungan-hormat-delegasi-homeland-security-investigations-hsi-u-s-customs-and-border-protection-uscbp-perkukuh-kerjasama-strategik-kastam-dan-keselamatan-sempadan"
+        },
+        {
+          "label": "RUNDINGAN ASEAN–INDIA TRADE IN GOODS AGREEMENT SUB-COMMITTEE ON CUSTOMS PROCEDURES AND TRADE FACILITATION (AITIGA SC-CPTF)",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/rundingan-asean-india-trade-in-goods-agreement-sub-committee-on-customs-procedures-and-trade-facilitation-aitiga-sc-cptf"
+        },
+        {
+          "label": "THE 13TH MASTER EXEMPTION LIST (MEL) WORKING GROUP MEETING AND 15TH E-JDA CUSTOMS WORKING GROUP MEETING FOR THE JOINT DEVELOPMENT AREA (JDA)",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/the-13th-master-exemption-list-mel-working-group-meeting-and-15th-e-jda-customs-working-group-meeting-for-the-joint-development-area-jda"
+        },
+        {
+          "label": "KUNJUNGAN HORMAT PESURUHJAYA TINGGI KANADA KE MALAYSIA DAN CANADA BORDER SERVICES AGENCY (CBSA) KEPADA KETUA PENGARAH KASTAM",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/kunjungan-hormat-pesuruhjaya-tinggi-kanada-ke-malaysia-dan-canada-border-services-agency-cbsa-kepada-ketua-pengarah-kastam"
+        },
+        {
+          "label": "JKDM IBU PEJABAT TUMPASKAN SINDIKET PENGEDARAN DADAH ANTARABANGSA MELIBATKAN RAMPASAN 4.83 TAN DADAH BERNILAI RM300.72 JUTA",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/jkdm-ibu-pejabat-tumpaskan-sindiket-pengedaran-dadah-antarabangsa-melibatkan-rampasan-4-83-tan-dadah-bernilai-rm300-72-juta"
+        },
+        {
+          "label": "MAJLIS SEMBAH MENGHADAP KETUA PENGARAH KASTAM KE HADAPAN YANG MAHA MULIA (YMM) TENGKU MAHKOTA KELANTAN",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/majlis-sembah-menghadap-ketua-pengarah-kastam-ke-hadapan-yang-maha-mulia-ymm-tengku-mahkota-kelantan"
+        },
+        {
+          "label": "KETUA PENGARAH KASTAM MENGETUAI DELEGASI JKDM KE 35TH ASEAN DIRECTORS-GENERAL OF CUSTOMS MEETING DI KEMBOJA",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/ketua-pengarah-kastam-mengetuai-delegasi-jkdm-ke-35th-asean-directors-general-of-customs-meeting-di-kemboja"
+        },
+        {
+          "label": "JABATAN KASTAM DIRAJA MALAYSIA (JKDM) PERKUKUH KERJASAMA STRATEGIK BERSAMA INDUSTRI PETROLEUM DAN GAS",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/jkdm-perkukuh-kerjasama-strategik-bersama-industri-petroleum-dan-gas"
+        },
+        {
+          "label": "KUNJUNGAN HORMAT DUTA TURKMENISTAN KE ATAS KETUA PENGARAH KASTAM MALAYSIA",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/kunjungan-hormat-duta-turkmenistan-ke-atas-ketua-pengarah-kastam-malaysia"
+        },
+        {
+          "label": "KUNJUNGAN HORMAT YB TIMBALAN MENTERI KEWANGAN KE JABATAN KASTAM DIRAJA MALAYSIA BAGI SESI TAKLIMAT KHAS PROJEK-PROJEK ICT UTAMA DI JKDM",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/kunjungan-hormat-yb-timbalan-menteri-kewangan-ke-jabatan-kastam-diraja-malaysia-bagi-sesi-taklimat-khas-projek-projek-ict-utama-di-jkdm"
+        },
+        {
+          "label": "MAJLIS SEMBAH MENGADAP KE HADAPAN YANG MAHA MULIA PEMANGKU RAJA KELANTAN BAGI MEMPERSEMBAHKAN ALL TERRAIN VEHICLES (ATV) DAN E-BIKE",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/majlis-sembah-mengadap-ke-hadapan-yang-maha-mulia-pemangku-raja-kelantan-bagi-mempersembahkan-all-terrain-vehicles-atv-dan-e-bike"
+        },
+        {
+          "label": "1 2 3 4 5",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=20"
+        },
+        {
+          "label": "1 2 3 4 5",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=40"
+        },
+        {
+          "label": "1 2 3 4 5",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=60"
+        },
+        {
+          "label": "1 2 3 4 5",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=80"
+        },
+        {
+          "label": "Pergi ke halaman seterusnya",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=20"
+        },
+        {
+          "label": "Pergi ke halaman akhir",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=80"
+        },
+        {
+          "label": "Utama",
+          "href": "https://www.customs.gov.my/ms/utama"
+        },
+        {
+          "label": "Perutusan Ketua Pengarah",
+          "href": "https://www.customs.gov.my/ms/korporat/perutusan-ketua-pengarah"
+        },
+        {
+          "label": "Visi, Misi & Slogan",
+          "href": "https://www.customs.gov.my/ms/korporat/visi-misi-slogan"
+        },
+        {
+          "label": "Struktur Organisasi",
+          "href": "https://www.customs.gov.my/ms/korporat/struktur-organisasi"
+        },
+        {
+          "label": "Piagam Pelanggan",
+          "href": "https://www.customs.gov.my/ms/korporat/piagam-pelanggan"
+        },
+        {
+          "label": "Pengurusan Tertinggi Jabatan",
+          "href": "https://www.customs.gov.my/ms/korporat/pengurusan-tertinggi-jabatan"
+        },
+        {
+          "label": "Pengarah Ibu Pejabat/Negeri",
+          "href": "https://www.customs.gov.my/ms/korporat/ibu-pejabat"
+        },
+        {
+          "label": "Ketua Pegawai Digital (CDO)",
+          "href": "https://www.customs.gov.my/ms/korporat/ketua-pegawai-digital-cdo"
+        },
+        {
+          "label": "Sejarah JKDM",
+          "href": "https://www.customs.gov.my/ms/korporat/sejarah-jkdm"
+        },
+        {
+          "label": "Bahagian Penguatkuasaan",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-penguatkuasaan"
+        },
+        {
+          "label": "Bahagian Pengurusan Pematuhan",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-pengurusan-pematuhan"
+        },
+        {
+          "label": "Bahagian Perkastaman",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-perkastaman"
+        },
+        {
+          "label": "Bahagian Cukai Dalam Negeri",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-cukai-dalam-negeri"
+        },
+        {
+          "label": "Bahagian Perkhidmatan Teknik",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-perkhidmatan-teknik"
+        },
+        {
+          "label": "Bahagian Khidmat Pengurusan dan Sumber Manusia",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-khidmat-pengurusan-dan-sumber-manusia"
+        },
+        {
+          "label": "Bahagian Perancangan Korporat",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-perancangan-korporat"
+        },
+        {
+          "label": "Bahagian Perundangan",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-perundangan"
+        },
+        {
+          "label": "Akademi Kastam Diraja Malaysia (AKMAL)",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/akademi-kastam-diraja-malaysia-akmal"
+        },
+        {
+          "label": "Bahagian Teknologi Maklumat",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-teknologi-maklumat"
+        },
+        {
+          "label": "Cawangan Integriti",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/cawangan-integriti"
+        },
+        {
+          "label": "Pelan Strategik JKDM",
+          "href": "https://www.customs.gov.my/ms/korporat/dasar-dan-polisi/pelan-strategik-jkdm"
+        },
+        {
+          "label": "Pelan Antirasuah Organisasi JKDM",
+          "href": "https://www.customs.gov.my/ms/korporat/dasar-dan-polisi/pelan-antirasuah-organisasi-jkdm"
+        },
+        {
+          "label": "Polisi Perlindungan Pemberi Maklumat",
+          "href": "https://www.customs.gov.my/ms/korporat/dasar-dan-polisi/polisi-perlindungan-pemberi-maklumat"
+        },
+        {
+          "label": "Strategi Pembanterasan Rasuah Organisasi (OACS)",
+          "href": "https://www.customs.gov.my/ms/korporat/dasar-dan-polisi/strategi-pembanterasan-rasuah-organisasi-oacs"
+        },
+        {
+          "label": "Prosedur Pengimportan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/import-eksport/import/prosedur-pengimportan"
+        },
+        {
+          "label": "Larangan Import",
+          "href": "https://www.customs.gov.my/ms/perniagaan/import-eksport/import/larangan-import"
+        },
+        {
+          "label": "Larangan Eksport",
+          "href": "https://www.customs.gov.my/ms/perniagaan/import-eksport/eksport/larangan-eksport"
+        },
+        {
+          "label": "Prosedur Pengeksportan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/import-eksport/eksport/prosedur-pengeksportan"
+        },
+        {
+          "label": "Larangan Pemindahan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/import-eksport/eksport/larangan-pemindahan"
+        },
+        {
+          "label": "Larangan PemindahanPengenalan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/import-eksport/eksport/larangan-pemindahan/pengenalan"
+        },
+        {
+          "label": "Malaysia National Trade Repository (MNTR)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/malaysia-national-trade-repository"
+        },
+        {
+          "label": "Authorised Economic Operator (AEO)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/authorised-economic-operator-aeo"
+        },
+        {
+          "label": "ASEAN Customs Transit System (ACTS)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/asean-customs-transit-system-acts"
+        },
+        {
+          "label": "Zon BebasPendahuluanPengecualian Barang-Barang Dari Taraf BebasSenarai Zon Bebas & Pihak Berkuasa Zon BebasTatacara Penubuhan dan Pewartaan Zon BebasPengikraran Borang di Zon BebasPanduan Aktiviti Tambah Nilai di ZPBPanduan Borang Pentadbiran",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/pendahuluan"
+        },
+        {
+          "label": "PendahuluanPengecualian Barang-Barang Dari Taraf BebasSenarai Zon Bebas & Pihak Berkuasa Zon BebasTatacara Penubuhan dan Pewartaan Zon BebasPengikraran Borang di Zon BebasPanduan Aktiviti Tambah Nilai di ZPBPanduan Borang Pentadbiran",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/pendahuluan"
+        },
+        {
+          "label": "Pengecualian Barang-Barang Dari Taraf Bebas",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/pengecualian-barang-barang-dari-taraf-bebas"
+        },
+        {
+          "label": "Senarai Zon Bebas & Pihak Berkuasa Zon Bebas",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/senarai-zon-bebas-pihak-berkuasa-zon-bebas"
+        },
+        {
+          "label": "Tatacara Penubuhan dan Pewartaan Zon Bebas",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/tatacara-penubuhan-dn-pewartaan-zon-bebas"
+        },
+        {
+          "label": "Pengikraran Borang di Zon Bebas",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/pengikraran-borang-di-zon-bebas"
+        },
+        {
+          "label": "Panduan Aktiviti Tambah Nilai di ZPB",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/panduan-aktiviti-tambah-nilai-di-zpb"
+        },
+        {
+          "label": "Panduan Borang Pentadbiran",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/panduan-borang-pentadbiran"
+        },
+        {
+          "label": "Pengangkut Berlesen",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengangkut-berlesen/pengenalan-pengangkut-berlesen"
+        },
+        {
+          "label": "PengenalanPelesenanBorangGaris PanduanSenarai Syarikat",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengangkut-berlesen/pengenalan-pengangkut-berlesen"
+        },
+        {
+          "label": "PengenalanPelesenanBorangGaris PanduanSenarai Syarikat",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengangkut-berlesen/pelesenan-pengangkut-berlesen"
+        },
+        {
+          "label": "PengenalanPelesenanBorangGaris PanduanSenarai Syarikat",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengangkut-berlesen/borang-pengangkut-berlesen"
+        },
+        {
+          "label": "Garis Panduan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengangkut-berlesen/garis-panduan-pengangkut-berlesen"
+        },
+        {
+          "label": "Senarai Syarikat",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengangkut-berlesen/senarai-syarikat-pengangkut-berlesen"
+        },
+        {
+          "label": "Gudang Pengilangan Berlesen (GPB)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/pengenalan"
+        },
+        {
+          "label": "Pengenalan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/pengenalan"
+        },
+        {
+          "label": "Pelesenan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/perlesenan"
+        },
+        {
+          "label": "Duti Import dan Cukai Jualan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/duti-import-dan-cukai-jualan"
+        },
+        {
+          "label": "Subkontrak",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/subkontrak"
+        },
+        {
+          "label": "Kemudahan di Bawah Perlesenan GPB",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/kemudahan-di-bawah-perlesenan-gpb/jualan-tempatan"
+        },
+        {
+          "label": "Jualan Tempatan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/kemudahan-di-bawah-perlesenan-gpb/jualan-tempatan"
+        },
+        {
+          "label": "Eksport Melalui Pihak Ke Tiga Dan Drop Shipment",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/kemudahan-di-bawah-perlesenan-gpb/eksport-melalui-pihak-ke-tiga-dan-drop-shipment"
+        },
+        {
+          "label": "Return Cargo",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/kemudahan-di-bawah-perlesenan-gpb/return-cargo"
+        },
+        {
+          "label": "PelupusanMesin dan Peralatan Waste, Scrap, Bahan Mentah & Barang Siap Rosak",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/pelupusan/mesin-dan-peralatan"
+        },
+        {
+          "label": "Mesin dan Peralatan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/pelupusan/mesin-dan-peralatan"
+        },
+        {
+          "label": "Waste, Scrap, Bahan Mentah & Barang Siap Rosak",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/pelupusan/waste-scrap-bahan-mentah-barang-siap-rosak"
+        },
+        {
+          "label": "Kebakaran, Bencana Alam dan Kehilangan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/kebakaran-bencana-alam-dan-kehilangan"
+        },
+        {
+          "label": "Tanggungjawab GPB",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/tanggungjawab-gpb"
+        },
+        {
+          "label": "Lampiran-Lampiran",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/lampiran-lampiran"
+        },
+        {
+          "label": "Panduan Berkaitan Pelesenan GPB",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/panduan-berkaitan-pelesenan-gpb/eksport-bahan-mentah-dan-bahan-pembungkusan-yang-diperlolehi-dengan-pengecualian-duti-dan-cukai"
+        },
+        {
+          "label": "Eksport Bahan Mentah dan Bahan Pembungkusan yang Diperlolehi dengan Pengecualian Duti dan Cukai",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/panduan-berkaitan-pelesenan-gpb/eksport-bahan-mentah-dan-bahan-pembungkusan-yang-diperlolehi-dengan-pengecualian-duti-dan-cukai"
+        },
+        {
+          "label": "Kelulusan Aktiviti Tambah Nilai Serta Peluasan Skop Aktiviti Tambahan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/panduan-berkaitan-pelesenan-gpb/kelulusan-aktiviti-tambah-nilai-serta-peluasan-skop-aktiviti-tambahan"
+        },
+        {
+          "label": "FAQ",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/faq-gpb"
+        },
+        {
+          "label": "Gudang Berlesen",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-berlesen/pengenalan-gudang-berlesen"
+        },
+        {
+          "label": "PengenalanPelesenanAktiviti yang DibenarkanPanduan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-berlesen/pengenalan-gudang-berlesen"
+        },
+        {
+          "label": "PengenalanPelesenanAktiviti yang DibenarkanPanduan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-berlesen/pelesenan-gudang-berlesen"
+        },
+        {
+          "label": "Aktiviti yang Dibenarkan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-berlesen/aktiviti-yang-dibenarkan"
+        },
+        {
+          "label": "PengenalanPelesenanAktiviti yang DibenarkanPanduan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-berlesen/panduan"
+        },
+        {
+          "label": "Pengecualian Duti/Cukai",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengecualian-duti-cukai/bahan-mentah-komponen"
+        },
+        {
+          "label": "Bahan Mentah/Komponen",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengecualian-duti-cukai/bahan-mentah-komponen"
+        },
+        {
+          "label": "Mesin/Peralatan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengecualian-duti-cukai/mesin-peralatan"
+        },
+        {
+          "label": "Tuntutan Pulang Balik",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/tuntutan-pulang-balik/seksyen-93-akta-kastam-1967"
+        },
+        {
+          "label": "Seksyen 93 Akta Kastam 1967",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/tuntutan-pulang-balik/seksyen-93-akta-kastam-1967"
+        },
+        {
+          "label": "Seksyen 99 Akta Kastam 1967",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/tuntutan-pulang-balik/seksyen-99-akta-kastam-1967"
+        },
+        {
+          "label": "ATA Carnet",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/ata-carnet"
+        },
+        {
+          "label": "Rules of Origin (ROO)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/rules-of-origin-roo/faq-ketetapan-kastam-tempat-asal"
+        },
+        {
+          "label": "FAQ Ketetapan Kastam Tempat Asal",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/rules-of-origin-roo/faq-ketetapan-kastam-tempat-asal"
+        },
+        {
+          "label": "FAQ Rules Of Origin",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/rules-of-origin-roo/faq-rules-of-origin-roo"
+        },
+        {
+          "label": "Kemudahan Partial K8",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/kemudahan-partial-kb"
+        },
+        {
+          "label": "Import Sementara",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/import-sementara"
+        },
+        {
+          "label": "Eksport Sementara",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/eksport-sementara"
+        },
+        {
+          "label": "Electronic Pre-Alert Manifest (ePAM)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/electronic-pre-alert-manifest-epam"
+        },
+        {
+          "label": "Pre-Arrival Processing (PAP)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pre-arrival-processing-pap"
+        },
+        {
+          "label": "JAMINAN",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/jaminan"
+        },
+        {
+          "label": "Apa Itu Eksais ?",
+          "href": "https://www.customs.gov.my/ms/perniagaan/eksais/apa-itu-eksais"
+        },
+        {
+          "label": "Permohonan Lesen",
+          "href": "https://www.customs.gov.my/ms/perniagaan/eksais/permohonan-lesen"
+        },
+        {
+          "label": "Pergerakan Barangan Berduti Eksais",
+          "href": "https://www.customs.gov.my/ms/perniagaan/eksais/pergerakan-barangan-berduti-eksais"
+        },
+        {
+          "label": "Tatacara Menuntut Pengecualian",
+          "href": "https://www.customs.gov.my/ms/perniagaan/eksais/tatacara-menuntut-pengecualian"
+        },
+        {
+          "label": "Kaedah Kawalan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/eksais/kaedah-kawalan"
+        },
+        {
+          "label": "Peraturan dan Garis Panduan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/eksais/peraturan-dan-garis-panduan"
+        },
+        {
+          "label": "Levi",
+          "href": "https://www.customs.gov.my/ms/perniagaan/levi"
+        },
+        {
+          "label": "Ejen Kastam",
+          "href": "https://www.customs.gov.my/ms/perniagaan/ejen-kastam"
+        },
+        {
+          "label": "Petroleum",
+          "href": "https://www.customs.gov.my/ms/perniagaan/petroleum"
+        },
+        {
+          "label": "Borang Kastam No. 7 (K7)",
+          "href": "https://www.customs.gov.my/images/05-individu/pelancong/borang-kastam-no.7-lampiran-a.pdf"
+        },
+        {
+          "label": "Pengisytiharaan Wang Tunai dan Instrumen Boleh Niaga Pembawa (IBNP) Untuk Pengembara yang Masuk/Keluar dari Malaysia",
+          "href": "https://www.customs.gov.my/images/05-individu/pelancong/5mac-BM-Pamplet-Cash-Declarations-new.pdf"
+        },
+        {
+          "label": "Pengikraran STA untuk Pengembara",
+          "href": "https://www.customs.gov.my/ms/individu/pengembara/pengikraran-sta-untuk-pengembara"
+        },
+        {
+          "label": "Larangan Import dan Eksport",
+          "href": "https://www.customs.gov.my/ms/individu/pengembara/larangan-import-dan-eksport"
+        },
+        {
+          "label": "Panduan Perjalanan",
+          "href": "https://www.customs.gov.my/ms/individu/pengembara/panduan-perjalanan"
+        },
+        {
+          "label": "Cukai Pelancongan",
+          "href": "https://www.myttx.customs.gov.my/ms/"
+        },
+        {
+          "label": "Pengembara Borang Kastam No. 7 (K7)Pengisytiharaan Wang Tunai dan Instrumen Boleh Niaga Pembawa (IBNP) Untuk Pengembara yang Masuk/Keluar dari MalaysiaPengikraran STA untuk PengembaraLarangan Import dan EksportPanduan PerjalananCukai PelanconganATA Carnet",
+          "href": "https://www.customs.gov.my/ms/individu/ata-carnet"
+        },
+        {
+          "label": "Ketetapan Umum",
+          "href": "https://www.customs.gov.my/ms/prosedur/ketetapan-umum"
+        },
+        {
+          "label": "KastamEksaisZon BebasLeviLevi Keuntungan Luar BiasaLevi Pelepasan",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkastaman/kastam"
+        },
+        {
+          "label": "KastamEksaisZon BebasLeviLevi Keuntungan Luar BiasaLevi Pelepasan",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkastaman/eksais"
+        },
+        {
+          "label": "KastamEksaisZon BebasLeviLevi Keuntungan Luar BiasaLevi Pelepasan",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkastaman/zon-bebas"
+        },
+        {
+          "label": "LeviLevi Keuntungan Luar BiasaLevi Pelepasan",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkastaman/levi"
+        },
+        {
+          "label": "Levi Keuntungan Luar Biasa",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkastaman/levi/levi-keuntungan-luar-biasa"
+        },
+        {
+          "label": "Levi Pelepasan",
+          "href": "https://mydlv.customs.gov.my/www/"
+        },
+        {
+          "label": "Warta Kerajaan",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkastaman/kastam"
+        },
+        {
+          "label": "Cukai Jualan",
+          "href": "https://mysst.customs.gov.my/"
+        },
+        {
+          "label": "Cukai Perkhidmatan",
+          "href": "https://mysst.customs.gov.my/"
+        },
+        {
+          "label": "Cukai Pelancongan",
+          "href": "https://www.myttx.customs.gov.my/"
+        },
+        {
+          "label": "Lain-Lain Akta",
+          "href": "https://www.customs.gov.my/ms/prosedur/warta-kerajaan/lain-lain"
+        },
+        {
+          "label": "Perkhidmatan Teknik",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkhidmatan-teknik"
+        },
+        {
+          "label": "Ketetapan Kastam",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkhidmatan-teknik/ketetapan-kastam"
+        },
+        {
+          "label": "Pengurusan Pematuhan",
+          "href": "https://www.customs.gov.my/ms/prosedur/pengurusan-pematuhan"
+        },
+        {
+          "label": "Penguatkuasaan",
+          "href": "https://www.customs.gov.my/ms/prosedur/penguatkuasaan"
+        },
+        {
+          "label": "Teknologi Maklumat",
+          "href": "https://www.customs.gov.my/ms/prosedur/teknologi-maklumat"
+        },
+        {
+          "label": "Pekeliling Kewangan",
+          "href": "https://www.customs.gov.my/ms/prosedur/pekeliling-kewangan"
+        },
+        {
+          "label": "SyahbandarLaporan Tahunan JKDM",
+          "href": "https://www.customs.gov.my/ms/penerbitan/syahbandar-2022"
+        },
+        {
+          "label": "Laporan Tahunan JKDM",
+          "href": "https://www.customs.gov.my/ms/penerbitan/laporan-laporan-tahunan-jkdm"
+        },
+        {
+          "label": "PengumumanLiputan & MediaTender & Sebut Harga",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman"
+        },
+        {
+          "label": "Jabatan Kastam",
+          "href": "https://www.customs.gov.my/ms/hubungi-kami/jabatan-kastam"
+        }
+      ],
+      "lines": [
+        "Liputan & Media",
+        "Arkib",
+        "Pengumuman",
+        "Tender & Sebut Harga",
+        "Papar #",
+        "100",
+        "Semua",
+        "TAJUK TARIKH TERBITAN BILANGAN KUNJUNGAN",
+        "THE 30TH JOINT CUSTOMS COMMITTEE (JCC) MEETING FOR THE JOINT DEVELOPMENT AREA (JDA)",
+        "08 Oktober 2026 317 hit(s)",
+        "KUNJUNGAN HORMAT PENGURUSAN TERTINGGI JKDM KE JABATAN IMIGRESEN MALAYSIA",
+        "25 September 2026 747 hit(s)",
+        "PELUPUSAN SECARA HADIAH KEPADA ZOO NEGARA MALAYSIA",
+        "07 September 2026 977 hit(s)",
+        "APEC CUSTOMS BUSINESS DIALOGUE DAN SCCP MEETING MEMPERKUKUH KERJASAMA KASTAM DI PERSADA ANTARABANGSA",
+        "28 Ogos 2026 1191 hit(s)",
+        "KASTAM PERKUKUH KOMPETENSI PEGAWAI DALAM PELAKSANAAN CUKAI PELANCONGAN BERSEMPENA TAHUN MELAWAT MALAYSIA 2026",
+        "27 Ogos 2026 1030 hit(s)",
+        "MAJLIS MENUAI BAKTI, SEJUTA KENANGAN - TUAN ABU BAKAR @ SALLEH BIN JAMBOL, TIMBALAN KETUA PENGARAH KASTAM (PENGURUSAN), IBU PEJABAT",
+        "17 Ogos 2026 605 hit(s)",
+        "SESI KUNJUNGAN HORMAT JABATAN KASTAM DIRAJA MALAYSIA (JKDM) KE PEJABAT TANAH DAN GALIAN (PTG) NEGERI SELANGOR",
+        "12 Ogos 2026 1601 hit(s)",
+        "KUNJUNGAN HORMAT PENGARAH KASTAM NEGERI PULAU PINANG KE ATAS TUAN YANG TERUTAMA YANG DI-PERTUA NEGERI PULAU PINANG",
+        "10 Ogos 2026 1149 hit(s)",
+        "ISTIADAT PERBARISAN SEMPENA SAMBUTAN HARI PAHLAWAN TAHUN 2026",
+        "31 Julai 2026 1943 hit(s)",
+        "KUNJUNGAN HORMAT DELEGASI HOMELAND SECURITY INVESTIGATIONS (HSI) & U.S. CUSTOMS AND BORDER PROTECTION (USCBP) PERKUKUH KERJASAMA STRATEGIK KASTAM DAN KESELAMATAN SEMPADAN",
+        "28 Julai 2026 795 hit(s)",
+        "RUNDINGAN ASEAN–INDIA TRADE IN GOODS AGREEMENT SUB-COMMITTEE ON CUSTOMS PROCEDURES AND TRADE FACILITATION (AITIGA SC-CPTF)",
+        "16 Julai 2026 2346 hit(s)",
+        "THE 13TH MASTER EXEMPTION LIST (MEL) WORKING GROUP MEETING AND 15TH E-JDA CUSTOMS WORKING GROUP MEETING FOR THE JOINT DEVELOPMENT AREA (JDA)",
+        "15 Julai 2026 2402 hit(s)",
+        "KUNJUNGAN HORMAT PESURUHJAYA TINGGI KANADA KE MALAYSIA DAN CANADA BORDER SERVICES AGENCY (CBSA) KEPADA KETUA PENGARAH KASTAM",
+        "13 Julai 2026 1905 hit(s)",
+        "JKDM IBU PEJABAT TUMPASKAN SINDIKET PENGEDARAN DADAH ANTARABANGSA MELIBATKAN RAMPASAN 4.83 TAN DADAH BERNILAI RM300.72 JUTA",
+        "02 Julai 2026 2654 hit(s)",
+        "MAJLIS SEMBAH MENGHADAP KETUA PENGARAH KASTAM KE HADAPAN YANG MAHA MULIA (YMM) TENGKU MAHKOTA KELANTAN",
+        "18 Jun 2026 3033 hit(s)",
+        "KETUA PENGARAH KASTAM MENGETUAI DELEGASI JKDM KE 35TH ASEAN DIRECTORS-GENERAL OF CUSTOMS MEETING DI KEMBOJA",
+        "18 Jun 2026 3995 hit(s)",
+        "JABATAN KASTAM DIRAJA MALAYSIA (JKDM) PERKUKUH KERJASAMA STRATEGIK BERSAMA INDUSTRI PETROLEUM DAN GAS",
+        "12 Jun 2026 2110 hit(s)",
+        "KUNJUNGAN HORMAT DUTA TURKMENISTAN KE ATAS KETUA PENGARAH KASTAM MALAYSIA",
+        "12 Jun 2026 1873 hit(s)",
+        "KUNJUNGAN HORMAT YB TIMBALAN MENTERI KEWANGAN KE JABATAN KASTAM DIRAJA MALAYSIA BAGI SESI TAKLIMAT KHAS PROJEK-PROJEK ICT UTAMA DI JKDM",
+        "20 Mei 2026 2757 hit(s)",
+        "MAJLIS SEMBAH MENGADAP KE HADAPAN YANG MAHA MULIA PEMANGKU RAJA KELANTAN BAGI MEMPERSEMBAHKAN ALL TERRAIN VEHICLES (ATV) DAN E-BIKE",
+        "11 Mei 2026 2480 hit(s)",
+        "Laman 1 daripada 5",
+        "Keputusan 1 - 20 daripada 81"
+      ]
+    }
+  ]
+}

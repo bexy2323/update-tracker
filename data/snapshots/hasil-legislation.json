@@ -1,0 +1,60 @@
+{
+  "check_id": "hasil-legislation",
+  "url": "https://www.hasil.gov.my/en/perundangan/",
+  "fetched_at": "2026-10-27T06:03:25.812Z",
+  "pages": [
+    {
+      "url": "https://www.hasil.gov.my/en/perundangan/",
+      "title": "Akta",
+      "items": [
+        {
+          "label": "Muat Turun (4.37 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+        },
+        {
+          "label": "Muat Turun (933.36 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20240101-akta-setem-1949-akta-378.pdf"
+        },
+        {
+          "label": "Muat Turun (829.25 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20230601-akta-cukai-keuntungan-harta-tanah-1976-akta-169.pdf"
+        },
+        {
+          "label": "Muat Turun (315.46 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20240101-akta-cukai-aktiviti-perniagaan-labuan-1990-akta-445.pdf"
+        },
+        {
+          "label": "Muat Turun (1.22 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Akta-Petroleum-Cukai-Pendapatan-1967-Akta-543-SEBAGAIMANA-1-JANUARI-2026.pdf"
+        },
+        {
+          "label": "Muat Turun (878.95 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20220101-akta-penggalakan-pelaburan-1986-akta-327.pdf"
+        }
+      ],
+      "lines": [
+        "Skip to content",
+        "Perundangan",
+        "Akta",
+        "Akta Cukai Pendapatan 1967 (Akta 53)​",
+        "Sebagaimana dikemaskini pada 21 Mei 2024",
+        "Muat Turun",
+        "(4.37 MB)",
+        "Akta Setem 1949 (Akta 378)​",
+        "Sebagaimana dikemaskini pada 1 Januari 2024",
+        "(933.36 KB)",
+        "Akta Cukai Keuntungan Harta Tanah 1976 (Akta 169) ​",
+        "Sebagaimana dikemaskini pada 1 Jun 2023",
+        "(829.25 KB)",
+        "Akta Cukai Aktiviti Perniagaan Labuan 1990 (Akta 445)",
+        "(315.46 KB)",
+        "Akta Petroleum (Cukai Pendapatan) 1967 (Akta 543)",
+        "Sebagaimana dikemaskini pada 1 Januari 2026",
+        "(1.22 MB)",
+        "Akta Penggalakan Pelaburan 1986 (Akta 327)​",
+        "Sebagaimana dikemaskini pada 1 Januari 2022",
+        "(878.95 KB)"
+      ]
+    }
+  ]
+}

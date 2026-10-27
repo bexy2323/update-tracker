@@ -1,0 +1,219 @@
+{
+  "run_id": "2026-10-27_1350",
+  "started_at": "2026-10-27T05:50:15.645Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "MySToDS (Service Tax on Digital Services)",
+      "check_id": "mystods-bulletin",
+      "section": "Bulletin Board",
+      "url": "https://mystods.customs.gov.my/",
+      "new_items": [
+        {
+          "page": "https://mystods.customs.gov.my/",
+          "label": "Welcome to MySToDS - REGISTRATION",
+          "href": "https://www.youtube.com/watch?v=9UmS_psydP8"
+        },
+        {
+          "page": "https://mystods.customs.gov.my/",
+          "label": "Sharul Nizam",
+          "href": "https://www.youtube.com/channel/UCdJqrzSsT7Bt9ME0vBp5law"
+        },
+        {
+          "page": "https://mystods.customs.gov.my/",
+          "label": "Watch on",
+          "href": "https://www.youtube.com/watch?v=9UmS_psydP8"
+        }
+      ],
+      "removed_items": [],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-latest-announcements",
+      "section": "Pengumuman Terkini (Latest Announcements)",
+      "url": "https://mysst.customs.gov.my/"
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-announcements",
+      "section": "All announcements",
+      "url": "https://mysst.customs.gov.my/announcements/"
+    },
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "url": "https://mytax.hasil.gov.my/"
+    }
+  ],
+  "baselined": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-announcements",
+      "section": "Home > Pengumuman (Announcements)",
+      "url": "https://www.hasil.gov.my/en/butiran-media/?item=cGVuZ3VtdW1hbnwxMTM=",
+      "items": 1
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/mengenai-e-invois-manfaatnya/",
+      "items": 0
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (form years listed)",
+      "url": "https://www.hasil.gov.my/en/borang/muat-turun-borang/",
+      "items": 0
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-transfer-pricing",
+      "section": "Transfer Pricing",
+      "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/",
+      "items": 26
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-pua",
+      "section": "List of P.U. (A) (tax-relevant only)",
+      "url": "https://lom.agc.gov.my/subsid.php?type=pua",
+      "items": 1
+    },
+    {
+      "source": "Ministry of Finance",
+      "check_id": "mof-news",
+      "section": "News (tax-relevant only)",
+      "url": "https://www.mof.gov.my/portal/en/news",
+      "items": 41
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-pengumuman",
+      "section": "Pengumuman (Announcements)",
+      "url": "https://customs.gov.my/ms/arkib/pengumuman",
+      "items": 170
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-berita-media",
+      "section": "Berita dan Media (News and Media)",
+      "url": "https://customs.gov.my/ms/arkib/liputan-media",
+      "items": 167
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news",
+      "section": "Technical News",
+      "url": "https://www.ctim.org.my/",
+      "items": 15
+    },
+    {
+      "source": "Rahmat Lim & Partners (RDS) - Tax Focus",
+      "check_id": "rds-tax-focus",
+      "section": "Tax Focus publications (for the monthly update class)",
+      "url": "https://www.rdslawpartners.com/publications/categories/tax-focus",
+      "items": 9
+    },
+    {
+      "source": "MDEC - National e-Invoicing",
+      "check_id": "mdec-einvoicing",
+      "section": "New Updates (Peppol-Ready Solution)",
+      "url": "https://mdec.my/national-einvoicing",
+      "items": 1
+    },
+    {
+      "source": "MIDA - Announcements & Media Releases",
+      "check_id": "mida-announcements",
+      "section": "Announcements & media releases (tax-relevant only)",
+      "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/",
+      "items": 710
+    }
+  ],
+  "needs_login": [
+    {
+      "source": "HASiL Facebook page",
+      "check_id": "hasil-facebook",
+      "section": "Facebook posts",
+      "url": "https://www.facebook.com/HASiLMalaysia"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-ectim",
+      "section": "eCTIM",
+      "url": "https://www.ctim.org.my/"
+    },
+    {
+      "source": "CCH iKnowConnect (Malaysia)",
+      "check_id": "cch-news",
+      "section": "Latest news and articles",
+      "url": "https://iknowconnect.cch.com/MYS/home"
+    }
+  ],
+  "errors": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-media-statements",
+      "section": "Home > Kenyataan Media (Media Statements)",
+      "url": "https://www.hasil.gov.my/en/media-statement/",
+      "error": "HTTP 404"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-myinvois-epos",
+      "section": "Pautan Popular > MyInvois e-POS",
+      "url": "https://www.hasil.gov.my/en/e-invoice/myinvois-e-pos/",
+      "error": "HTTP 404"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-return-form-filing-programme",
+      "section": "Forms > Return Form Filing Programme",
+      "url": "https://www.hasil.gov.my/en/forms/return-form-filing-programme/",
+      "error": "HTTP 404"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/legislation/",
+      "error": "HTTP 404"
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-principal-acts",
+      "section": "Principal Act",
+      "url": "https://lom.agc.gov.my/principal.php?type=updated",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-finance-bill",
+      "section": "Finance Bill (if any)",
+      "url": "https://lom.agc.gov.my/bills.php",
+      "error": "HTTP 404"
+    },
+    {
+      "source": "Parliament of Malaysia - Dewan Rakyat bills",
+      "check_id": "parlimen-bills",
+      "section": "Bills (Income Tax Act and Finance Bills only)",
+      "url": "https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "HRD Corp - Circulars",
+      "check_id": "hrdcorp-circulars",
+      "section": "Circulars",
+      "url": "https://hrdcorp.gov.my/circulars",
+      "error": "HTTP 403"
+    }
+  ],
+  "finished_at": "2026-10-27T05:55:51.920Z"
+}

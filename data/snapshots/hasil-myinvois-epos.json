@@ -1,0 +1,24 @@
+{
+  "check_id": "hasil-myinvois-epos",
+  "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/",
+  "fetched_at": "2026-10-27T06:02:42.704Z",
+  "pages": [
+    {
+      "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/",
+      "title": "Mengenai MyInvois e-POS",
+      "items": [
+        {
+          "label": "(215.26 KB) (215.26 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Guideline-myinvois-epos-faqs.pdf"
+        }
+      ],
+      "lines": [
+        "Skip to content",
+        "MyInvois e-POS",
+        "About MyInvois e-POS",
+        "(215.26 KB)",
+        "MyInvois e-POS System is a digital Point-of-Sale (POS) platform specifically provided by HASiL and is available free of charge to micro, small and medium enterprises to enhance business operational efficiency and meet the requirements for e-Invoice implementation. In addition to features for sales management, accounting, inventory management and financial reporting, the MyInvois e-POS System also allows sellers to generate e-Invoices directly during transactions with buyers or buyers may request e-Invoice from the seller after the transaction is completed. With its wide range of features, the MyInvois e-POS System serves as a complementary tool in supporting the business ecosystem and strengthening the implementation of e-Invoices in Malaysia."
+      ]
+    }
+  ]
+}

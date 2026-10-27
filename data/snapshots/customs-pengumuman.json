@@ -1,0 +1,745 @@
+{
+  "check_id": "customs-pengumuman",
+  "url": "https://customs.gov.my/ms/arkib/pengumuman",
+  "fetched_at": "2026-10-27T05:53:21.702Z",
+  "pages": [
+    {
+      "url": "https://customs.gov.my/ms/arkib/pengumuman",
+      "title": "Pengumuman",
+      "items": [
+        {
+          "label": "Laporan Tahunan",
+          "href": "https://www.customs.gov.my/images/penerbitan/laporan-tahunan-jkdm-2023-new.pdf"
+        },
+        {
+          "label": "Pengumuman",
+          "href": "https://customs.gov.my/ms/arkib/pengumuman"
+        },
+        {
+          "label": "Struktur Organisasi",
+          "href": "https://customs.gov.my/ms/korporat/struktur-organisasi"
+        },
+        {
+          "label": "Berita",
+          "href": "https://customs.gov.my/ms/arkib/liputan-media"
+        },
+        {
+          "label": "Soalan Lazim",
+          "href": "https://customs.gov.my/ms/faq/kastam"
+        },
+        {
+          "label": "Pencapaian Piagam Pelanggan",
+          "href": "https://customs.gov.my/ms/korporat/piagam-pelanggan"
+        },
+        {
+          "label": "Maklumat & Lokasi",
+          "href": "https://customs.gov.my/ms/hubungi-kami/jabatan-kastam"
+        },
+        {
+          "label": "Pegawai Keselamatan ICT",
+          "href": "https://www.customs.gov.my/ms/korporat/ketua-pegawai-digital-cdo"
+        },
+        {
+          "label": "ePenyertaan",
+          "href": "https://customs.gov.my/ms/e-perkhidmatan"
+        },
+        {
+          "label": "Tax Stamp",
+          "href": "https://setemcukai.customs.gov.my/tms/"
+        },
+        {
+          "label": "SST 10",
+          "href": "https://gamma.malaysia.gov.my/appdetails/872"
+        },
+        {
+          "label": "Tender & Sebut Harga",
+          "href": "https://customs.gov.my/ms/arkib/tender-sebut-harga"
+        },
+        {
+          "label": "MyGoverment",
+          "href": "https://www.malaysia.gov.my/"
+        },
+        {
+          "label": "Pengumuman Liputan & Media Tender & Sebut Harga",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman"
+        },
+        {
+          "label": "Liputan & Media",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media"
+        },
+        {
+          "label": "Tender & Sebut Harga",
+          "href": "https://www.customs.gov.my/ms/arkib/tender-sebut-harga"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN TAWARAN SEBUTHARGA PELUPUSAN BARANG LUCUTHAK KASTAM DIRAJA MALAYSIA SELANGOR BIL.35 / 2026 HINGGA BIL. 41 / 2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tawaran-sebutharga-pelupusan-barang-lucuthak-kastam-diraja-malaysia-selangor-bil-35-2026-hingga-bil-41-2026"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN TAWARAN SEBUT HARGA PELUPUSAN BARANG LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA MELAKA BIL.3/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tawaran-sebut-harga-pelupusan-barang-lucut-hak-jabatan-kastam-diraja-malaysia-melaka-bil-3-2026"
+        },
+        {
+          "label": "NOTIS PEMAKLUMAN PERUBAHAN DASAR PENGANGKUT BERLESEN",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-pemakluman-perubahan-dasar-pengangkut-berlesen"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN TENDER SARANG BURUNG JABATAN KASTAM DIRAJA MALAYSIA LTA KUALA LUMPUR BIL.4/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tender-sarang-burung-jabatan-kastam-diraja-malaysia-lta-kuala-lumpur-bil-4-2026"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN TENDER BERSEPADU KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA BIL. 2/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tender-bersepadu-kenderaan-lucut-hak-jabatan-kastam-diraja-malaysia-bil-2-2026"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN SEBUTHARGA BARANG LUCUTHAK KASTAM (ALUMINIUM SCRAP) BIL.4/2026 DAN (KENDERAAN) BIL.5/2026 JABATAN KASTAM DIRAJA MALAYSIA WILAYAH PERSEKUTUAN KUALA LUMPUR",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-sebutharga-barang-lucuthak-kastam-aluminium-scrap-bil-4-2026-dan-kenderaan-bil-5-2026-jabatan-kastam-diraja-malaysia-wilayah-persekutuan-kuala-lumpur"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN TAWARAN SEBUT HARGA PELUPUSAN BARANG LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI SELANGOR BIL. 20/2026 HINGGA BIL. 34/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tawaran-sebut-harga-pelupusan-barang-lucut-hak-jabatan-kastam-diraja-malaysia-negeri-selangor-bil-20-2026-hingga-bil-34-2026"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN TAWARAN TENDER PELUPUSAN BARANG LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI SELANGOR BIL. 4/2026 HINGGA BIL. 6/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tawaran-tender-pelupusan-barang-lucuthak-kastam-selangor-bil-4-2026-hingga-bil-6-2026"
+        },
+        {
+          "label": "KEPUTUSAN SEBUT HARGA PELUPUSAN ASET ALIH JABATAN KASTAM DIRAJA MALAYSIA NEGERI TERENGGANU BIL. 4/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/keputusan-sebut-harga-pelupusan-aset-alih-jabatan-kastam-diraja-malaysia-negeri-terengganu-bil-4-2026"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN SEBUT HARGA JUALAN (BERAS) LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI KELANTAN BIL. 4/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-sebut-harga-jualan-beras-lucut-hak-jabatan-kastam-diraja-malaysia-negeri-kelantan-bil-4-2026"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN TAWARAN SEBUTHARGA PELUPUSAN BARANG LUCUTHAK KASTAM DIRAJA MALAYSIA SELANGOR BIL. 13/2026 HINGGA BIL. 19/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tawaran-sebutharga-pelupusan-barang-lucuthak-kastam-diraja-malaysia-selangor-bil-13-2026-hingga-bil-19-2026"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN TENDER SARANG BURUNG JABATAN KASTAM DIRAJA MALAYSIA LTA KUALA LUMPUR BIL.3/202",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tender-sarang-burung-jabatan-kastam-diraja-malaysia-lta-kuala-lumpur-bil-3-202"
+        },
+        {
+          "label": "KEPUTUSAN SEBUT HARGA SKRAP / TIDAK BOLEH DIDAFTAR KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI KELANTAN BIL. 1/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/keputusan-sebut-harga-skrap-tidak-boleh-didaftar-kenderaan-lucut-hak-jabatan-kastam-diraja-malaysia-negeri-kelantan-bil-1-2026"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN TENDER BERSEPADU KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA BIL. 1/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tender-bersepadu-kenderaan-lucut-hak-jabatan-kastam-diraja-malaysia-bil-1-2026"
+        },
+        {
+          "label": "KEPUTUSAN TAWARAN SEBUT HARGA BARANG LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI PERAK BIL. 2/2026 DAN BIL. 3/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/keputusan-tawaran-sebut-harga-barang-lucut-hak-jabatan-kastam-diraja-malaysia-negeri-perak-bil-2-2026-dan-bil-3-2026"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN TENDER PELUPUSAN BARANG LUCUTHAK SELANGOR BIL. 1 HINGGA 3 TAHUN 2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tender-pelupusan-barang-lucuthak-selangor-bil-1-hingga-3-tahun-2026"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN SEBUTHARGA PELUPUSAN BARANG LUCUTHAK SELANGOR BIL. 10 HINGGA 12 TAHUN 2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-sebutharga-pelupusan-barang-lucuthak-selangor-bil-10-hingga-12-tahun-2026"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN TAWARAN TENDER BERSEPADU KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA BIL. 4/2025",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tawaran-tender-bersepadu-kenderaan-lucut-hak-jabatan-kastam-diraja-malaysia-bil-4-2025"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN TENDER SARANG BURUNG JABATAN KASTAM DIRAJA MALAYSIA LTA KUALA LUMPUR BIL. 1/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tender-sarang-burung-jabatan-kastam-diraja-malaysia-lta-kuala-lumpur-bil-1-2026"
+        },
+        {
+          "label": "KEPUTUSAN TAWARAN SEBUT HARGA BARANG (BERAS) LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI PERAK BIL. 1 / 2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/keputusan-tawaran-sebut-harga-barang-beras-lucut-hak-jabatan-kastam-diraja-malaysia-negeri-perak-bil-1-2026"
+        },
+        {
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=20"
+        },
+        {
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=40"
+        },
+        {
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=60"
+        },
+        {
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=80"
+        },
+        {
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=100"
+        },
+        {
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=120"
+        },
+        {
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=140"
+        },
+        {
+          "label": "Pergi ke halaman seterusnya",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=20"
+        },
+        {
+          "label": "Pergi ke halaman akhir",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=140"
+        },
+        {
+          "label": "Utama",
+          "href": "https://www.customs.gov.my/ms/utama"
+        },
+        {
+          "label": "Perutusan Ketua Pengarah",
+          "href": "https://www.customs.gov.my/ms/korporat/perutusan-ketua-pengarah"
+        },
+        {
+          "label": "Visi, Misi & Slogan",
+          "href": "https://www.customs.gov.my/ms/korporat/visi-misi-slogan"
+        },
+        {
+          "label": "Struktur Organisasi",
+          "href": "https://www.customs.gov.my/ms/korporat/struktur-organisasi"
+        },
+        {
+          "label": "Piagam Pelanggan",
+          "href": "https://www.customs.gov.my/ms/korporat/piagam-pelanggan"
+        },
+        {
+          "label": "Pengurusan Tertinggi Jabatan",
+          "href": "https://www.customs.gov.my/ms/korporat/pengurusan-tertinggi-jabatan"
+        },
+        {
+          "label": "Pengarah Ibu Pejabat/Negeri",
+          "href": "https://www.customs.gov.my/ms/korporat/ibu-pejabat"
+        },
+        {
+          "label": "Ketua Pegawai Digital (CDO)",
+          "href": "https://www.customs.gov.my/ms/korporat/ketua-pegawai-digital-cdo"
+        },
+        {
+          "label": "Sejarah JKDM",
+          "href": "https://www.customs.gov.my/ms/korporat/sejarah-jkdm"
+        },
+        {
+          "label": "Bahagian Penguatkuasaan",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-penguatkuasaan"
+        },
+        {
+          "label": "Bahagian Pengurusan Pematuhan",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-pengurusan-pematuhan"
+        },
+        {
+          "label": "Bahagian Perkastaman",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-perkastaman"
+        },
+        {
+          "label": "Bahagian Cukai Dalam Negeri",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-cukai-dalam-negeri"
+        },
+        {
+          "label": "Bahagian Perkhidmatan Teknik",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-perkhidmatan-teknik"
+        },
+        {
+          "label": "Bahagian Khidmat Pengurusan dan Sumber Manusia",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-khidmat-pengurusan-dan-sumber-manusia"
+        },
+        {
+          "label": "Bahagian Perancangan Korporat",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-perancangan-korporat"
+        },
+        {
+          "label": "Bahagian Perundangan",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-perundangan"
+        },
+        {
+          "label": "Akademi Kastam Diraja Malaysia (AKMAL)",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/akademi-kastam-diraja-malaysia-akmal"
+        },
+        {
+          "label": "Bahagian Teknologi Maklumat",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/bahagian-teknologi-maklumat"
+        },
+        {
+          "label": "Cawangan Integriti",
+          "href": "https://www.customs.gov.my/ms/korporat/bahagian/cawangan-integriti"
+        },
+        {
+          "label": "Pelan Strategik JKDM",
+          "href": "https://www.customs.gov.my/ms/korporat/dasar-dan-polisi/pelan-strategik-jkdm"
+        },
+        {
+          "label": "Pelan Antirasuah Organisasi JKDM",
+          "href": "https://www.customs.gov.my/ms/korporat/dasar-dan-polisi/pelan-antirasuah-organisasi-jkdm"
+        },
+        {
+          "label": "Polisi Perlindungan Pemberi Maklumat",
+          "href": "https://www.customs.gov.my/ms/korporat/dasar-dan-polisi/polisi-perlindungan-pemberi-maklumat"
+        },
+        {
+          "label": "Strategi Pembanterasan Rasuah Organisasi (OACS)",
+          "href": "https://www.customs.gov.my/ms/korporat/dasar-dan-polisi/strategi-pembanterasan-rasuah-organisasi-oacs"
+        },
+        {
+          "label": "Prosedur Pengimportan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/import-eksport/import/prosedur-pengimportan"
+        },
+        {
+          "label": "Larangan Import",
+          "href": "https://www.customs.gov.my/ms/perniagaan/import-eksport/import/larangan-import"
+        },
+        {
+          "label": "Larangan Eksport",
+          "href": "https://www.customs.gov.my/ms/perniagaan/import-eksport/eksport/larangan-eksport"
+        },
+        {
+          "label": "Prosedur Pengeksportan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/import-eksport/eksport/prosedur-pengeksportan"
+        },
+        {
+          "label": "Larangan Pemindahan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/import-eksport/eksport/larangan-pemindahan"
+        },
+        {
+          "label": "Larangan PemindahanPengenalan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/import-eksport/eksport/larangan-pemindahan/pengenalan"
+        },
+        {
+          "label": "Malaysia National Trade Repository (MNTR)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/malaysia-national-trade-repository"
+        },
+        {
+          "label": "Authorised Economic Operator (AEO)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/authorised-economic-operator-aeo"
+        },
+        {
+          "label": "ASEAN Customs Transit System (ACTS)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/asean-customs-transit-system-acts"
+        },
+        {
+          "label": "Zon BebasPendahuluanPengecualian Barang-Barang Dari Taraf BebasSenarai Zon Bebas & Pihak Berkuasa Zon BebasTatacara Penubuhan dan Pewartaan Zon BebasPengikraran Borang di Zon BebasPanduan Aktiviti Tambah Nilai di ZPBPanduan Borang Pentadbiran",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/pendahuluan"
+        },
+        {
+          "label": "PendahuluanPengecualian Barang-Barang Dari Taraf BebasSenarai Zon Bebas & Pihak Berkuasa Zon BebasTatacara Penubuhan dan Pewartaan Zon BebasPengikraran Borang di Zon BebasPanduan Aktiviti Tambah Nilai di ZPBPanduan Borang Pentadbiran",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/pendahuluan"
+        },
+        {
+          "label": "Pengecualian Barang-Barang Dari Taraf Bebas",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/pengecualian-barang-barang-dari-taraf-bebas"
+        },
+        {
+          "label": "Senarai Zon Bebas & Pihak Berkuasa Zon Bebas",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/senarai-zon-bebas-pihak-berkuasa-zon-bebas"
+        },
+        {
+          "label": "Tatacara Penubuhan dan Pewartaan Zon Bebas",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/tatacara-penubuhan-dn-pewartaan-zon-bebas"
+        },
+        {
+          "label": "Pengikraran Borang di Zon Bebas",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/pengikraran-borang-di-zon-bebas"
+        },
+        {
+          "label": "Panduan Aktiviti Tambah Nilai di ZPB",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/panduan-aktiviti-tambah-nilai-di-zpb"
+        },
+        {
+          "label": "Panduan Borang Pentadbiran",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/zon-bebas/panduan-borang-pentadbiran"
+        },
+        {
+          "label": "Pengangkut Berlesen",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengangkut-berlesen/pengenalan-pengangkut-berlesen"
+        },
+        {
+          "label": "PengenalanPelesenanBorangGaris PanduanSenarai Syarikat",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengangkut-berlesen/pengenalan-pengangkut-berlesen"
+        },
+        {
+          "label": "PengenalanPelesenanBorangGaris PanduanSenarai Syarikat",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengangkut-berlesen/pelesenan-pengangkut-berlesen"
+        },
+        {
+          "label": "PengenalanPelesenanBorangGaris PanduanSenarai Syarikat",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengangkut-berlesen/borang-pengangkut-berlesen"
+        },
+        {
+          "label": "Garis Panduan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengangkut-berlesen/garis-panduan-pengangkut-berlesen"
+        },
+        {
+          "label": "Senarai Syarikat",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengangkut-berlesen/senarai-syarikat-pengangkut-berlesen"
+        },
+        {
+          "label": "Gudang Pengilangan Berlesen (GPB)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/pengenalan"
+        },
+        {
+          "label": "Pengenalan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/pengenalan"
+        },
+        {
+          "label": "Pelesenan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/perlesenan"
+        },
+        {
+          "label": "Duti Import dan Cukai Jualan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/duti-import-dan-cukai-jualan"
+        },
+        {
+          "label": "Subkontrak",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/subkontrak"
+        },
+        {
+          "label": "Kemudahan di Bawah Perlesenan GPB",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/kemudahan-di-bawah-perlesenan-gpb/jualan-tempatan"
+        },
+        {
+          "label": "Jualan Tempatan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/kemudahan-di-bawah-perlesenan-gpb/jualan-tempatan"
+        },
+        {
+          "label": "Eksport Melalui Pihak Ke Tiga Dan Drop Shipment",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/kemudahan-di-bawah-perlesenan-gpb/eksport-melalui-pihak-ke-tiga-dan-drop-shipment"
+        },
+        {
+          "label": "Return Cargo",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/kemudahan-di-bawah-perlesenan-gpb/return-cargo"
+        },
+        {
+          "label": "PelupusanMesin dan Peralatan Waste, Scrap, Bahan Mentah & Barang Siap Rosak",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/pelupusan/mesin-dan-peralatan"
+        },
+        {
+          "label": "Mesin dan Peralatan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/pelupusan/mesin-dan-peralatan"
+        },
+        {
+          "label": "Waste, Scrap, Bahan Mentah & Barang Siap Rosak",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/pelupusan/waste-scrap-bahan-mentah-barang-siap-rosak"
+        },
+        {
+          "label": "Kebakaran, Bencana Alam dan Kehilangan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/kebakaran-bencana-alam-dan-kehilangan"
+        },
+        {
+          "label": "Tanggungjawab GPB",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/tanggungjawab-gpb"
+        },
+        {
+          "label": "Lampiran-Lampiran",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/lampiran-lampiran"
+        },
+        {
+          "label": "Panduan Berkaitan Pelesenan GPB",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/panduan-berkaitan-pelesenan-gpb/eksport-bahan-mentah-dan-bahan-pembungkusan-yang-diperlolehi-dengan-pengecualian-duti-dan-cukai"
+        },
+        {
+          "label": "Eksport Bahan Mentah dan Bahan Pembungkusan yang Diperlolehi dengan Pengecualian Duti dan Cukai",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/panduan-berkaitan-pelesenan-gpb/eksport-bahan-mentah-dan-bahan-pembungkusan-yang-diperlolehi-dengan-pengecualian-duti-dan-cukai"
+        },
+        {
+          "label": "Kelulusan Aktiviti Tambah Nilai Serta Peluasan Skop Aktiviti Tambahan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/panduan-berkaitan-pelesenan-gpb/kelulusan-aktiviti-tambah-nilai-serta-peluasan-skop-aktiviti-tambahan"
+        },
+        {
+          "label": "FAQ",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-pengilangan-berlesen-gpb/faq-gpb"
+        },
+        {
+          "label": "Gudang Berlesen",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-berlesen/pengenalan-gudang-berlesen"
+        },
+        {
+          "label": "PengenalanPelesenanAktiviti yang DibenarkanPanduan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-berlesen/pengenalan-gudang-berlesen"
+        },
+        {
+          "label": "PengenalanPelesenanAktiviti yang DibenarkanPanduan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-berlesen/pelesenan-gudang-berlesen"
+        },
+        {
+          "label": "Aktiviti yang Dibenarkan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-berlesen/aktiviti-yang-dibenarkan"
+        },
+        {
+          "label": "PengenalanPelesenanAktiviti yang DibenarkanPanduan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/gudang-berlesen/panduan"
+        },
+        {
+          "label": "Pengecualian Duti/Cukai",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengecualian-duti-cukai/bahan-mentah-komponen"
+        },
+        {
+          "label": "Bahan Mentah/Komponen",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengecualian-duti-cukai/bahan-mentah-komponen"
+        },
+        {
+          "label": "Mesin/Peralatan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pengecualian-duti-cukai/mesin-peralatan"
+        },
+        {
+          "label": "Tuntutan Pulang Balik",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/tuntutan-pulang-balik/seksyen-93-akta-kastam-1967"
+        },
+        {
+          "label": "Seksyen 93 Akta Kastam 1967",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/tuntutan-pulang-balik/seksyen-93-akta-kastam-1967"
+        },
+        {
+          "label": "Seksyen 99 Akta Kastam 1967",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/tuntutan-pulang-balik/seksyen-99-akta-kastam-1967"
+        },
+        {
+          "label": "ATA Carnet",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/ata-carnet"
+        },
+        {
+          "label": "Rules of Origin (ROO)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/rules-of-origin-roo/faq-ketetapan-kastam-tempat-asal"
+        },
+        {
+          "label": "FAQ Ketetapan Kastam Tempat Asal",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/rules-of-origin-roo/faq-ketetapan-kastam-tempat-asal"
+        },
+        {
+          "label": "FAQ Rules Of Origin",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/rules-of-origin-roo/faq-rules-of-origin-roo"
+        },
+        {
+          "label": "Kemudahan Partial K8",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/kemudahan-partial-kb"
+        },
+        {
+          "label": "Import Sementara",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/import-sementara"
+        },
+        {
+          "label": "Eksport Sementara",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/eksport-sementara"
+        },
+        {
+          "label": "Electronic Pre-Alert Manifest (ePAM)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/electronic-pre-alert-manifest-epam"
+        },
+        {
+          "label": "Pre-Arrival Processing (PAP)",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/pre-arrival-processing-pap"
+        },
+        {
+          "label": "JAMINAN",
+          "href": "https://www.customs.gov.my/ms/perniagaan/fasilitasi/jaminan"
+        },
+        {
+          "label": "Apa Itu Eksais ?",
+          "href": "https://www.customs.gov.my/ms/perniagaan/eksais/apa-itu-eksais"
+        },
+        {
+          "label": "Permohonan Lesen",
+          "href": "https://www.customs.gov.my/ms/perniagaan/eksais/permohonan-lesen"
+        },
+        {
+          "label": "Pergerakan Barangan Berduti Eksais",
+          "href": "https://www.customs.gov.my/ms/perniagaan/eksais/pergerakan-barangan-berduti-eksais"
+        },
+        {
+          "label": "Tatacara Menuntut Pengecualian",
+          "href": "https://www.customs.gov.my/ms/perniagaan/eksais/tatacara-menuntut-pengecualian"
+        },
+        {
+          "label": "Kaedah Kawalan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/eksais/kaedah-kawalan"
+        },
+        {
+          "label": "Peraturan dan Garis Panduan",
+          "href": "https://www.customs.gov.my/ms/perniagaan/eksais/peraturan-dan-garis-panduan"
+        },
+        {
+          "label": "Levi",
+          "href": "https://www.customs.gov.my/ms/perniagaan/levi"
+        },
+        {
+          "label": "Ejen Kastam",
+          "href": "https://www.customs.gov.my/ms/perniagaan/ejen-kastam"
+        },
+        {
+          "label": "Petroleum",
+          "href": "https://www.customs.gov.my/ms/perniagaan/petroleum"
+        },
+        {
+          "label": "Borang Kastam No. 7 (K7)",
+          "href": "https://www.customs.gov.my/images/05-individu/pelancong/borang-kastam-no.7-lampiran-a.pdf"
+        },
+        {
+          "label": "Pengisytiharaan Wang Tunai dan Instrumen Boleh Niaga Pembawa (IBNP) Untuk Pengembara yang Masuk/Keluar dari Malaysia",
+          "href": "https://www.customs.gov.my/images/05-individu/pelancong/5mac-BM-Pamplet-Cash-Declarations-new.pdf"
+        },
+        {
+          "label": "Pengikraran STA untuk Pengembara",
+          "href": "https://www.customs.gov.my/ms/individu/pengembara/pengikraran-sta-untuk-pengembara"
+        },
+        {
+          "label": "Larangan Import dan Eksport",
+          "href": "https://www.customs.gov.my/ms/individu/pengembara/larangan-import-dan-eksport"
+        },
+        {
+          "label": "Panduan Perjalanan",
+          "href": "https://www.customs.gov.my/ms/individu/pengembara/panduan-perjalanan"
+        },
+        {
+          "label": "Cukai Pelancongan",
+          "href": "https://www.myttx.customs.gov.my/ms/"
+        },
+        {
+          "label": "Pengembara Borang Kastam No. 7 (K7)Pengisytiharaan Wang Tunai dan Instrumen Boleh Niaga Pembawa (IBNP) Untuk Pengembara yang Masuk/Keluar dari MalaysiaPengikraran STA untuk PengembaraLarangan Import dan EksportPanduan PerjalananCukai PelanconganATA Carnet",
+          "href": "https://www.customs.gov.my/ms/individu/ata-carnet"
+        },
+        {
+          "label": "Ketetapan Umum",
+          "href": "https://www.customs.gov.my/ms/prosedur/ketetapan-umum"
+        },
+        {
+          "label": "KastamEksaisZon BebasLeviLevi Keuntungan Luar BiasaLevi Pelepasan",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkastaman/kastam"
+        },
+        {
+          "label": "KastamEksaisZon BebasLeviLevi Keuntungan Luar BiasaLevi Pelepasan",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkastaman/eksais"
+        },
+        {
+          "label": "KastamEksaisZon BebasLeviLevi Keuntungan Luar BiasaLevi Pelepasan",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkastaman/zon-bebas"
+        },
+        {
+          "label": "LeviLevi Keuntungan Luar BiasaLevi Pelepasan",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkastaman/levi"
+        },
+        {
+          "label": "Levi Keuntungan Luar Biasa",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkastaman/levi/levi-keuntungan-luar-biasa"
+        },
+        {
+          "label": "Levi Pelepasan",
+          "href": "https://mydlv.customs.gov.my/www/"
+        },
+        {
+          "label": "Warta Kerajaan",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkastaman/kastam"
+        },
+        {
+          "label": "Cukai Jualan",
+          "href": "https://mysst.customs.gov.my/"
+        },
+        {
+          "label": "Cukai Perkhidmatan",
+          "href": "https://mysst.customs.gov.my/"
+        },
+        {
+          "label": "Cukai Pelancongan",
+          "href": "https://www.myttx.customs.gov.my/"
+        },
+        {
+          "label": "Lain-Lain Akta",
+          "href": "https://www.customs.gov.my/ms/prosedur/warta-kerajaan/lain-lain"
+        },
+        {
+          "label": "Perkhidmatan Teknik",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkhidmatan-teknik"
+        },
+        {
+          "label": "Ketetapan Kastam",
+          "href": "https://www.customs.gov.my/ms/prosedur/perkhidmatan-teknik/ketetapan-kastam"
+        },
+        {
+          "label": "Pengurusan Pematuhan",
+          "href": "https://www.customs.gov.my/ms/prosedur/pengurusan-pematuhan"
+        },
+        {
+          "label": "Penguatkuasaan",
+          "href": "https://www.customs.gov.my/ms/prosedur/penguatkuasaan"
+        },
+        {
+          "label": "Teknologi Maklumat",
+          "href": "https://www.customs.gov.my/ms/prosedur/teknologi-maklumat"
+        },
+        {
+          "label": "Pekeliling Kewangan",
+          "href": "https://www.customs.gov.my/ms/prosedur/pekeliling-kewangan"
+        },
+        {
+          "label": "SyahbandarLaporan Tahunan JKDM",
+          "href": "https://www.customs.gov.my/ms/penerbitan/syahbandar-2022"
+        },
+        {
+          "label": "Laporan Tahunan JKDM",
+          "href": "https://www.customs.gov.my/ms/penerbitan/laporan-laporan-tahunan-jkdm"
+        },
+        {
+          "label": "PengumumanLiputan & MediaTender & Sebut Harga",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman"
+        },
+        {
+          "label": "Jabatan Kastam",
+          "href": "https://www.customs.gov.my/ms/hubungi-kami/jabatan-kastam"
+        }
+      ],
+      "lines": [
+        "Pengumuman",
+        "Arkib",
+        "Liputan & Media",
+        "Tender & Sebut Harga",
+        "Papar #",
+        "100",
+        "Semua",
+        "TAJUK TARIKH TERBITAN BILANGAN KUNJUNGAN",
+        "NOTIS KEPUTUSAN TAWARAN SEBUTHARGA PELUPUSAN BARANG LUCUTHAK KASTAM DIRAJA MALAYSIA SELANGOR BIL.35 / 2026 HINGGA BIL. 41 / 2026",
+        "08 Oktober 2026 862 hit(s)",
+        "NOTIS KEPUTUSAN TAWARAN SEBUT HARGA PELUPUSAN BARANG LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA MELAKA BIL.3/2026",
+        "01 Oktober 2026 900 hit(s)",
+        "NOTIS PEMAKLUMAN PERUBAHAN DASAR PENGANGKUT BERLESEN",
+        "28 September 2026 1297 hit(s)",
+        "NOTIS KEPUTUSAN TENDER SARANG BURUNG JABATAN KASTAM DIRAJA MALAYSIA LTA KUALA LUMPUR BIL.4/2026",
+        "24 September 2026 663 hit(s)",
+        "NOTIS KEPUTUSAN TENDER BERSEPADU KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA BIL. 2/2026",
+        "14 September 2026 3507 hit(s)",
+        "NOTIS KEPUTUSAN SEBUTHARGA BARANG LUCUTHAK KASTAM (ALUMINIUM SCRAP) BIL.4/2026 DAN (KENDERAAN) BIL.5/2026 JABATAN KASTAM DIRAJA MALAYSIA WILAYAH PERSEKUTUAN KUALA LUMPUR",
+        "24 Ogos 2026 1877 hit(s)",
+        "NOTIS KEPUTUSAN TAWARAN SEBUT HARGA PELUPUSAN BARANG LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI SELANGOR BIL. 20/2026 HINGGA BIL. 34/2026",
+        "28 Julai 2026 2501 hit(s)",
+        "NOTIS KEPUTUSAN TAWARAN TENDER PELUPUSAN BARANG LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI SELANGOR BIL. 4/2026 HINGGA BIL. 6/2026",
+        "28 Julai 2026 1744 hit(s)",
+        "KEPUTUSAN SEBUT HARGA PELUPUSAN ASET ALIH JABATAN KASTAM DIRAJA MALAYSIA NEGERI TERENGGANU BIL. 4/2026",
+        "03 Julai 2026 1888 hit(s)",
+        "NOTIS KEPUTUSAN SEBUT HARGA JUALAN (BERAS) LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI KELANTAN BIL. 4/2026",
+        "02 Julai 2026 1342 hit(s)",
+        "NOTIS KEPUTUSAN TAWARAN SEBUTHARGA PELUPUSAN BARANG LUCUTHAK KASTAM DIRAJA MALAYSIA SELANGOR BIL. 13/2026 HINGGA BIL. 19/2026",
+        "30 Jun 2026 3227 hit(s)",
+        "NOTIS KEPUTUSAN TENDER SARANG BURUNG JABATAN KASTAM DIRAJA MALAYSIA LTA KUALA LUMPUR BIL.3/202",
+        "29 Jun 2026 1154 hit(s)",
+        "KEPUTUSAN SEBUT HARGA SKRAP / TIDAK BOLEH DIDAFTAR KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI KELANTAN BIL. 1/2026",
+        "11 Jun 2026 2510 hit(s)",
+        "NOTIS KEPUTUSAN TENDER BERSEPADU KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA BIL. 1/2026",
+        "05 Jun 2026 9238 hit(s)",
+        "KEPUTUSAN TAWARAN SEBUT HARGA BARANG LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI PERAK BIL. 2/2026 DAN BIL. 3/2026",
+        "06 Mei 2026 2791 hit(s)",
+        "NOTIS KEPUTUSAN TENDER PELUPUSAN BARANG LUCUTHAK SELANGOR BIL. 1 HINGGA 3 TAHUN 2026",
+        "04 Mei 2026 2662 hit(s)",
+        "NOTIS KEPUTUSAN SEBUTHARGA PELUPUSAN BARANG LUCUTHAK SELANGOR BIL. 10 HINGGA 12 TAHUN 2026",
+        "04 Mei 2026 1857 hit(s)",
+        "NOTIS KEPUTUSAN TAWARAN TENDER BERSEPADU KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA BIL. 4/2025",
+        "18 Mac 2026 7352 hit(s)",
+        "NOTIS KEPUTUSAN TENDER SARANG BURUNG JABATAN KASTAM DIRAJA MALAYSIA LTA KUALA LUMPUR BIL. 1/2026",
+        "06 Mac 2026 2512 hit(s)",
+        "KEPUTUSAN TAWARAN SEBUT HARGA BARANG (BERAS) LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI PERAK BIL. 1 / 2026",
+        "02 Mac 2026 2171 hit(s)",
+        "Laman 1 daripada 8",
+        "Keputusan 1 - 20 daripada 156"
+      ]
+    }
+  ]
+}

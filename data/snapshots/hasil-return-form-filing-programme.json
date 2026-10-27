@@ -1,0 +1,55 @@
+{
+  "check_id": "hasil-return-form-filing-programme",
+  "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+  "fetched_at": "2026-10-27T06:02:59.182Z",
+  "pages": [
+    {
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+      "title": "Program Memfail Borang Nyata",
+      "items": [
+        {
+          "label": "Download (434.89 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/rf-filing-programme-for-2026.pdf"
+        },
+        {
+          "label": "Download (360.54 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/rf-filing-programme-for-2025.pdf"
+        },
+        {
+          "label": "Download (536.57 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/rf-filing-programme-for-the-year-2024.pdf"
+        },
+        {
+          "label": "Download (673.27 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/return-form-filing-programme-for-the-year-2023.pdf"
+        },
+        {
+          "label": "Download (1.45 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ProgramMemfailBN_2022_2.pdf"
+        },
+        {
+          "label": "Download (1.83 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ProgramMemfailBN_2021_Pin.4_2.pdf"
+        }
+      ],
+      "lines": [
+        "Skip to content",
+        "Form",
+        "Return Form (RF) Filing Programme",
+        "Return Form (RF) Filing Programme For The Year 2026",
+        "Download",
+        "(434.89 KB)",
+        "Return Form (RF) Filing Programme For The Year 2025",
+        "(360.54 KB)",
+        "Return Form (RF) Filing Programme For The Year 2024",
+        "(536.57 KB)",
+        "Return Form (RF) Filing Programme For The Year 2023",
+        "(673.27 KB)",
+        "Return Form (RF) Filing Programme For The Year 2022",
+        "(1.45 MB)",
+        "Return Form (RF) Filing Programme For The Year 2021",
+        "(1.83 MB)"
+      ]
+    }
+  ]
+}

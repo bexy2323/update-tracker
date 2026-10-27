@@ -1,0 +1,210 @@
+{
+  "check_id": "mof-news",
+  "url": "https://www.mof.gov.my/portal/en/news",
+  "fetched_at": "2026-10-27T05:52:40.567Z",
+  "pages": [
+    {
+      "url": "https://www.mof.gov.my/portal/en/news",
+      "title": "News & Media",
+      "items": [
+        {
+          "label": "fas fa-circle-question",
+          "href": "https://www.mof.gov.my/portal/en/contact/faqs"
+        },
+        {
+          "label": "fas fa-phone-volume",
+          "href": "https://www.mof.gov.my/portal/en/contact/directory"
+        },
+        {
+          "label": "fas fa-message",
+          "href": "https://treasury.spab.gov.my/eApps/sdmscasepool/SdmsCasePool/publicLogin.do"
+        },
+        {
+          "label": "fas fa-sitemap",
+          "href": "https://www.mof.gov.my/portal/en/site-map"
+        },
+        {
+          "label": "10 Credit Reporting Agencies Renew Registration For 2026/2027 – MOF Press Citations 20 October 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/10-credit-reporting-agencies-renew-registration-for-2026-2027-mof"
+        },
+        {
+          "label": "10 Credit Reporting Agencies Renew Registration For 2026/2027 – MOF",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/10-credit-reporting-agencies-renew-registration-for-2026-2027-mof"
+        },
+        {
+          "label": "STR, SARA Nearly RM11 Bln Disbursed To Eligible Recipients As of September 2026 – MoF Press Citations 19 October 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/str-sara-nearly-rm11-bln-disbursed-to-eligible-recipients-as-of-september-2026-mof"
+        },
+        {
+          "label": "STR, SARA Nearly RM11 Bln Disbursed To Eligible Recipients As of September 2026 – MoF",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/str-sara-nearly-rm11-bln-disbursed-to-eligible-recipients-as-of-september-2026-mof"
+        },
+        {
+          "label": "MOF Staff Urged To Adopt ‘ATM’ Principles To Expedite Budget 2027 Implementation Press Citations 19 October 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-staff-urged-to-adopt-atm-principles-to-expedite-budget-2027-implementation"
+        },
+        {
+          "label": "MOF Staff Urged To Adopt ‘ATM’ Principles To Expedite Budget 2027 Implementation",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-staff-urged-to-adopt-atm-principles-to-expedite-budget-2027-implementation"
+        },
+        {
+          "label": "MOF Denies Claims Of QR Payment Charges From Nov 1 Press Citations 18 October 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-denies-claims-of-qr-payment-charges-from-nov-1"
+        },
+        {
+          "label": "MOF Denies Claims Of QR Payment Charges From Nov 1",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-denies-claims-of-qr-payment-charges-from-nov-1"
+        },
+        {
+          "label": "Budget 2027 To Boost Malaysia’s Competitiveness In High-value Industries – Amir Hamzah Press Citations 17 October 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/budget-2027-to-boost-malaysias-competitiveness-in-high-value-industries-amir-hamzah"
+        },
+        {
+          "label": "Budget 2027 To Boost Malaysia’s Competitiveness In High-value Industries – Amir Hamzah",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/budget-2027-to-boost-malaysias-competitiveness-in-high-value-industries-amir-hamzah"
+        },
+        {
+          "label": "Malaysia Steps Up Efforts To Achieve US$30 Billion Trade Target With Thailand Press Citations 15 October 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/malaysia-steps-up-efforts-to-achieve-us-30-billion-trade-target-with-thailand"
+        },
+        {
+          "label": "Malaysia Steps Up Efforts To Achieve US$30 Billion Trade Target With Thailand",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/malaysia-steps-up-efforts-to-achieve-us-30-billion-trade-target-with-thailand"
+        },
+        {
+          "label": "Press Release",
+          "href": "https://www.mof.gov.my/portal/en/news/press-release"
+        },
+        {
+          "label": "Press Citations",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations"
+        },
+        {
+          "label": "Press Release Press Citations Photos Videos Speech ASEAN 2025",
+          "href": "https://www.mof.gov.my/portal/en/news/photos"
+        },
+        {
+          "label": "Press Release Press Citations Photos Videos Speech ASEAN 2025",
+          "href": "https://www.mof.gov.my/portal/en/news/videos"
+        },
+        {
+          "label": "Press Release Press Citations Photos Videos Speech ASEAN 2025",
+          "href": "https://www.mof.gov.my/portal/en/news/speech"
+        },
+        {
+          "label": "Press Release Press Citations Photos Videos Speech ASEAN 2025",
+          "href": "https://www.mof.gov.my/portal/en/news/asean-2025"
+        },
+        {
+          "label": "Home Ministry's Profile News & Media Archive Contact Us",
+          "href": "https://www.mof.gov.my/portal/en/"
+        },
+        {
+          "label": "Ministry's Profile",
+          "href": "https://www.mof.gov.my/portal/en/profile"
+        },
+        {
+          "label": "HistoryPolicyTop ManagementOrganization ChartClient's CharterDepartments & AgenciesDivisions & Units",
+          "href": "https://www.mof.gov.my/portal/en/profile/history"
+        },
+        {
+          "label": "HistoryPolicyTop ManagementOrganization ChartClient's CharterDepartments & AgenciesDivisions & Units",
+          "href": "https://www.mof.gov.my/portal/en/profile/policy"
+        },
+        {
+          "label": "Top Management",
+          "href": "https://www.mof.gov.my/portal/en/profile/top-management"
+        },
+        {
+          "label": "Organization Chart",
+          "href": "https://www.mof.gov.my/portal/en/profile/organization-chart"
+        },
+        {
+          "label": "Client's Charter",
+          "href": "https://www.mof.gov.my/portal/en/profile/clients-charter"
+        },
+        {
+          "label": "Departments & Agencies",
+          "href": "https://www.mof.gov.my/portal/en/profile/departments-agencies"
+        },
+        {
+          "label": "Divisions & Units",
+          "href": "https://www.mof.gov.my/portal/en/profile/divisions"
+        },
+        {
+          "label": "News & Media",
+          "href": "https://www.mof.gov.my/portal/en/news"
+        },
+        {
+          "label": "Home Ministry's Profile News & Media Archive Contact Us",
+          "href": "https://www.mof.gov.my/portal/archive3"
+        },
+        {
+          "label": "Home Ministry's Profile News & Media Archive Contact Us",
+          "href": "https://www.mof.gov.my/portal/en/contact"
+        },
+        {
+          "label": "Staff Directory",
+          "href": "https://www.mof.gov.my/portal/en/contact/directory"
+        },
+        {
+          "label": "Staff DirectoryFAQe-Participation PolicyFeedback FormPublic ComplaintsIntegrity Complaints",
+          "href": "https://www.mof.gov.my/portal/en/contact/faqs"
+        },
+        {
+          "label": "e-Participation Policy",
+          "href": "https://www.mof.gov.my/portal/en/contact/e-participation-policy"
+        },
+        {
+          "label": "Feedback Form",
+          "href": "https://www.mof.gov.my/portal/en/contact/your-voice"
+        },
+        {
+          "label": "Public Complaints",
+          "href": "https://treasury.spab.gov.my/eApps/sdmscasepool/SdmsCasePool/publicLogin.do"
+        },
+        {
+          "label": "Integrity Complaints",
+          "href": "https://integriti.mof.gov.my/index.php/aduan-ui/"
+        },
+        {
+          "label": "Dasar Privasi",
+          "href": "https://www.mof.gov.my/portal/ms/dasar-privasi"
+        }
+      ],
+      "lines": [
+        "fas fa-circle-question",
+        "F.A.Q",
+        "fas fa-phone-volume",
+        "Contact Us",
+        "fas fa-message",
+        "Complaints and Feedback",
+        "fas fa-sitemap",
+        "Site Map",
+        "NEWS & MEDIA",
+        "10 Credit Reporting Agencies Renew Registration For 2026/2027 – MOF",
+        "Press Citations",
+        "20 October 2026",
+        "STR, SARA Nearly RM11 Bln Disbursed To Eligible Recipients As of September 2026 – MoF",
+        "19 October 2026",
+        "MOF Staff Urged To Adopt ‘ATM’ Principles To Expedite Budget 2027 Implementation",
+        "MOF Denies Claims Of QR Payment Charges From Nov 1",
+        "18 October 2026",
+        "Budget 2027 To Boost Malaysia’s Competitiveness In High-value Industries – Amir Hamzah",
+        "17 October 2026",
+        "Malaysia Steps Up Efforts To Achieve US$30 Billion Trade Target With Thailand",
+        "15 October 2026",
+        "Press Release",
+        "Photos",
+        "Videos",
+        "Speech",
+        "ASEAN 2025",
+        "Home",
+        "Ministry's Profile",
+        "News & Media",
+        "Archive",
+        "Dasar Privasi"
+      ]
+    }
+  ]
+}

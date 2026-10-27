@@ -1,7 +1,7 @@
 {
   "check_id": "mystods-bulletin",
   "url": "https://mystods.customs.gov.my/",
-  "fetched_at": "2026-10-27T03:04:55.891Z",
+  "fetched_at": "2026-10-27T05:54:15.693Z",
   "pages": [
     {
       "url": "https://mystods.customs.gov.my/",
@@ -10,6 +10,18 @@
         {
           "label": "SERVICE TAX ON DIGITAL SERVICES New service tax treatment on digital service provided to group of companies. Read More",
           "href": "https://mystods.customs.gov.my/bulletin1"
+        },
+        {
+          "label": "Welcome to MySToDS - REGISTRATION",
+          "href": "https://www.youtube.com/watch?v=9UmS_psydP8"
+        },
+        {
+          "label": "Sharul Nizam",
+          "href": "https://www.youtube.com/channel/UCdJqrzSsT7Bt9ME0vBp5law"
+        },
+        {
+          "label": "Watch on",
+          "href": "https://www.youtube.com/watch?v=9UmS_psydP8"
         }
       ],
       "lines": [
@@ -17,7 +29,11 @@
         "DIGITAL SERVICES",
         "New service tax treatment on digital service provided to group of companies.",
         "Read More",
-        "Bulletin Board"
+        "Bulletin Board",
+        "Welcome to MySToDS - REGISTRATION",
+        "Sharul Nizam",
+        "1 subscriber",
+        "Watch on"
       ]
     }
   ]
