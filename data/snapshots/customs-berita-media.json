@@ -1,7 +1,7 @@
 {
   "check_id": "customs-berita-media",
   "url": "https://customs.gov.my/ms/arkib/liputan-media",
-  "fetched_at": "2026-10-27T05:53:33.246Z",
+  "fetched_at": "2026-10-27T06:04:47.828Z",
   "pages": [
     {
       "url": "https://customs.gov.my/ms/arkib/liputan-media",
@@ -165,14 +165,6 @@
         },
         {
           "label": "1 2 3 4 5",
-          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=80"
-        },
-        {
-          "label": "Pergi ke halaman seterusnya",
-          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=20"
-        },
-        {
-          "label": "Pergi ke halaman akhir",
           "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=80"
         },
         {
@@ -694,7 +686,7 @@
         "APEC CUSTOMS BUSINESS DIALOGUE DAN SCCP MEETING MEMPERKUKUH KERJASAMA KASTAM DI PERSADA ANTARABANGSA",
         "28 Ogos 2026 1191 hit(s)",
         "KASTAM PERKUKUH KOMPETENSI PEGAWAI DALAM PELAKSANAAN CUKAI PELANCONGAN BERSEMPENA TAHUN MELAWAT MALAYSIA 2026",
-        "27 Ogos 2026 1030 hit(s)",
+        "27 Ogos 2026 1034 hit(s)",
         "MAJLIS MENUAI BAKTI, SEJUTA KENANGAN - TUAN ABU BAKAR @ SALLEH BIN JAMBOL, TIMBALAN KETUA PENGARAH KASTAM (PENGURUSAN), IBU PEJABAT",
         "17 Ogos 2026 605 hit(s)",
         "SESI KUNJUNGAN HORMAT JABATAN KASTAM DIRAJA MALAYSIA (JKDM) KE PEJABAT TANAH DAN GALIAN (PTG) NEGERI SELANGOR",

@@ -1,7 +1,7 @@
 {
   "check_id": "customs-pengumuman",
   "url": "https://customs.gov.my/ms/arkib/pengumuman",
-  "fetched_at": "2026-10-27T05:53:21.702Z",
+  "fetched_at": "2026-10-27T06:04:40.435Z",
   "pages": [
     {
       "url": "https://customs.gov.my/ms/arkib/pengumuman",
@@ -177,14 +177,6 @@
         },
         {
           "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=140"
-        },
-        {
-          "label": "Pergi ke halaman seterusnya",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=20"
-        },
-        {
-          "label": "Pergi ke halaman akhir",
           "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=140"
         },
         {
@@ -726,7 +718,7 @@
         "NOTIS KEPUTUSAN TENDER BERSEPADU KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA BIL. 1/2026",
         "05 Jun 2026 9238 hit(s)",
         "KEPUTUSAN TAWARAN SEBUT HARGA BARANG LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI PERAK BIL. 2/2026 DAN BIL. 3/2026",
-        "06 Mei 2026 2791 hit(s)",
+        "06 Mei 2026 2792 hit(s)",
         "NOTIS KEPUTUSAN TENDER PELUPUSAN BARANG LUCUTHAK SELANGOR BIL. 1 HINGGA 3 TAHUN 2026",
         "04 Mei 2026 2662 hit(s)",
         "NOTIS KEPUTUSAN SEBUTHARGA PELUPUSAN BARANG LUCUTHAK SELANGOR BIL. 10 HINGGA 12 TAHUN 2026",
