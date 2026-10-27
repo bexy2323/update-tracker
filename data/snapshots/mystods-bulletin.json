@@ -1,7 +1,7 @@
 {
   "check_id": "mystods-bulletin",
   "url": "https://mystods.customs.gov.my/",
-  "fetched_at": "2026-10-27T05:54:15.693Z",
+  "fetched_at": "2026-10-27T06:07:51.048Z",
   "pages": [
     {
       "url": "https://mystods.customs.gov.my/",
@@ -12,16 +12,16 @@
           "href": "https://mystods.customs.gov.my/bulletin1"
         },
         {
-          "label": "Welcome to MySToDS - REGISTRATION",
-          "href": "https://www.youtube.com/watch?v=9UmS_psydP8"
+          "label": "05/09/2024 - Offer of penalty and surcharge remission incentive for the year 2024 for cases of Goods and Services Tax, Tourism Tax, Sales Tax, Service Tax, and Departure Levy. More >",
+          "href": "https://mystods.customs.gov.my/bulletin2"
         },
         {
-          "label": "Sharul Nizam",
-          "href": "https://www.youtube.com/channel/UCdJqrzSsT7Bt9ME0vBp5law"
+          "label": "27/02/2024 - Service Tax (Rate Of Digital Services Tax) (Amendment) Order 2024 More >",
+          "href": "https://mystods.customs.gov.my/bulletin1"
         },
         {
-          "label": "Watch on",
-          "href": "https://www.youtube.com/watch?v=9UmS_psydP8"
+          "label": "14/02/2024 - Guide on Transitional Rules for the Change in Service Tax Rate to 8% on Digital Service Provided by Foreign Registered Person More >",
+          "href": "https://mystods.customs.gov.my/bulletin1"
         }
       ],
       "lines": [
@@ -29,11 +29,7 @@
         "DIGITAL SERVICES",
         "New service tax treatment on digital service provided to group of companies.",
         "Read More",
-        "Bulletin Board",
-        "Welcome to MySToDS - REGISTRATION",
-        "Sharul Nizam",
-        "1 subscriber",
-        "Watch on"
+        "Bulletin Board"
       ]
     }
   ]
