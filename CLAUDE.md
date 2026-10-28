@@ -10,7 +10,7 @@ Branch: `claude/cool-cerf-dsfp4z`. Commit and push all run results there.
 Timezone for everything: Malaysia (MYT, UTC+8).
 Reports are delivered in the chat of the session that runs the check. Do not send email.
 
-## A check run (hourly 09:07–17:07 MYT, Monday–Friday, in the user's session)
+## A check run (twice a day, 08:38 and 16:38 MYT, Monday–Friday, in the user's session)
 
 1. **Get up to date.**
    `git fetch origin claude/cool-cerf-dsfp4z && git checkout claude/cool-cerf-dsfp4z && git pull --ff-only origin claude/cool-cerf-dsfp4z`
