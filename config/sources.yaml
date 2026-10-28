@@ -280,6 +280,7 @@ sources:
         section: Announcement (bottom left of the site)
         url: https://mytax.hasil.gov.my/
         images: .carousel-item img
+        wait_for: .carousel-item img
 
   - id: mida
     name: MIDA - Announcements & Media Releases

@@ -1,0 +1,107 @@
+{
+  "run_id": "2026-10-28_1656",
+  "started_at": "2026-10-28T08:56:25.152Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (years listed per form category)",
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income BE, B, BT, M & MT Computation Guide Working Sheets (9.15 MB) Other information Appendices (1.41 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/working_sheet_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Method of payment for tax or balance of tax payable BE, B, BT, M & MT ByrHASiL Payment via https://mytax.hasil.gov.my/ > Perkhidmatan ezHasil > ByrHASiL",
+          "href": "https://byrhasil.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income e-M 2025 Non-resident individuals are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is available only in English Language version. Sample Form M 2025 (850.94 KB) M 2025 Explanatory Notes (804.54 KB) Working",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income Amended Return Form M 2025 (326.13 KB) This form is available only in English Language version. This form can be downloaded and submitted to the HASiL office which handles your income tax file or to the nearest HASiL state office. Guide Notes on Amended Return Form M 2025 (122.72 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_m2025_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income (Knowledge Worker) e-MT 2025 Non-resident individuals who are knowledge workers are required to furnish their returns via electronic medium or by way of electronic transmission to Lembaga Hasil Dalam Negeri Malaysia. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is available only in English Language version.",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income (Knowledge Worker) Amended Return Form MT 2025 (314.90 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form MT 2025 (122.72 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_mt2025_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income (Knowledge Worker / Expert Worker / Non-Citizen Worker Holding Key Position) e-BT 2025 Resident individuals who are knowledge workers / expert workers / non-citizen workers holding key positions are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income (Knowledge Workers / Expert Workers) Amended Return Form BT 2025 (624.08 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form BT 2025 (142.55 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_bt2025_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income e-B 2025 Resident individuals who carry on business are required to furnish their returns via electronic medium or by way of electronic transmission to Lembaga Hasil Dalam Negeri Malaysia. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay language version for submission ",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income Amended Return Form B 2025 (925.22 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form B 2025 (122.35 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_b2025_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Employment and Other Income e-BE 2025 Resident individuals who do not carry on business are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay language version for submission to HASiL office. Sample Form BE ",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Employment and Other Income Amended Return Form BE 2025 (536.53 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form BE 2025 (122.34 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_be2025_2.pdf"
+        }
+      ],
+      "removed_items": [],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/perundangan/akta/"
+    },
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "url": "https://mytax.hasil.gov.my/"
+    }
+  ],
+  "baselined": [],
+  "needs_login": [],
+  "errors": [],
+  "partial": [
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "pages_not_loaded": [
+        "https://mytax.hasil.gov.my/"
+      ]
+    }
+  ],
+  "finished_at": "2026-10-28T09:03:51.062Z"
+}

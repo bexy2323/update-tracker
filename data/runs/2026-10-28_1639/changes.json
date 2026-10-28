@@ -1,0 +1,357 @@
+{
+  "run_id": "2026-10-28_1639",
+  "started_at": "2026-10-28T08:39:38.674Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-announcements-media",
+      "section": "Home > Kenyataan Media & Pengumuman (Media Statements & Announcements)",
+      "url": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+          "label": "Announcement 28 Oct 2026 HASILIAN RESEARCH SNAPSHOT (HRS) NO. 4/2026 Please be informed that Hasilian Research Snapshot (HRS) No. 4/2026: Perceptions of Individual Taxpayer Among Tax Administrators Toward Adoption of e-Invoice can now be downloaded from HASiL Official Portal. Click to download",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=cGVuZ3VtdW1hbnwxMTU="
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+          "label": "Media Release 07 Aug 2026 Hasil Mulakan Siasatan Cukai Susulan Laporan Suruhanjaya Siasatan Diraja (RCI) Berhubung Lembaga Tabung Haji (TH) CYBERJAYA, 7 OGOS 2026 – Lembaga Hasil Dalam Negeri Malaysia (HASiL) ingin memaklumkan bahawa tindakan siasatan telah dimulakan terhadap individu-individu yang dikenal pasti berdasarkan Laporan Suruhanjaya Siasatan Diraja (RCI) berkaitan Lembaga Tabung Haji (T",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=a2VueWF0YWFuX21lZGlhfDIwNw=="
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+          "label": "Media Release 07 Aug 2026 HASIL MULAKAN SIASATAN CUKAI SUSULAN LAPORAN SURUHANJAYA SIASATAN DIRAJA (RCI) BERHUBUNG LEMBAGA TABUNG HAJI (TH) CYBERJAYA, 7 OGOS 2026 – Lembaga Hasil Dalam Negeri Malaysia (HASiL) ingin memaklumkan bahawa tindakan siasatan telah dimulakan terhadap individu-individu yang dikenal pasti berdasarkan Laporan Suruhanjaya Siasatan Diraja (RCI) berkaitan Lembaga Tabung Haji (T",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=a2VueWF0YWFuX21lZGlhfDIwNw=="
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (years listed per form category)",
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+      "new_items": [],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income BE, B, BT, M & MT Computation Guide Working Sheets (9.15 MB) Other information Appendices (1.41 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/working_sheet_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Method of payment for tax or balance of tax payable BE, B, BT, M & MT ByrHASiL Payment via https://mytax.hasil.gov.my/ > Perkhidmatan ezHasil > ByrHASiL",
+          "href": "https://byrhasil.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income e-M 2025 Non-resident individuals are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is available only in English Language version. Sample Form M 2025 (850.94 KB) M 2025 Explanatory Notes (804.54 KB) Working",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income Amended Return Form M 2025 (326.13 KB) This form is available only in English Language version. This form can be downloaded and submitted to the HASiL office which handles your income tax file or to the nearest HASiL state office. Guide Notes on Amended Return Form M 2025 (122.72 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_m2025_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income (Knowledge Worker) e-MT 2025 Non-resident individuals who are knowledge workers are required to furnish their returns via electronic medium or by way of electronic transmission to Lembaga Hasil Dalam Negeri Malaysia. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is available only in English Language version.",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income (Knowledge Worker) Amended Return Form MT 2025 (314.90 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form MT 2025 (122.72 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_mt2025_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income (Knowledge Worker / Expert Worker / Non-Citizen Worker Holding Key Position) e-BT 2025 Resident individuals who are knowledge workers / expert workers / non-citizen workers holding key positions are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income (Knowledge Workers / Expert Workers) Amended Return Form BT 2025 (624.08 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form BT 2025 (142.55 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_bt2025_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income e-B 2025 Resident individuals who carry on business are required to furnish their returns via electronic medium or by way of electronic transmission to Lembaga Hasil Dalam Negeri Malaysia. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay language version for submission ",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Business, Employment and Other Income Amended Return Form B 2025 (925.22 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form B 2025 (122.35 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_b2025_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Employment and Other Income e-BE 2025 Resident individuals who do not carry on business are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay language version for submission to HASiL office. Sample Form BE ",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+          "label": "| Employment and Other Income Amended Return Form BE 2025 (536.53 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form BE 2025 (122.34 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_be2025_2.pdf"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/perundangan/akta/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/rangka-kerja/",
+          "label": "Expand All",
+          "href": "https://www.hasil.gov.my/en/perundangan/rangka-kerja/?isStampsSite=false&lang=en&refererUrl=https%3A%2F%2Fwww.hasil.gov.my%2Fen%2Fperundangan%2Frangka-kerja%2F"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/kes-cukai/",
+          "label": "Expand All",
+          "href": "https://www.hasil.gov.my/en/perundangan/kes-cukai/?isStampsSite=false&lang=en&refererUrl=https%3A%2F%2Fwww.hasil.gov.my%2Fen%2Fperundangan%2Fkes-cukai%2F"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/rangka-kerja/",
+          "label": "Expand All",
+          "href": "https://www.hasil.gov.my/en/perundangan/rangka-kerja/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/kes-cukai/",
+          "label": "Expand All",
+          "href": "https://www.hasil.gov.my/en/perundangan/kes-cukai/"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-latest",
+      "section": "Principal Act / List of P.U. (A) / Finance Bill (latest legislation feed, tax-relevant only)",
+      "url": "https://lom.agc.gov.my/index.php",
+      "new_items": [
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 372/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzcyLzIwMjZ8MzI4ZmQyYjJkMzRlZTQ0ODZlMGQ2MWEzMmQyMWY2NDcyNzQ1NDI1ZWVkNTMzNDUyNjU4YThhMjFiMTZlODcxOA%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzcyLzIwMjZ8ZTgwYmFlMzAyNGY5YjNhMDliOWU2MzlkZWQwOTY3MmVhY2Y1Yjk0MDIzNGFkMjIwMTBiNDZjYzUyNzMwNzBmOQ%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 372/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026 P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026 P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzY5LzIwMjZ8NDgyMTEwNDNmNmMwZjgxYmRkNDM5MDY0MjJjZWZiMzFhN2RiMDQ3MGM5NWFlMmEzYjk0OWYwMjViMTA0ODdmYg%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026 P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026 P.U. (A) 369/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": [],
+      "not_relevant_count": 0
+    },
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "url": "https://mytax.hasil.gov.my/",
+      "new_items": [],
+      "removed_items": [
+        {
+          "page": "https://mytax.hasil.gov.my/",
+          "label": "Image: GetFile?bannerId=89",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=89",
+          "image": true
+        },
+        {
+          "page": "https://mytax.hasil.gov.my/",
+          "label": "Image: GetFile?bannerId=87",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=87",
+          "image": true
+        },
+        {
+          "page": "https://mytax.hasil.gov.my/",
+          "label": "Image: GetFile?bannerId=86",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=86",
+          "image": true
+        },
+        {
+          "page": "https://mytax.hasil.gov.my/",
+          "label": "Image: GetFile?bannerId=84",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=84",
+          "image": true
+        },
+        {
+          "page": "https://mytax.hasil.gov.my/",
+          "label": "Image: GetFile?bannerId=77",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=77",
+          "image": true
+        },
+        {
+          "page": "https://mytax.hasil.gov.my/",
+          "label": "Image: GetFile?bannerId=75",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=75",
+          "image": true
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invois/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-myinvois-epos",
+      "section": "Pautan Popular > MyInvois e-POS",
+      "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-return-form-filing-programme",
+      "section": "Forms > Return Form Filing Programme",
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-transfer-pricing",
+      "section": "Transfer Pricing",
+      "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/"
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-latest-announcements",
+      "section": "Pengumuman Terkini (Latest Announcements)",
+      "url": "https://mysst.customs.gov.my/"
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-announcements",
+      "section": "All announcements",
+      "url": "https://mysst.customs.gov.my/announcements/"
+    },
+    {
+      "source": "Ministry of Finance",
+      "check_id": "mof-news",
+      "section": "News (tax-relevant only)",
+      "url": "https://www.mof.gov.my/portal/en/news"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-pengumuman",
+      "section": "Pengumuman (Announcements)",
+      "url": "https://customs.gov.my/ms/arkib/pengumuman"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-berita-media",
+      "section": "Berita dan Media (News and Media)",
+      "url": "https://customs.gov.my/ms/arkib/liputan-media"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-dt",
+      "section": "Technical News > Direct Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-it",
+      "section": "Technical News > Indirect Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-indirect-taxation-tc-it/"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-ectim",
+      "section": "eCTIM (titles listed on the public home page; full text needs member sign-in)",
+      "url": "https://www.ctim.org.my/"
+    },
+    {
+      "source": "MySToDS (Service Tax on Digital Services)",
+      "check_id": "mystods-bulletin",
+      "section": "Bulletin Board",
+      "url": "https://mystods.customs.gov.my/"
+    },
+    {
+      "source": "Rahmat Lim & Partners (RDS) - Tax Focus",
+      "check_id": "rds-tax-focus",
+      "section": "Tax Focus publications (for the monthly update class)",
+      "url": "https://www.rdslawpartners.com/publications/categories/tax-focus"
+    },
+    {
+      "source": "MDEC - National e-Invoicing",
+      "check_id": "mdec-einvoicing",
+      "section": "New Updates (Peppol-Ready Solution)",
+      "url": "https://mdec.my/national-einvoicing"
+    },
+    {
+      "source": "MIDA - Announcements & Media Releases",
+      "check_id": "mida-announcements",
+      "section": "Announcements & media releases (tax-relevant only)",
+      "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/"
+    }
+  ],
+  "baselined": [],
+  "needs_login": [
+    {
+      "source": "HASiL Facebook page",
+      "check_id": "hasil-facebook",
+      "section": "Facebook posts",
+      "url": "https://www.facebook.com/HASiLMalaysia"
+    },
+    {
+      "source": "CCH iKnowConnect (Malaysia)",
+      "check_id": "cch-news",
+      "section": "Latest news and articles",
+      "url": "https://iknowconnect.cch.com/MYS/home"
+    }
+  ],
+  "errors": [
+    {
+      "source": "Parliament of Malaysia - Dewan Rakyat bills",
+      "check_id": "parlimen-bills",
+      "section": "Bills (Income Tax Act and Finance Bills only)",
+      "url": "https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "HRD Corp - Circulars",
+      "check_id": "hrdcorp-circulars",
+      "section": "Circulars",
+      "url": "https://hrdcorp.gov.my/circulars",
+      "error": "HTTP 403"
+    }
+  ],
+  "finished_at": "2026-10-28T08:54:46.018Z"
+}

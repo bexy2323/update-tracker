@@ -1,7 +1,7 @@
 {
   "check_id": "mof-news",
   "url": "https://www.mof.gov.my/portal/en/news",
-  "fetched_at": "2026-10-28T01:16:23.541Z",
+  "fetched_at": "2026-10-28T08:51:01.611Z",
   "pages": [
     {
       "url": "https://www.mof.gov.my/portal/en/news",
@@ -22,6 +22,14 @@
         {
           "label": "fas fa-sitemap",
           "href": "https://www.mof.gov.my/portal/en/site-map"
+        },
+        {
+          "label": "The 30th AIF Board Of Directors Meeting Photos 26 October 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/photos/the-30th-aif-board-of-directors-meeting"
+        },
+        {
+          "label": "The 30th AIF Board Of Directors Meeting",
+          "href": "https://www.mof.gov.my/portal/en/news/photos/the-30th-aif-board-of-directors-meeting"
         },
         {
           "label": "10 Credit Reporting Agencies Renew Registration For 2026/2027 – MOF Press Citations 20 October 2026",
@@ -62,14 +70,6 @@
         {
           "label": "Budget 2027 To Boost Malaysia’s Competitiveness In High-value Industries – Amir Hamzah",
           "href": "https://www.mof.gov.my/portal/en/news/press-citations/budget-2027-to-boost-malaysias-competitiveness-in-high-value-industries-amir-hamzah"
-        },
-        {
-          "label": "Malaysia Steps Up Efforts To Achieve US$30 Billion Trade Target With Thailand Press Citations 15 October 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/malaysia-steps-up-efforts-to-achieve-us-30-billion-trade-target-with-thailand"
-        },
-        {
-          "label": "Malaysia Steps Up Efforts To Achieve US$30 Billion Trade Target With Thailand",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/malaysia-steps-up-efforts-to-achieve-us-30-billion-trade-target-with-thailand"
         },
         {
           "label": "Press Release",
@@ -182,6 +182,9 @@
         "fas fa-sitemap",
         "Site Map",
         "NEWS & MEDIA",
+        "The 30th AIF Board Of Directors Meeting",
+        "Photos",
+        "26 October 2026",
         "10 Credit Reporting Agencies Renew Registration For 2026/2027 – MOF",
         "Press Citations",
         "20 October 2026",
@@ -192,10 +195,7 @@
         "18 October 2026",
         "Budget 2027 To Boost Malaysia’s Competitiveness In High-value Industries – Amir Hamzah",
         "17 October 2026",
-        "Malaysia Steps Up Efforts To Achieve US$30 Billion Trade Target With Thailand",
-        "15 October 2026",
         "Press Release",
-        "Photos",
         "Videos",
         "Speech",
         "ASEAN 2025",

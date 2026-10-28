@@ -204,6 +204,41 @@ function cleanLines(text, ignore) {
   return out;
 }
 
+// HASiL pages reload themselves with tracking parameters; drop them so the same
+// link always compares equal.
+function cleanHref(href) {
+  try {
+    const u = new URL(href);
+    for (const k of ['isStampsSite', 'lang', 'refererUrl']) u.searchParams.delete(k);
+    return u.toString();
+  } catch {
+    return href;
+  }
+}
+
+// A page that failed or came back empty this time (a slow slider, a search that
+// didn't load) keeps its previous content, so nothing is reported as removed and
+// nothing published in the meantime is missed on the next good visit.
+function carryForward(snap, previous) {
+  if (!previous) return [];
+  const prevPages = new Map(previous.pages.map(p => [p.url, p]));
+  const kept = [];
+  snap.pages = snap.pages.map(p => {
+    const old = prevPages.get(p.url);
+    const failed = p.error || (p.items.length === 0 && p.lines.length === 0);
+    const emptied = p.items.length === 0 && old && old.items.length > 0;
+    if (old && !old.error && (failed || emptied)) {
+      kept.push(p.url);
+      return old;
+    }
+    return p;
+  });
+  if (previous.forms && snap.forms) {
+    for (const [k, v] of Object.entries(previous.forms)) if (!snap.forms[k]) snap.forms[k] = v;
+  }
+  return kept;
+}
+
 function filterItems(items, ignore) {
   const res = (ignore || []).map(r => new RegExp(r, 'i'));
   return items.filter(i => !res.some(r => r.test(i.label)));
@@ -354,7 +389,7 @@ async function snapshotCheck(page, check, previous) {
       url: p.url,
       title: p.title || '',
       error: p.error,
-      items: filterItems(p.items, check.ignore),
+      items: filterItems(p.items, check.ignore).map(i => ({ ...i, href: cleanHref(i.href) })),
       lines: cleanLines(p.text, check.ignore),
     })),
   };
@@ -449,6 +484,7 @@ async function main() {
     baselined: [],
     needs_login: [],
     errors: [],
+    partial: [],
   };
 
   const browser = await chromium.launch();
@@ -484,6 +520,13 @@ async function main() {
         const snap = await snapshotCheck(page, check, previous);
         const reachable = snap.pages[0] && !snap.pages[0].error;
         if (!reachable) throw new Error(snap.pages[0].error || 'no content');
+        if (previous) {
+          for (const pg of previous.pages) pg.items = pg.items.map(i => ({ ...i, href: cleanHref(i.href) }));
+        }
+        if (previous && previous.url === snap.url) {
+          const kept = carryForward(snap, previous);
+          if (kept.length) result.partial.push({ ...meta, pages_not_loaded: kept });
+        }
         // A check whose page changed in the config starts again from a new baseline.
         if (!previous || previous.url !== snap.url) {
           result.baselined.push({ ...meta, url: snap.url, items: snap.pages.reduce((n, p) => n + p.items.length, 0) });

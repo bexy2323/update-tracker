@@ -1,17 +1,12 @@
 {
   "check_id": "mytax-announcements",
   "url": "https://mytax.hasil.gov.my/",
-  "fetched_at": "2026-10-28T01:18:56.837Z",
+  "fetched_at": "2026-10-28T09:04:35.599Z",
   "pages": [
     {
       "url": "https://mytax.hasil.gov.my/",
       "title": "MyTax",
       "items": [
-        {
-          "label": "Image: GetFile?bannerId=89",
-          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=89",
-          "image": true
-        },
         {
           "label": "Image: GetFile?bannerId=87",
           "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=87",

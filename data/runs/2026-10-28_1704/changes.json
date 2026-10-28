@@ -1,0 +1,55 @@
+{
+  "run_id": "2026-10-28_1704",
+  "started_at": "2026-10-28T09:04:23.956Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "url": "https://mytax.hasil.gov.my/",
+      "new_items": [
+        {
+          "page": "https://mytax.hasil.gov.my/",
+          "label": "Image: GetFile?bannerId=87",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=87",
+          "image": true
+        },
+        {
+          "page": "https://mytax.hasil.gov.my/",
+          "label": "Image: GetFile?bannerId=86",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=86",
+          "image": true
+        },
+        {
+          "page": "https://mytax.hasil.gov.my/",
+          "label": "Image: GetFile?bannerId=84",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=84",
+          "image": true
+        },
+        {
+          "page": "https://mytax.hasil.gov.my/",
+          "label": "Image: GetFile?bannerId=77",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=77",
+          "image": true
+        },
+        {
+          "page": "https://mytax.hasil.gov.my/",
+          "label": "Image: GetFile?bannerId=75",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=75",
+          "image": true
+        }
+      ],
+      "removed_items": [],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [],
+  "baselined": [],
+  "needs_login": [],
+  "errors": [],
+  "partial": [],
+  "finished_at": "2026-10-28T09:04:35.690Z"
+}

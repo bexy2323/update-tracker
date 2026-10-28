@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-legislation",
   "url": "https://www.hasil.gov.my/en/perundangan/akta/",
-  "fetched_at": "2026-10-28T01:25:09.014Z",
+  "fetched_at": "2026-10-28T09:03:42.156Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/perundangan/akta/",
@@ -5500,7 +5500,7 @@
       "items": [
         {
           "label": "Expand All",
-          "href": "https://www.hasil.gov.my/en/perundangan/bajet/?isStampsSite=false&lang=en&refererUrl=https%3A%2F%2Fwww.hasil.gov.my%2Fen%2Fperundangan%2Fbajet%2F"
+          "href": "https://www.hasil.gov.my/en/perundangan/bajet/"
         },
         {
           "label": "Compilation Questions & Answers Transfer Pricing & Tax Corporate Governance Seminar 2026 (22 July 2026) – Topic 4: Evaluating E-Invoice Effectiveness: A Post Implementation Audit Perspective (327.63 KB)",
