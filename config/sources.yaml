@@ -14,6 +14,7 @@
 #   crawl          also snapshot pages linked from this one (one level deep):
 #                    path_prefix: only follow links whose URL path starts with this
 #                    max_pages:   safety cap
+#   pages          extra page URLs to include in this check's snapshot.
 #   mode           links (default): track the list of links/items on the page
 #                  forms: track which years are listed for each form
 #                  hasil_forms: HASiL Download Forms search pages; tracks the
@@ -134,10 +135,18 @@ sources:
           max_pages: 20
       - id: hasil-legislation
         section: Legislation (everything)
-        url: https://www.hasil.gov.my/en/perundangan/
-        crawl:
-          path_prefix: /en/perundangan/
-          max_pages: 60
+        # /en/perundangan/ redirects to the Malay site, so the sub-pages are listed.
+        url: https://www.hasil.gov.my/en/perundangan/akta/
+        pages:
+          - https://www.hasil.gov.my/en/perundangan/ketetapan-umum/
+          - https://www.hasil.gov.my/en/perundangan/garis-panduan/
+          - https://www.hasil.gov.my/en/perundangan/rangka-kerja/
+          - https://www.hasil.gov.my/en/perundangan/kes-cukai/
+          - https://www.hasil.gov.my/en/perundangan/cukai-pegangan/
+          - https://www.hasil.gov.my/en/perundangan/nota-amalan/
+          - https://www.hasil.gov.my/en/perundangan/minit-dialog-isu-isu-operasi-dan-teknikal/
+          - https://www.hasil.gov.my/en/perundangan/kesalahan-denda-dan-penalti/
+          - https://www.hasil.gov.my/en/perundangan/bajet/
       - id: hasil-transfer-pricing
         section: Transfer Pricing
         url: https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/

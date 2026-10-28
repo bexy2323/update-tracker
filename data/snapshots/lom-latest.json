@@ -1,39 +1,47 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-10-27T06:44:27.391Z",
+  "fetched_at": "2026-10-28T01:15:57.339Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct 21 Oct",
+          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzcwLzIwMjZ8YjlmMDY1ZWE5ZTc0M2FjMjhmOTBhYWRkY2E4ZWE1NzllNzlhZjY3OTcyZTE1MDE3ZTdmZWZhNDZlNzUzOWEwOQ%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzcxLzIwMjZ8OWZhNzAyNzg1Y2IxY2MyNjA5OGVkNzllMjM2ZjZkMGQ5YmE0Njc3YTIyNTE0ZTY1MTAyZmNkNjZlYWE3ODYyNQ%3D%3D"
         },
         {
           "label": "P.U. (A) 368/2026 - COMPANIES (AMENDMENT OF FOURTH SCHEDULE) ORDER 2026",
@@ -88,18 +96,6 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDMyLzIwMjZ8ZGI3YTNlMmRmYmRlNDdmMzI0MWVjZTAwZmQ2OGJlMjM0OTdlNGE5ZjE0Yjk4NDVlM2U4YWNlODBmMjQ1ODYyNg%3D%3D"
         },
         {
-          "label": "P.U. (A) 364/2026 - NATIONAL HERITAGE (DECLARATION OF LIVING PERSON AS A NATIONAL HERITAGE) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzY0LzIwMjZ8NmZiOWQ3MGZjOTE5MzM2N2M3ZmY1ZTViNjZiZjI0NjViMzk2YTA1NTdhNDVkY2FlYzJlYWIyYzc2MmI5NjNhOQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 365/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzY1LzIwMjZ8ZDUyM2ZhYWExZWQzYzIyZmI3NjhkNTgwNDBmYWE0N2I0YjEwMjg5NzljNTY5Njk1YWFiNGJmYTJlMDNlMWNhMw%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 366/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 2) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzY2LzIwMjZ8ZTRhNzBkZWVlYTRkYThjZDFlN2IyYTkyNTU4YjZkMzYwZDc0OThiMTg5Y2JhZTBiNjUxNjMyNTJjNzcyNjVjYQ%3D%3D"
-        },
-        {
           "label": "STATISTICS ACT 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZhY3Q9ODg3fGU4N2RhY2NkODY2MDVkODNlYWNhODgwNGU2Y2Y3MjgxNGNkNzg0MjViZGEzZTcyMzQ1OWQ5YzQ3YzJlMmEyYTM%3D"
         },
@@ -132,19 +128,19 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9YW1lbmRtZW50Jmxhbmd1YWdlPUJJfGU0NGQyMzUzY2MyNjFmNjk1Njg2OWM2ZDk3YjJiZjQ2ODg4MzBiYzZiMTk0MGJlMDVkOWZhNmU5Y2FmZWQ2OWE%3D"
         },
         {
+          "label": "SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzcxLzIwMjZ8NTA2ZmE1YTFmMjJjYmI5NzBmN2E0Y2M2YjlmZGNjZDkzYTJlNzdmY2FkMzM1NDhjMDJjMDJmOWVhMzg4MjFkNQ%3D%3D"
+        },
+        {
+          "label": "INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzcwLzIwMjZ8YmJiYWY3N2FlZGQ0ODIyYWE4NjVlOGVmY2M5M2ZkZWI4OGE5NjQzNWQ2OGU0OGFiZmYwMDU0ZDZhNGJmNTlkMw%3D%3D"
+        },
+        {
           "label": "ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzY5LzIwMjZ8NDgyMTEwNDNmNmMwZjgxYmRkNDM5MDY0MjJjZWZiMzFhN2RiMDQ3MGM5NWFlMmEzYjk0OWYwMjViMTA0ODdmYg%3D%3D"
         },
         {
-          "label": "COMPANIES (AMENDMENT OF FOURTH SCHEDULE) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzY4LzIwMjZ8MGI5Yjg0MWQ5MjI5NzQ1YTBkOTI0MDBhODVlMzhhYWFkYWFlYzcyMzYxZWVlYTM3NDk1MTdkNzkwMzVhNDkzMw%3D%3D"
-        },
-        {
-          "label": "INCOME TAX (DIVIDEND INCOME RECEIVED IN MALAYSIA FROM OUTSIDE MALAYSIA) (EXEMPTION) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzY3LzIwMjZ8ODhhNmQ0NjU5MTQ5NzY2Mjc1Mzg0ZmNiNjExOTgwOGQ4OGRjNDBlZDVhZjdkMjI1YjViMGNhYWY4MzFjZDhmMg%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 369/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026 P.U. (A) 368/2026 - COMPANIES (AMENDMENT OF FOURTH SCHEDULE) ORDER 2026 P.U. (A) 367/2026 - INCOME TAX (DIVIDEND INCOME RECEIVED IN MALAYSIA FROM OUTSIDE MALAYSIA) (EXEMPTION) ORDER 2026 See All...",
+          "label": "P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026 P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026 P.U. (A) 369/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026 See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
@@ -175,14 +171,16 @@
       "lines": [
         "What's New",
         "Today",
+        "27 Oct",
         "26 Oct",
         "25 Oct",
         "24 Oct",
         "23 Oct",
         "22 Oct",
-        "21 Oct",
         "There is no record to display",
         "P.U. (A)",
+        "P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026",
+        "P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026",
         "P.U. (A) 368/2026 - COMPANIES (AMENDMENT OF FOURTH SCHEDULE) ORDER 2026",
         "P.U. (A) 369/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026",
         "P.U. (B)",
@@ -199,9 +197,6 @@
         "P.U. (B) 435/2026 - NOTICE TO THIRD PARTIES",
         "P.U. (A) 367/2026 - INCOME TAX (DIVIDEND INCOME RECEIVED IN MALAYSIA FROM OUTSIDE MALAYSIA) (EXEMPTION) ORDER 2026",
         "P.U. (B) 432/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF SEPTEMBER 2026",
-        "P.U. (A) 364/2026 - NATIONAL HERITAGE (DECLARATION OF LIVING PERSON AS A NATIONAL HERITAGE) ORDER 2026",
-        "P.U. (A) 365/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) ORDER 2026",
-        "P.U. (A) 366/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 2) ORDER 2026",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
         "Act 885 - NATIONAL TRUST FUND ACT 2026",
@@ -214,8 +209,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (A) 367/2026 792",
-        "Act 854 745"
+        "P.U. (A) 367/2026 868",
+        "Act 854 678"
       ]
     }
   ]

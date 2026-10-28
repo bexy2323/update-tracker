@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-download-forms",
   "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
-  "fetched_at": "2026-10-27T06:44:15.849Z",
+  "fetched_at": "2026-10-28T01:15:44.513Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
@@ -827,11 +827,11 @@
       "title": "Muat Turun Borang Surat Penyelesaian Cukai",
       "items": [
         {
-          "label": "| Company Income Tax Return Form for the purpose of Tax Clearance Letter application Form C 2026 (720.67 KB) (For TCL Purpose Only) This Form C 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 1 of 2022: Application for a Tax Clearance Letter for Companies, Limited Liability Partn",
+          "label": "| Company Income Tax Return Form for the purpose of Tax Clearance Letter application Form C 2026 (720.67 KB) (For TCL Purpose Only) This Form C 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 3 Year 2026: Operational Guidelines for Applications for Tax Clearance Letters for Compa",
           "href": "https://www.hasil.gov.my/wp-content/uploads/C2026_SPC.pdf"
         },
         {
-          "label": "| Borang E 2026 (467.08 KB) (Untuk Tujuan SPC) -",
+          "label": "| Borang E 2026 (467.08 KB) (For TCL Purpose Only) This Form E 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 3 Year 2026: Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (1.15 MB). The 2026 Form",
           "href": "https://www.hasil.gov.my/wp-content/uploads/borang-e2026-untuk-tujuan-spc.pdf"
         },
         {
@@ -855,11 +855,11 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/borang-be2025-untuk-tujuan-spc.pdf"
         },
         {
-          "label": "| Borang TF 2026 (1.01 MB) (Untuk Tujuan SPC) -",
+          "label": "| Borang TF 2026 (1.01 MB) (For TCL Purpose Only) This Form TF 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 3 Year 2026: Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (1.15 MB). The 2026 Form",
           "href": "https://www.hasil.gov.my/wp-content/uploads/borang-tf2026-untuk-tujuan-spc.pdf"
         },
         {
-          "label": "| Limited Liability Partnership Tax Return Form for the purpose of Tax Clearance Letter application PT2026 SPC (651.94 KB)(For TCL Purpose Only) This Form PT 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 1 of 2022: Application for a Tax Clearance Letter for Companies, Limited L",
+          "label": "| Limited Liability Partnership Tax Return Form for the purpose of Tax Clearance Letter application PT2026 SPC (651.94 KB) (For TCL Purpose Only) This Form PT 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 3 Year 2026: Operational Guidelines for Applications for Tax Clearance Le",
           "href": "https://www.hasil.gov.my/wp-content/uploads/PT2026-SPC.pdf"
         }
       ],

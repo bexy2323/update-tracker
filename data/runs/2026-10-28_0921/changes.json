@@ -1,0 +1,40 @@
+{
+  "run_id": "2026-10-28_0921",
+  "started_at": "2026-10-28T01:21:22.130Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [],
+  "unchanged": [],
+  "baselined": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invois/",
+      "items": 730
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-myinvois-epos",
+      "section": "Pautan Popular > MyInvois e-POS",
+      "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/",
+      "items": 53
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/perundangan/",
+      "items": 12
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-transfer-pricing",
+      "section": "Transfer Pricing",
+      "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/",
+      "items": 26
+    }
+  ],
+  "needs_login": [],
+  "errors": [],
+  "finished_at": "2026-10-28T01:23:26.665Z"
+}

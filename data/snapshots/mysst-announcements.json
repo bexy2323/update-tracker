@@ -1,7 +1,7 @@
 {
   "check_id": "mysst-announcements",
   "url": "https://mysst.customs.gov.my/announcements/",
-  "fetched_at": "2026-10-27T06:44:43.416Z",
+  "fetched_at": "2026-10-28T01:16:13.936Z",
   "pages": [
     {
       "url": "https://mysst.customs.gov.my/announcements/",
@@ -14,6 +14,10 @@
         {
           "label": "16/06/2025 Frequently Asked Questions (FAQ) - (FAQ) - Transition Of Sales Tax Rate Changes 2025 More",
           "href": "https://mysst.customs.gov.my/faq-transition-of-sales-tax-rate-changes-2025/"
+        },
+        {
+          "label": "27/10/2026 Service Tax (Digital Services) (Amendment) Regulations 2026 More",
+          "href": "https://mysst.customs.gov.my/sst-regulations/"
         },
         {
           "label": "26/10/2026 Service Tax Policy No. 6/2026 (Amendment No.1) More",
@@ -42,10 +46,6 @@
         {
           "label": "28/08/2026 Sales Tax (Persons Exempted From Sales Tax) (Amendment) (No. 2) Order 2026 More",
           "href": "https://mysst.customs.gov.my/sst-orders/"
-        },
-        {
-          "label": "18/08/2026 Ketetapan Umum Bil. 5/2026 - Penetapan Maksud Penempatan Pekerja Secara Sementara (Secondment Of Employees) Bagi Perkhidmatan Pekerjaan More",
-          "href": "https://mysst.customs.gov.my/public-rulings/"
         }
       ],
       "lines": [
@@ -62,6 +62,8 @@
         "More",
         "16/06/2025",
         "Frequently Asked Questions (FAQ) - (FAQ) - Transition Of Sales Tax Rate Changes 2025",
+        "27/10/2026",
+        "Service Tax (Digital Services) (Amendment) Regulations 2026",
         "26/10/2026",
         "Service Tax Policy No. 6/2026 (Amendment No.1)",
         "22/10/2026",
@@ -76,9 +78,7 @@
         "Service Tax Policy No. 5/2026",
         "28/08/2026",
         "Sales Tax (Persons Exempted From Sales Tax) (Amendment) (No. 2) Order 2026",
-        "18/08/2026",
-        "Ketetapan Umum Bil. 5/2026 - Penetapan Maksud Penempatan Pekerja Secara Sementara (Secondment Of Employees) Bagi Perkhidmatan Pekerjaan",
-        "Showing 1 to 10 of 260 entries"
+        "Showing 1 to 10 of 261 entries"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "check_id": "mysst-latest-announcements",
   "url": "https://mysst.customs.gov.my/",
-  "fetched_at": "2026-10-27T06:44:39.435Z",
+  "fetched_at": "2026-10-28T01:16:10.465Z",
   "pages": [
     {
       "url": "https://mysst.customs.gov.my/",
@@ -18,6 +18,10 @@
         {
           "label": "16/06/2025 Frequently Asked Questions (FAQ) - (FAQ) - Transition Of Sales Tax Rate Changes 2025 More",
           "href": "https://mysst.customs.gov.my/faq-transition-of-sales-tax-rate-changes-2025/"
+        },
+        {
+          "label": "27/10/2026 Service Tax (Digital Services) (Amendment) Regulations 2026 More",
+          "href": "https://mysst.customs.gov.my/sst-regulations/"
         },
         {
           "label": "26/10/2026 Service Tax Policy No. 6/2026 (Amendment No.1) More",
@@ -40,16 +44,12 @@
           "href": "https://mysst.customs.gov.my/public-rulings/"
         },
         {
-          "label": "09/09/2026 Service Tax Policy No. 5/2026 More",
+          "label": "09/09/2026 Service Tax Policy No. 5/2026More",
           "href": "https://mysst.customs.gov.my/service-tax-policy/"
         },
         {
           "label": "28/08/2026 Sales Tax (Persons Exempted From Sales Tax) (Amendment) (No. 2) Order 2026More",
           "href": "https://mysst.customs.gov.my/sst-orders/"
-        },
-        {
-          "label": "18/08/2026 Ketetapan Umum Bil. 5/2026 - Penetapan Maksud Penempatan Pekerja Secara Sementara (Secondment Of Employees) Bagi Perkhidmatan PekerjaanMore",
-          "href": "https://mysst.customs.gov.my/public-rulings/"
         },
         {
           "label": "Learn more about SST",
@@ -105,6 +105,8 @@
         "More",
         "16/06/2025",
         "Frequently Asked Questions (FAQ) - (FAQ) - Transition Of Sales Tax Rate Changes 2025",
+        "27/10/2026",
+        "Service Tax (Digital Services) (Amendment) Regulations 2026",
         "26/10/2026",
         "Service Tax Policy No. 6/2026 (Amendment No.1)",
         "22/10/2026",
@@ -115,8 +117,6 @@
         "Service Tax (Imposition Of Tax For Taxable Service In Respect Of Designated Areas Excluding Pulau 1 And Special Areas) (Amendment) Order 2026",
         "21/09/2026",
         "Ketetapan Umum Bil. 6/2026 - Borang, Penyata, Cara Permohonan Dan Kaedah Bayaran Di Bawah Akta Cukai Pelancongan 2017, Akta Cukai Jualan 2018 Dan Akta Cukai Perkhidmatan 2018",
-        "09/09/2026",
-        "Service Tax Policy No. 5/2026",
         "WELCOME TO THE",
         "Official Website",
         "Malaysia Sales & Service Tax",

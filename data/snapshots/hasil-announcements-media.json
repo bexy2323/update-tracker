@@ -1,12 +1,16 @@
 {
   "check_id": "hasil-announcements-media",
   "url": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
-  "fetched_at": "2026-10-27T06:37:59.839Z",
+  "fetched_at": "2026-10-28T01:09:40.877Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
       "title": "Pengumuman & Kenyataan Media",
       "items": [
+        {
+          "label": "Announcement 27 Oct 2026 OPERATIONAL GUIDELINES Please be informed that Operational Guidelines: Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities can now be downloaded from HASiL Official Portal. Click here to download",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=cGVuZ3VtdW1hbnwxMTQ="
+        },
         {
           "label": "Announcement 23 Oct 2026 PUBLIC CONSULTATION ON PUBLIC RULING The Inland Revenue Board of Malaysia (IRBM) invites comments on the proposal of Public Ruling : Tax Treatment of Royalties on Software Payments to Non-Residents (This content is available in Bahasa Melayu only). The main purpose of public consultation is to seek stakeholders views on the issue related to this public ruling. Please note ",
           "href": "https://www.hasil.gov.my/en/butiran-media/?item=cGVuZ3VtdW1hbnwxMTM="
@@ -104,7 +108,7 @@
           "href": "https://www.hasil.gov.my/en/butiran-media/?item=a2VueWF0YWFuX21lZGlhfDIwNw=="
         },
         {
-          "label": "Announcement 07 Aug 2026 NOTICE OF TEMPORARY SERVICE DISRUPTION TO THE HASIL OFFICIAL PORTAL DUE TO SCHEDULED MAINTENANCE Please be informed that the HASiL Official Portal will experience temporary service disruption due to scheduled maintenance as follows: Date: 7 August 2026 (Friday) Time: 11:00 p.m. onwards until completion We apologise for any inconvenience caused. Your cooperation and underst",
+          "label": "Announcement 07 Aug 2026 Notice of Temporary Service Disruption to the HASiL Official Portal Due to Scheduled Maintenance Please be informed that the HASiL Official Portal will experience temporary service disruption due to scheduled maintenance as follows: Date: 7 August 2026 (Friday) Time: 11:00 p.m. onwards until completion We apologise for any inconvenience caused. Your cooperation and underst",
           "href": "https://www.hasil.gov.my/en/butiran-media/?item=cGVuZ3VtdW1hbnw5OQ=="
         },
         {
@@ -398,6 +402,9 @@
         "All",
         "Search",
         "Announcement",
+        "27 Oct 2026",
+        "OPERATIONAL GUIDELINES",
+        "Please be informed that Operational Guidelines: Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities can now be downloaded from HASiL Official Portal. Click here to download",
         "23 Oct 2026",
         "PUBLIC CONSULTATION ON PUBLIC RULING",
         "The Inland Revenue Board of Malaysia (IRBM) invites comments on the proposal of Public Ruling : Tax Treatment of Royalties on Software Payments to Non-Residents (This content is available in Bahasa Melayu only). The main purpose of public consultation is to seek stakeholders views on the issue related to this public ruling. Please note that…",
@@ -465,8 +472,7 @@
         "Komitmen Lembaga Hasil Dalam Negeri Malaysia (HASiL) dalam menyokong pembangunan pendidikan negara terus dizahirkan menerusi pelaksanaan Program Sekolah Angkat MADANI (SAM) 2026 di Sekolah Kebangsaan (SK) Kuala Perlis. Click here to download",
         "07 Aug 2026",
         "HASIL MULAKAN SIASATAN CUKAI SUSULAN LAPORAN SURUHANJAYA SIASATAN DIRAJA (RCI) BERHUBUNG LEMBAGA TABUNG HAJI (TH)",
-        "CYBERJAYA, 7 OGOS 2026 – Lembaga Hasil Dalam Negeri Malaysia (HASiL) ingin memaklumkan bahawa tindakan siasatan telah dimulakan terhadap individu-individu yang dikenal pasti berdasarkan Laporan Suruhanjaya Siasatan Diraja (RCI) berkaitan Lembaga Tabung Haji (TH). Click here to download",
-        "Please be informed that the HASiL Official Portal will experience temporary service disruption due to scheduled maintenance as follows: Date: 7 August 2026 (Friday) Time: 11:00 p.m. onwards until completion We apologise for any inconvenience caused. Your cooperation and understanding are greatly appreciated. Thank you."
+        "CYBERJAYA, 7 OGOS 2026 – Lembaga Hasil Dalam Negeri Malaysia (HASiL) ingin memaklumkan bahawa tindakan siasatan telah dimulakan terhadap individu-individu yang dikenal pasti berdasarkan Laporan Suruhanjaya Siasatan Diraja (RCI) berkaitan Lembaga Tabung Haji (TH). Click here to download"
       ]
     }
   ]

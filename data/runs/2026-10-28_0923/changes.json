@@ -1,0 +1,19 @@
+{
+  "run_id": "2026-10-28_0923",
+  "started_at": "2026-10-28T01:23:57.624Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [],
+  "unchanged": [],
+  "baselined": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/perundangan/akta/",
+      "items": 1112
+    }
+  ],
+  "needs_login": [],
+  "errors": [],
+  "finished_at": "2026-10-28T01:25:09.223Z"
+}

@@ -1,7 +1,7 @@
 {
   "check_id": "ctim-ectim",
   "url": "https://www.ctim.org.my/",
-  "fetched_at": "2026-10-27T06:45:33.762Z",
+  "fetched_at": "2026-10-28T01:17:01.087Z",
   "pages": [
     {
       "url": "https://www.ctim.org.my/",
@@ -300,15 +300,15 @@
           "href": "https://www.ctim.org.my/download?file=/14/6b59c0882de945f203228ef5efa59a84.pdf"
         },
         {
+          "label": "e-CTIM TECH-IT 41-2026 - Service Tax Policy No. 6-2026 (Amendment No. 1) - Improvements to the ST Treatment for Electricity Transmission and Distribution Services.pdf",
+          "href": "https://www.ctim.org.my/"
+        },
+        {
           "label": "e-CTIM TECH-DT 89-2026 - Foreign-sourced Dividend Income Exemption until 2030.pdf",
           "href": "https://www.ctim.org.my/"
         },
         {
           "label": "e-CTIM TECH-DT 88-2026 - e-Invoice SVDP - Data Field Requirement Updates for Document Submissions.pdf",
-          "href": "https://www.ctim.org.my/"
-        },
-        {
-          "label": "e-CTIM TECH-IT 40-2026 - Customs (Anti-Dumping Duties) (Expiry Review) (No. 2) Order 2026 [P.U. (A) 354-2026]",
           "href": "https://www.ctim.org.my/"
         },
         {
@@ -361,12 +361,12 @@
         "12 October 2026",
         "eCTIM",
         "e-CTIM",
+        "e-CTIM TECH-IT 41-2026 - Service Tax Policy No. 6-2026 (Amendment No. 1) - Improvements to the ST Treatment for Electricity Transmission and Distribution Services.pdf",
+        "28 October 2026",
         "e-CTIM TECH-DT 89-2026 - Foreign-sourced Dividend Income Exemption until 2030.pdf",
         "27 October 2026",
         "e-CTIM TECH-DT 88-2026 - e-Invoice SVDP - Data Field Requirement Updates for Document Submissions.pdf",
         "21 October 2026",
-        "e-CTIM TECH-IT 40-2026 - Customs (Anti-Dumping Duties) (Expiry Review) (No. 2) Order 2026 [P.U. (A) 354-2026]",
-        "16 October 2026",
         "CONTACT US LOCATION MAPS PRIVACY POLICY TERMS & CONDITIONS",
         "© 2021 Chartered Tax Institute Of Malaysia. All Rights Reserved."
       ]

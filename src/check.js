@@ -130,7 +130,9 @@ function extractPage(imageSelector) {
   const text = clone.innerText;
   holder.remove();
 
-  return { title: document.title, items, text };
+  // Every link on the page, menus included, for following sub-pages (crawl).
+  const links = anchors.map(a => a.href).filter(h => /^https?:/.test(h));
+  return { title: document.title, items, text, links };
 }
 
 // Downloads the page with curl and loads the HTML into the browser without running
@@ -331,6 +333,16 @@ async function snapshotCheck(page, check, previous) {
       } catch (e) {
         pages.push({ url: sub, error: e.message, items: [], text: '' });
       }
+    }
+  }
+
+  // Extra pages listed in the config, for sections whose sub-pages can't be crawled.
+  for (const extra of check.pages || []) {
+    if (pages.some(p => p.url.replace(/\/$/, '') === extra.replace(/\/$/, ''))) continue;
+    try {
+      pages.push({ url: extra, ...(await visit(extra)) });
+    } catch (e) {
+      pages.push({ url: extra, error: e.message, items: [], text: '' });
     }
   }
 

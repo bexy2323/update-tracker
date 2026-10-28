@@ -1,0 +1,404 @@
+{
+  "run_id": "2026-10-28_0909",
+  "started_at": "2026-10-28T01:09:28.822Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-announcements-media",
+      "section": "Home > Kenyataan Media & Pengumuman (Media Statements & Announcements)",
+      "url": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+          "label": "Announcement 27 Oct 2026 OPERATIONAL GUIDELINES Please be informed that Operational Guidelines: Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities can now be downloaded from HASiL Official Portal. Click here to download",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=cGVuZ3VtdW1hbnwxMTQ="
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+          "label": "Announcement 07 Aug 2026 Notice of Temporary Service Disruption to the HASiL Official Portal Due to Scheduled Maintenance Please be informed that the HASiL Official Portal will experience temporary service disruption due to scheduled maintenance as follows: Date: 7 August 2026 (Friday) Time: 11:00 p.m. onwards until completion We apologise for any inconvenience caused. Your cooperation and underst",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=cGVuZ3VtdW1hbnw5OQ=="
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+          "label": "Announcement 07 Aug 2026 NOTICE OF TEMPORARY SERVICE DISRUPTION TO THE HASIL OFFICIAL PORTAL DUE TO SCHEDULED MAINTENANCE Please be informed that the HASiL Official Portal will experience temporary service disruption due to scheduled maintenance as follows: Date: 7 August 2026 (Friday) Time: 11:00 p.m. onwards until completion We apologise for any inconvenience caused. Your cooperation and underst",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=cGVuZ3VtdW1hbnw5OQ=="
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (years listed per form category)",
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Company Income Tax Return Form for the purpose of Tax Clearance Letter application Form C 2026 (720.67 KB) (For TCL Purpose Only) This Form C 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 3 Year 2026: Operational Guidelines for Applications for Tax Clearance Letters for Compa",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/C2026_SPC.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Borang E 2026 (467.08 KB) (For TCL Purpose Only) This Form E 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 3 Year 2026: Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (1.15 MB). The 2026 Form",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-e2026-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Borang TF 2026 (1.01 MB) (For TCL Purpose Only) This Form TF 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 3 Year 2026: Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (1.15 MB). The 2026 Form",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-tf2026-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Limited Liability Partnership Tax Return Form for the purpose of Tax Clearance Letter application PT2026 SPC (651.94 KB) (For TCL Purpose Only) This Form PT 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 3 Year 2026: Operational Guidelines for Applications for Tax Clearance Le",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/PT2026-SPC.pdf"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Company Income Tax Return Form for the purpose of Tax Clearance Letter application Form C 2026 (720.67 KB) (For TCL Purpose Only) This Form C 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 1 of 2022: Application for a Tax Clearance Letter for Companies, Limited Liability Partn",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/C2026_SPC.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Borang E 2026 (467.08 KB) (Untuk Tujuan SPC) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-e2026-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Borang TF 2026 (1.01 MB) (Untuk Tujuan SPC) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-tf2026-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Limited Liability Partnership Tax Return Form for the purpose of Tax Clearance Letter application PT2026 SPC (651.94 KB)(For TCL Purpose Only) This Form PT 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 1 of 2022: Application for a Tax Clearance Letter for Companies, Limited L",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/PT2026-SPC.pdf"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-latest",
+      "section": "Principal Act / List of P.U. (A) / Finance Bill (latest legislation feed, tax-relevant only)",
+      "url": "https://lom.agc.gov.my/index.php",
+      "new_items": [
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzcwLzIwMjZ8YjlmMDY1ZWE5ZTc0M2FjMjhmOTBhYWRkY2E4ZWE1NzllNzlhZjY3OTcyZTE1MDE3ZTdmZWZhNDZlNzUzOWEwOQ%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzcxLzIwMjZ8OWZhNzAyNzg1Y2IxY2MyNjA5OGVkNzllMjM2ZjZkMGQ5YmE0Njc3YTIyNTE0ZTY1MTAyZmNkNjZlYWE3ODYyNQ%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzcxLzIwMjZ8NTA2ZmE1YTFmMjJjYmI5NzBmN2E0Y2M2YjlmZGNjZDkzYTJlNzdmY2FkMzM1NDhjMDJjMDJmOWVhMzg4MjFkNQ%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzcwLzIwMjZ8YmJiYWY3N2FlZGQ0ODIyYWE4NjVlOGVmY2M5M2ZkZWI4OGE5NjQzNWQ2OGU0OGFiZmYwMDU0ZDZhNGJmNTlkMw%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026 P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026 P.U. (A) 369/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "INCOME TAX (DIVIDEND INCOME RECEIVED IN MALAYSIA FROM OUTSIDE MALAYSIA) (EXEMPTION) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzY3LzIwMjZ8ODhhNmQ0NjU5MTQ5NzY2Mjc1Mzg0ZmNiNjExOTgwOGQ4OGRjNDBlZDVhZjdkMjI1YjViMGNhYWY4MzFjZDhmMg%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 369/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026 P.U. (A) 368/2026 - COMPANIES (AMENDMENT OF FOURTH SCHEDULE) ORDER 2026 P.U. (A) 367/2026 - INCOME TAX (DIVIDEND INCOME RECEIVED IN MALAYSIA FROM OUTSIDE MALAYSIA) (EXEMPTION) ORDER 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": [],
+      "not_relevant_count": 7
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-latest-announcements",
+      "section": "Pengumuman Terkini (Latest Announcements)",
+      "url": "https://mysst.customs.gov.my/",
+      "new_items": [
+        {
+          "page": "https://mysst.customs.gov.my/",
+          "label": "27/10/2026 Service Tax (Digital Services) (Amendment) Regulations 2026 More",
+          "href": "https://mysst.customs.gov.my/sst-regulations/"
+        },
+        {
+          "page": "https://mysst.customs.gov.my/",
+          "label": "09/09/2026 Service Tax Policy No. 5/2026More",
+          "href": "https://mysst.customs.gov.my/service-tax-policy/"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://mysst.customs.gov.my/",
+          "label": "09/09/2026 Service Tax Policy No. 5/2026 More",
+          "href": "https://mysst.customs.gov.my/service-tax-policy/"
+        },
+        {
+          "page": "https://mysst.customs.gov.my/",
+          "label": "18/08/2026 Ketetapan Umum Bil. 5/2026 - Penetapan Maksud Penempatan Pekerja Secara Sementara (Secondment Of Employees) Bagi Perkhidmatan PekerjaanMore",
+          "href": "https://mysst.customs.gov.my/public-rulings/"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-announcements",
+      "section": "All announcements",
+      "url": "https://mysst.customs.gov.my/announcements/",
+      "new_items": [
+        {
+          "page": "https://mysst.customs.gov.my/announcements/",
+          "label": "27/10/2026 Service Tax (Digital Services) (Amendment) Regulations 2026 More",
+          "href": "https://mysst.customs.gov.my/sst-regulations/"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://mysst.customs.gov.my/announcements/",
+          "label": "18/08/2026 Ketetapan Umum Bil. 5/2026 - Penetapan Maksud Penempatan Pekerja Secara Sementara (Secondment Of Employees) Bagi Perkhidmatan Pekerjaan More",
+          "href": "https://mysst.customs.gov.my/public-rulings/"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-pengumuman",
+      "section": "Pengumuman (Announcements)",
+      "url": "https://customs.gov.my/ms/arkib/pengumuman",
+      "new_items": [],
+      "removed_items": [],
+      "text_changes": [
+        {
+          "page": "https://customs.gov.my/ms/arkib/pengumuman",
+          "added_lines": [],
+          "removed_lines": [
+            "08 Oktober 2026 863 hit(s)",
+            "01 Oktober 2026 900 hit(s)",
+            "28 September 2026 1297 hit(s)",
+            "24 September 2026 663 hit(s)",
+            "14 September 2026 3507 hit(s)",
+            "24 Ogos 2026 1877 hit(s)",
+            "28 Julai 2026 2502 hit(s)",
+            "28 Julai 2026 1744 hit(s)",
+            "03 Julai 2026 1888 hit(s)",
+            "02 Julai 2026 1342 hit(s)",
+            "30 Jun 2026 3227 hit(s)",
+            "29 Jun 2026 1154 hit(s)",
+            "11 Jun 2026 2510 hit(s)",
+            "05 Jun 2026 9238 hit(s)",
+            "06 Mei 2026 2792 hit(s)",
+            "04 Mei 2026 2663 hit(s)",
+            "04 Mei 2026 1857 hit(s)",
+            "18 Mac 2026 7352 hit(s)",
+            "06 Mac 2026 2512 hit(s)",
+            "02 Mac 2026 2172 hit(s)"
+          ]
+        }
+      ],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-berita-media",
+      "section": "Berita dan Media (News and Media)",
+      "url": "https://customs.gov.my/ms/arkib/liputan-media",
+      "new_items": [],
+      "removed_items": [],
+      "text_changes": [
+        {
+          "page": "https://customs.gov.my/ms/arkib/liputan-media",
+          "added_lines": [],
+          "removed_lines": [
+            "08 Oktober 2026 317 hit(s)",
+            "25 September 2026 747 hit(s)",
+            "07 September 2026 977 hit(s)",
+            "28 Ogos 2026 1192 hit(s)",
+            "27 Ogos 2026 1034 hit(s)",
+            "17 Ogos 2026 605 hit(s)",
+            "12 Ogos 2026 1601 hit(s)",
+            "10 Ogos 2026 1149 hit(s)",
+            "31 Julai 2026 1943 hit(s)",
+            "28 Julai 2026 795 hit(s)",
+            "16 Julai 2026 2346 hit(s)",
+            "15 Julai 2026 2402 hit(s)",
+            "13 Julai 2026 1905 hit(s)",
+            "02 Julai 2026 2655 hit(s)",
+            "18 Jun 2026 3033 hit(s)",
+            "18 Jun 2026 3995 hit(s)",
+            "12 Jun 2026 2110 hit(s)",
+            "12 Jun 2026 1873 hit(s)",
+            "20 Mei 2026 2757 hit(s)",
+            "11 Mei 2026 2480 hit(s)"
+          ]
+        }
+      ],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-ectim",
+      "section": "eCTIM (titles listed on the public home page; full text needs member sign-in)",
+      "url": "https://www.ctim.org.my/",
+      "new_items": [
+        {
+          "page": "https://www.ctim.org.my/",
+          "label": "e-CTIM TECH-IT 41-2026 - Service Tax Policy No. 6-2026 (Amendment No. 1) - Improvements to the ST Treatment for Electricity Transmission and Distribution Services.pdf",
+          "href": "https://www.ctim.org.my/"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.ctim.org.my/",
+          "label": "e-CTIM TECH-IT 40-2026 - Customs (Anti-Dumping Duties) (Expiry Review) (No. 2) Order 2026 [P.U. (A) 354-2026]",
+          "href": "https://www.ctim.org.my/"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invois/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-myinvois-epos",
+      "section": "Pautan Popular > MyInvois e-POS",
+      "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-return-form-filing-programme",
+      "section": "Forms > Return Form Filing Programme",
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/perundangan/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-transfer-pricing",
+      "section": "Transfer Pricing",
+      "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/"
+    },
+    {
+      "source": "Ministry of Finance",
+      "check_id": "mof-news",
+      "section": "News (tax-relevant only)",
+      "url": "https://www.mof.gov.my/portal/en/news"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-dt",
+      "section": "Technical News > Direct Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-it",
+      "section": "Technical News > Indirect Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-indirect-taxation-tc-it/"
+    },
+    {
+      "source": "MySToDS (Service Tax on Digital Services)",
+      "check_id": "mystods-bulletin",
+      "section": "Bulletin Board",
+      "url": "https://mystods.customs.gov.my/"
+    },
+    {
+      "source": "Rahmat Lim & Partners (RDS) - Tax Focus",
+      "check_id": "rds-tax-focus",
+      "section": "Tax Focus publications (for the monthly update class)",
+      "url": "https://www.rdslawpartners.com/publications/categories/tax-focus"
+    },
+    {
+      "source": "MDEC - National e-Invoicing",
+      "check_id": "mdec-einvoicing",
+      "section": "New Updates (Peppol-Ready Solution)",
+      "url": "https://mdec.my/national-einvoicing"
+    },
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "url": "https://mytax.hasil.gov.my/"
+    },
+    {
+      "source": "MIDA - Announcements & Media Releases",
+      "check_id": "mida-announcements",
+      "section": "Announcements & media releases (tax-relevant only)",
+      "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/"
+    }
+  ],
+  "baselined": [],
+  "needs_login": [
+    {
+      "source": "HASiL Facebook page",
+      "check_id": "hasil-facebook",
+      "section": "Facebook posts",
+      "url": "https://www.facebook.com/HASiLMalaysia"
+    },
+    {
+      "source": "CCH iKnowConnect (Malaysia)",
+      "check_id": "cch-news",
+      "section": "Latest news and articles",
+      "url": "https://iknowconnect.cch.com/MYS/home"
+    }
+  ],
+  "errors": [
+    {
+      "source": "Parliament of Malaysia - Dewan Rakyat bills",
+      "check_id": "parlimen-bills",
+      "section": "Bills (Income Tax Act and Finance Bills only)",
+      "url": "https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "HRD Corp - Circulars",
+      "check_id": "hrdcorp-circulars",
+      "section": "Circulars",
+      "url": "https://hrdcorp.gov.my/circulars",
+      "error": "HTTP 403"
+    }
+  ],
+  "finished_at": "2026-10-28T01:19:04.128Z"
+}
