@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-transfer-pricing",
   "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/",
-  "fetched_at": "2026-10-28T08:50:28.930Z",
+  "fetched_at": "2026-10-29T00:49:40.704Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/",
@@ -109,7 +109,7 @@
         },
         {
           "label": "If you have any further inquiry on transfer pricing matter, please send to [here].",
-          "href": "https://www.hasil.gov.my/en/hubungi-kami/meja-bantuan-hasil/?isStampsSite=false&lang=en&refererUrl=https%3A%2F%2Fwww.hasil.gov.my%2Fen%2Fhubungi-kami%2Fmeja-bantuan-hasil%2F"
+          "href": "https://www.hasil.gov.my/en/hubungi-kami/meja-bantuan-hasil/"
         }
       ],
       "lines": [

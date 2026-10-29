@@ -1,7 +1,7 @@
 {
   "check_id": "customs-pengumuman",
   "url": "https://customs.gov.my/ms/arkib/pengumuman",
-  "fetched_at": "2026-10-28T08:51:19.783Z",
+  "fetched_at": "2026-10-29T00:50:28.369Z",
   "pages": [
     {
       "url": "https://customs.gov.my/ms/arkib/pengumuman",
@@ -153,31 +153,31 @@
         },
         {
           "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=20"
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=20"
         },
         {
           "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=40"
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=40"
         },
         {
           "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=60"
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=60"
         },
         {
           "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=80"
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=80"
         },
         {
           "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=100"
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=100"
         },
         {
           "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=120"
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=120"
         },
         {
           "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=140"
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=140"
         },
         {
           "label": "Utama",

@@ -1,7 +1,7 @@
 {
   "check_id": "customs-berita-media",
   "url": "https://customs.gov.my/ms/arkib/liputan-media",
-  "fetched_at": "2026-10-28T08:51:26.736Z",
+  "fetched_at": "2026-10-29T00:50:34.238Z",
   "pages": [
     {
       "url": "https://customs.gov.my/ms/arkib/liputan-media",
@@ -153,19 +153,19 @@
         },
         {
           "label": "1 2 3 4 5",
-          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=20"
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=20"
         },
         {
           "label": "1 2 3 4 5",
-          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=40"
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=40"
         },
         {
           "label": "1 2 3 4 5",
-          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=60"
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=60"
         },
         {
           "label": "1 2 3 4 5",
-          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp;article=&amp;tag=&amp;author=&amp;alias=&amp;period=&amp;stage=&amp;filter-search=&amp;filter-match=any&amp;filter_order=&amp;filter_order_Dir=ASC&amp;start=80"
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=80"
         },
         {
           "label": "Utama",

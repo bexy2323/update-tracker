@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-10-28T08:50:33.259Z",
+  "fetched_at": "2026-10-29T00:49:44.482Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
+          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
+          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
+          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
+          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
+          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
+          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct 22 Oct",
+          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -90,14 +90,6 @@
         {
           "label": "P.U. (B) 435/2026 - NOTICE TO THIRD PARTIES",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM1LzIwMjZ8M2VhNzBkNmIxNjNiNTMwNGRkZGNkMjNlMDhiNzgyNGFjNTJhODVjODFkOGI3OTNlYWNlNzNiM2VhMzgxOGRkMQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 367/2026 - INCOME TAX (DIVIDEND INCOME RECEIVED IN MALAYSIA FROM OUTSIDE MALAYSIA) (EXEMPTION) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzY3LzIwMjZ8OWQ2Zjc2MzkzZjQ3YzcxM2VlNmJjZGMyMjNjZjFmNjFiOWRhMmI5NzM0Njc5YzM3M2QwMjMzZjZkYWU0ZjFiMQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 432/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF SEPTEMBER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDMyLzIwMjZ8ZGI3YTNlMmRmYmRlNDdmMzI0MWVjZTAwZmQ2OGJlMjM0OTdlNGE5ZjE0Yjk4NDVlM2U4YWNlODBmMjQ1ODYyNg%3D%3D"
         },
         {
           "label": "STATISTICS ACT 2026",
@@ -175,12 +167,13 @@
       "lines": [
         "What's New",
         "Today",
+        "28 Oct",
         "27 Oct",
         "26 Oct",
         "25 Oct",
         "24 Oct",
         "23 Oct",
-        "22 Oct",
+        "There is no record to display",
         "P.U. (A)",
         "P.U. (A) 372/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026",
         "P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026",
@@ -191,7 +184,6 @@
         "P.U. (B) 436/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
         "P.U. (B) 437/2026 - DECLARATION OF HERITAGE OBJECT (NO. 3) 2026",
         "P.U. (B) 438/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
-        "There is no record to display",
         "Principal Act",
         "887 - STATISTICS ACT 2026",
         "Amendment Act",
@@ -200,8 +192,6 @@
         "P.U. (B) 433/2026 - NOTICE TO THIRD PARTIES",
         "P.U. (B) 434/2026 - NOTICE UNDER SECTION 70",
         "P.U. (B) 435/2026 - NOTICE TO THIRD PARTIES",
-        "P.U. (A) 367/2026 - INCOME TAX (DIVIDEND INCOME RECEIVED IN MALAYSIA FROM OUTSIDE MALAYSIA) (EXEMPTION) ORDER 2026",
-        "P.U. (B) 432/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF SEPTEMBER 2026",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
         "Act 885 - NATIONAL TRUST FUND ACT 2026",
@@ -214,8 +204,7 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (A) 367/2026 899",
-        "Act 854 735"
+        "P.U. (A) 367/2026 712"
       ]
     }
   ]
