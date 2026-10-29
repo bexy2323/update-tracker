@@ -1,7 +1,7 @@
 {
   "check_id": "ctim-ectim",
   "url": "https://www.ctim.org.my/",
-  "fetched_at": "2026-10-29T00:50:49.061Z",
+  "fetched_at": "2026-10-29T08:51:06.058Z",
   "pages": [
     {
       "url": "https://www.ctim.org.my/",
@@ -292,12 +292,12 @@
           "href": "https://www.ctim.org.my/download?file=%2F2123%2F7c4a550b2cc4d5fffbdf20c76d9e7158.pdf"
         },
         {
-          "label": "HASiL - e-Invoice SVDP - Data Field Requirement Updates for Document Submissions (15102026)",
-          "href": "https://www.ctim.org.my/download?file=%2F14%2F5ee2ad96b85c84cbfbb1854f02bcde94.pdf"
+          "label": "HASiL - Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (20102026)",
+          "href": "https://www.ctim.org.my/download?file=%2F14%2F9680d2e4e5eb40b34109180da14c3b63.pdf"
         },
         {
-          "label": "HASiL - Info on e-Invoice (12102026)",
-          "href": "https://www.ctim.org.my/download?file=%2F14%2F6b59c0882de945f203228ef5efa59a84.pdf"
+          "label": "HASiL - e-Invoice SVDP - Data Field Requirement Updates for Document Submissions (15102026)",
+          "href": "https://www.ctim.org.my/download?file=%2F14%2F5ee2ad96b85c84cbfbb1854f02bcde94.pdf"
         },
         {
           "label": "e-CTIM TECH-IT 41-2026 - Service Tax Policy No. 6-2026 (Amendment No. 1) - Improvements to the ST Treatment for Electricity Transmission and Distribution Services.pdf",
@@ -355,10 +355,10 @@
         "23 October 2026",
         "RMCD - Service Tax Policy No. 6-2026 (Amendment No. 1) - Improvements to the Service Tax Treatment Policy for Electricity Transmission and Distribution Services (23102026)",
         "Technical Developments - Direct Taxation",
+        "HASiL - Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (20102026)",
+        "20 October 2026",
         "HASiL - e-Invoice SVDP - Data Field Requirement Updates for Document Submissions (15102026)",
         "15 October 2026",
-        "HASiL - Info on e-Invoice (12102026)",
-        "12 October 2026",
         "eCTIM",
         "e-CTIM",
         "e-CTIM TECH-IT 41-2026 - Service Tax Policy No. 6-2026 (Amendment No. 1) - Improvements to the ST Treatment for Electricity Transmission and Distribution Services.pdf",

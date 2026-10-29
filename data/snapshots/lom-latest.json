@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-10-29T00:49:44.482Z",
+  "fetched_at": "2026-10-29T08:49:56.827Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -34,6 +34,18 @@
         {
           "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (A) 373/2026 - DENTAL (AMENDMENT OF SECOND SCHEDULE) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzczLzIwMjZ8YzBhY2ZlY2FhNjhiZjBmNGNhYWNkZmM4ZDRhMjM0ZDVhODg0OTg1YWY2MzFiZjk1NDk5YTkxZjZjN2U1MjMwOA%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 439/2026 - DIRECTIONS OF THE MINISTER UNDER PARAGRAPH 26(1)(d) AND SECTION 564",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM5LzIwMjZ8Nzc5MWI4OWUyNWM1ZDZmNTAwNTYxYjk1Mzg0ODRjODg1MzZlNGUzNjVhNTQ5MGVkMjBmYzkzYjdhMDEzMTZiYQ%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 440/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQwLzIwMjZ8MmU2NWNhNDQxM2FmZTQ2MzdhZjYwMWM1NjM4MTc4NjA1YzM1YWUzNDRlYTg2ZDJkNzI2Mjk1NjdlZTZiYjA1OQ%3D%3D"
         },
         {
           "label": "P.U. (A) 372/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026",
@@ -124,6 +136,10 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9YW1lbmRtZW50Jmxhbmd1YWdlPUJJfGU0NGQyMzUzY2MyNjFmNjk1Njg2OWM2ZDk3YjJiZjQ2ODg4MzBiYzZiMTk0MGJlMDVkOWZhNmU5Y2FmZWQ2OWE%3D"
         },
         {
+          "label": "DENTAL (AMENDMENT OF SECOND SCHEDULE) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzczLzIwMjZ8ZjA4ZTJiMDNkNmNmMGEyZWVhOWYzYzkzNTA2OTA1YzliZGJhY2YyYjhhNWIxMDZjZTljZmNlYzllZTlmYmNlOA%3D%3D"
+        },
+        {
           "label": "ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzcyLzIwMjZ8ZTgwYmFlMzAyNGY5YjNhMDliOWU2MzlkZWQwOTY3MmVhY2Y1Yjk0MDIzNGFkMjIwMTBiNDZjYzUyNzMwNzBmOQ%3D%3D"
         },
@@ -132,27 +148,23 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzcxLzIwMjZ8NTA2ZmE1YTFmMjJjYmI5NzBmN2E0Y2M2YjlmZGNjZDkzYTJlNzdmY2FkMzM1NDhjMDJjMDJmOWVhMzg4MjFkNQ%3D%3D"
         },
         {
-          "label": "INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzcwLzIwMjZ8YmJiYWY3N2FlZGQ0ODIyYWE4NjVlOGVmY2M5M2ZkZWI4OGE5NjQzNWQ2OGU0OGFiZmYwMDU0ZDZhNGJmNTlkMw%3D%3D"
+          "label": "P.U. (A) 373/2026 - DENTAL (AMENDMENT OF SECOND SCHEDULE) ORDER 2026 P.U. (A) 372/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026 P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
-          "label": "P.U. (A) 372/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026 P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026 P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026 See All...",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+          "label": "NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDQwLzIwMjZ8ZGEyMzU2OGM2MWVlZTc0NGVmOWE2Y2EwYmU3YTIxMjRkMzg1MjgyMGE3Y2EzYmNhMzk5MjgzYzdmYzA4OThmZQ%3D%3D"
+        },
+        {
+          "label": "DIRECTIONS OF THE MINISTER UNDER PARAGRAPH 26(1)(d) AND SECTION 564",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDM5LzIwMjZ8MDYyYzJmYjJhMjdhYTY2ODlmZGI4ZDlkMzU0M2ZjZTViZDZiYjgwYTQ0N2Y3M2JhZmE3ZGVmODBhOWEzMzlmYg%3D%3D"
         },
         {
           "label": "NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDM4LzIwMjZ8OTRmNjlhYTcxNzVkNTI4NjA1NWE1M2MwYWEzZjgxMzU2NmMzNjQ4OTk2MjE2MzExYTZhZDc5OWNjMjE0MzA0OQ%3D%3D"
         },
         {
-          "label": "DECLARATION OF HERITAGE OBJECT (NO. 3) 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDM3LzIwMjZ8OWNmMDVkY2I0YjA0ODg1NjQwNzIwMzQ0MzEyZGJhYTU5ZjU5NTg2YTk3N2FmYTgxNjBhOWQwOTA0NzFmMmI5NQ%3D%3D"
-        },
-        {
-          "label": "NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDM2LzIwMjZ8N2M1ZGQwOGVlYTZjODc4ZmQyNTZjNzFlMzQxMDgzMzU1NTUzNmNhY2JhN2Y5YzZhYWViNjU1ZDg0ZjBmOTk2Yg%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 438/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK P.U. (B) 437/2026 - DECLARATION OF HERITAGE OBJECT (NO. 3) 2026 P.U. (B) 436/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12 See All...",
+          "label": "P.U. (B) 440/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12 P.U. (B) 439/2026 - DIRECTIONS OF THE MINISTER UNDER PARAGRAPH 26(1)(d) AND SECTION 564 P.U. (B) 438/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -173,17 +185,20 @@
         "25 Oct",
         "24 Oct",
         "23 Oct",
-        "There is no record to display",
         "P.U. (A)",
+        "P.U. (A) 373/2026 - DENTAL (AMENDMENT OF SECOND SCHEDULE) ORDER 2026",
+        "P.U. (B)",
+        "P.U. (B) 439/2026 - DIRECTIONS OF THE MINISTER UNDER PARAGRAPH 26(1)(d) AND SECTION 564",
+        "P.U. (B) 440/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
         "P.U. (A) 372/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026",
         "P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026",
         "P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026",
         "P.U. (A) 368/2026 - COMPANIES (AMENDMENT OF FOURTH SCHEDULE) ORDER 2026",
         "P.U. (A) 369/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026",
-        "P.U. (B)",
         "P.U. (B) 436/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
         "P.U. (B) 437/2026 - DECLARATION OF HERITAGE OBJECT (NO. 3) 2026",
         "P.U. (B) 438/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
+        "There is no record to display",
         "Principal Act",
         "887 - STATISTICS ACT 2026",
         "Amendment Act",
@@ -204,7 +219,7 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (A) 367/2026 712"
+        "P.U. (A) 367/2026 741"
       ]
     }
   ]

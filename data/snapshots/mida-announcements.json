@@ -1,7 +1,7 @@
 {
   "check_id": "mida-announcements",
   "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/",
-  "fetched_at": "2026-10-29T00:53:13.657Z",
+  "fetched_at": "2026-10-29T08:53:34.276Z",
   "pages": [
     {
       "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/",
@@ -36,8 +36,8 @@
           "href": "https://www.mida.gov.my/media-and-events/"
         },
         {
-          "label": "23 Oct 2026 Inaugural Invest Malaysia Day 2026 Highlights How Singapore Businesses Can Tap Malaysia’s Next Phase Of Growth Read More",
-          "href": "https://www.mida.gov.my/media-release/inaugural-invest-malaysia-day-2026-highlights-how-singapore-businesses-can-tap-malaysias-next-phase-of-growth/"
+          "label": "28 Oct 2026 Safran Strengthens Its Presence In Asia-Pacific With The Expansion Of Itscarbon Brake Facility And The Opening Of A New MRO Center In Malaysia Read More",
+          "href": "https://www.mida.gov.my/media-release/safran-strengthens-its-presence-in-asia-pacific-with-the-expansion-of-itscarbon-brake-facility-and-the-opening-of-a-new-mro-center-in-malaysia/"
         },
         {
           "label": "Read More",
@@ -54,6 +54,10 @@
         {
           "label": "Read More",
           "href": "https://www.mida.gov.my/#whatsapp"
+        },
+        {
+          "label": "23 Oct 2026 Inaugural Invest Malaysia Day 2026 Highlights How Singapore Businesses Can Tap Malaysia’s Next Phase Of Growth Read More",
+          "href": "https://www.mida.gov.my/media-release/inaugural-invest-malaysia-day-2026-highlights-how-singapore-businesses-can-tap-malaysias-next-phase-of-growth/"
         },
         {
           "label": "20 Oct 2026 Scheduled System Maintenance & Service Interruption Notice Read More",
@@ -2885,9 +2889,11 @@
         "September",
         "Apply filter",
         "Announcement/Media Release",
+        "28 Oct 2026",
+        "Safran Strengthens Its Presence In Asia-Pacific With The Expansion Of Itscarbon Brake Facility And The Opening Of A New MRO Center In Malaysia",
+        "Read More",
         "23 Oct 2026",
         "Inaugural Invest Malaysia Day 2026 Highlights How Singapore Businesses Can Tap Malaysia’s Next Phase Of Growth",
-        "Read More",
         "20 Oct 2026",
         "Scheduled System Maintenance & Service Interruption Notice",
         "14 Oct 2026",

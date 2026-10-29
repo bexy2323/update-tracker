@@ -1,7 +1,7 @@
 {
   "check_id": "ctim-technical-news-dt",
   "url": "https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/",
-  "fetched_at": "2026-10-29T00:50:40.747Z",
+  "fetched_at": "2026-10-29T08:50:55.435Z",
   "pages": [
     {
       "url": "https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/",
@@ -284,6 +284,10 @@
           "href": "https://www.ctim.org.my/"
         },
         {
+          "label": "20/10/2026 - HASiL - Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (20102026)",
+          "href": "https://www.ctim.org.my/download?file=%2F14%2F9680d2e4e5eb40b34109180da14c3b63.pdf"
+        },
+        {
           "label": "29/09/2026 - HASiL - Guideline on Stamp Duty Imposed on Service Agreement Instruments (29 Sep 2026)",
           "href": "https://www.ctim.org.my/download?file=%2F14%2Fec1f6e546847ff61393929163fb447bd.pdf"
         },
@@ -360,10 +364,6 @@
           "href": "https://www.ctim.org.my/download?file=%2F14%2F9ed788254442a5648ca898c19485355e.pdf"
         },
         {
-          "label": "20/04/2026 - HASiL - e-Invoice Specific Guideline (v4.7) (20042026).pdf",
-          "href": "https://www.ctim.org.my/download?file=%2F14%2F12cb6300b814e76797f263deda690d01.pdf"
-        },
-        {
           "label": "CONTACT US LOCATION MAPS PRIVACY POLICY TERMS & CONDITIONS",
           "href": "https://www.ctim.org.my/contact-us/"
         },
@@ -389,6 +389,7 @@
         "Media Releases",
         "Incentives",
         "Rulings / Frameworks",
+        "20/10/2026 - HASiL - Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (20102026)",
         "29/09/2026 - HASiL - Guideline on Stamp Duty Imposed on Service Agreement Instruments (29 Sep 2026)",
         "29/09/2026 - HASiL - Practice Note No. 3/2026 - Comparison of Allowances claimed under Schedules 7A and 7B of the ITA 1967 (29 Sep 2026)",
         "29/09/2026 - HASiL - Guidelines Tax Treatment On Gains From The Disposal Of Foreign Capital Assets Received In Malaysia From Outside Malaysia (Amendment) (29 Sep 2026)",
@@ -408,7 +409,6 @@
         "30/06/2026 - HASiL - Infographic_Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (30062026).pdf",
         "30/06/2026 - HASiL - Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (30062026).pdf",
         "29/06/2026 - HASiL - Operational Guidelines No. 1-2026 - Layanan Khas Penalti Dibawah Seksyen 47A Akta Setem 1949 Bagi Program Khas Pengakuan Sukarela Duti Setem 2026 (Updated on 29062026).pdf",
-        "20/04/2026 - HASiL - e-Invoice Specific Guideline (v4.7) (20042026).pdf",
         "chevron_right",
         "CONTACT US LOCATION MAPS PRIVACY POLICY TERMS & CONDITIONS",
         "© 2021 Chartered Tax Institute Of Malaysia. All Rights Reserved."
