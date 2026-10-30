@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-10-29T08:49:56.827Z",
+  "fetched_at": "2026-10-30T00:49:32.720Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
+          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
+          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
+          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
+          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
+          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
+          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct 23 Oct",
+          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -78,30 +78,6 @@
         {
           "label": "P.U. (B) 438/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM4LzIwMjZ8ODQwZmQzOGY4ZjFkODM1MDZiODdiMWE1OWNmNmUzZGFiZmU1YzEyNzdlNGJmZWRiZjE5NzYwZTNhNjRhZWY4ZQ%3D%3D"
-        },
-        {
-          "label": "887 - STATISTICS ACT 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZhY3Q9ODg3fGU4N2RhY2NkODY2MDVkODNlYWNhODgwNGU2Y2Y3MjgxNGNkNzg0MjViZGEzZTcyMzQ1OWQ5YzQ3YzJlMmEyYTM%3D"
-        },
-        {
-          "label": "A1800 - COMPETITION (AMENDMENT) ACT 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZ0eXBlPWFtZW5kbWVudCZhY3Q9QTE4MDB8Y2JjZWE3M2VlYjgzNzkwZDgzNTI4MWRiYjFjOTFjOTc5ZGMyMWRjYWQyMjZkMDA1Y2I0N2QxZDBlYWI3NWVmZQ%3D%3D"
-        },
-        {
-          "label": "A1801 - COMPETITION COMMISSION (AMENDMENT) ACT 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZ0eXBlPWFtZW5kbWVudCZhY3Q9QTE4MDF8NDE2NmVkMGJkYTIxNzZiYTY4NDQzNGVmNGRlM2E5NGNlNDZmMWY0MGUwZGMxOWEzNDc3ODkxMmUwN2U1MDg3Mw%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 433/2026 - NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDMzLzIwMjZ8NGFlMTg0MTQ2NDE5MjEyNDU3Y2I2NDVkMDY3NWY3ZDRmY2RhOWYwMjVhZmNlNjk4ZDhjYzgwOWQ3OGZkOTcxMg%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 434/2026 - NOTICE UNDER SECTION 70",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM0LzIwMjZ8NGNiMjY1MGMxMmZjMWY0NDk5MjIwNTQxMmNjNjhmNDFhYjcyZmJhMzI5MmJjNjZhNDQ5Mjg1ZWE1ZjM1NjZmNA%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 435/2026 - NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM1LzIwMjZ8M2VhNzBkNmIxNjNiNTMwNGRkZGNkMjNlMDhiNzgyNGFjNTJhODVjODFkOGI3OTNlYWNlNzNiM2VhMzgxOGRkMQ%3D%3D"
         },
         {
           "label": "STATISTICS ACT 2026",
@@ -179,12 +155,13 @@
       "lines": [
         "What's New",
         "Today",
+        "29 Oct",
         "28 Oct",
         "27 Oct",
         "26 Oct",
         "25 Oct",
         "24 Oct",
-        "23 Oct",
+        "There is no record to display",
         "P.U. (A)",
         "P.U. (A) 373/2026 - DENTAL (AMENDMENT OF SECOND SCHEDULE) ORDER 2026",
         "P.U. (B)",
@@ -198,19 +175,12 @@
         "P.U. (B) 436/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
         "P.U. (B) 437/2026 - DECLARATION OF HERITAGE OBJECT (NO. 3) 2026",
         "P.U. (B) 438/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
-        "There is no record to display",
         "Principal Act",
-        "887 - STATISTICS ACT 2026",
-        "Amendment Act",
-        "A1800 - COMPETITION (AMENDMENT) ACT 2026",
-        "A1801 - COMPETITION COMMISSION (AMENDMENT) ACT 2026",
-        "P.U. (B) 433/2026 - NOTICE TO THIRD PARTIES",
-        "P.U. (B) 434/2026 - NOTICE UNDER SECTION 70",
-        "P.U. (B) 435/2026 - NOTICE TO THIRD PARTIES",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
         "Act 885 - NATIONAL TRUST FUND ACT 2026",
         "See All...",
+        "Amendment Act",
         "Act A1801 - COMPETITION COMMISSION (AMENDMENT) ACT 2026",
         "Act A1800 - COMPETITION (AMENDMENT) ACT 2026",
         "Act A1799 - MALAYSIAN COMMUNICATIONS AND MULTIMEDIA COMMISSION (AMENDMENT) ACT 2026",
@@ -219,7 +189,7 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (A) 367/2026 741"
+        "P.U. (A) 367/2026 544"
       ]
     }
   ]
