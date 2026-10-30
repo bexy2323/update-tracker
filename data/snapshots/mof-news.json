@@ -1,7 +1,7 @@
 {
   "check_id": "mof-news",
   "url": "https://www.mof.gov.my/portal/en/news",
-  "fetched_at": "2026-10-30T00:50:17.808Z",
+  "fetched_at": "2026-10-30T08:49:57.303Z",
   "pages": [
     {
       "url": "https://www.mof.gov.my/portal/en/news",
@@ -22,6 +22,14 @@
         {
           "label": "fas fa-sitemap",
           "href": "https://www.mof.gov.my/portal/en/site-map"
+        },
+        {
+          "label": "MoF Bars Nibong Tebal Petrol Station Over Suspected Subsidy Abuse Press Citations 27 October 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-bars-nibong-tebal-petrol-station-over-suspected-subsidy-abuse"
+        },
+        {
+          "label": "MoF Bars Nibong Tebal Petrol Station Over Suspected Subsidy Abuse",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-bars-nibong-tebal-petrol-station-over-suspected-subsidy-abuse"
         },
         {
           "label": "The 30th AIF Board Of Directors Meeting Photos 26 October 2026",
@@ -62,14 +70,6 @@
         {
           "label": "MOF Denies Claims Of QR Payment Charges From Nov 1",
           "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-denies-claims-of-qr-payment-charges-from-nov-1"
-        },
-        {
-          "label": "Budget 2027 To Boost Malaysia’s Competitiveness In High-value Industries – Amir Hamzah Press Citations 17 October 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/budget-2027-to-boost-malaysias-competitiveness-in-high-value-industries-amir-hamzah"
-        },
-        {
-          "label": "Budget 2027 To Boost Malaysia’s Competitiveness In High-value Industries – Amir Hamzah",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/budget-2027-to-boost-malaysias-competitiveness-in-high-value-industries-amir-hamzah"
         },
         {
           "label": "Press Release",
@@ -182,19 +182,19 @@
         "fas fa-sitemap",
         "Site Map",
         "NEWS & MEDIA",
+        "MoF Bars Nibong Tebal Petrol Station Over Suspected Subsidy Abuse",
+        "Press Citations",
+        "27 October 2026",
         "The 30th AIF Board Of Directors Meeting",
         "Photos",
         "26 October 2026",
         "10 Credit Reporting Agencies Renew Registration For 2026/2027 – MOF",
-        "Press Citations",
         "20 October 2026",
         "STR, SARA Nearly RM11 Bln Disbursed To Eligible Recipients As of September 2026 – MoF",
         "19 October 2026",
         "MOF Staff Urged To Adopt ‘ATM’ Principles To Expedite Budget 2027 Implementation",
         "MOF Denies Claims Of QR Payment Charges From Nov 1",
         "18 October 2026",
-        "Budget 2027 To Boost Malaysia’s Competitiveness In High-value Industries – Amir Hamzah",
-        "17 October 2026",
         "Press Release",
         "Videos",
         "Speech",

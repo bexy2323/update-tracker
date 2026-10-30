@@ -1,31 +1,31 @@
 {
   "check_id": "hasil-legislation",
   "url": "https://www.hasil.gov.my/en/perundangan/akta/",
-  "fetched_at": "2026-10-30T00:49:15.201Z",
+  "fetched_at": "2026-10-30T08:49:21.400Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/perundangan/akta/",
       "title": "Akta",
       "items": [
         {
-          "label": "Download (4.37 MB)",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
+          "label": "Download (3.50 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Income-Tax-Act-1967-online-version-as-at-1-January-2026.pdf"
         },
         {
-          "label": "Download (933.36 KB)",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/20240101-akta-setem-1949-akta-378.pdf"
+          "label": "Download (984.12 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Stamp-Act-Act-378-online-version-as-at-1-January-2026.pdf"
         },
         {
-          "label": "Download (829.25 KB)",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/20230601-akta-cukai-keuntungan-harta-tanah-1976-akta-169.pdf"
+          "label": "Download (902.71 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CKHT-Akta-169-versi-dalam-talian-sebagaimana-pada-1-Januari-2026.pdf"
         },
         {
-          "label": "Download (315.46 KB)",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/20240101-akta-cukai-aktiviti-perniagaan-labuan-1990-akta-445.pdf"
+          "label": "Download (705.99 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/LBATA-Act-445-online-version-as-at-1-January-2026.pdf"
         },
         {
           "label": "Download (1.22 MB)",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/Akta-Petroleum-Cukai-Pendapatan-1967-Akta-543-SEBAGAIMANA-1-JANUARI-2026.pdf"
+          "href": "https://www.hasil.gov.my/wp-content/uploads/PITA-ACT-543-online-version-as-at-1-January-2026.pdf"
         },
         {
           "label": "Download (878.95 KB)",
@@ -37,19 +37,16 @@
         "Legislation",
         "Act",
         "Income Tax Act 1967 (Act 53)",
-        "As at 21 May 2024",
-        "Download",
-        "(4.37 MB)",
-        "Stamp Act 1949 (Act 378)",
-        "As at 1 January 2024",
-        "(933.36 KB)",
-        "Real Property Gains Tax Act 1976 (Act 169)",
-        "As at 1 June 2023",
-        "(829.25 KB)",
-        "Labuan Business Activity Tax Act 1990 (Act 445)",
-        "(315.46 KB)",
-        "Petroleum (Income Tax) Act 1967 (Act 543)",
         "As at 1 January 2026",
+        "Download",
+        "(3.50 MB)",
+        "Stamp Act 1949 (Act 378)",
+        "(984.12 KB)",
+        "Real Property Gains Tax Act 1976 (Act 169)",
+        "(902.71 KB)",
+        "Labuan Business Activity Tax Act 1990 (Act 445)",
+        "(705.99 KB)",
+        "Petroleum (Income Tax) Act 1967 (Act 543)",
         "(1.22 MB)",
         "Promotion of Investments Act 1986 (Act 327)",
         "As at 1 January 2022",
@@ -2368,6 +2365,10 @@
           "href": "https://www.hasil.gov.my/en/perundangan/kes-cukai/"
         },
         {
+          "label": "Case Report>> (243.93 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261021-REVENEWS-MDCOGL.pdf"
+        },
+        {
           "label": "Case Report>> (310.67 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/20260929-REVENEWS-Gayanis-Sdn-Bhd.pdf"
         },
@@ -3851,6 +3852,10 @@
         "Expand All",
         "List of Recent Tax Case",
         "Section Case Title Category Date Issued",
+        "Section 6, 12 & 109 Income Tax Act 1967",
+        "MDCOGL v. Director General of Inland Revenue",
+        "Case Report>> (243.93 KB)",
+        "Tax Appeal 29.10.2026",
         "Paragraph 9(bb) & 9(cc) Schedule 7A Income Tax Act 1967",
         "Gayanis Sdn Bhd v. Director General of Inland Revenue",
         "Case Report>> (310.67 KB)",

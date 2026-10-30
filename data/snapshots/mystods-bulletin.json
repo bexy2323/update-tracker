@@ -1,7 +1,7 @@
 {
   "check_id": "mystods-bulletin",
   "url": "https://mystods.customs.gov.my/",
-  "fetched_at": "2026-10-30T00:51:37.011Z",
+  "fetched_at": "2026-10-30T08:51:18.655Z",
   "pages": [
     {
       "url": "https://mystods.customs.gov.my/",
@@ -28,8 +28,7 @@
         "SERVICE TAX ON",
         "DIGITAL SERVICES",
         "New service tax treatment on digital service provided to group of companies.",
-        "Read More",
-        "Bulletin Board"
+        "Read More"
       ]
     }
   ]

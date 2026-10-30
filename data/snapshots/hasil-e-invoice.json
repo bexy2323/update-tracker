@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-e-invoice",
   "url": "https://www.hasil.gov.my/en/e-invois/",
-  "fetched_at": "2026-10-30T00:41:08.861Z",
+  "fetched_at": "2026-10-30T08:41:11.109Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/e-invois/",
@@ -2056,6 +2056,10 @@
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/webinar-pelaksanaan-e-invois-bersama-persatuan-pertubuhan-kelab-organisasi-yang-tidak-berasaskan-keuntungan/"
         },
         {
+          "label": "Bil. 64/2026 Taklimat e-Invois @ Johor (Kluang) Bil. 64/2026 18 November 2026 (Rabu) 10:00am - 12:00pm Bilik Komputer, Menara HASiL Kluang, Johor Tarikh tutup: 17 November 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-johor-kluang-bil-64-2026/"
+        },
+        {
           "label": "Bil. 24/2026 Taklimat (Webinar) e-Invois @ CIK Bil. 24/2026 18 November 2026 (Rabu) 9:30 am – 12:30 pm Ms. Teams Tarikh tutup: N/A",
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-webinar-e-invois-cik-bil-24-2026/"
         },
@@ -2068,12 +2072,16 @@
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/webinar-e-invois-hasil-kelantan-bil-22-2026/"
         },
         {
-          "label": "Bil. 23/2026 Taklimat (Webinar) e-Invois @ CIK Bil. 23/2026 17 November 2026 (Selasa) 9:30 am – 12:30 pm Ms. Teams Tarikh tutup: N/A",
-          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-webinar-e-invois-cik-bil-23-2026/"
-        },
-        {
           "label": "Bil. 26/2026 Taklimat e-Invois Anjuran HASiL Perak (Kuala Kangsar) Bil. 26/2026 17 November 2026 (Selasa) 10:00 am – 1:00 pm HASiL Satelit Kuala Kangsar, Jalan Daeng Selili, Kuala Kangsar, Perak Tarikh tutup: 16 November 2026",
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-anjuran-hasil-perak-kuala-kangsar-bil-26-2026/"
+        },
+        {
+          "label": "Bil. 63/2026 Taklimat e-Invois @ Johor (Muar) Bil. 63/2026 17 November 2026 (Selasa) 10:00 am – 12:00 pm Dewan HASiL, Pejabat HASiL Muar, Johor Tarikh tutup: 16 November 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-johor-muar-bil-63-2026/"
+        },
+        {
+          "label": "Bil. 23/2026 Taklimat (Webinar) e-Invois @ CIK Bil. 23/2026 17 November 2026 (Selasa) 9:30 am – 12:30 pm Ms. Teams Tarikh tutup: N/A",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-webinar-e-invois-cik-bil-23-2026/"
         },
         {
           "label": "Bil. 56/2026 Webinar e-Invois Anjuran HASiL Johor Bil. 56/2026 16 November 2026 (Isnin) 10.00 am - 12.00 pm MS. Teams Tarikh tutup: 13 November 2026",
@@ -2092,12 +2100,20 @@
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-pulau-pinang-bukit-mertajam-bil-57-2026/"
         },
         {
+          "label": "Bil. 45/2026 Taklimat e-Invois @ Sabah (Lahad Datu) Bil. 45/2026 11 November 2026 (Rabu) 8:30 am – 11:30 am Pusat Sebaran Maklumat Nasional (NADI) Kg. Sapagaya, Lahad Datu, Sabah Tarikh tutup: 10 November 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-sabah-lahad-datu-bil-45-2026/"
+        },
+        {
           "label": "Bil. 21/2026 Webinar e-Invois @ HASiL Kelantan Bil. 21/2026 11 November 2026 (Rabu) 9:30am - 12:30pm MS. Teams Tarikh tutup: 10 November 2026",
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/webinar-e-invois-hasil-kelantan-bil-21-2026/"
         },
         {
           "label": "Bil. 27/2026 Taklimat e-Invois Anjuran HASiL WP Putrajaya (Cheras) Bil. 27/2026 11 November 2026 (Rabu) 9:15am - 1:00pm Dewan Anggerik, Tingkat 12, Pejabat HASiL Cheras, Kuala Lumpur Tarikh tutup: 8 November 2026",
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-anjuran-hasil-wp-putrajaya-cheras-bil-27-2026/"
+        },
+        {
+          "label": "Bil. 62/2026 Taklimat e-Invois @ Johor (Johor Bahru) Bil. 62/2026 10 November 2026 (Selasa) 10:00am - 12:00pm Aras 11, Menara HASiL Johor Bahru, Johor Tarikh tutup: 9 November 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-johor-johor-bahru-bil-62-2026/"
         },
         {
           "label": "Bil. 14/2026 Taklimat e-Invois @ Sarawak (Kuching) Bil. 14/2026 9 November 2026 (Isnin) 9:00 am – 12:00 pm Dewan HASiL Aras 4, Pejabat HASiL Kuching, Sarawak Tarikh tutup: 3 November 2026",
@@ -3469,9 +3485,13 @@
         "9:00am - 1:00pm",
         "Ms. Teams",
         "Tarikh tutup: 12 November 2026",
+        "Bil. 64/2026",
+        "Taklimat e-Invois @ Johor (Kluang) Bil. 64/2026",
+        "18 November 2026 (Rabu)",
+        "10:00am - 12:00pm",
+        "Bilik Komputer, Menara HASiL Kluang, Johor",
         "Bil. 24/2026",
         "Taklimat (Webinar) e-Invois @ CIK Bil. 24/2026",
-        "18 November 2026 (Rabu)",
         "9:30 am – 12:30 pm",
         "Tarikh tutup: N/A",
         "Bil. 58/2026",
@@ -3481,13 +3501,16 @@
         "Bil. 22/2026",
         "Webinar e-Invois @ HASiL Kelantan Bil. 22/2026",
         "9:30am - 12:30pm",
-        "Bil. 23/2026",
-        "Taklimat (Webinar) e-Invois @ CIK Bil. 23/2026",
-        "17 November 2026 (Selasa)",
         "Bil. 26/2026",
         "Taklimat e-Invois Anjuran HASiL Perak (Kuala Kangsar) Bil. 26/2026",
+        "17 November 2026 (Selasa)",
         "10:00 am – 1:00 pm",
         "HASiL Satelit Kuala Kangsar, Jalan Daeng Selili, Kuala Kangsar, Perak",
+        "Bil. 63/2026",
+        "Taklimat e-Invois @ Johor (Muar) Bil. 63/2026",
+        "Dewan HASiL, Pejabat HASiL Muar, Johor",
+        "Bil. 23/2026",
+        "Taklimat (Webinar) e-Invois @ CIK Bil. 23/2026",
         "Bil. 56/2026",
         "Webinar e-Invois Anjuran HASiL Johor Bil. 56/2026",
         "16 November 2026 (Isnin)",
@@ -3503,11 +3526,20 @@
         "Bilik Mesyuarat Orkid, Aras 7, Menara HASiL Shah Alam, Selangor",
         "Tarikh tutup: 10 November 2026",
         "Taklimat e-Invois @ Pulau Pinang (Bukit Mertajam) Bil. 57/2026",
+        "Bil. 45/2026",
+        "Taklimat e-Invois @ Sabah (Lahad Datu) Bil. 45/2026",
+        "11 November 2026 (Rabu)",
+        "8:30 am – 11:30 am",
+        "Pusat Sebaran Maklumat Nasional (NADI) Kg. Sapagaya, Lahad Datu, Sabah",
         "Bil. 21/2026",
         "Webinar e-Invois @ HASiL Kelantan Bil. 21/2026",
-        "11 November 2026 (Rabu)",
         "Taklimat e-Invois Anjuran HASiL WP Putrajaya (Cheras) Bil. 27/2026",
         "Tarikh tutup: 8 November 2026",
+        "Bil. 62/2026",
+        "Taklimat e-Invois @ Johor (Johor Bahru) Bil. 62/2026",
+        "10 November 2026 (Selasa)",
+        "Aras 11, Menara HASiL Johor Bahru, Johor",
+        "Tarikh tutup: 9 November 2026",
         "Bil. 14/2026",
         "Taklimat e-Invois @ Sarawak (Kuching) Bil. 14/2026",
         "9 November 2026 (Isnin)",
@@ -3534,17 +3566,14 @@
         "Tarikh tutup: 23 Oktober 2026",
         "Bil. 44/2026",
         "Taklimat e-Invois @ Sabah (Sandakan) Bil. 44/2026",
-        "10:00am - 12:00pm",
         "Dewan Kinabatangan, Sandakan, Sabah",
         "Tarikh tutup: 28 Oktober 2026",
         "Bil. 54/2026",
         "Webinar e-Invois Anjuran HASiL Johor Bil. 54/2026",
         "Bil. 60/2026",
         "Taklimat e-Invois @ Johor (Muar) Bil. 60/2026",
-        "Dewan HASiL, Pejabat HASiL Muar, Johor",
         "Bil. 61/2026",
         "Taklimat e-Invois @ Johor (Kluang) Bil. 61/2026",
-        "Bilik Komputer, Menara HASiL Kluang, Johor",
         "Bil. 48/2026",
         "Webinar e-Invois Anjuran HASiL Pahang Bil. 48/2026",
         "Webinar e-Invois Anjuran CPCA Bil. 5/2026",
@@ -3637,7 +3666,6 @@
         "Taklimat e-Invois @ Johor (Muar) Bil. 50/2026",
         "Bil. 49/2026",
         "Webinar e-Invois Anjuran HASiL Johor Bil. 49/2026",
-        "Bil. 45/2026",
         "Seminar e-Invois @ HASiL Pahang (Kuantan) Bil. 45/2026",
         "Dewan Utama, Pahang Skills Development Centre, Kuantan, Pahang",
         "Taklimat e-Invois Anjuran HASiL WP Putrajaya (Cheras) Bil. 24/2026",
