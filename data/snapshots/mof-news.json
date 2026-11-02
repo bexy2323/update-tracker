@@ -1,7 +1,7 @@
 {
   "check_id": "mof-news",
   "url": "https://www.mof.gov.my/portal/en/news",
-  "fetched_at": "2026-11-02T00:51:03.258Z",
+  "fetched_at": "2026-11-02T08:50:26.681Z",
   "pages": [
     {
       "url": "https://www.mof.gov.my/portal/en/news",
@@ -24,6 +24,18 @@
           "href": "https://www.mof.gov.my/portal/en/site-map"
         },
         {
+          "label": "Courtesy Call From The High Commissioner Of New Zealand Photos 02 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/photos/courtesy-call-from-the-high-commissioner-of-new-zealand"
+        },
+        {
+          "label": "Courtesy Call From The High Commissioner Of New Zealand",
+          "href": "https://www.mof.gov.my/portal/en/news/photos/courtesy-call-from-the-high-commissioner-of-new-zealand"
+        },
+        {
+          "label": "Fuel Subsidy Savings For This Year To Be Finalised By Year-end -- Amir Hamzah",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/fuel-subsidy-savings-for-this-year-to-be-finalised-by-year-end-amir-hamzah"
+        },
+        {
           "label": "MADANI Government Secures RM5 Billion Repurposing of SSER Loan Press Release 30 October 2026",
           "href": "https://www.mof.gov.my/portal/en/news/press-release/madani-government-secures-rm5-billion-repurposing-of-sser-loan"
         },
@@ -32,44 +44,28 @@
           "href": "https://www.mof.gov.my/portal/en/news/press-release/madani-government-secures-rm5-billion-repurposing-of-sser-loan"
         },
         {
-          "label": "MoF Bars Nibong Tebal Petrol Station Over Suspected Subsidy Abuse Press Citations 27 October 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-bars-nibong-tebal-petrol-station-over-suspected-subsidy-abuse"
+          "label": "SSER, CEXIM Sign RM5 Bln Loan Repurposing Agreement For NPWSS Financing Press Citations 30 October 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/sser-cexim-sign-rm5-bln-loan-repurposing-agreement-for-npwss-financing"
         },
         {
-          "label": "MoF Bars Nibong Tebal Petrol Station Over Suspected Subsidy Abuse",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-bars-nibong-tebal-petrol-station-over-suspected-subsidy-abuse"
+          "label": "SSER, CEXIM Sign RM5 Bln Loan Repurposing Agreement For NPWSS Financing",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/sser-cexim-sign-rm5-bln-loan-repurposing-agreement-for-npwss-financing"
         },
         {
-          "label": "The 30th AIF Board Of Directors Meeting Photos 26 October 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/photos/the-30th-aif-board-of-directors-meeting"
+          "label": "Budget 2027 Passes Policy Stage, Concluding Fourth Week Of Dewan Rakyat Session Press Citations 30 October 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/budget-2027-passes-policy-stage-concluding-fourth-week-of-dewan-rakyat-session"
         },
         {
-          "label": "The 30th AIF Board Of Directors Meeting",
-          "href": "https://www.mof.gov.my/portal/en/news/photos/the-30th-aif-board-of-directors-meeting"
+          "label": "Budget 2027 Passes Policy Stage, Concluding Fourth Week Of Dewan Rakyat Session",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/budget-2027-passes-policy-stage-concluding-fourth-week-of-dewan-rakyat-session"
         },
         {
-          "label": "10 Credit Reporting Agencies Renew Registration For 2026/2027 – MOF Press Citations 20 October 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/10-credit-reporting-agencies-renew-registration-for-2026-2027-mof"
+          "label": "Rural Roads Programme Financing Prioritised, Allocation For 2026 Rises To RM3.1 Bln – Amir Hamzah Press Citations 30 October 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/rural-roads-programme-financing-prioritised-allocation-for-2026-rises-to-rm3-1-bln-amir-hamzah"
         },
         {
-          "label": "10 Credit Reporting Agencies Renew Registration For 2026/2027 – MOF",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/10-credit-reporting-agencies-renew-registration-for-2026-2027-mof"
-        },
-        {
-          "label": "STR, SARA Nearly RM11 Bln Disbursed To Eligible Recipients As of September 2026 – MoF Press Citations 19 October 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/str-sara-nearly-rm11-bln-disbursed-to-eligible-recipients-as-of-september-2026-mof"
-        },
-        {
-          "label": "STR, SARA Nearly RM11 Bln Disbursed To Eligible Recipients As of September 2026 – MoF",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/str-sara-nearly-rm11-bln-disbursed-to-eligible-recipients-as-of-september-2026-mof"
-        },
-        {
-          "label": "MOF Staff Urged To Adopt ‘ATM’ Principles To Expedite Budget 2027 Implementation Press Citations 19 October 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-staff-urged-to-adopt-atm-principles-to-expedite-budget-2027-implementation"
-        },
-        {
-          "label": "MOF Staff Urged To Adopt ‘ATM’ Principles To Expedite Budget 2027 Implementation",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-staff-urged-to-adopt-atm-principles-to-expedite-budget-2027-implementation"
+          "label": "Rural Roads Programme Financing Prioritised, Allocation For 2026 Rises To RM3.1 Bln – Amir Hamzah",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/rural-roads-programme-financing-prioritised-allocation-for-2026-rises-to-rm3-1-bln-amir-hamzah"
         },
         {
           "label": "Press Release",
@@ -182,20 +178,17 @@
         "fas fa-sitemap",
         "Site Map",
         "NEWS & MEDIA",
+        "Courtesy Call From The High Commissioner Of New Zealand",
+        "Photos",
+        "02 November 2026",
+        "Fuel Subsidy Savings For This Year To Be Finalised By Year-end -- Amir Hamzah",
+        "Press Citations",
         "MADANI Government Secures RM5 Billion Repurposing of SSER Loan",
         "Press Release",
         "30 October 2026",
-        "MoF Bars Nibong Tebal Petrol Station Over Suspected Subsidy Abuse",
-        "Press Citations",
-        "27 October 2026",
-        "The 30th AIF Board Of Directors Meeting",
-        "Photos",
-        "26 October 2026",
-        "10 Credit Reporting Agencies Renew Registration For 2026/2027 – MOF",
-        "20 October 2026",
-        "STR, SARA Nearly RM11 Bln Disbursed To Eligible Recipients As of September 2026 – MoF",
-        "19 October 2026",
-        "MOF Staff Urged To Adopt ‘ATM’ Principles To Expedite Budget 2027 Implementation",
+        "SSER, CEXIM Sign RM5 Bln Loan Repurposing Agreement For NPWSS Financing",
+        "Budget 2027 Passes Policy Stage, Concluding Fourth Week Of Dewan Rakyat Session",
+        "Rural Roads Programme Financing Prioritised, Allocation For 2026 Rises To RM3.1 Bln – Amir Hamzah",
         "Videos",
         "Speech",
         "ASEAN 2025",
