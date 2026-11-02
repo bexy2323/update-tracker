@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-legislation",
   "url": "https://www.hasil.gov.my/en/perundangan/akta/",
-  "fetched_at": "2026-10-30T08:49:21.400Z",
+  "fetched_at": "2026-11-02T00:50:01.407Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/perundangan/akta/",
@@ -1292,6 +1292,10 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN_1_2008.pdf"
         },
         {
+          "label": "Guidelines (661.70 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261005-Garis-Panduan-Permohonan-Kelulusan-KPHDN-Tabung-Pengurusan-Rumah-Ibadat.pdf"
+        },
+        {
           "label": "Guidelines (325.02 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/Garis-Panduan-Layanan-Duti-Setem-Ke-Atas-Surat-Cara-Perjanjian-Perkhidmatan.pdf"
         },
@@ -1584,7 +1588,7 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/senarai-semak-borang-rd.pdf"
         },
         {
-          "label": "Guidelines (250.90 KB) R&D Form Checklist (34.84 KB) Form 1 Attachment of Form 1 Form 2 Form 3 Form 4 Attachment of Form 3 and 4",
+          "label": "Guidelines (250.90 KB)R&D Form Checklist (34.84 KB)Form 1Attachment of Form 1Form 2Form 3Form 4Attachment of Form 3 and 4",
           "href": "https://www.hasil.gov.my/wp-content/uploads/borang-1-pind-2023.docx"
         },
         {
@@ -1592,15 +1596,15 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/borang-1-pind2023-lampiran-1.docx"
         },
         {
-          "label": "Guidelines (250.90 KB) R&D Form Checklist (34.84 KB) Form 1 Attachment of Form 1 Form 2 Form 3 Form 4 Attachment of Form 3 and 4",
+          "label": "Guidelines (250.90 KB)R&D Form Checklist (34.84 KB)Form 1Attachment of Form 1Form 2Form 3Form 4Attachment of Form 3 and 4",
           "href": "https://www.hasil.gov.my/wp-content/uploads/borang-2-pind2023.docx"
         },
         {
-          "label": "Guidelines (250.90 KB) R&D Form Checklist (34.84 KB) Form 1 Attachment of Form 1 Form 2 Form 3 Form 4 Attachment of Form 3 and 4",
+          "label": "Guidelines (250.90 KB)R&D Form Checklist (34.84 KB)Form 1Attachment of Form 1Form 2Form 3Form 4Attachment of Form 3 and 4",
           "href": "https://www.hasil.gov.my/wp-content/uploads/borang-3-pind2023.docx"
         },
         {
-          "label": "Guidelines (250.90 KB) R&D Form Checklist (34.84 KB) Form 1 Attachment of Form 1 Form 2 Form 3 Form 4 Attachment of Form 3 and 4",
+          "label": "Guidelines (250.90 KB)R&D Form Checklist (34.84 KB)Form 1Attachment of Form 1Form 2Form 3Form 4Attachment of Form 3 and 4",
           "href": "https://www.hasil.gov.my/wp-content/uploads/borang-4-pind2023.docx"
         },
         {
@@ -1656,7 +1660,7 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/GP_PERMOHONAN_PELEPASAN_DUTI_SETEM_Dl_BAWAH_SEKSYEN_15_AKTA_SETEM_1949.pdf"
         },
         {
-          "label": "Guidelines (400.41 KB) Guidelines",
+          "label": "Guidelines (400.41 KB)Guidelines",
           "href": "https://www.hasil.gov.my/wp-content/uploads/GP_PERMOHONAN_PELEPASAN_DUTI_SETEM_Dl_BAWAH_SEKSYEN_15A_AKTA_SETEM_1949_PINDAAN_2022.pdf"
         },
         {
@@ -1756,7 +1760,7 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/GP_RND_13082020_1.pdf"
         },
         {
-          "label": "Guidelines Form (381.72 KB)",
+          "label": "GuidelinesForm (381.72 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/g2eeu5ul/gp_tpri_15072020.pdf"
         },
         {
@@ -1788,7 +1792,7 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/GP_08062020_1.pdf"
         },
         {
-          "label": "Guidelines (351.78 KB) Form",
+          "label": "Guidelines (351.78 KB)Form",
           "href": "https://www.hasil.gov.my/wp-content/uploads/mr3jwonm/senarai_semak_tpbri.pdf"
         },
         {

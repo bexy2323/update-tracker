@@ -412,10 +412,14 @@ function diffSnapshots(prev, curr, check, matcher) {
       continue;
     }
     if (p.error || old.error) continue;
-    const oldKeys = new Set(old.items.map(i => `${i.label}|${i.href}`));
-    const newKeys = new Set(p.items.map(i => `${i.label}|${i.href}`));
-    const added = p.items.filter(i => !oldKeys.has(`${i.label}|${i.href}`));
-    const removed = old.items.filter(i => !newKeys.has(`${i.label}|${i.href}`));
+    // Case and spacing don't count: HASiL switches titles between upper and title
+    // case, and items in hidden tabs lose their spaces.
+    const decode = h => { try { return decodeURIComponent(h); } catch { return h; } };
+    const key = i => `${i.label.replace(/\s+/g, '').toLowerCase()}|${decode(i.href)}`;
+    const oldKeys = new Set(old.items.map(key));
+    const newKeys = new Set(p.items.map(key));
+    const added = p.items.filter(i => !oldKeys.has(key(i)));
+    const removed = old.items.filter(i => !newKeys.has(key(i)));
     changes.new_items.push(...added.map(i => ({ page: p.url, ...i })));
     changes.removed_items.push(...removed.map(i => ({ page: p.url, ...i })));
 

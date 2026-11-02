@@ -1,0 +1,341 @@
+{
+  "run_id": "2026-11-02_0839",
+  "started_at": "2026-11-02T00:39:16.433Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-announcements-media",
+      "section": "Home > Kenyataan Media & Pengumuman (Media Statements & Announcements)",
+      "url": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+          "label": "Media Release 31 Oct 2026 HASIL DEKATI HAMPIR 300,000 ORANG AWAM SEMPENA BULAN HASIL 2026 KUALA LUMPUR, 31 OKTOBER 2026 – Sambutan Bulan HASiL 2026 berjaya mendekati hampir 300,000 orang awam di seluruh negara menerusi pelbagai program pendidikan dan literasi cukai yang dilaksanakan sepanjang Oktober... Click here to download",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=a2VueWF0YWFuX21lZGlhfDIyMA%3D%3D"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+          "label": "Announcement 30 Oct 2026 TECHNICAL GUIDELINES Please be informed that Technical Guidelines: Guidelines on Applications for Approval by the Director General of Inland Revenue Under Subsection 44(6) of the Income Tax Act 1967 for Houses of Worship Management Funds can now be downloaded from HASiL Official Portal. Click here to download",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=cGVuZ3VtdW1hbnwxMTY%3D"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+          "label": "Announcement 13 Aug 2026 Temporary Relocation of Counter Services at HASiL Cheras Office Please be informed that the taxation and stamp duty counter services at the HASiL Cheras Office will be temporarily relocated from Level 9 to Level 7 on 13 and 14 August 2026 (Thursday and Friday). Accordingly, customers who wish to obtain counter services on these dates are requested to proceed to Level 7, HA",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=cGVuZ3VtdW1hbnwxMDA%3D"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+          "label": "Media Release 10 Aug 2026 Memperkasa Pendidikan, Membina Masa Hadapan : HASiL Laksana Program Sekolah Angkat Madani 2026 Komitmen Lembaga Hasil Dalam Negeri Malaysia (HASiL) dalam menyokong pembangunan pendidikan negara terus dizahirkan menerusi pelaksanaan Program Sekolah Angkat MADANI (SAM) 2026 di Sekolah Kebangsaan (SK) Kuala Perlis. Click here to download",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=a2VueWF0YWFuX21lZGlhfDIwOA%3D%3D"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+          "label": "Announcement 13 Aug 2026 TEMPORARY RELOCATION OF COUNTER SERVICES AT HASIL CHERAS OFFICE Please be informed that the taxation and stamp duty counter services at the HASiL Cheras Office will be temporarily relocated from Level 9 to Level 7 on 13 and 14 August 2026 (Thursday and Friday). Accordingly, customers who wish to obtain counter services on these dates are requested to proceed to Level 7, HA",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=cGVuZ3VtdW1hbnwxMDA%3D"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
+          "label": "Media Release 10 Aug 2026 MEMPERKASA PENDIDIKAN, MEMBINA MASA HADAPAN : HASIL LAKSANA PROGRAM SEKOLAH ANGKAT MADANI 2026 Komitmen Lembaga Hasil Dalam Negeri Malaysia (HASiL) dalam menyokong pembangunan pendidikan negara terus dizahirkan menerusi pelaksanaan Program Sekolah Angkat MADANI (SAM) 2026 di Sekolah Kebangsaan (SK) Kuala Perlis. Click here to download",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=a2VueWF0YWFuX21lZGlhfDIwOA%3D%3D"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invois/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/program-e-invois/",
+          "label": "Bil. 46/2026 Taklimat e-Invois @ Sabah (Lahad Datu) Bil. 46/2026 25 November 2026 (Rabu) 8:30 am – 11:30 am Pusat Sebaran Maklumat Nasional (NADI) Kg. Sapagaya, Lahad Datu, Sabah Tarikh tutup: 24 November 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-sabah-lahad-datu-bil-46-2026/"
+        }
+      ],
+      "removed_items": [],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/perundangan/akta/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (661.70 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261005-Garis-Panduan-Permohonan-Kelulusan-KPHDN-Tabung-Pengurusan-Rumah-Ibadat.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (250.90 KB)R&D Form Checklist (34.84 KB)Form 1Attachment of Form 1Form 2Form 3Form 4Attachment of Form 3 and 4",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-1-pind-2023.docx"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (250.90 KB)R&D Form Checklist (34.84 KB)Form 1Attachment of Form 1Form 2Form 3Form 4Attachment of Form 3 and 4",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-2-pind2023.docx"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (250.90 KB)R&D Form Checklist (34.84 KB)Form 1Attachment of Form 1Form 2Form 3Form 4Attachment of Form 3 and 4",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-3-pind2023.docx"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (250.90 KB)R&D Form Checklist (34.84 KB)Form 1Attachment of Form 1Form 2Form 3Form 4Attachment of Form 3 and 4",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-4-pind2023.docx"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (400.41 KB)Guidelines",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GP_PERMOHONAN_PELEPASAN_DUTI_SETEM_Dl_BAWAH_SEKSYEN_15A_AKTA_SETEM_1949_PINDAAN_2022.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "GuidelinesForm (381.72 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/g2eeu5ul/gp_tpri_15072020.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (351.78 KB)Form",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/mr3jwonm/senarai_semak_tpbri.pdf"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (250.90 KB) R&D Form Checklist (34.84 KB) Form 1 Attachment of Form 1 Form 2 Form 3 Form 4 Attachment of Form 3 and 4",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-1-pind-2023.docx"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (250.90 KB) R&D Form Checklist (34.84 KB) Form 1 Attachment of Form 1 Form 2 Form 3 Form 4 Attachment of Form 3 and 4",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-2-pind2023.docx"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (250.90 KB) R&D Form Checklist (34.84 KB) Form 1 Attachment of Form 1 Form 2 Form 3 Form 4 Attachment of Form 3 and 4",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-3-pind2023.docx"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (250.90 KB) R&D Form Checklist (34.84 KB) Form 1 Attachment of Form 1 Form 2 Form 3 Form 4 Attachment of Form 3 and 4",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-4-pind2023.docx"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (400.41 KB) Guidelines",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GP_PERMOHONAN_PELEPASAN_DUTI_SETEM_Dl_BAWAH_SEKSYEN_15A_AKTA_SETEM_1949_PINDAAN_2022.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines Form (381.72 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/g2eeu5ul/gp_tpri_15072020.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (351.78 KB) Form",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/mr3jwonm/senarai_semak_tpbri.pdf"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-latest",
+      "section": "Principal Act / List of P.U. (A) / Finance Bill (latest legislation feed, tax-relevant only)",
+      "url": "https://lom.agc.gov.my/index.php",
+      "new_items": [],
+      "removed_items": [
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 369/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzY5LzIwMjZ8YTAxMzIyN2FkNzUxNDQwNDYzYTMyMzNhYmZjZGI1YjUzNDg5NjEzNTk5ZjcwZjEyNWI3YTdjNTIwZDdlYmUyYg%3D%3D"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": [],
+      "not_relevant_count": 14
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-dt",
+      "section": "Technical News > Direct Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/",
+      "new_items": [
+        {
+          "page": "https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/",
+          "label": "05/10/2026 - HASiL - Updated Guidelines on Applications for Approval by the DGIR under S.44(6) of the ITA 1967 for Houses of Worship Management Fund (05102026)",
+          "href": "https://www.ctim.org.my/download?file=%2F14%2F70b58d9880d2c9e01c6f326c87b698fb.pdf"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/",
+          "label": "29/06/2026 - HASiL - Operational Guidelines No. 1-2026 - Layanan Khas Penalti Dibawah Seksyen 47A Akta Setem 1949 Bagi Program Khas Pengakuan Sukarela Duti Setem 2026 (Updated on 29062026).pdf",
+          "href": "https://www.ctim.org.my/download?file=%2F14%2F9ed788254442a5648ca898c19485355e.pdf"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "MySToDS (Service Tax on Digital Services)",
+      "check_id": "mystods-bulletin",
+      "section": "Bulletin Board",
+      "url": "https://mystods.customs.gov.my/",
+      "new_items": [],
+      "removed_items": [],
+      "text_changes": [
+        {
+          "page": "https://mystods.customs.gov.my/",
+          "added_lines": [
+            "Bulletin Board"
+          ],
+          "removed_lines": []
+        }
+      ],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-myinvois-epos",
+      "section": "Pautan Popular > MyInvois e-POS",
+      "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-return-form-filing-programme",
+      "section": "Forms > Return Form Filing Programme",
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (years listed per form category)",
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-transfer-pricing",
+      "section": "Transfer Pricing",
+      "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/"
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-latest-announcements",
+      "section": "Pengumuman Terkini (Latest Announcements)",
+      "url": "https://mysst.customs.gov.my/"
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-announcements",
+      "section": "All announcements",
+      "url": "https://mysst.customs.gov.my/announcements/"
+    },
+    {
+      "source": "Ministry of Finance",
+      "check_id": "mof-news",
+      "section": "News (tax-relevant only)",
+      "url": "https://www.mof.gov.my/portal/en/news"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-pengumuman",
+      "section": "Pengumuman (Announcements)",
+      "url": "https://customs.gov.my/ms/arkib/pengumuman"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-berita-media",
+      "section": "Berita dan Media (News and Media)",
+      "url": "https://customs.gov.my/ms/arkib/liputan-media"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-it",
+      "section": "Technical News > Indirect Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-indirect-taxation-tc-it/"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-ectim",
+      "section": "eCTIM (titles listed on the public home page; full text needs member sign-in)",
+      "url": "https://www.ctim.org.my/"
+    },
+    {
+      "source": "Rahmat Lim & Partners (RDS) - Tax Focus",
+      "check_id": "rds-tax-focus",
+      "section": "Tax Focus publications (for the monthly update class)",
+      "url": "https://www.rdslawpartners.com/publications/categories/tax-focus"
+    },
+    {
+      "source": "MDEC - National e-Invoicing",
+      "check_id": "mdec-einvoicing",
+      "section": "New Updates (Peppol-Ready Solution)",
+      "url": "https://mdec.my/national-einvoicing"
+    },
+    {
+      "source": "MIDA - Announcements & Media Releases",
+      "check_id": "mida-announcements",
+      "section": "Announcements & media releases (tax-relevant only)",
+      "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/"
+    }
+  ],
+  "baselined": [],
+  "needs_login": [
+    {
+      "source": "HASiL Facebook page",
+      "check_id": "hasil-facebook",
+      "section": "Facebook posts",
+      "url": "https://www.facebook.com/HASiLMalaysia"
+    },
+    {
+      "source": "CCH iKnowConnect (Malaysia)",
+      "check_id": "cch-news",
+      "section": "Latest news and articles",
+      "url": "https://iknowconnect.cch.com/MYS/home"
+    }
+  ],
+  "errors": [
+    {
+      "source": "Parliament of Malaysia - Dewan Rakyat bills",
+      "check_id": "parlimen-bills",
+      "section": "Bills (Income Tax Act and Finance Bills only)",
+      "url": "https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "HRD Corp - Circulars",
+      "check_id": "hrdcorp-circulars",
+      "section": "Circulars",
+      "url": "https://hrdcorp.gov.my/circulars",
+      "error": "HTTP 403"
+    },
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "url": "https://mytax.hasil.gov.my/",
+      "error": "page.waitForSelector: Timeout 45000ms exceeded."
+    }
+  ],
+  "partial": [],
+  "finished_at": "2026-11-02T00:55:09.523Z"
+}

@@ -1,7 +1,7 @@
 {
   "check_id": "mof-news",
   "url": "https://www.mof.gov.my/portal/en/news",
-  "fetched_at": "2026-10-30T08:49:57.303Z",
+  "fetched_at": "2026-11-02T00:51:03.258Z",
   "pages": [
     {
       "url": "https://www.mof.gov.my/portal/en/news",
@@ -22,6 +22,14 @@
         {
           "label": "fas fa-sitemap",
           "href": "https://www.mof.gov.my/portal/en/site-map"
+        },
+        {
+          "label": "MADANI Government Secures RM5 Billion Repurposing of SSER Loan Press Release 30 October 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-release/madani-government-secures-rm5-billion-repurposing-of-sser-loan"
+        },
+        {
+          "label": "MADANI Government Secures RM5 Billion Repurposing of SSER Loan",
+          "href": "https://www.mof.gov.my/portal/en/news/press-release/madani-government-secures-rm5-billion-repurposing-of-sser-loan"
         },
         {
           "label": "MoF Bars Nibong Tebal Petrol Station Over Suspected Subsidy Abuse Press Citations 27 October 2026",
@@ -62,14 +70,6 @@
         {
           "label": "MOF Staff Urged To Adopt ‘ATM’ Principles To Expedite Budget 2027 Implementation",
           "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-staff-urged-to-adopt-atm-principles-to-expedite-budget-2027-implementation"
-        },
-        {
-          "label": "MOF Denies Claims Of QR Payment Charges From Nov 1 Press Citations 18 October 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-denies-claims-of-qr-payment-charges-from-nov-1"
-        },
-        {
-          "label": "MOF Denies Claims Of QR Payment Charges From Nov 1",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/mof-denies-claims-of-qr-payment-charges-from-nov-1"
         },
         {
           "label": "Press Release",
@@ -182,6 +182,9 @@
         "fas fa-sitemap",
         "Site Map",
         "NEWS & MEDIA",
+        "MADANI Government Secures RM5 Billion Repurposing of SSER Loan",
+        "Press Release",
+        "30 October 2026",
         "MoF Bars Nibong Tebal Petrol Station Over Suspected Subsidy Abuse",
         "Press Citations",
         "27 October 2026",
@@ -193,9 +196,6 @@
         "STR, SARA Nearly RM11 Bln Disbursed To Eligible Recipients As of September 2026 – MoF",
         "19 October 2026",
         "MOF Staff Urged To Adopt ‘ATM’ Principles To Expedite Budget 2027 Implementation",
-        "MOF Denies Claims Of QR Payment Charges From Nov 1",
-        "18 October 2026",
-        "Press Release",
         "Videos",
         "Speech",
         "ASEAN 2025",

@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-10-30T08:49:29.734Z",
+  "fetched_at": "2026-11-02T00:50:21.734Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
+          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
+          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
+          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
+          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
+          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
+          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 29 Oct 28 Oct 27 Oct 26 Oct 25 Oct 24 Oct",
+          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -46,6 +46,10 @@
         {
           "label": "P.U. (A) 376/2026 - NATIONAL SERVICE TRAINING (PERSONS REQUIRED TO UNDERGO NATIONAL SERVICE TRAINING) (NO. 2) ORDER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzc2LzIwMjZ8ZjMwODIwZTgxNzExZjIyZGFhM2JmNTNmN2E2ZDlkOTQ4MTU4YjE4NjkxMjc5YmZiODU0MjI5MDlhYzRmMWQwMg%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 377/2026 - RADIATION PROTECTION (LICENSING) (AMENDMENT) REGULATIONS 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzc3LzIwMjZ8MDY0M2M1YzJmOWMwOGMyMWY5NWUyNTdkMzkzOWYxOTIyZWJhYWM1ODE3YzE3YzMzMjc5NjI3ZmVmY2Y0YzBmMQ%3D%3D"
         },
         {
           "label": "P.U. (B) 441/2026 - DECLARATION OF HERITAGE OBJECT (NO. 4) 2026",
@@ -66,6 +70,10 @@
         {
           "label": "P.U. (B) 445/2026 - RETURN AND STATEMENTS OF ELECTION EXPENSES",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQ1LzIwMjZ8ZTg4N2E5ZTNlNDJmODI2NmIzZGIxMDY4ODM0MTdlOTM5MjU1NGQ4ZGQ2YzdhMDcwMzVkYzkzOWJmMjEyMmE3Nw%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 446/2026 - NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQ2LzIwMjZ8YzU2MjMwOTIyZTE5N2Y5YWM3NTU4YzY3OTk5MWU5OTNmYTk4ZjUwMDk0NDRhOTY5MDU3NDJmNmUxYTBhMTk1MQ%3D%3D"
         },
         {
           "label": "P.U. (A) 373/2026 - DENTAL (AMENDMENT OF SECOND SCHEDULE) ORDER 2026",
@@ -90,26 +98,6 @@
         {
           "label": "P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzcxLzIwMjZ8OWZhNzAyNzg1Y2IxY2MyNjA5OGVkNzllMjM2ZjZkMGQ5YmE0Njc3YTIyNTE0ZTY1MTAyZmNkNjZlYWE3ODYyNQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 368/2026 - COMPANIES (AMENDMENT OF FOURTH SCHEDULE) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzY4LzIwMjZ8NjQ2YmY2OWE3NjEzYTQ0MTc2OWVjZWY3MjA5YmZiN2QyOTFjYmY5YmQzY2ZlZDgzNTI3M2FjZWJmMDJiOGExOQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 369/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzY5LzIwMjZ8YTAxMzIyN2FkNzUxNDQwNDYzYTMyMzNhYmZjZGI1YjUzNDg5NjEzNTk5ZjcwZjEyNWI3YTdjNTIwZDdlYmUyYg%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 436/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM2LzIwMjZ8M2JjOGJjNTkzZmQwMTg5YWNlNzA5NDY0ZGMwODkyZjE4YzE1YzEwYTY0NGMxMjg3MTY4ZDNmY2ZkYzZlMTY3Yw%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 437/2026 - DECLARATION OF HERITAGE OBJECT (NO. 3) 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM3LzIwMjZ8MWNmN2JmMTIxNGE1OWFlNzlmOTJjY2FlNDAxZGMzZWVhYzhmNmU0NmM4NjljOWI3Yzk2ZWI1ZjE2Yjg0YmE5NA%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 438/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM4LzIwMjZ8ODQwZmQzOGY4ZjFkODM1MDZiODdiMWE1OWNmNmUzZGFiZmU1YzEyNzdlNGJmZWRiZjE5NzYwZTNhNjRhZWY4ZQ%3D%3D"
         },
         {
           "label": "STATISTICS ACT 2026",
@@ -144,6 +132,10 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9YW1lbmRtZW50Jmxhbmd1YWdlPUJJfGU0NGQyMzUzY2MyNjFmNjk1Njg2OWM2ZDk3YjJiZjQ2ODg4MzBiYzZiMTk0MGJlMDVkOWZhNmU5Y2FmZWQ2OWE%3D"
         },
         {
+          "label": "RADIATION PROTECTION (LICENSING) (AMENDMENT) REGULATIONS 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzc3LzIwMjZ8YWIwNWQxYmNhYTI2ZTA0MmYyNjJhN2E4YTUxYWNlODdkZTNjZjExZmU4NWM4ZGRmZWE3YmY4ZWU1ZjE5ZGY5ZA%3D%3D"
+        },
+        {
           "label": "NATIONAL SERVICE TRAINING (PERSONS REQUIRED TO UNDERGO NATIONAL SERVICE TRAINING) (NO. 2) ORDER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzc2LzIwMjZ8ODMyODYxMGM2YjA3ZDEzYjM1ZjMxMWE4YTNlOGMxODA3ZDIwYTBmY2YwNjgwZDJiODQyMWVjYjRmMmRlZDhmYg%3D%3D"
         },
@@ -152,12 +144,12 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzc1LzIwMjZ8ZWJhOTM0YmEwNDNjNzFkZTE1NzI0NWViZTg1YjQyYWU3ZTZmMzIxZjI4ODExOTcxZDdlYTIxYWEzMWJjNTlmNQ%3D%3D"
         },
         {
-          "label": "ATOMIC ENERGY (SAFEGUARDS) REGULATIONS 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzc0LzIwMjZ8NjA5NGU2YWU0YjZjMDJjM2Y2MWQ2YWM4ZDE5MDlhMjk5ZWE3MTNiMTEyYzdjMjVhMGJlYjU3MmQ2YzNlYWRjZA%3D%3D"
+          "label": "P.U. (A) 377/2026 - RADIATION PROTECTION (LICENSING) (AMENDMENT) REGULATIONS 2026 P.U. (A) 376/2026 - NATIONAL SERVICE TRAINING (PERSONS REQUIRED TO UNDERGO NATIONAL SERVICE TRAINING) (NO. 2) ORDER 2026 P.U. (A) 375/2026 - PROCLAMATION See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
-          "label": "P.U. (A) 376/2026 - NATIONAL SERVICE TRAINING (PERSONS REQUIRED TO UNDERGO NATIONAL SERVICE TRAINING) (NO. 2) ORDER 2026 P.U. (A) 375/2026 - PROCLAMATION P.U. (A) 374/2026 - ATOMIC ENERGY (SAFEGUARDS) REGULATIONS 2026 See All...",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+          "label": "NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDQ2LzIwMjZ8ZTNjNGQwYTcyZTM2ZmFhNzZmMjA1MTA3NTBiMTAxMTVlYjliOTgzYjcxMTkxZTMyMGM5ZDBlZTMxZDJlODRjMQ%3D%3D"
         },
         {
           "label": "RETURN AND STATEMENTS OF ELECTION EXPENSES",
@@ -168,11 +160,7 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDQ0LzIwMjZ8NmEwYmZmYjA2ZjUyYTM5YWU5OGYxZmFhYjZkZmM5Zjc1NjBlNzg0N2UwYzNhYzA0Y2ZkZDgxYjk3MDcwOTE5ZQ%3D%3D"
         },
         {
-          "label": "SPECIAL DIRECTION OF THE MINISTER",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDQzLzIwMjZ8YjUzZGIwY2ViNjdlNTdiMjg1YWJhYWZiMjBkZjhkZDMwOGY1NzUzYzA4ZWZmYTdhYzIzNGVjNTk0MjBkN2Y4MQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 445/2026 - RETURN AND STATEMENTS OF ELECTION EXPENSES P.U. (B) 444/2026 - NOTICE OF DESIGNATION OF SITE AS HERITAGE SITE P.U. (B) 443/2026 - SPECIAL DIRECTION OF THE MINISTER See All...",
+          "label": "P.U. (B) 446/2026 - NOTICE TO THIRD PARTIES P.U. (B) 445/2026 - RETURN AND STATEMENTS OF ELECTION EXPENSES P.U. (B) 444/2026 - NOTICE OF DESIGNATION OF SITE AS HERITAGE SITE See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -180,41 +168,38 @@
           "href": "https://lom.agc.gov.my/federal-constitution.php"
         },
         {
-          "label": "P.U. (A) 367/2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzY3LzIwMjZ8ODhhNmQ0NjU5MTQ5NzY2Mjc1Mzg0ZmNiNjExOTgwOGQ4OGRjNDBlZDVhZjdkMjI1YjViMGNhYWY4MzFjZDhmMg%3D%3D"
+          "label": "P.U. (A) 370/2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzcwLzIwMjZ8YmJiYWY3N2FlZGQ0ODIyYWE4NjVlOGVmY2M5M2ZkZWI4OGE5NjQzNWQ2OGU0OGFiZmYwMDU0ZDZhNGJmNTlkMw%3D%3D"
         }
       ],
       "lines": [
         "What's New",
         "Today",
+        "01 Nov",
+        "31 Oct",
+        "30 Oct",
         "29 Oct",
         "28 Oct",
         "27 Oct",
-        "26 Oct",
-        "25 Oct",
-        "24 Oct",
+        "There is no record to display",
         "P.U. (A)",
         "P.U. (A) 374/2026 - ATOMIC ENERGY (SAFEGUARDS) REGULATIONS 2026",
         "P.U. (A) 375/2026 - PROCLAMATION",
         "P.U. (A) 376/2026 - NATIONAL SERVICE TRAINING (PERSONS REQUIRED TO UNDERGO NATIONAL SERVICE TRAINING) (NO. 2) ORDER 2026",
+        "P.U. (A) 377/2026 - RADIATION PROTECTION (LICENSING) (AMENDMENT) REGULATIONS 2026",
         "P.U. (B)",
         "P.U. (B) 441/2026 - DECLARATION OF HERITAGE OBJECT (NO. 4) 2026",
         "P.U. (B) 442/2026 - NOTICE TO THIRD PARTIES",
         "P.U. (B) 443/2026 - SPECIAL DIRECTION OF THE MINISTER",
         "P.U. (B) 444/2026 - NOTICE OF DESIGNATION OF SITE AS HERITAGE SITE",
         "P.U. (B) 445/2026 - RETURN AND STATEMENTS OF ELECTION EXPENSES",
+        "P.U. (B) 446/2026 - NOTICE TO THIRD PARTIES",
         "P.U. (A) 373/2026 - DENTAL (AMENDMENT OF SECOND SCHEDULE) ORDER 2026",
         "P.U. (B) 439/2026 - DIRECTIONS OF THE MINISTER UNDER PARAGRAPH 26(1)(d) AND SECTION 564",
         "P.U. (B) 440/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
         "P.U. (A) 372/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026",
         "P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026",
         "P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026",
-        "P.U. (A) 368/2026 - COMPANIES (AMENDMENT OF FOURTH SCHEDULE) ORDER 2026",
-        "P.U. (A) 369/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 35) ORDER 2026",
-        "P.U. (B) 436/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
-        "P.U. (B) 437/2026 - DECLARATION OF HERITAGE OBJECT (NO. 3) 2026",
-        "P.U. (B) 438/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
-        "There is no record to display",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -229,7 +214,7 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (A) 367/2026 569"
+        "P.U. (A) 370/2026 600"
       ]
     }
   ]

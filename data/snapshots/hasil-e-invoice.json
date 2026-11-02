@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-e-invoice",
   "url": "https://www.hasil.gov.my/en/e-invois/",
-  "fetched_at": "2026-10-30T08:41:11.109Z",
+  "fetched_at": "2026-11-02T00:41:10.570Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/e-invois/",
@@ -2032,6 +2032,10 @@
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-anjuran-bersama-hasil-negeri-sembilan-nadi-bukit-kepayang-bil-2-2026/"
         },
         {
+          "label": "Bil. 46/2026 Taklimat e-Invois @ Sabah (Lahad Datu) Bil. 46/2026 25 November 2026 (Rabu) 8:30 am – 11:30 am Pusat Sebaran Maklumat Nasional (NADI) Kg. Sapagaya, Lahad Datu, Sabah Tarikh tutup: 24 November 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-sabah-lahad-datu-bil-46-2026/"
+        },
+        {
           "label": "Bil. 59/2026 Taklimat e-Invois @ Pulau Pinang (Georgetown) Bil. 59/2026 25 November 2026 (Rabu) 9:30am - 1:00pm Mutiara I, Menara HASiL Pulau Pinang, Pulau Pinang Tarikh tutup: 23 November 2026",
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-pulau-pinang-georgetown-bil-59-2026/"
         },
@@ -3457,9 +3461,14 @@
         "10:00 am – 12:00 pm",
         "ADI Bukit Kepayang, No. 104, Jalan S2 D32, Seremban 2, Seremban, Negeri Sembilan",
         "Tarikh tutup: 23 November 2026",
+        "Bil. 46/2026",
+        "Taklimat e-Invois @ Sabah (Lahad Datu) Bil. 46/2026",
+        "25 November 2026 (Rabu)",
+        "8:30 am – 11:30 am",
+        "Pusat Sebaran Maklumat Nasional (NADI) Kg. Sapagaya, Lahad Datu, Sabah",
+        "Tarikh tutup: 24 November 2026",
         "Bil. 59/2026",
         "Taklimat e-Invois @ Pulau Pinang (Georgetown) Bil. 59/2026",
-        "25 November 2026 (Rabu)",
         "9:30am - 1:00pm",
         "Mutiara I, Menara HASiL Pulau Pinang, Pulau Pinang",
         "Bil. 29/2026",
@@ -3529,8 +3538,6 @@
         "Bil. 45/2026",
         "Taklimat e-Invois @ Sabah (Lahad Datu) Bil. 45/2026",
         "11 November 2026 (Rabu)",
-        "8:30 am – 11:30 am",
-        "Pusat Sebaran Maklumat Nasional (NADI) Kg. Sapagaya, Lahad Datu, Sabah",
         "Bil. 21/2026",
         "Webinar e-Invois @ HASiL Kelantan Bil. 21/2026",
         "Taklimat e-Invois Anjuran HASiL WP Putrajaya (Cheras) Bil. 27/2026",
@@ -3635,7 +3642,6 @@
         "Webinar e-Invois Anjuran HASiL Johor Bil. 51/2026",
         "Bil. 9/202",
         "Webinar e-Invois Anjuran HASiL Perlis Bil. 9/2026",
-        "Bil. 46/2026",
         "Taklimat e-Invois @ HASiL Pahang (Temerloh) Bil. 46/2026",
         "Dewan Sri Semantan, Pejabat HASiL Temerloh, PahangL",
         "Taklimat e-Invois @ CIK Bil. 22/2026",
