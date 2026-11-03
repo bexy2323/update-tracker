@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-03T00:49:00.545Z",
+  "fetched_at": "2026-11-03T08:49:10.224Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -34,6 +34,26 @@
         {
           "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (A) 378/2026 - CONTROL OF SUPPLIES (CONTROLLED ARTICLES) (NO. 4) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzc4LzIwMjZ8OWM0ODBmMWEyNjY2ZGU4NmU4NDRlY2MyOTI2YTJkNGMxNDY0NWFlODA5MzIyMjZhODk1YmJlZGE0YTBmODMzMA%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 379/2026 - PRICE CONTROL AND ANTI-PROFITEERING (DETERMINATION OF MAXIMUM PRICE) (NO. 4) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzc5LzIwMjZ8Njc1MzE5YjJkZjVlNjZmZWJlMWFjZTY1MjE3N2JjYmIzYzcyMTk2ZDAzOTIyMTY2NjI1OTExOTBjMDdmNjBhNA%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 380/2026 - PRICE CONTROL AND ANTI-PROFITEERING (PRICE MARKING OF PRICE-CONTROLLED GOODS) (NO. 4) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzgwLzIwMjZ8YTg3M2FjOTVkZjIwZGYxNjYxNWQ2MTZiZmZjNDlkODg5Mzk1MWY2N2VmNWZiZDk0MGRjN2U3ZjAxNjllZjg5Zg%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 381/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzgxLzIwMjZ8N2IwZDZjYTUxZGE3NmIyYzQyYzA4NWU3MGZhMDA1MjVkNDIzMjM5MTVkOWE4MDRjNDQ3ODhlZmNmMDFhMjFhMw%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 447/2026 - APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQ3LzIwMjZ8ZjY0NmEzNjdkNmU1NzJlNzBiNzllZDhjMGI4NWEwZTAzMzNkMTJjM2I4NTI5Mzg0Y2NlNTliOWUwMjczOWM5MQ%3D%3D"
         },
         {
           "label": "P.U. (A) 374/2026 - ATOMIC ENERGY (SAFEGUARDS) REGULATIONS 2026",
@@ -124,20 +144,24 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9YW1lbmRtZW50Jmxhbmd1YWdlPUJJfGU0NGQyMzUzY2MyNjFmNjk1Njg2OWM2ZDk3YjJiZjQ2ODg4MzBiYzZiMTk0MGJlMDVkOWZhNmU5Y2FmZWQ2OWE%3D"
         },
         {
-          "label": "RADIATION PROTECTION (LICENSING) (AMENDMENT) REGULATIONS 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzc3LzIwMjZ8YWIwNWQxYmNhYTI2ZTA0MmYyNjJhN2E4YTUxYWNlODdkZTNjZjExZmU4NWM4ZGRmZWE3YmY4ZWU1ZjE5ZGY5ZA%3D%3D"
+          "label": "ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzgxLzIwMjZ8NTVkNGVlYzNmYjdkNTU3NTEwYmIxYjU5YjEyYWU3OTg3MjRlZDE5YmU4MzJjMzYyNzdjZjZjZmU0ODE0YzliOA%3D%3D"
         },
         {
-          "label": "NATIONAL SERVICE TRAINING (PERSONS REQUIRED TO UNDERGO NATIONAL SERVICE TRAINING) (NO. 2) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzc2LzIwMjZ8ODMyODYxMGM2YjA3ZDEzYjM1ZjMxMWE4YTNlOGMxODA3ZDIwYTBmY2YwNjgwZDJiODQyMWVjYjRmMmRlZDhmYg%3D%3D"
+          "label": "PRICE CONTROL AND ANTI-PROFITEERING (PRICE MARKING OF PRICE-CONTROLLED GOODS) (NO. 4) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzgwLzIwMjZ8MGQ4NDIzNGJjYmFjNGIwMDcxNWI0NjBkZDA4MGM2MDRjOTlhYWQxNGQxZmI5YzhmNTQyNmRhZjA0YWY2YWMzZg%3D%3D"
         },
         {
-          "label": "PROCLAMATION",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzc1LzIwMjZ8ZWJhOTM0YmEwNDNjNzFkZTE1NzI0NWViZTg1YjQyYWU3ZTZmMzIxZjI4ODExOTcxZDdlYTIxYWEzMWJjNTlmNQ%3D%3D"
+          "label": "PRICE CONTROL AND ANTI-PROFITEERING (DETERMINATION OF MAXIMUM PRICE) (NO. 4) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzc5LzIwMjZ8Yjc3YTZhYzlkZTc1MTYxZTAyYzhiOWRkNDNmODIwNzFhYzJkMjdjMjk5MTM1ZDlkNWY0ZjQ5NDMyNzFmYmY5MQ%3D%3D"
         },
         {
-          "label": "P.U. (A) 377/2026 - RADIATION PROTECTION (LICENSING) (AMENDMENT) REGULATIONS 2026 P.U. (A) 376/2026 - NATIONAL SERVICE TRAINING (PERSONS REQUIRED TO UNDERGO NATIONAL SERVICE TRAINING) (NO. 2) ORDER 2026 P.U. (A) 375/2026 - PROCLAMATION See All...",
+          "label": "P.U. (A) 381/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026 P.U. (A) 380/2026 - PRICE CONTROL AND ANTI-PROFITEERING (PRICE MARKING OF PRICE-CONTROLLED GOODS) (NO. 4) ORDER 2026 P.U. (A) 379/2026 - PRICE CONTROL AND ANTI-PROFITEERING (DETERMINATION OF MAXIMUM PRICE) (NO. 4) ORDER 2026 See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+        },
+        {
+          "label": "APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDQ3LzIwMjZ8Mzc5NmNmYTUyM2E1NmZlMDgxNDM1OWU5MWIwODk5MDEwMjI3ZTI0NzU0NWNlOWNhZGJmNmZjNTc5OTU4OGEzNA%3D%3D"
         },
         {
           "label": "NOTICE TO THIRD PARTIES",
@@ -148,11 +172,7 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDQ1LzIwMjZ8NmRlNDM5ODgyYWRhZWJkZWRmYmIzNWMyNDVlNzMxODAzYjFkN2RjNjM3OGNmZDNjNGE1YmUyNjJhMWQ4MWYzZg%3D%3D"
         },
         {
-          "label": "NOTICE OF DESIGNATION OF SITE AS HERITAGE SITE",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDQ0LzIwMjZ8NmEwYmZmYjA2ZjUyYTM5YWU5OGYxZmFhYjZkZmM5Zjc1NjBlNzg0N2UwYzNhYzA0Y2ZkZDgxYjk3MDcwOTE5ZQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 446/2026 - NOTICE TO THIRD PARTIES P.U. (B) 445/2026 - RETURN AND STATEMENTS OF ELECTION EXPENSES P.U. (B) 444/2026 - NOTICE OF DESIGNATION OF SITE AS HERITAGE SITE See All...",
+          "label": "P.U. (B) 447/2026 - APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM P.U. (B) 446/2026 - NOTICE TO THIRD PARTIES P.U. (B) 445/2026 - RETURN AND STATEMENTS OF ELECTION EXPENSES See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -173,13 +193,18 @@
         "30 Oct",
         "29 Oct",
         "28 Oct",
-        "There is no record to display",
         "P.U. (A)",
+        "P.U. (A) 378/2026 - CONTROL OF SUPPLIES (CONTROLLED ARTICLES) (NO. 4) ORDER 2026",
+        "P.U. (A) 379/2026 - PRICE CONTROL AND ANTI-PROFITEERING (DETERMINATION OF MAXIMUM PRICE) (NO. 4) ORDER 2026",
+        "P.U. (A) 380/2026 - PRICE CONTROL AND ANTI-PROFITEERING (PRICE MARKING OF PRICE-CONTROLLED GOODS) (NO. 4) ORDER 2026",
+        "P.U. (A) 381/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026",
+        "P.U. (B)",
+        "P.U. (B) 447/2026 - APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM",
+        "There is no record to display",
         "P.U. (A) 374/2026 - ATOMIC ENERGY (SAFEGUARDS) REGULATIONS 2026",
         "P.U. (A) 375/2026 - PROCLAMATION",
         "P.U. (A) 376/2026 - NATIONAL SERVICE TRAINING (PERSONS REQUIRED TO UNDERGO NATIONAL SERVICE TRAINING) (NO. 2) ORDER 2026",
         "P.U. (A) 377/2026 - RADIATION PROTECTION (LICENSING) (AMENDMENT) REGULATIONS 2026",
-        "P.U. (B)",
         "P.U. (B) 441/2026 - DECLARATION OF HERITAGE OBJECT (NO. 4) 2026",
         "P.U. (B) 442/2026 - NOTICE TO THIRD PARTIES",
         "P.U. (B) 443/2026 - SPECIAL DIRECTION OF THE MINISTER",
@@ -204,7 +229,7 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (A) 370/2026 534"
+        "P.U. (A) 370/2026 552"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-e-invoice",
   "url": "https://www.hasil.gov.my/en/e-invois/",
-  "fetched_at": "2026-11-03T00:40:43.423Z",
+  "fetched_at": "2026-11-03T08:40:18.088Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/e-invois/",
@@ -954,6 +954,26 @@
           "href": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/artikel-berita-penerbitan/"
         },
         {
+          "label": "Government to require foreign online commerce platforms to adopt e-Invoice",
+          "href": "https://theedgemalaysia.com/node/823662"
+        },
+        {
+          "label": "E-Invois Ekosistem Percukaian Moden, Cekap, Telus Dan Mesra Pengguna",
+          "href": "https://www.mynewshub.tv/2026/10/e-invois-ekosistem-percukaian-moden-cekap-telus-dan-mesra-pengguna/"
+        },
+        {
+          "label": "LHDN terima lebih 2.09 bilion e-invois, perkukuh pematuhan cukai menerusi data analitik",
+          "href": "https://www.bharian.com.my/berita/nasional/2026/10/1679506/lhdn-terima-lebih-209-bilion-e-invois-perkukuh-pematuhan-cukai"
+        },
+        {
+          "label": "160,000 pembayar cukai dikecualikan boleh pilih teruskan penggunaan e-Invois",
+          "href": "https://www.astroawani.com/berita-malaysia/160000-pembayar-cukai-dikecualikan-boleh-pilih-teruskan-penggunaan-e-invois"
+        },
+        {
+          "label": "BERNAMA – More Than 268,000 Taxpayers Submit 1.99 Billion e-Invoices As At Oct 1",
+          "href": "https://www.bernama.com/en/news.php?id=2614144"
+        },
+        {
           "label": "MyInvois e-POS Membantu Peniaga",
           "href": "https://makkalosai.com.my/2026/09/24/%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AF%81-%E0%AE%B5%E0%AE%A3%E0%AE%BF%E0%AE%95%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81-%E0%AE%95%E0%AF%88%E0%AE%95%E0%AF%8A%E0%AE%9F/"
         },
@@ -1661,6 +1681,16 @@
         "Expand All",
         "Year 2026",
         "List of News Article / Publication 2026",
+        "28 October 2026 – The Edge",
+        "Government to require foreign online commerce platforms to adopt e-Invoice",
+        "24 October 2026 – MyNewsHub",
+        "E-Invois Ekosistem Percukaian Moden, Cekap, Telus Dan Mesra Pengguna",
+        "21 October 2026 – Berita Harian",
+        "LHDN terima lebih 2.09 bilion e-invois, perkukuh pematuhan cukai menerusi data analitik",
+        "7 October 2026 – Astro Awani",
+        "160,000 pembayar cukai dikecualikan boleh pilih teruskan penggunaan e-Invois",
+        "1 October 2026 – Bernama",
+        "BERNAMA – More Than 268,000 Taxpayers Submit 1.99 Billion e-Invoices As At Oct 1",
         "24 September 2026 – Makkal Osai",
         "MyInvois e-POS Membantu Peniaga",
         "5 September 2026 – Sin Chew Daily",

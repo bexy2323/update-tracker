@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-legislation",
   "url": "https://www.hasil.gov.my/en/perundangan/akta/",
-  "fetched_at": "2026-11-03T00:48:41.773Z",
+  "fetched_at": "2026-11-03T08:48:52.856Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/perundangan/akta/",
@@ -2369,6 +2369,14 @@
           "href": "https://www.hasil.gov.my/en/perundangan/kes-cukai/"
         },
         {
+          "label": "Case Report>> (299.09 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261023-REVENEWS-ISMAIL-BIN-IDRIS.pdf"
+        },
+        {
+          "label": "Case Report>> (298.22 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261023-REVENEWS-DJM-4-LAIN.pdf"
+        },
+        {
           "label": "Case Report>> (243.93 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/20261021-REVENEWS-MDCOGL.pdf"
         },
@@ -3856,6 +3864,13 @@
         "Expand All",
         "List of Recent Tax Case",
         "Section Case Title Category Date Issued",
+        "Section 4(a) & 112(3) Income Tax Act 1967",
+        "Ismail bin Idris v. Director General of Inland Revenue",
+        "Case Report>> (299.09 KB)",
+        "Tax Appeal 02.11.2026",
+        "Section 9(3) & 14(5) Real Property Gains Tax Act 1976",
+        "DJM & 4 Ors v. Director General of Inland Revenue",
+        "Case Report>> (298.22 KB)",
         "Section 6, 12 & 109 Income Tax Act 1967",
         "MDCOGL v. Director General of Inland Revenue",
         "Case Report>> (243.93 KB)",
