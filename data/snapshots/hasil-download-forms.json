@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-download-forms",
   "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
-  "fetched_at": "2026-11-02T08:48:28.166Z",
+  "fetched_at": "2026-11-03T00:47:35.868Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
@@ -78,12 +78,16 @@
       "title": "Muat Turun Borang Selain Syarikat & Selain Individu",
       "items": [
         {
+          "label": "| Trust Body, Unit Trust / Property Trust and Real Estate Investment Trust Property Trust Fund TA, TC and TR Computation Guide Working Sheets (3.19 MB) Other information Appendices (963.31 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/workingsheets_tatctr_2026_2.pdf"
+        },
+        {
           "label": "| Business Trust Tax Returns TN TN 2026 Form Printing Requirement (117.80 KB) e-Filing will be the primary method for submission of tax return in the future. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay version for manual submission to LHDNM. TN 2026 Explanatory Notes",
           "href": "https://www.hasil.gov.my/wp-content/uploads/syaratcetakan_1.pdf"
         },
         {
-          "label": "| Real Estate Investment Trust/Property Trust Fund Amended Return Form TR e-ARF TR 2026 For the Year of Assessment 2026, real estate investment trust/property trust fund are required to furnish their Amended Return Form by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Amended Return Form for Real Estate Investment Trust/Property Trust Fund Return Fo",
-          "href": "https://mytax.hasil.gov.my/"
+          "label": "| Real Estate Investment Trust/Property Trust Fund Amended Return Form TR ARF TR 2026 (895.79 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Note",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/sample_arf_tr2026_2.pdf"
         },
         {
           "label": "| Real Estate Investment Trust / Property Trust Fund Tax Returns TR e-TR 2026 (from 1 September 2026) Real estate investment trust/property trust fund are required to furnish their Tax Returns by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Real Estate Investment Trust/Property Trust Fund Return Form 2026 and Appendices (986.61 KB) Explanatory Note",
@@ -686,12 +690,12 @@
       "title": "Muat Turun Borang Petroleum",
       "items": [
         {
-          "label": "| Petroleum e-BNT CPE 2026 With effect from Year of 2025, Petroleum can submit their amended returns form. Sample of Amended Return Form CPE 2026 (556.63 KB)",
-          "href": "https://mytax.hasil.gov.my/"
+          "label": "| Petroleum Amended Return Form CPE ARF CPE 2026 (556.63 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes of Amended Return Form CPE 2026",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/sample_arf_cpe2026_2.pdf"
         },
         {
-          "label": "| Petroleum e-BNT CPP 2026 With effect from Year of Assessment 2026, Petroleum are required to furnish their returns via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. Tax agents are required to use the TAeF to submit return form via https://mytax.hasil.gov.my/ Sample of Amended Return Form for CPP 2026 (634.45 KB)",
-          "href": "https://mytax.hasil.gov.my/"
+          "label": "| Petroleum Amended Return Form CPP ARF CPP 2026 (634.45 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes of Amended Return Form CPP 2026",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/sample_arf_cpp2026_2.pdf"
         },
         {
           "label": "| Petroleum e-CPE 2026 e-CPP 2026 (From 1 July 2026) With effect from Year of Assessment 2024 Petroleum are required to furnish their return via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. With effect from Year of Assessment 2024 Petroleum are required to furnish their return via electronic medium or by way of electronic transmission to Inland Revenu",

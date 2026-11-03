@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-02T08:49:52.783Z",
+  "fetched_at": "2026-11-03T00:49:00.545Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
+          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
+          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
+          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
+          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
+          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
+          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct 27 Oct",
+          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -90,14 +90,6 @@
         {
           "label": "P.U. (A) 372/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzcyLzIwMjZ8MzI4ZmQyYjJkMzRlZTQ0ODZlMGQ2MWEzMmQyMWY2NDcyNzQ1NDI1ZWVkNTMzNDUyNjU4YThhMjFiMTZlODcxOA%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzcwLzIwMjZ8YjlmMDY1ZWE5ZTc0M2FjMjhmOTBhYWRkY2E4ZWE1NzllNzlhZjY3OTcyZTE1MDE3ZTdmZWZhNDZlNzUzOWEwOQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzcxLzIwMjZ8OWZhNzAyNzg1Y2IxY2MyNjA5OGVkNzllMjM2ZjZkMGQ5YmE0Njc3YTIyNTE0ZTY1MTAyZmNkNjZlYWE3ODYyNQ%3D%3D"
         },
         {
           "label": "STATISTICS ACT 2026",
@@ -175,12 +167,12 @@
       "lines": [
         "What's New",
         "Today",
+        "02 Nov",
         "01 Nov",
         "31 Oct",
         "30 Oct",
         "29 Oct",
         "28 Oct",
-        "27 Oct",
         "There is no record to display",
         "P.U. (A)",
         "P.U. (A) 374/2026 - ATOMIC ENERGY (SAFEGUARDS) REGULATIONS 2026",
@@ -198,8 +190,6 @@
         "P.U. (B) 439/2026 - DIRECTIONS OF THE MINISTER UNDER PARAGRAPH 26(1)(d) AND SECTION 564",
         "P.U. (B) 440/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
         "P.U. (A) 372/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026",
-        "P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026",
-        "P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -214,7 +204,7 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (A) 370/2026 617"
+        "P.U. (A) 370/2026 534"
       ]
     }
   ]

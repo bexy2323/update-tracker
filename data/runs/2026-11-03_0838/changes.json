@@ -1,0 +1,360 @@
+{
+  "run_id": "2026-11-03_0838",
+  "started_at": "2026-11-03T00:38:57.668Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invois/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/program-e-invois/",
+          "label": "Bil. 21/2026 Webinar e-Invois Anjuran HASiL Sarawak Bil. 21/2026 18 November 2026 (Rabu) 9:00am - 11:30am Webinar melalui Ms. Teams Tarikh tutup: 15 November 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/webinar-e-invois-anjuran-hasil-sarawak-bil-21-2026/"
+        }
+      ],
+      "removed_items": [],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (years listed per form category)",
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-selain-syarikat-selain-individu/",
+          "label": "| Trust Body, Unit Trust / Property Trust and Real Estate Investment Trust Property Trust Fund TA, TC and TR Computation Guide Working Sheets (3.19 MB) Other information Appendices (963.31 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/workingsheets_tatctr_2026_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-selain-syarikat-selain-individu/",
+          "label": "| Real Estate Investment Trust/Property Trust Fund Amended Return Form TR ARF TR 2026 (895.79 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Note",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/sample_arf_tr2026_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-petroleum/",
+          "label": "| Petroleum Amended Return Form CPE ARF CPE 2026 (556.63 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes of Amended Return Form CPE 2026",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/sample_arf_cpe2026_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-petroleum/",
+          "label": "| Petroleum Amended Return Form CPP ARF CPP 2026 (634.45 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes of Amended Return Form CPP 2026",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/sample_arf_cpp2026_2.pdf"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-selain-syarikat-selain-individu/",
+          "label": "| Real Estate Investment Trust/Property Trust Fund Amended Return Form TR e-ARF TR 2026 For the Year of Assessment 2026, real estate investment trust/property trust fund are required to furnish their Amended Return Form by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Amended Return Form for Real Estate Investment Trust/Property Trust Fund Return Fo",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-petroleum/",
+          "label": "| Petroleum e-BNT CPE 2026 With effect from Year of 2025, Petroleum can submit their amended returns form. Sample of Amended Return Form CPE 2026 (556.63 KB)",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-petroleum/",
+          "label": "| Petroleum e-BNT CPP 2026 With effect from Year of Assessment 2026, Petroleum are required to furnish their returns via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. Tax agents are required to use the TAeF to submit return form via https://mytax.hasil.gov.my/ Sample of Amended Return Form for CPP 2026 (634.45 KB)",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-latest",
+      "section": "Principal Act / List of P.U. (A) / Finance Bill (latest legislation feed, tax-relevant only)",
+      "url": "https://lom.agc.gov.my/index.php",
+      "new_items": [],
+      "removed_items": [
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 370/2026 - INCOME TAX (DEDUCTION FOR EXPENDITURE IN RELATION TO COST OF RENOVATION AND CONVERSION OF OFFICE PREMISE TO RESIDENTIAL HOUSE) RULES 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzcwLzIwMjZ8YjlmMDY1ZWE5ZTc0M2FjMjhmOTBhYWRkY2E4ZWE1NzllNzlhZjY3OTcyZTE1MDE3ZTdmZWZhNDZlNzUzOWEwOQ%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 371/2026 - SERVICE TAX (DIGITAL SERVICES) (AMENDMENT) REGULATIONS 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzcxLzIwMjZ8OWZhNzAyNzg1Y2IxY2MyNjA5OGVkNzllMjM2ZjZkMGQ5YmE0Njc3YTIyNTE0ZTY1MTAyZmNkNjZlYWE3ODYyNQ%3D%3D"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": [],
+      "not_relevant_count": 7
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-latest-announcements",
+      "section": "Pengumuman Terkini (Latest Announcements)",
+      "url": "https://mysst.customs.gov.my/",
+      "new_items": [
+        {
+          "page": "https://mysst.customs.gov.my/",
+          "label": "03/11/2026 Service Tax Policy No. 6/2024 (Amendment No.3) More",
+          "href": "https://mysst.customs.gov.my/service-tax-policy/"
+        },
+        {
+          "page": "https://mysst.customs.gov.my/",
+          "label": "03/11/2026 Service Tax Policy No. 3/2026 (Amendment No.1) More",
+          "href": "https://mysst.customs.gov.my/service-tax-policy/"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://mysst.customs.gov.my/",
+          "label": "09/09/2026 Service Tax Policy No. 5/2026More",
+          "href": "https://mysst.customs.gov.my/service-tax-policy/"
+        },
+        {
+          "page": "https://mysst.customs.gov.my/",
+          "label": "28/08/2026 Sales Tax (Persons Exempted From Sales Tax) (Amendment) (No. 2) Order 2026More",
+          "href": "https://mysst.customs.gov.my/sst-orders/"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-announcements",
+      "section": "All announcements",
+      "url": "https://mysst.customs.gov.my/announcements/",
+      "new_items": [
+        {
+          "page": "https://mysst.customs.gov.my/announcements/",
+          "label": "03/11/2026 Service Tax Policy No. 6/2024 (Amendment No.3) More",
+          "href": "https://mysst.customs.gov.my/service-tax-policy/"
+        },
+        {
+          "page": "https://mysst.customs.gov.my/announcements/",
+          "label": "03/11/2026 Service Tax Policy No. 3/2026 (Amendment No.1) More",
+          "href": "https://mysst.customs.gov.my/service-tax-policy/"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://mysst.customs.gov.my/announcements/",
+          "label": "09/09/2026 Service Tax Policy No. 5/2026 More",
+          "href": "https://mysst.customs.gov.my/service-tax-policy/"
+        },
+        {
+          "page": "https://mysst.customs.gov.my/announcements/",
+          "label": "28/08/2026 Sales Tax (Persons Exempted From Sales Tax) (Amendment) (No. 2) Order 2026 More",
+          "href": "https://mysst.customs.gov.my/sst-orders/"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-pengumuman",
+      "section": "Pengumuman (Announcements)",
+      "url": "https://customs.gov.my/ms/arkib/pengumuman",
+      "new_items": [],
+      "removed_items": [
+        {
+          "page": "https://customs.gov.my/ms/arkib/pengumuman",
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=20"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/pengumuman",
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=40"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/pengumuman",
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=60"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/pengumuman",
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=80"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/pengumuman",
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=100"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/pengumuman",
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=120"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/pengumuman",
+          "label": "1 2 3 4 5 6 7 8",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=140"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-berita-media",
+      "section": "Berita dan Media (News and Media)",
+      "url": "https://customs.gov.my/ms/arkib/liputan-media",
+      "new_items": [],
+      "removed_items": [
+        {
+          "page": "https://customs.gov.my/ms/arkib/liputan-media",
+          "label": "1 2 3 4 5",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=20"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/liputan-media",
+          "label": "1 2 3 4 5",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=40"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/liputan-media",
+          "label": "1 2 3 4 5",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=60"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/liputan-media",
+          "label": "1 2 3 4 5",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=80"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-announcements-media",
+      "section": "Home > Kenyataan Media & Pengumuman (Media Statements & Announcements)",
+      "url": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-myinvois-epos",
+      "section": "Pautan Popular > MyInvois e-POS",
+      "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-return-form-filing-programme",
+      "section": "Forms > Return Form Filing Programme",
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/perundangan/akta/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-transfer-pricing",
+      "section": "Transfer Pricing",
+      "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/"
+    },
+    {
+      "source": "Ministry of Finance",
+      "check_id": "mof-news",
+      "section": "News (tax-relevant only)",
+      "url": "https://www.mof.gov.my/portal/en/news"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-dt",
+      "section": "Technical News > Direct Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-it",
+      "section": "Technical News > Indirect Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-indirect-taxation-tc-it/"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-ectim",
+      "section": "eCTIM (titles listed on the public home page; full text needs member sign-in)",
+      "url": "https://www.ctim.org.my/"
+    },
+    {
+      "source": "MySToDS (Service Tax on Digital Services)",
+      "check_id": "mystods-bulletin",
+      "section": "Bulletin Board",
+      "url": "https://mystods.customs.gov.my/"
+    },
+    {
+      "source": "Rahmat Lim & Partners (RDS) - Tax Focus",
+      "check_id": "rds-tax-focus",
+      "section": "Tax Focus publications (for the monthly update class)",
+      "url": "https://www.rdslawpartners.com/publications/categories/tax-focus"
+    },
+    {
+      "source": "MDEC - National e-Invoicing",
+      "check_id": "mdec-einvoicing",
+      "section": "New Updates (Peppol-Ready Solution)",
+      "url": "https://mdec.my/national-einvoicing"
+    },
+    {
+      "source": "MIDA - Announcements & Media Releases",
+      "check_id": "mida-announcements",
+      "section": "Announcements & media releases (tax-relevant only)",
+      "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/"
+    }
+  ],
+  "baselined": [],
+  "needs_login": [
+    {
+      "source": "HASiL Facebook page",
+      "check_id": "hasil-facebook",
+      "section": "Facebook posts",
+      "url": "https://www.facebook.com/HASiLMalaysia"
+    },
+    {
+      "source": "CCH iKnowConnect (Malaysia)",
+      "check_id": "cch-news",
+      "section": "Latest news and articles",
+      "url": "https://iknowconnect.cch.com/MYS/home"
+    }
+  ],
+  "errors": [
+    {
+      "source": "Parliament of Malaysia - Dewan Rakyat bills",
+      "check_id": "parlimen-bills",
+      "section": "Bills (Income Tax Act and Finance Bills only)",
+      "url": "https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "HRD Corp - Circulars",
+      "check_id": "hrdcorp-circulars",
+      "section": "Circulars",
+      "url": "https://hrdcorp.gov.my/circulars",
+      "error": "HTTP 403"
+    },
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "url": "https://mytax.hasil.gov.my/",
+      "error": "page.waitForSelector: Timeout 45000ms exceeded."
+    }
+  ],
+  "partial": [],
+  "finished_at": "2026-11-03T00:53:06.904Z"
+}

@@ -1,7 +1,7 @@
 {
   "check_id": "customs-pengumuman",
   "url": "https://customs.gov.my/ms/arkib/pengumuman",
-  "fetched_at": "2026-11-02T08:50:42.658Z",
+  "fetched_at": "2026-11-03T00:49:42.949Z",
   "pages": [
     {
       "url": "https://customs.gov.my/ms/arkib/pengumuman",
@@ -150,34 +150,6 @@
         {
           "label": "KEPUTUSAN TAWARAN SEBUT HARGA BARANG (BERAS) LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI PERAK BIL. 1 / 2026",
           "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/keputusan-tawaran-sebut-harga-barang-beras-lucut-hak-jabatan-kastam-diraja-malaysia-negeri-perak-bil-1-2026"
-        },
-        {
-          "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=20"
-        },
-        {
-          "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=40"
-        },
-        {
-          "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=60"
-        },
-        {
-          "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=80"
-        },
-        {
-          "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=100"
-        },
-        {
-          "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=120"
-        },
-        {
-          "label": "1 2 3 4 5 6 7 8",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman?category=&amp%3Barticle=&amp%3Btag=&amp%3Bauthor=&amp%3Balias=&amp%3Bperiod=&amp%3Bstage=&amp%3Bfilter-search=&amp%3Bfilter-match=any&amp%3Bfilter_order=&amp%3Bfilter_order_Dir=ASC&amp%3Bstart=140"
         },
         {
           "label": "Utama",

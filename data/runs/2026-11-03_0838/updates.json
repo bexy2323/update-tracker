@@ -1,0 +1,32 @@
+[
+  {
+    "source": "MySST (Royal Malaysian Customs)",
+    "section": "Pengumuman Terkini (Latest Announcements)",
+    "title": "Service Tax Policy No. 6/2024 (Amendment No. 3) – Exemption from service tax on maintenance or repair services for MRO (maintenance, repair and overhaul) activities",
+    "publication_date": "03/11/2026 (policy dated 02/11/2026)",
+    "change_type": "amendment",
+    "summary": "Adds a new category of exempt MRO service provider: Approved Maintenance Organisations approved by the Directorate General Technical Airworthiness (DGTA), exempt from 22 September 2026 to 31 December 2027. Existing exemptions continue: CAAM-approved AMOs and MITI/MIDA-approved shipbuilding/ship-repair companies (1 March 2024 – 31 December 2027) and foreign companies receiving MRO for foreign-going ships/aircraft (1 September 2025 – 31 December 2027). Eligible recipients are AOC airlines, ship owners registered with the Marine Department, Federal/State government departments and those foreign companies. Service tax already collected must be remitted, with no refunds for services before each effective date.",
+    "replaces": "Cancels and replaces Service Tax Policy No. 6/2024 (Amendment No. 2)",
+    "link": "https://pub-359af8e1f79c472292a7e44ec60f3027.r2.dev/Service%20Tax%20Policy/MS/DCP%20Bil.6-2024%20(Pindaan%20No.3)_MRO.pdf"
+  },
+  {
+    "source": "MySST (Royal Malaysian Customs)",
+    "section": "Pengumuman Terkini (Latest Announcements)",
+    "title": "Service Tax Policy No. 3/2026 (Amendment No. 1) – Service tax on maintenance charges and sinking fund for non-residential premises charged by developers, JMBs and MCs",
+    "publication_date": "03/11/2026 (policy dated 02/11/2026)",
+    "change_type": "amendment",
+    "summary": "Maintenance charges and sinking fund contributions for non-residential premises charged to property owners by developers, Joint Management Bodies or Management Corporations (registered under the Strata Management Act 2013 or similar) are exempt from service tax from 1 July 2026 until the Service Tax Regulations 2018 are amended to make them non-taxable. There is no exemption before 1 July 2026: service tax due up to 30 June 2026 must still be remitted to RMCD. Taxable services that the developer/JMB/MC buys from third parties using these funds remain subject to service tax.",
+    "replaces": "Cancels and replaces Service Tax Policy No. 3/2026",
+    "link": "https://pub-359af8e1f79c472292a7e44ec60f3027.r2.dev/Service%20Tax%20Policy/MS/DCP%203__2026%20(pindaan%201)%20MF%20%26%20SF_BM.pdf"
+  },
+  {
+    "source": "HASiL (Inland Revenue Board)",
+    "section": "Forms > Download Forms (years listed per form category)",
+    "title": "New YA 2026 form documents: working sheets for Forms TA, TC and TR, and sample Amended Return Forms TR, CPE and CPP 2026",
+    "publication_date": "Not stated (new on HASiL Download Forms 03/11/2026)",
+    "change_type": "new form year",
+    "summary": "HASiL added the 2026 computation working sheets for trust bodies, unit/property trusts and REITs (Forms TA, TC and TR), and viewing samples of the 2026 Amended Return Forms for REITs/property trust funds (ARF TR 2026) and petroleum companies (ARF CPE 2026 and ARF CPP 2026). The samples are for viewing only; amended returns are submitted electronically via MyTax.",
+    "replaces": "",
+    "link": "https://www.hasil.gov.my/wp-content/uploads/workingsheets_tatctr_2026_2.pdf"
+  }
+]

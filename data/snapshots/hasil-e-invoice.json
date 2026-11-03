@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-e-invoice",
   "url": "https://www.hasil.gov.my/en/e-invois/",
-  "fetched_at": "2026-11-02T08:41:42.838Z",
+  "fetched_at": "2026-11-03T00:40:43.423Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/e-invois/",
@@ -2076,6 +2076,10 @@
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/webinar-e-invois-hasil-kelantan-bil-22-2026/"
         },
         {
+          "label": "Bil. 21/2026 Webinar e-Invois Anjuran HASiL Sarawak Bil. 21/2026 18 November 2026 (Rabu) 9:00am - 11:30am Webinar melalui Ms. Teams Tarikh tutup: 15 November 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/webinar-e-invois-anjuran-hasil-sarawak-bil-21-2026/"
+        },
+        {
           "label": "Bil. 26/2026 Taklimat e-Invois Anjuran HASiL Perak (Kuala Kangsar) Bil. 26/2026 17 November 2026 (Selasa) 10:00 am – 1:00 pm HASiL Satelit Kuala Kangsar, Jalan Daeng Selili, Kuala Kangsar, Perak Tarikh tutup: 16 November 2026",
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-anjuran-hasil-perak-kuala-kangsar-bil-26-2026/"
         },
@@ -3510,6 +3514,11 @@
         "Bil. 22/2026",
         "Webinar e-Invois @ HASiL Kelantan Bil. 22/2026",
         "9:30am - 12:30pm",
+        "Bil. 21/2026",
+        "Webinar e-Invois Anjuran HASiL Sarawak Bil. 21/2026",
+        "9:00am - 11:30am",
+        "Webinar melalui Ms. Teams",
+        "Tarikh tutup: 15 November 2026",
         "Bil. 26/2026",
         "Taklimat e-Invois Anjuran HASiL Perak (Kuala Kangsar) Bil. 26/2026",
         "17 November 2026 (Selasa)",
@@ -3538,7 +3547,6 @@
         "Bil. 45/2026",
         "Taklimat e-Invois @ Sabah (Lahad Datu) Bil. 45/2026",
         "11 November 2026 (Rabu)",
-        "Bil. 21/2026",
         "Webinar e-Invois @ HASiL Kelantan Bil. 21/2026",
         "Taklimat e-Invois Anjuran HASiL WP Putrajaya (Cheras) Bil. 27/2026",
         "Tarikh tutup: 8 November 2026",
@@ -3557,8 +3565,6 @@
         "Tarikh tutup: 4 November 2026",
         "Bil. 20/2026",
         "Webinar e-Invois Anjuran HASiL Sarawak Bil. 20/2026",
-        "9:00am - 11:30am",
-        "Webinar melalui Ms. Teams",
         "Tarikh tutup: 2 November 2026",
         "Webinar e-Invois @ HASiL Kelantan Bil. 20/2026",
         "4 November 2026 (Rabu)",
