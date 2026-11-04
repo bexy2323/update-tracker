@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-03T08:49:10.224Z",
+  "fetched_at": "2026-11-04T00:49:30.546Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
+          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
+          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
+          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
+          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
+          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
+          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct 28 Oct",
+          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -106,10 +106,6 @@
         {
           "label": "P.U. (B) 440/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQwLzIwMjZ8MmU2NWNhNDQxM2FmZTQ2MzdhZjYwMWM1NjM4MTc4NjA1YzM1YWUzNDRlYTg2ZDJkNzI2Mjk1NjdlZTZiYjA1OQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 372/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzcyLzIwMjZ8MzI4ZmQyYjJkMzRlZTQ0ODZlMGQ2MWEzMmQyMWY2NDcyNzQ1NDI1ZWVkNTMzNDUyNjU4YThhMjFiMTZlODcxOA%3D%3D"
         },
         {
           "label": "STATISTICS ACT 2026",
@@ -187,12 +183,13 @@
       "lines": [
         "What's New",
         "Today",
+        "03 Nov",
         "02 Nov",
         "01 Nov",
         "31 Oct",
         "30 Oct",
         "29 Oct",
-        "28 Oct",
+        "There is no record to display",
         "P.U. (A)",
         "P.U. (A) 378/2026 - CONTROL OF SUPPLIES (CONTROLLED ARTICLES) (NO. 4) ORDER 2026",
         "P.U. (A) 379/2026 - PRICE CONTROL AND ANTI-PROFITEERING (DETERMINATION OF MAXIMUM PRICE) (NO. 4) ORDER 2026",
@@ -200,7 +197,6 @@
         "P.U. (A) 381/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026",
         "P.U. (B)",
         "P.U. (B) 447/2026 - APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM",
-        "There is no record to display",
         "P.U. (A) 374/2026 - ATOMIC ENERGY (SAFEGUARDS) REGULATIONS 2026",
         "P.U. (A) 375/2026 - PROCLAMATION",
         "P.U. (A) 376/2026 - NATIONAL SERVICE TRAINING (PERSONS REQUIRED TO UNDERGO NATIONAL SERVICE TRAINING) (NO. 2) ORDER 2026",
@@ -214,7 +210,6 @@
         "P.U. (A) 373/2026 - DENTAL (AMENDMENT OF SECOND SCHEDULE) ORDER 2026",
         "P.U. (B) 439/2026 - DIRECTIONS OF THE MINISTER UNDER PARAGRAPH 26(1)(d) AND SECTION 564",
         "P.U. (B) 440/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
-        "P.U. (A) 372/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 36) ORDER 2026",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -229,7 +224,7 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (A) 370/2026 552"
+        "P.U. (A) 370/2026 404"
       ]
     }
   ]

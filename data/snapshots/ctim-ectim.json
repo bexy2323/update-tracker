@@ -1,7 +1,7 @@
 {
   "check_id": "ctim-ectim",
   "url": "https://www.ctim.org.my/",
-  "fetched_at": "2026-11-03T08:50:12.609Z",
+  "fetched_at": "2026-11-04T00:50:30.152Z",
   "pages": [
     {
       "url": "https://www.ctim.org.my/",
@@ -288,16 +288,16 @@
           "href": "https://www.ctim.org.my/membership-application/"
         },
         {
+          "label": "RMCD - Service Tax Policy No. 6/2024 (Amendment No. 3) - Maintenance or Repairs (02112026)",
+          "href": "https://www.ctim.org.my/download?file=%2F2123%2Fadb0fe2f0667fdb2ee5fbdee8129295d.pdf"
+        },
+        {
+          "label": "RMCD - Service Tax Policy No. 3/2026 (Amendment No. 1) - Service Tax Treatment on Maintenance Charges and Sinking Fund for Non-Residential Premises Buildings Charged by Developer, JMB or MC (02112026)",
+          "href": "https://www.ctim.org.my/download?file=%2F2123%2F10ce2b502f2e1721f2ec5ec0df870c9d.pdf"
+        },
+        {
           "label": "RMCD - Service Tax Policy No. 6/2026 (Amendment No. 1) - Improvements to the Service Tax Treatment for Electricity Transmission and Distribution Services (23102026)",
           "href": "https://www.ctim.org.my/download?file=%2F2123%2F7c4a550b2cc4d5fffbdf20c76d9e7158.pdf"
-        },
-        {
-          "label": "HASiL - Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (20102026)",
-          "href": "https://www.ctim.org.my/download?file=%2F14%2F9680d2e4e5eb40b34109180da14c3b63.pdf"
-        },
-        {
-          "label": "HASiL - e-Invoice SVDP - Data Field Requirement Updates for Document Submissions (15102026)",
-          "href": "https://www.ctim.org.my/download?file=%2F14%2F5ee2ad96b85c84cbfbb1854f02bcde94.pdf"
         },
         {
           "label": "e-CTIM TECH-DT 91-2026 - Income Tax (Deduction for Cost of Renovation and Conversion of Office Premise to Residential House) Rules 2026.pdf",
@@ -351,14 +351,12 @@
         "APPLY",
         "TECHNICAL NEWS",
         "Service Tax 2018",
+        "RMCD - Service Tax Policy No. 6/2024 (Amendment No. 3) - Maintenance or Repairs (02112026)",
+        "02 November 2026",
+        "RMCD - Service Tax Policy No. 3/2026 (Amendment No. 1) - Service Tax Treatment on Maintenance Charges and Sinking Fund for Non-Residential Premises Buildings Charged by Developer, JMB or MC (02112026)",
         "RMCD - Service Tax Policy No. 6/2026 (Amendment No. 1) - Improvements to the Service Tax Treatment for Electricity Transmission and Distribution Services (23102026)",
         "23 October 2026",
         "RMCD - Service Tax Policy No. 6-2026 (Amendment No. 1) - Improvements to the Service Tax Treatment Policy for Electricity Transmission and Distribution Services (23102026)",
-        "Technical Developments - Direct Taxation",
-        "HASiL - Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (20102026)",
-        "20 October 2026",
-        "HASiL - e-Invoice SVDP - Data Field Requirement Updates for Document Submissions (15102026)",
-        "15 October 2026",
         "eCTIM",
         "e-CTIM",
         "e-CTIM TECH-DT 91-2026 - Income Tax (Deduction for Cost of Renovation and Conversion of Office Premise to Residential House) Rules 2026.pdf",

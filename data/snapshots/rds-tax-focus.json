@@ -1,12 +1,16 @@
 {
   "check_id": "rds-tax-focus",
   "url": "https://www.rdslawpartners.com/publications/categories/tax-focus",
-  "fetched_at": "2026-11-03T08:51:03.191Z",
+  "fetched_at": "2026-11-04T00:51:23.631Z",
   "pages": [
     {
       "url": "https://www.rdslawpartners.com/publications/categories/tax-focus",
       "title": "Tax Focus",
       "items": [
+        {
+          "label": "SCIT Allows Tax Deduction Of Intercompany Back-Charges Under Centralised Management Arrangements",
+          "href": "https://www.rdslawpartners.com/post/scit-allows-tax-deduction-of-intercompany-back-charges-under-centralised-management-arrangements"
+        },
         {
           "label": "Revenue’s Decision To Impose Penalty Under Both Limbs Of Section 44A(9) Group Relief Set Aside",
           "href": "https://www.rdslawpartners.com/post/revenue-s-decision-to-impose-penalty-under-both-limbs-of-section-44a-9-group-relief-set-aside"
@@ -38,15 +42,13 @@
         {
           "label": "Court Of Appeal Rules Disposal Of Warehouse Is Not Subject To Income Tax",
           "href": "https://www.rdslawpartners.com/post/court-of-appeal-rules-disposal-of-warehouse-is-not-subject-to-income-tax"
-        },
-        {
-          "label": "High Court Quashes RM 313 Million Additional Tax Assessment Against Taxpayer Who Elected For Joint Assessment",
-          "href": "https://www.rdslawpartners.com/post/high-court-quashes-rm-313-million-additional-tax-assessment-against-taxpayer-who-elected-for-joint-a"
         }
       ],
       "lines": [
         "Skip to Main Content",
         "Publications & News",
+        "SCIT Allows Tax Deduction Of Intercompany Back-Charges Under Centralised Management Arrangements",
+        "The Special Commissioners of Income Tax (SCIT) in M12 SB v Ketua Pengarah Hasil Dalam Negeri recently allowed the taxpayer's claim for tax deductions in relation to an increasingly common feature of modern corporate structures: the centralisation of management and operational functions within a single group company, with the corresponding expenses subsequently allocated and back-charged to other companies within the group. In particular, the dispute concerned whether the I",
         "Revenue’s Decision To Impose Penalty Under Both Limbs Of Section 44A(9) Group Relief Set Aside",
         "In a recent decision concerning the interpretation of Section 44A(9) of the Income Tax Act 1967 (ITA), the Special Commissioners of Income Tax (SCIT) allowed the taxpayer’s appeal against the penalty imposed by the Director General of Inland Revenue (Revenue) under Section 44A(9)(b). The SCIT held that the Revenue had no legal basis to impose penalties under Section 44A(9)(b) after having already raised additional assessments against the taxpayer company under Section 44A(9",
         "High Court Quashes RM78.6 Million Tax Assessments, Rejects Revenue’s Ownership Test For Shipping Tax Exemption",
@@ -62,9 +64,7 @@
         "Stamp Duty & Its Impact On Key Business Documents:Employment Letters, Purchase Orders, Intercompany Loans & Supplementary Agreements",
         "“For stamp duty purposes, the label placed on a document is rarely decisive. What matters is what the instrument actually does, the rights and obligations it creates, and the transaction it records.” Stamp duty is often treated as a back-office compliance issue. In practice, it is becoming a much broader governance concern. This is especially so as businesses generate large volumes of documents across procurement, treasury, human resources and commercial functions. Employme",
         "Court Of Appeal Rules Disposal Of Warehouse Is Not Subject To Income Tax",
-        "Last Monday, the Court of Appeal in Ketua Pengarah Hasil Dalam Negeri v Exceptional Landmark Sdn Bhd unanimously dismissed the Revenue's appeal and upheld the concurrent decisions of the Special Commissioners of Income Tax (SCIT) and the High Court that the gains arising from the disposal of a warehouse to a real estate investment trust (REIT) are not subject to income tax. The taxpayer in this matter was successfully represented by the firm's Tax, SST & Customs Partner, S.",
-        "High Court Quashes RM 313 Million Additional Tax Assessment Against Taxpayer Who Elected For Joint Assessment",
-        "Last week, the High Court quashed a RM 313 million additional tax assessment raised against a taxpayer who had elected for joint assessment with her late husband. The court held that the assessment was illegal and irrational and amounted to double taxation. In NAK v Ketua Pengarah Hasil Dalam Negeri, the High Court allowed the taxpayer's judicial review application and quashed the Inland Revenue Board's (IRB) Notice of Additional Assessment (Form JA) for the year of assessm"
+        "Last Monday, the Court of Appeal in Ketua Pengarah Hasil Dalam Negeri v Exceptional Landmark Sdn Bhd unanimously dismissed the Revenue's appeal and upheld the concurrent decisions of the Special Commissioners of Income Tax (SCIT) and the High Court that the gains arising from the disposal of a warehouse to a real estate investment trust (REIT) are not subject to income tax. The taxpayer in this matter was successfully represented by the firm's Tax, SST & Customs Partner, S."
       ]
     }
   ]
