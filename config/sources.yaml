@@ -249,7 +249,7 @@ sources:
         ignore: ['^\d+$', 'Visitor', 'Pelawat']
 
   - id: rds
-    name: Rahmat Lim & Partners (RDS) - Tax Focus
+    name: Rosli Dahlan Saravana Partnership (RDS) - Tax Focus
     url: https://www.rdslawpartners.com/publications/categories/tax-focus
     checks:
       - id: rds-tax-focus
