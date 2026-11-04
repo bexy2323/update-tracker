@@ -1,7 +1,7 @@
 {
   "check_id": "mof-news",
   "url": "https://www.mof.gov.my/portal/en/news",
-  "fetched_at": "2026-11-04T00:49:55.122Z",
+  "fetched_at": "2026-11-04T08:51:14.116Z",
   "pages": [
     {
       "url": "https://www.mof.gov.my/portal/en/news",
@@ -22,6 +22,14 @@
         {
           "label": "fas fa-sitemap",
           "href": "https://www.mof.gov.my/portal/en/site-map"
+        },
+        {
+          "label": "JBMKKS Establishes Independent Mediasas Board To Ensure Sound Governance And Oversight, Supporting Long-Term Sustainability Press Release 04 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-release/jbmkks-establishes-independent-mediasas-board-to-ensure-sound-governance-and-oversight-supporting-long-term-sustainability"
+        },
+        {
+          "label": "JBMKKS Establishes Independent Mediasas Board To Ensure Sound Governance And Oversight, Supporting Long-Term Sustainability",
+          "href": "https://www.mof.gov.my/portal/en/news/press-release/jbmkks-establishes-independent-mediasas-board-to-ensure-sound-governance-and-oversight-supporting-long-term-sustainability"
         },
         {
           "label": "Courtesy Call From The High Commissioner Of New Zealand Photos 02 November 2026",
@@ -58,14 +66,6 @@
         {
           "label": "Budget 2027 Passes Policy Stage, Concluding Fourth Week Of Dewan Rakyat Session",
           "href": "https://www.mof.gov.my/portal/en/news/press-citations/budget-2027-passes-policy-stage-concluding-fourth-week-of-dewan-rakyat-session"
-        },
-        {
-          "label": "Rural Roads Programme Financing Prioritised, Allocation For 2026 Rises To RM3.1 Bln – Amir Hamzah Press Citations 30 October 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/rural-roads-programme-financing-prioritised-allocation-for-2026-rises-to-rm3-1-bln-amir-hamzah"
-        },
-        {
-          "label": "Rural Roads Programme Financing Prioritised, Allocation For 2026 Rises To RM3.1 Bln – Amir Hamzah",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/rural-roads-programme-financing-prioritised-allocation-for-2026-rises-to-rm3-1-bln-amir-hamzah"
         },
         {
           "label": "Press Release",
@@ -178,17 +178,18 @@
         "fas fa-sitemap",
         "Site Map",
         "NEWS & MEDIA",
+        "JBMKKS Establishes Independent Mediasas Board To Ensure Sound Governance And Oversight, Supporting Long-Term Sustainability",
+        "Press Release",
+        "04 November 2026",
         "Courtesy Call From The High Commissioner Of New Zealand",
         "Photos",
         "02 November 2026",
         "Fuel Subsidy Savings For This Year To Be Finalised By Year-end -- Amir Hamzah",
         "Press Citations",
         "MADANI Government Secures RM5 Billion Repurposing of SSER Loan",
-        "Press Release",
         "30 October 2026",
         "SSER, CEXIM Sign RM5 Bln Loan Repurposing Agreement For NPWSS Financing",
         "Budget 2027 Passes Policy Stage, Concluding Fourth Week Of Dewan Rakyat Session",
-        "Rural Roads Programme Financing Prioritised, Allocation For 2026 Rises To RM3.1 Bln – Amir Hamzah",
         "Videos",
         "Speech",
         "ASEAN 2025",

@@ -246,7 +246,7 @@ sources:
       - id: mystods-bulletin
         section: Bulletin Board
         url: https://mystods.customs.gov.my/
-        ignore: ['^\d+$', 'Visitor', 'Pelawat']
+        ignore: ['^\d+$', 'Visitor', 'Pelawat', '^Bulletin Board$']
 
   - id: rds
     name: Rosli Dahlan Saravana Partnership (RDS) - Tax Focus
