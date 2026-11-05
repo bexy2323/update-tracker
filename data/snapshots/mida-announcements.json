@@ -1,7 +1,7 @@
 {
   "check_id": "mida-announcements",
   "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/",
-  "fetched_at": "2026-11-05T00:58:24.272Z",
+  "fetched_at": "2026-11-05T08:55:40.006Z",
   "pages": [
     {
       "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/",
@@ -36,8 +36,8 @@
           "href": "https://www.mida.gov.my/media-and-events/"
         },
         {
-          "label": "28 Oct 2026 Safran Strengthens Its Presence In Asia-Pacific With The Expansion Of Itscarbon Brake Facility And The Opening Of A New MRO Center In Malaysia Read More",
-          "href": "https://www.mida.gov.my/media-release/safran-strengthens-its-presence-in-asia-pacific-with-the-expansion-of-itscarbon-brake-facility-and-the-opening-of-a-new-mro-center-in-malaysia/"
+          "label": "05 Nov 2026 FERROTEC OPENS SECOND KULIM PLANT, CREATING OVER 1,000 HIGH-VALUE JOBS FOR MALAYSIANS Read More",
+          "href": "https://www.mida.gov.my/media-release/ferrotec-opens-second-kulim-plant-creating-over-1000-high-value-jobs-for-malaysians/"
         },
         {
           "label": "Read More",
@@ -54,6 +54,10 @@
         {
           "label": "Read More",
           "href": "https://www.mida.gov.my/#whatsapp"
+        },
+        {
+          "label": "28 Oct 2026 Safran Strengthens Its Presence In Asia-Pacific With The Expansion Of Itscarbon Brake Facility And The Opening Of A New MRO Center In Malaysia Read More",
+          "href": "https://www.mida.gov.my/media-release/safran-strengthens-its-presence-in-asia-pacific-with-the-expansion-of-itscarbon-brake-facility-and-the-opening-of-a-new-mro-center-in-malaysia/"
         },
         {
           "label": "23 Oct 2026 Inaugural Invest Malaysia Day 2026 Highlights How Singapore Businesses Can Tap Malaysia’s Next Phase Of Growth Read More",
@@ -2472,10 +2476,6 @@
           "href": "https://www.mida.gov.my/why-malaysia/contact-us/"
         },
         {
-          "label": "Find any serviceAddToAny",
-          "href": "https://www.addtoany.com/"
-        },
-        {
           "label": "Help",
           "href": "https://www.mida.gov.my/media-and-events/announcement-media-release/"
         },
@@ -2486,6 +2486,10 @@
         {
           "label": "Support",
           "href": "https://www.mida.gov.my/media-and-events/announcement-media-release/"
+        },
+        {
+          "label": "Find any serviceAddToAny",
+          "href": "https://www.addtoany.com/"
         },
         {
           "label": "Home",
@@ -2889,9 +2893,11 @@
         "September",
         "Apply filter",
         "Announcement/Media Release",
+        "05 Nov 2026",
+        "FERROTEC OPENS SECOND KULIM PLANT, CREATING OVER 1,000 HIGH-VALUE JOBS FOR MALAYSIANS",
+        "Read More",
         "28 Oct 2026",
         "Safran Strengthens Its Presence In Asia-Pacific With The Expansion Of Itscarbon Brake Facility And The Opening Of A New MRO Center In Malaysia",
-        "Read More",
         "23 Oct 2026",
         "Inaugural Invest Malaysia Day 2026 Highlights How Singapore Businesses Can Tap Malaysia’s Next Phase Of Growth",
         "20 Oct 2026",

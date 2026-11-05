@@ -1,7 +1,7 @@
 {
   "check_id": "mof-news",
   "url": "https://www.mof.gov.my/portal/en/news",
-  "fetched_at": "2026-11-05T00:54:42.053Z",
+  "fetched_at": "2026-11-05T08:50:07.271Z",
   "pages": [
     {
       "url": "https://www.mof.gov.my/portal/en/news",
@@ -22,6 +22,22 @@
         {
           "label": "fas fa-sitemap",
           "href": "https://www.mof.gov.my/portal/en/site-map"
+        },
+        {
+          "label": "Phase Four STR: RM1.1 Bln Disbursement Begins Today For Over Five Million Recipients – Anwar Press Citations 04 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/phase-four-str-rm1-1-bln-disbursement-begins-today-for-over-five-million-recipients-anwar"
+        },
+        {
+          "label": "Phase Four STR: RM1.1 Bln Disbursement Begins Today For Over Five Million Recipients – Anwar",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/phase-four-str-rm1-1-bln-disbursement-begins-today-for-over-five-million-recipients-anwar"
+        },
+        {
+          "label": "Price of RON97 Down By 20 Sen, RON95 And Diesel Drop By 15 Sen Respectively Tomorrow - MOF Press Citations 04 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/price-of-ron97-down-by-20-sen-ron95-and-diesel-drop-by-15-sen-respectively-tomorrow-mof"
+        },
+        {
+          "label": "Price of RON97 Down By 20 Sen, RON95 And Diesel Drop By 15 Sen Respectively Tomorrow - MOF",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/price-of-ron97-down-by-20-sen-ron95-and-diesel-drop-by-15-sen-respectively-tomorrow-mof"
         },
         {
           "label": "JBMKKS Establishes Independent Mediasas Board To Ensure Sound Governance And Oversight, Supporting Long-Term Sustainability Press Release 04 November 2026",
@@ -54,18 +70,6 @@
         {
           "label": "Courtesy Call From The High Commissioner Of New Zealand",
           "href": "https://www.mof.gov.my/portal/en/news/photos/courtesy-call-from-the-high-commissioner-of-new-zealand"
-        },
-        {
-          "label": "Fuel Subsidy Savings For This Year To Be Finalised By Year-end -- Amir Hamzah",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/fuel-subsidy-savings-for-this-year-to-be-finalised-by-year-end-amir-hamzah"
-        },
-        {
-          "label": "MADANI Government Secures RM5 Billion Repurposing of SSER Loan Press Release 30 October 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-release/madani-government-secures-rm5-billion-repurposing-of-sser-loan"
-        },
-        {
-          "label": "MADANI Government Secures RM5 Billion Repurposing of SSER Loan",
-          "href": "https://www.mof.gov.my/portal/en/news/press-release/madani-government-secures-rm5-billion-repurposing-of-sser-loan"
         },
         {
           "label": "Press Release",
@@ -178,19 +182,18 @@
         "fas fa-sitemap",
         "Site Map",
         "NEWS & MEDIA",
+        "Phase Four STR: RM1.1 Bln Disbursement Begins Today For Over Five Million Recipients – Anwar",
+        "Press Citations",
+        "04 November 2026",
+        "Price of RON97 Down By 20 Sen, RON95 And Diesel Drop By 15 Sen Respectively Tomorrow - MOF",
         "JBMKKS Establishes Independent Mediasas Board To Ensure Sound Governance And Oversight, Supporting Long-Term Sustainability",
         "Press Release",
-        "04 November 2026",
         "Govt Approves Over RM250 Mln To Support ECRL Development In Kelantan -- MOF",
-        "Press Citations",
         "03 November 2026",
         "2.14 Bln E-invoices Submitted As Of Nov 2, Implementation To Uphold Fairness - PM Anwar",
         "Courtesy Call From The High Commissioner Of New Zealand",
         "Photos",
         "02 November 2026",
-        "Fuel Subsidy Savings For This Year To Be Finalised By Year-end -- Amir Hamzah",
-        "MADANI Government Secures RM5 Billion Repurposing of SSER Loan",
-        "30 October 2026",
         "Videos",
         "Speech",
         "ASEAN 2025",

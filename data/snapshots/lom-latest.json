@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-05T00:50:21.625Z",
+  "fetched_at": "2026-11-05T08:49:41.537Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -34,6 +34,18 @@
         {
           "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (A) 384/2026 - INCOME TAX (THE PRINCIPAL HUB INCENTIVE SCHEME) (AMENDMENT) RULES 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzg0LzIwMjZ8MmRhYTU3ODNiMTBlMmRkNWVlNDE4ZWQwYTA5ZmUyZTFjMjdhNDRhNzhlMjIwNTUyZTI4YWIyMDBjOTczOTVhZQ%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 385/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (REVOCATION) (NO. 4) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzg1LzIwMjZ8ODM0YWZkM2E2NDZmMWE5YjMzMmEwOTQzYzY1ZDFkNmJlYTRiMjdmMDlmZjgxNmRlNzk1NGQ3MDBmMmNmODg4Yg%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 386/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzg2LzIwMjZ8YWQ0NmEyY2YxYWIwMTVhMWI4YTEzNWJlZWRlY2Y0NjRlZjc4ODhlM2VkOWZhYzk1NzQ2NDBhY2EwNzRjOTUwOA%3D%3D"
         },
         {
           "label": "P.U. (A) 382/2026 - HOUSING DEVELOPMENT (CONTROL AND LICENSING) (EXEMPTION) (NO. 3) ORDER 2026",
@@ -136,19 +148,19 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9YW1lbmRtZW50Jmxhbmd1YWdlPUJJfGU0NGQyMzUzY2MyNjFmNjk1Njg2OWM2ZDk3YjJiZjQ2ODg4MzBiYzZiMTk0MGJlMDVkOWZhNmU5Y2FmZWQ2OWE%3D"
         },
         {
-          "label": "FEDERAL ROADS (WEST MALAYSIA) (AMENDMENT) (NO. 5) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzgzLzIwMjZ8MDhhMmQyMGM2N2Q2ZmJkZmZjYWQ2MTNmYTBhYWVjNmRmMTRiMTc3ZDYzYTI0MTFkNzZhZDJhYjhmNjg4ZDM3NA%3D%3D"
+          "label": "ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg2LzIwMjZ8N2M4MDVlZGNhNDA4NzM2MzNlMDI3MGJiY2QzZDE1Y2ExZTU1M2U3NmJiZmViMTk1YzJkYWQ4ZGRmYzliYTVkNg%3D%3D"
         },
         {
-          "label": "HOUSING DEVELOPMENT (CONTROL AND LICENSING) (EXEMPTION) (NO. 3) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzgyLzIwMjZ8ZjI5MGVjYTA5NWJjNmE3NWMyYzIzZTE3YmVhNTQxNmY3NWZlYTM0MWI5NTdkNTYyNmIwNzhkZWU5MzViZGY0Ng%3D%3D"
+          "label": "ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (REVOCATION) (NO. 4) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg1LzIwMjZ8MzIyYTU0M2VmYjRhMmYxODExMGM5NmVmZTA3YmQxNTJlNzZhNTA0ZmViZTMxM2Q0NGVjMmFhNzczYjUwMjdjMA%3D%3D"
         },
         {
-          "label": "ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzgxLzIwMjZ8NTVkNGVlYzNmYjdkNTU3NTEwYmIxYjU5YjEyYWU3OTg3MjRlZDE5YmU4MzJjMzYyNzdjZjZjZmU0ODE0YzliOA%3D%3D"
+          "label": "INCOME TAX (THE PRINCIPAL HUB INCENTIVE SCHEME) (AMENDMENT) RULES 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg0LzIwMjZ8YTc3ODZmMDAxZGE0MGJiY2U2MTJjMzQzNjExZDI5NDc2ZjgyMjBiZDRmZTdiZTZkZTM0MWJiYzEwOTg1ZDE2OQ%3D%3D"
         },
         {
-          "label": "P.U. (A) 383/2026 - FEDERAL ROADS (WEST MALAYSIA) (AMENDMENT) (NO. 5) ORDER 2026 P.U. (A) 382/2026 - HOUSING DEVELOPMENT (CONTROL AND LICENSING) (EXEMPTION) (NO. 3) ORDER 2026 P.U. (A) 381/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026 See All...",
+          "label": "P.U. (A) 386/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026 P.U. (A) 385/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (REVOCATION) (NO. 4) ORDER 2026 P.U. (A) 384/2026 - INCOME TAX (THE PRINCIPAL HUB INCENTIVE SCHEME) (AMENDMENT) RULES 2026 See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
@@ -185,8 +197,10 @@
         "01 Nov",
         "31 Oct",
         "30 Oct",
-        "There is no record to display",
         "P.U. (A)",
+        "P.U. (A) 384/2026 - INCOME TAX (THE PRINCIPAL HUB INCENTIVE SCHEME) (AMENDMENT) RULES 2026",
+        "P.U. (A) 385/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (REVOCATION) (NO. 4) ORDER 2026",
+        "P.U. (A) 386/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026",
         "P.U. (A) 382/2026 - HOUSING DEVELOPMENT (CONTROL AND LICENSING) (EXEMPTION) (NO. 3) ORDER 2026",
         "P.U. (A) 383/2026 - FEDERAL ROADS (WEST MALAYSIA) (AMENDMENT) (NO. 5) ORDER 2026",
         "P.U. (A) 378/2026 - CONTROL OF SUPPLIES (CONTROLLED ARTICLES) (NO. 4) ORDER 2026",
@@ -195,6 +209,7 @@
         "P.U. (A) 381/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026",
         "P.U. (B)",
         "P.U. (B) 447/2026 - APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM",
+        "There is no record to display",
         "P.U. (A) 374/2026 - ATOMIC ENERGY (SAFEGUARDS) REGULATIONS 2026",
         "P.U. (A) 375/2026 - PROCLAMATION",
         "P.U. (A) 376/2026 - NATIONAL SERVICE TRAINING (PERSONS REQUIRED TO UNDERGO NATIONAL SERVICE TRAINING) (NO. 2) ORDER 2026",
@@ -219,8 +234,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 854 754",
-        "P.U. (A) 375/2026 404"
+        "Act 854 840",
+        "P.U. (A) 375/2026 422"
       ]
     }
   ]

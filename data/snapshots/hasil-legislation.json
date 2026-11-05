@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-legislation",
   "url": "https://www.hasil.gov.my/en/perundangan/akta/",
-  "fetched_at": "2026-11-05T00:49:58.887Z",
+  "fetched_at": "2026-11-05T08:49:31.576Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/perundangan/akta/",
@@ -2369,6 +2369,14 @@
           "href": "https://www.hasil.gov.my/en/perundangan/kes-cukai/"
         },
         {
+          "label": "Case Report>> (246.44 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261029-REVENEWS-M12SB.pdf"
+        },
+        {
+          "label": "Case Report>> (244.04 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261029-REVENEWS-ACSB.pdf"
+        },
+        {
           "label": "Case Report>> (299.09 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/20261023-REVENEWS-ISMAIL-BIN-IDRIS.pdf"
         },
@@ -3864,6 +3872,13 @@
         "Expand All",
         "List of Recent Tax Case",
         "Section Case Title Category Date Issued",
+        "Section 33(1) Income Tax Act 1967 & P.U.(A) 117/2017",
+        "M12SB v Director General of Inland Revenue",
+        "Case Report>> (246.44 KB)",
+        "Tax Appeal 05.11.2026",
+        "Section 33(1), 39 & 113(2) Income Tax Act 1967",
+        "ACSB v Director General of Inland Revenue",
+        "Case Report>> (244.04 KB)",
         "Section 4(a) & 112(3) Income Tax Act 1967",
         "Ismail bin Idris v. Director General of Inland Revenue",
         "Case Report>> (299.09 KB)",

@@ -1,0 +1,406 @@
+{
+  "run_id": "2026-11-05_1638",
+  "started_at": "2026-11-05T08:39:00.077Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invois/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/program-e-invois/",
+          "label": "Bil. 38/2026 Webinar e-Invois Anjuran HASiL Selangor Bil. 38/2026 30 November 2026 (Isnin) 9:00am - 12:30pm Ms.Teams Tarikh tutup: 28 November 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/webinar-e-invois-anjuran-hasil-selangor-bil-38-2026/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/program-e-invois/",
+          "label": "Bil. 37/2026 Webinar e-Invois Anjuran HASiL Selangor Bil. 37/2026 20 November 2026 (Jumaat) 9:00am - 12:30pm MS. Teams Tarikh tutup: 18 November 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/webinar-e-invois-anjuran-hasil-selangor-bil-37-2026/"
+        }
+      ],
+      "removed_items": [],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-myinvois-epos",
+      "section": "Pautan Popular > MyInvois e-POS",
+      "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/kenyataan-media/",
+          "label": "01032025_wb_utamaepos_bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/epos_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "01032025_wb_utamaepos_bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/epos_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "20260925 Promo MyInvois e-POS Sep 2026 (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260925-Promo-MyInvois-e-POS-Sep-2026-BM.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "20260401-promo-daftar-myinvois-e-pos-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260401-promo-daftar-myinvois-e-pos-bm.webp",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "20260120-promo-myinvois-e-pos-percuma-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260120-promo-myinvois-e-pos-percuma-bm.webp",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "20260109-infografik-daftar-myinvois-e-pos-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260109-infografik-daftar-myinvois-e-pos-bm-1.webp",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "20251224-promo-manfaat-myinvois-e-pos-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251224-promo-manfaat-myinvois-e-pos-bm-1.webp",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "20260109-kelayakan-penggunaan-myinvois-e-pos-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260109-kelayakan-penggunaan-myinvois-e-pos-bm-1.webp",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "infografik-myinvois-e-pos-1-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/infografik-myinvois-e-pos-1-bm-1.webp",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "infografik-myinvois-e-pos-2-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/infografik-myinvois-e-pos-2-bm-1.webp",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "20260109-masih-mencari-sistem-point-of-sale-pos-untuk-perniagaan-anda-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260109-masih-mencari-sistem-point-of-sale-pos-untuk-perniagaan-anda-bm-1.webp",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/video-kesedaran-pendidikan-myinvois-e-pos/",
+          "label": "01032025_wb_utamaepos_bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/epos_EN-scaled.jpg",
+          "image": true
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/kenyataan-media/",
+          "label": "Media Release Expand All Year 2026 List of Media Release 2026 9 January 2026 MyInvois e-POS: Reformasi Pendigitalan Perniagaan Selaras Dengan Pelaksanaan e-Invois Fasa 4 Mulai 1 Januari 2026 (507.92 KB) Year 2025 Year 2024 Year 2023 Year 2022",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/epos_EN-scaled.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "Infographic",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/epos_EN-scaled.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "Infographic",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260925-Promo-MyInvois-e-POS-Sep-2026-BM.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "Infographic",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260401-promo-daftar-myinvois-e-pos-bm.webp"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "Infographic",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260120-promo-myinvois-e-pos-percuma-bm.webp"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "Infographic",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260109-infografik-daftar-myinvois-e-pos-bm-1.webp"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "Infographic",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251224-promo-manfaat-myinvois-e-pos-bm-1.webp"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "Infographic",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260109-kelayakan-penggunaan-myinvois-e-pos-bm-1.webp"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "Infographic",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/infografik-myinvois-e-pos-1-bm-1.webp"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "Infographic",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/infografik-myinvois-e-pos-2-bm-1.webp"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/infografik/",
+          "label": "Infographic",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260109-masih-mencari-sistem-point-of-sale-pos-untuk-perniagaan-anda-bm-1.webp"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/komunikasi-dan-hebahan/video-kesedaran-pendidikan-myinvois-e-pos/",
+          "label": "MyInvois e-POS Awareness / Education Video Expand All Year 2026 MyInvois e-POS Apa Kata Pengguna Tentang MyInvois e-POS – NoorFash Enterprise di Hulu Terengganu, Terengganu Apa Kata Pengguna Tentang MyInvois e-POS – The Glorious House Kunafa By Anje, Johor Bahru, Johor",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/epos_EN-scaled.jpg"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/perundangan/akta/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/kes-cukai/",
+          "label": "Case Report>> (246.44 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261029-REVENEWS-M12SB.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/kes-cukai/",
+          "label": "Case Report>> (244.04 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261029-REVENEWS-ACSB.pdf"
+        }
+      ],
+      "removed_items": [],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-transfer-pricing",
+      "section": "Transfer Pricing",
+      "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/",
+          "label": "Frequently Asked Questions (FAQs) on Income Tax (Deduction for Expenditure in Relation to Environmental Preservation, Social and Governance) Rules 2025 [P.U.(A) 193/2025] (referred as ESG Rules 2025) relating to expenditures incurred in preparing the Contemporaneous Transfer Pricing Documentation (CTPD) (169.09 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261104-Draft-FAQ-ESG-Rules-2025-CTPD.pdf"
+        }
+      ],
+      "removed_items": [],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-latest",
+      "section": "Principal Act / List of P.U. (A) / Finance Bill (latest legislation feed, tax-relevant only)",
+      "url": "https://lom.agc.gov.my/index.php",
+      "new_items": [
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 384/2026 - INCOME TAX (THE PRINCIPAL HUB INCENTIVE SCHEME) (AMENDMENT) RULES 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzg0LzIwMjZ8MmRhYTU3ODNiMTBlMmRkNWVlNDE4ZWQwYTA5ZmUyZTFjMjdhNDRhNzhlMjIwNTUyZTI4YWIyMDBjOTczOTVhZQ%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "INCOME TAX (THE PRINCIPAL HUB INCENTIVE SCHEME) (AMENDMENT) RULES 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg0LzIwMjZ8YTc3ODZmMDAxZGE0MGJiY2U2MTJjMzQzNjExZDI5NDc2ZjgyMjBiZDRmZTdiZTZkZTM0MWJiYzEwOTg1ZDE2OQ%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 386/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026 P.U. (A) 385/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (REVOCATION) (NO. 4) ORDER 2026 P.U. (A) 384/2026 - INCOME TAX (THE PRINCIPAL HUB INCENTIVE SCHEME) (AMENDMENT) RULES 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "HOUSING DEVELOPMENT (CONTROL AND LICENSING) (EXEMPTION) (NO. 3) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzgyLzIwMjZ8ZjI5MGVjYTA5NWJjNmE3NWMyYzIzZTE3YmVhNTQxNmY3NWZlYTM0MWI5NTdkNTYyNmIwNzhkZWU5MzViZGY0Ng%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzgxLzIwMjZ8NTVkNGVlYzNmYjdkNTU3NTEwYmIxYjU5YjEyYWU3OTg3MjRlZDE5YmU4MzJjMzYyNzdjZjZjZmU0ODE0YzliOA%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 383/2026 - FEDERAL ROADS (WEST MALAYSIA) (AMENDMENT) (NO. 5) ORDER 2026 P.U. (A) 382/2026 - HOUSING DEVELOPMENT (CONTROL AND LICENSING) (EXEMPTION) (NO. 3) ORDER 2026 P.U. (A) 381/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": [],
+      "not_relevant_count": 4
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-ectim",
+      "section": "eCTIM (titles listed on the public home page; full text needs member sign-in)",
+      "url": "https://www.ctim.org.my/",
+      "new_items": [
+        {
+          "page": "https://www.ctim.org.my/",
+          "label": "e-CTIM TECH-DT 92-2026 - Updated Guidelines on Applications for Approval by the DGIR under S.44(6) of the ITA 1967 for Houses of Worship Management Fund",
+          "href": "https://www.ctim.org.my/"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.ctim.org.my/",
+          "label": "e-CTIM TECH-IT 41-2026 - Service Tax Policy No. 6-2026 (Amendment No. 1) - Improvements to the ST Treatment for Electricity Transmission and Distribution Services.pdf",
+          "href": "https://www.ctim.org.my/"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-announcements-media",
+      "section": "Home > Kenyataan Media & Pengumuman (Media Statements & Announcements)",
+      "url": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-return-form-filing-programme",
+      "section": "Forms > Return Form Filing Programme",
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (years listed per form category)",
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/"
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-latest-announcements",
+      "section": "Pengumuman Terkini (Latest Announcements)",
+      "url": "https://mysst.customs.gov.my/"
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-announcements",
+      "section": "All announcements",
+      "url": "https://mysst.customs.gov.my/announcements/"
+    },
+    {
+      "source": "Ministry of Finance",
+      "check_id": "mof-news",
+      "section": "News (tax-relevant only)",
+      "url": "https://www.mof.gov.my/portal/en/news"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-pengumuman",
+      "section": "Pengumuman (Announcements)",
+      "url": "https://customs.gov.my/ms/arkib/pengumuman"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-berita-media",
+      "section": "Berita dan Media (News and Media)",
+      "url": "https://customs.gov.my/ms/arkib/liputan-media"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-dt",
+      "section": "Technical News > Direct Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-it",
+      "section": "Technical News > Indirect Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-indirect-taxation-tc-it/"
+    },
+    {
+      "source": "MySToDS (Service Tax on Digital Services)",
+      "check_id": "mystods-bulletin",
+      "section": "Bulletin Board",
+      "url": "https://mystods.customs.gov.my/"
+    },
+    {
+      "source": "Rosli Dahlan Saravana Partnership (RDS) - Tax Focus",
+      "check_id": "rds-tax-focus",
+      "section": "Tax Focus publications (for the monthly update class)",
+      "url": "https://www.rdslawpartners.com/publications/categories/tax-focus"
+    },
+    {
+      "source": "MDEC - National e-Invoicing",
+      "check_id": "mdec-einvoicing",
+      "section": "New Updates (Peppol-Ready Solution)",
+      "url": "https://mdec.my/national-einvoicing"
+    },
+    {
+      "source": "MIDA - Announcements & Media Releases",
+      "check_id": "mida-announcements",
+      "section": "Announcements & media releases (tax-relevant only)",
+      "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/"
+    }
+  ],
+  "baselined": [],
+  "needs_login": [
+    {
+      "source": "HASiL Facebook page",
+      "check_id": "hasil-facebook",
+      "section": "Facebook posts",
+      "url": "https://www.facebook.com/HASiLMalaysia"
+    },
+    {
+      "source": "CCH iKnowConnect (Malaysia)",
+      "check_id": "cch-news",
+      "section": "Latest news and articles",
+      "url": "https://iknowconnect.cch.com/MYS/home"
+    }
+  ],
+  "errors": [
+    {
+      "source": "Parliament of Malaysia - Dewan Rakyat bills",
+      "check_id": "parlimen-bills",
+      "section": "Bills (Income Tax Act and Finance Bills only)",
+      "url": "https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "HRD Corp - Circulars",
+      "check_id": "hrdcorp-circulars",
+      "section": "Circulars",
+      "url": "https://hrdcorp.gov.my/circulars",
+      "error": "HTTP 403"
+    },
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "url": "https://mytax.hasil.gov.my/",
+      "error": "page.waitForSelector: Timeout 45000ms exceeded."
+    }
+  ],
+  "partial": [],
+  "finished_at": "2026-11-05T08:55:40.500Z"
+}

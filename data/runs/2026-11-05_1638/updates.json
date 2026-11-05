@@ -1,0 +1,42 @@
+[
+  {
+    "source": "Laws of Malaysia (AGC)",
+    "section": "Principal Act / List of P.U. (A) / Finance Bill (latest legislation feed, tax-relevant only)",
+    "title": "P.U. (A) 384/2026 – Income Tax (The Principal Hub Incentive Scheme) (Amendment) Rules 2026",
+    "publication_date": "05/11/2026 (gazetted); made 12/10/2026",
+    "change_type": "amendment",
+    "summary": "Replaces Schedules 2 and 3 of the Principal Hub Rules, with effect from YA 2025. Schedule 2 (conditions to qualify): Category 1 new company (0% rate) needs 50 new full-time employees on at least RM5,000/month (at least 50% Malaysian), 5 on at least RM25,000/month and RM10m annual operating expenditure in Malaysia; Category 2 new company (5%) needs 30 / 4 / RM5m; Category 3 existing company (10%) needs 30 / 5 / RM10m. Schedule 3 (to extend the incentive period for new companies, met at the end of the last specified YA): Category 1 needs 60 / 5 / RM13m; Category 2 needs 36 / 4 / RM7m.",
+    "replaces": "Amends the Income Tax (The Principal Hub Incentive Scheme) Rules 2022 [P.U. (A) 164/2022] by substituting Schedules 2 and 3",
+    "link": "https://lom.agc.gov.my/ilims/upload/portal/akta/outputp/3812260/PUA%20384_2026.pdf"
+  },
+  {
+    "source": "HASiL (Inland Revenue Board)",
+    "section": "Transfer Pricing",
+    "title": "Draft FAQs on the ESG Rules 2025 [P.U.(A) 193/2025] – deduction for costs of preparing Contemporaneous Transfer Pricing Documentation (CTPD)",
+    "publication_date": "04/11/2026",
+    "change_type": "new",
+    "summary": "HASiL's draft FAQs confirm that costs of preparing either full or minimum-scope CTPD qualify for the ESG Rules 2025 deduction, if incurred in YAs 2024–2027 for CTPD covering YA 2023 onwards and prepared under TPR 2023, MTPG 2024 and the 2026 intra-group loans guidelines. The deduction is capped at RM50,000 per YA across all ESG Rules items. Professional fees, external reviews of the CTPD, benchmarking studies and costs such as buying financial statements or CCM search fees can qualify; out-of-pocket reimbursements (travel, meals, accommodation, ICT and phone) do not. CTPD for YAs before 2023 doesn't qualify, and if an audit finds the documentation wasn't contemporaneous, the claim can be added back with a s.113(2) penalty.",
+    "replaces": "",
+    "link": "https://www.hasil.gov.my/wp-content/uploads/20261104-Draft-FAQ-ESG-Rules-2025-CTPD.pdf"
+  },
+  {
+    "source": "HASiL (Inland Revenue Board)",
+    "section": "Legislation (everything)",
+    "title": "Tax case report: ACSB v. DGIR (SCIT, 29/10/2026) – quarry face development 'tribute' payments are capital, not deductible",
+    "publication_date": "29/10/2026 (decision); added to HASiL Tax Case page 05/11/2026",
+    "change_type": "new",
+    "summary": "A quarry subcontractor paid another company 'tribute' payments, based on quarry output, for quarry face development works (clearing trees, earth and weathered rock to reach the granite) and claimed them under s.33(1). HASiL disallowed them for YAs 2017–2020 as capital expenditure prohibited by s.39(1)(c), spent to develop the profit-yielding structure rather than to produce income. The SCIT dismissed the appeal and upheld the additional assessments and the s.113(2) penalty. The taxpayer may appeal within 21 days.",
+    "replaces": "",
+    "link": "https://www.hasil.gov.my/wp-content/uploads/20261029-REVENEWS-ACSB.pdf"
+  },
+  {
+    "source": "HASiL (Inland Revenue Board)",
+    "section": "Legislation (everything)",
+    "title": "Tax case report: M12 SB v. DGIR (SCIT, 29/10/2026) – intercompany back-charges under centralised management are deductible",
+    "publication_date": "29/10/2026 (decision); added to HASiL Tax Case page 05/11/2026",
+    "change_type": "new",
+    "summary": "HASiL's official case report of the decision covered by RDS on 03/11/2026: site rentals, utilities and staff costs paid by a group management company and back-charged to the taxpayer were allowed under s.33(1) for YAs 2016–2018, even though the tenancies, utility accounts and employment records were in other group companies' names. The SCIT found the taxpayer had discharged its burden of proof and set aside the additional assessments. HASiL may appeal within 21 days.",
+    "replaces": "",
+    "link": "https://www.hasil.gov.my/wp-content/uploads/20261029-REVENEWS-M12SB.pdf"
+  }
+]

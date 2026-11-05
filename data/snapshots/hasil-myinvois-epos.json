@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-myinvois-epos",
   "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/",
-  "fetched_at": "2026-11-05T00:41:44.416Z",
+  "fetched_at": "2026-11-05T08:41:49.656Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/",
@@ -96,8 +96,9 @@
       "title": "Kenyataan Media",
       "items": [
         {
-          "label": "Media Release Expand All Year 2026 List of Media Release 2026 9 January 2026 MyInvois e-POS: Reformasi Pendigitalan Perniagaan Selaras Dengan Pelaksanaan e-Invois Fasa 4 Mulai 1 Januari 2026 (507.92 KB) Year 2025 Year 2024 Year 2023 Year 2022",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/epos_EN-scaled.jpg"
+          "label": "01032025_wb_utamaepos_bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/epos_EN-scaled.jpg",
+          "image": true
         },
         {
           "label": "Expand All Year 2026 List of Media Release 2026 9 January 2026 MyInvois e-POS: Reformasi Pendigitalan Perniagaan Selaras Dengan Pelaksanaan e-Invois Fasa 4 Mulai 1 Januari 2026 (507.92 KB) Year 2025 Year 2024 Year 2023 Year 2022",
@@ -228,44 +229,54 @@
       "title": "Infografik",
       "items": [
         {
-          "label": "Infographic",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/epos_EN-scaled.jpg"
+          "label": "01032025_wb_utamaepos_bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/epos_EN-scaled.jpg",
+          "image": true
         },
         {
-          "label": "Infographic",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/20260925-Promo-MyInvois-e-POS-Sep-2026-BM.jpg"
+          "label": "20260925 Promo MyInvois e-POS Sep 2026 (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260925-Promo-MyInvois-e-POS-Sep-2026-BM.jpg",
+          "image": true
         },
         {
-          "label": "Infographic",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/20260401-promo-daftar-myinvois-e-pos-bm.webp"
+          "label": "20260401-promo-daftar-myinvois-e-pos-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260401-promo-daftar-myinvois-e-pos-bm.webp",
+          "image": true
         },
         {
-          "label": "Infographic",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/20260120-promo-myinvois-e-pos-percuma-bm.webp"
+          "label": "20260120-promo-myinvois-e-pos-percuma-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260120-promo-myinvois-e-pos-percuma-bm.webp",
+          "image": true
         },
         {
-          "label": "Infographic",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/20260109-infografik-daftar-myinvois-e-pos-bm-1.webp"
+          "label": "20260109-infografik-daftar-myinvois-e-pos-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260109-infografik-daftar-myinvois-e-pos-bm-1.webp",
+          "image": true
         },
         {
-          "label": "Infographic",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/20251224-promo-manfaat-myinvois-e-pos-bm-1.webp"
+          "label": "20251224-promo-manfaat-myinvois-e-pos-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251224-promo-manfaat-myinvois-e-pos-bm-1.webp",
+          "image": true
         },
         {
-          "label": "Infographic",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/20260109-kelayakan-penggunaan-myinvois-e-pos-bm-1.webp"
+          "label": "20260109-kelayakan-penggunaan-myinvois-e-pos-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260109-kelayakan-penggunaan-myinvois-e-pos-bm-1.webp",
+          "image": true
         },
         {
-          "label": "Infographic",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/infografik-myinvois-e-pos-1-bm-1.webp"
+          "label": "infografik-myinvois-e-pos-1-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/infografik-myinvois-e-pos-1-bm-1.webp",
+          "image": true
         },
         {
-          "label": "Infographic",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/infografik-myinvois-e-pos-2-bm-1.webp"
+          "label": "infografik-myinvois-e-pos-2-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/infografik-myinvois-e-pos-2-bm-1.webp",
+          "image": true
         },
         {
-          "label": "Infographic",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/20260109-masih-mencari-sistem-point-of-sale-pos-untuk-perniagaan-anda-bm-1.webp"
+          "label": "20260109-masih-mencari-sistem-point-of-sale-pos-untuk-perniagaan-anda-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260109-masih-mencari-sistem-point-of-sale-pos-untuk-perniagaan-anda-bm-1.webp",
+          "image": true
         }
       ],
       "lines": [
@@ -279,8 +290,9 @@
       "title": "Video Kesedaran / Pendidikan MyInvois e-POS",
       "items": [
         {
-          "label": "MyInvois e-POS Awareness / Education Video Expand All Year 2026 MyInvois e-POS Apa Kata Pengguna Tentang MyInvois e-POS – NoorFash Enterprise di Hulu Terengganu, Terengganu Apa Kata Pengguna Tentang MyInvois e-POS – The Glorious House Kunafa By Anje, Johor Bahru, Johor",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/epos_EN-scaled.jpg"
+          "label": "01032025_wb_utamaepos_bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/epos_EN-scaled.jpg",
+          "image": true
         },
         {
           "label": "Expand All Year 2026 MyInvois e-POS Apa Kata Pengguna Tentang MyInvois e-POS – NoorFash Enterprise di Hulu Terengganu, Terengganu Apa Kata Pengguna Tentang MyInvois e-POS – The Glorious House Kunafa By Anje, Johor Bahru, Johor",

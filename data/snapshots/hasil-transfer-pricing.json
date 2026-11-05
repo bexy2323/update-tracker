@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-transfer-pricing",
   "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/",
-  "fetched_at": "2026-11-05T00:50:17.530Z",
+  "fetched_at": "2026-11-05T08:49:37.077Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/",
@@ -62,6 +62,10 @@
         {
           "label": "English Version (164.13 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/Minimum-CTPD_ENG.pdf"
+        },
+        {
+          "label": "Frequently Asked Questions (FAQs) on Income Tax (Deduction for Expenditure in Relation to Environmental Preservation, Social and Governance) Rules 2025 [P.U.(A) 193/2025] (referred as ESG Rules 2025) relating to expenditures incurred in preparing the Contemporaneous Transfer Pricing Documentation (CTPD) (169.09 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261104-Draft-FAQ-ESG-Rules-2025-CTPD.pdf"
         },
         {
           "label": "Compilation of Questions and Answers Transfer Pricing & Tax Corporate Governance Seminar 2026 22 July 2026 – Topic 1 : Demystifying The Arm’s Length Principle (ALP) Requirements (360.32 KB)",
@@ -158,6 +162,8 @@
         "Versi Bahasa Malaysia (304.09 KB) Versi Bahasa Malaysia (156.57 KB)",
         "English Version (309.35 KB) English Version (164.13 KB)",
         "FAQs",
+        "Frequently Asked Questions (FAQs) on Income Tax (Deduction for Expenditure in Relation to Environmental Preservation, Social and Governance) Rules 2025 [P.U.(A) 193/2025] (referred as ESG Rules 2025) relating to expenditures incurred in preparing the",
+        "Contemporaneous Transfer Pricing Documentation (CTPD) (169.09 KB)New!",
         "Compilation of Questions and Answers Transfer Pricing & Tax Corporate Governance Seminar 2026 22 July 2026 – Topic 1 : Demystifying The Arm’s Length Principle (ALP) Requirements (360.32 KB) New!",
         "Compilation of Questions and Answers Transfer Pricing & Tax Corporate Governance Seminar 2026 22 July 2026 – Topic 2 : Managing Transfer Pricing Audit Risks (314.39 KB) New!",
         "Frequently Asked Questions (FAQ) Paragraph 1.5 of MTPG 2024: What You Need to Know (167.69 KB) New!",
