@@ -1,7 +1,7 @@
 {
   "check_id": "mof-news",
   "url": "https://www.mof.gov.my/portal/en/news",
-  "fetched_at": "2026-11-04T08:51:14.116Z",
+  "fetched_at": "2026-11-05T00:54:42.053Z",
   "pages": [
     {
       "url": "https://www.mof.gov.my/portal/en/news",
@@ -32,6 +32,22 @@
           "href": "https://www.mof.gov.my/portal/en/news/press-release/jbmkks-establishes-independent-mediasas-board-to-ensure-sound-governance-and-oversight-supporting-long-term-sustainability"
         },
         {
+          "label": "Govt Approves Over RM250 Mln To Support ECRL Development In Kelantan -- MOF Press Citations 03 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/govt-approves-over-rm250-mln-to-support-ecrl-development-in-kelantan-mof"
+        },
+        {
+          "label": "Govt Approves Over RM250 Mln To Support ECRL Development In Kelantan -- MOF",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/govt-approves-over-rm250-mln-to-support-ecrl-development-in-kelantan-mof"
+        },
+        {
+          "label": "2.14 Bln E-invoices Submitted As Of Nov 2, Implementation To Uphold Fairness - PM Anwar Press Citations 03 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/2-14-bln-e-invoices-submitted-as-of-nov-2-implementation-to-uphold-fairness-pm-anwar"
+        },
+        {
+          "label": "2.14 Bln E-invoices Submitted As Of Nov 2, Implementation To Uphold Fairness - PM Anwar",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/2-14-bln-e-invoices-submitted-as-of-nov-2-implementation-to-uphold-fairness-pm-anwar"
+        },
+        {
           "label": "Courtesy Call From The High Commissioner Of New Zealand Photos 02 November 2026",
           "href": "https://www.mof.gov.my/portal/en/news/photos/courtesy-call-from-the-high-commissioner-of-new-zealand"
         },
@@ -50,22 +66,6 @@
         {
           "label": "MADANI Government Secures RM5 Billion Repurposing of SSER Loan",
           "href": "https://www.mof.gov.my/portal/en/news/press-release/madani-government-secures-rm5-billion-repurposing-of-sser-loan"
-        },
-        {
-          "label": "SSER, CEXIM Sign RM5 Bln Loan Repurposing Agreement For NPWSS Financing Press Citations 30 October 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/sser-cexim-sign-rm5-bln-loan-repurposing-agreement-for-npwss-financing"
-        },
-        {
-          "label": "SSER, CEXIM Sign RM5 Bln Loan Repurposing Agreement For NPWSS Financing",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/sser-cexim-sign-rm5-bln-loan-repurposing-agreement-for-npwss-financing"
-        },
-        {
-          "label": "Budget 2027 Passes Policy Stage, Concluding Fourth Week Of Dewan Rakyat Session Press Citations 30 October 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/budget-2027-passes-policy-stage-concluding-fourth-week-of-dewan-rakyat-session"
-        },
-        {
-          "label": "Budget 2027 Passes Policy Stage, Concluding Fourth Week Of Dewan Rakyat Session",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/budget-2027-passes-policy-stage-concluding-fourth-week-of-dewan-rakyat-session"
         },
         {
           "label": "Press Release",
@@ -181,15 +181,16 @@
         "JBMKKS Establishes Independent Mediasas Board To Ensure Sound Governance And Oversight, Supporting Long-Term Sustainability",
         "Press Release",
         "04 November 2026",
+        "Govt Approves Over RM250 Mln To Support ECRL Development In Kelantan -- MOF",
+        "Press Citations",
+        "03 November 2026",
+        "2.14 Bln E-invoices Submitted As Of Nov 2, Implementation To Uphold Fairness - PM Anwar",
         "Courtesy Call From The High Commissioner Of New Zealand",
         "Photos",
         "02 November 2026",
         "Fuel Subsidy Savings For This Year To Be Finalised By Year-end -- Amir Hamzah",
-        "Press Citations",
         "MADANI Government Secures RM5 Billion Repurposing of SSER Loan",
         "30 October 2026",
-        "SSER, CEXIM Sign RM5 Bln Loan Repurposing Agreement For NPWSS Financing",
-        "Budget 2027 Passes Policy Stage, Concluding Fourth Week Of Dewan Rakyat Session",
         "Videos",
         "Speech",
         "ASEAN 2025",

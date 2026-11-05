@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-04T08:50:49.590Z",
+  "fetched_at": "2026-11-05T00:50:21.625Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
+          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
+          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
+          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
+          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
+          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
+          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct 29 Oct",
+          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -104,18 +104,6 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQ2LzIwMjZ8YzU2MjMwOTIyZTE5N2Y5YWM3NTU4YzY3OTk5MWU5OTNmYTk4ZjUwMDk0NDRhOTY5MDU3NDJmNmUxYTBhMTk1MQ%3D%3D"
         },
         {
-          "label": "P.U. (A) 373/2026 - DENTAL (AMENDMENT OF SECOND SCHEDULE) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzczLzIwMjZ8YzBhY2ZlY2FhNjhiZjBmNGNhYWNkZmM4ZDRhMjM0ZDVhODg0OTg1YWY2MzFiZjk1NDk5YTkxZjZjN2U1MjMwOA%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 439/2026 - DIRECTIONS OF THE MINISTER UNDER PARAGRAPH 26(1)(d) AND SECTION 564",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDM5LzIwMjZ8Nzc5MWI4OWUyNWM1ZDZmNTAwNTYxYjk1Mzg0ODRjODg1MzZlNGUzNjVhNTQ5MGVkMjBmYzkzYjdhMDEzMTZiYQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 440/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQwLzIwMjZ8MmU2NWNhNDQxM2FmZTQ2MzdhZjYwMWM1NjM4MTc4NjA1YzM1YWUzNDRlYTg2ZDJkNzI2Mjk1NjdlZTZiYjA1OQ%3D%3D"
-        },
-        {
           "label": "STATISTICS ACT 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZhY3Q9ODg3fGU4N2RhY2NkODY2MDVkODNlYWNhODgwNGU2Y2Y3MjgxNGNkNzg0MjViZGEzZTcyMzQ1OWQ5YzQ3YzJlMmEyYTM%3D"
         },
@@ -184,19 +172,20 @@
           "href": "https://lom.agc.gov.my/federal-constitution.php"
         },
         {
-          "label": "P.U. (A) 370/2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzcwLzIwMjZ8YmJiYWY3N2FlZGQ0ODIyYWE4NjVlOGVmY2M5M2ZkZWI4OGE5NjQzNWQ2OGU0OGFiZmYwMDU0ZDZhNGJmNTlkMw%3D%3D"
+          "label": "P.U. (A) 375/2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzc1LzIwMjZ8ZWJhOTM0YmEwNDNjNzFkZTE1NzI0NWViZTg1YjQyYWU3ZTZmMzIxZjI4ODExOTcxZDdlYTIxYWEzMWJjNTlmNQ%3D%3D"
         }
       ],
       "lines": [
         "What's New",
         "Today",
+        "04 Nov",
         "03 Nov",
         "02 Nov",
         "01 Nov",
         "31 Oct",
         "30 Oct",
-        "29 Oct",
+        "There is no record to display",
         "P.U. (A)",
         "P.U. (A) 382/2026 - HOUSING DEVELOPMENT (CONTROL AND LICENSING) (EXEMPTION) (NO. 3) ORDER 2026",
         "P.U. (A) 383/2026 - FEDERAL ROADS (WEST MALAYSIA) (AMENDMENT) (NO. 5) ORDER 2026",
@@ -206,7 +195,6 @@
         "P.U. (A) 381/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026",
         "P.U. (B)",
         "P.U. (B) 447/2026 - APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM",
-        "There is no record to display",
         "P.U. (A) 374/2026 - ATOMIC ENERGY (SAFEGUARDS) REGULATIONS 2026",
         "P.U. (A) 375/2026 - PROCLAMATION",
         "P.U. (A) 376/2026 - NATIONAL SERVICE TRAINING (PERSONS REQUIRED TO UNDERGO NATIONAL SERVICE TRAINING) (NO. 2) ORDER 2026",
@@ -217,9 +205,6 @@
         "P.U. (B) 444/2026 - NOTICE OF DESIGNATION OF SITE AS HERITAGE SITE",
         "P.U. (B) 445/2026 - RETURN AND STATEMENTS OF ELECTION EXPENSES",
         "P.U. (B) 446/2026 - NOTICE TO THIRD PARTIES",
-        "P.U. (A) 373/2026 - DENTAL (AMENDMENT OF SECOND SCHEDULE) ORDER 2026",
-        "P.U. (B) 439/2026 - DIRECTIONS OF THE MINISTER UNDER PARAGRAPH 26(1)(d) AND SECTION 564",
-        "P.U. (B) 440/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -234,7 +219,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (A) 370/2026 429"
+        "Act 854 754",
+        "P.U. (A) 375/2026 404"
       ]
     }
   ]
