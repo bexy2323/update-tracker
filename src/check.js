@@ -89,11 +89,13 @@ function extractPage(imageSelector) {
     if (scripted) href = location.href.split('#')[0];
     // In-page anchors such as "Skip to content" or "Scroll to top".
     else if (href.includes('#') && href.split('#')[0] === location.href.split('#')[0]) continue;
+    // Gallery links (e.g. HASiL's e-Invoice infographics) carry their real title here.
+    const lightboxTitle = norm(a.getAttribute('data-elementor-lightbox-title'));
     // textContent also reads items in hidden tabs, which innerText skips.
-    let label = norm(a.innerText || a.textContent || a.getAttribute('title') || a.getAttribute('aria-label'));
+    let label = lightboxTitle || norm(a.innerText || a.textContent || a.getAttribute('title') || a.getAttribute('aria-label'));
     if (scripted && (!label || GENERIC.test(label))) continue;
     // "More" / "Download" links: take the label from the surrounding row or card.
-    if (!label || label.length < 12 || GENERIC.test(label)) {
+    if (!lightboxTitle && (!label || label.length < 12 || GENERIC.test(label))) {
       let el = a.parentElement;
       for (let depth = 0; el && depth < 5; depth++, el = el.parentElement) {
         const t = norm(el.innerText || el.textContent);
@@ -105,7 +107,9 @@ function extractPage(imageSelector) {
     const key = `${label}|${href}`;
     if (seen.has(key)) continue;
     seen.add(key);
-    items.push({ label: label.slice(0, 400), href });
+    const item = { label: label.slice(0, 400), href };
+    if (/\.(jpe?g|png|gif|webp)(\?|$)/i.test(href)) item.image = true;
+    items.push(item);
   }
 
   // Image-only content such as announcement banners in a slider.

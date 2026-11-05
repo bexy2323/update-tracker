@@ -114,6 +114,9 @@ sources:
       - id: hasil-e-invoice
         section: Pautan Popular > E-Invois
         url: https://www.hasil.gov.my/en/e-invois/
+        # Always include the infographics page, whatever the crawl finds.
+        pages:
+          - https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/
         crawl:
           path_prefix: /en/e-invois/
           max_pages: 40

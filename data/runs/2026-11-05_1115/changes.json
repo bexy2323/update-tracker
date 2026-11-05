@@ -1,0 +1,834 @@
+{
+  "run_id": "2026-11-05_1115",
+  "started_at": "2026-11-05T03:15:14.593Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invois/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/gambaran-keseluruhan-model-e-invois/",
+          "label": "lhdn-e-invois-microsite-gambaran-keseluruhan-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdn-e-invoice-guideline-figure-21-eng.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/",
+          "label": "01032025_wb_utama_bm-01",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/garis-panduan/",
+          "label": "01032025_wb_utama_bm-01",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "01032025_wb_utama_bm-01",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/software-development-kit-sdk-e-invois/",
+          "label": "01032025_wb_utama_bm-01",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/portal-myinvois/keperluan-peranan-bagi-mengakses-portal-myinvois/",
+          "label": "01032025_wb_utama_bm-01",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/portal-myinvois/video-panduan-pengguna/",
+          "label": "01032025_wb_utama_bm-01",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/kenyataan-media/",
+          "label": "01032025_wb_utama_bm-01",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/wawancara/",
+          "label": "01032025_wb_utama_bm-01",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/video-kesedaran-pendidikan-e-invois/",
+          "label": "01032025_wb_utama_bm-01",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/artikel-berita-penerbitan/",
+          "label": "01032025_wb_utama_bm-01",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "01032025_wb_utama_bm-01",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Info e-Invois - Contoh Ketidakpatuhan & Kesilapan Lazim Yang Perlu Diperbetulkan Melalui PKPS e-Invois (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Contoh-Ketidakpatuhan-Kesilapan-Lazim-Yang-Perlu-Diperbetulkan-Melalui-PKPS-e-Invois-BM.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Info e-Invois - Pelaksanaan e-Invois Oleh Platform e-dagang Luar Negara (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Pelaksanaan-e-Invois-Oleh-Platform-e-dagang-Luar-Negara-BM.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Info e-Invois - Input Medan Tarikh Ke Belakang (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Input-Medan-Tarikh-Ke-Belakang-BM.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20261001 Info e-Invois - Had Panjang Maksimum Sedia Ada Di Persekitaran Pengujian (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261001-Info-e-Invois-Had-Panjang-Maksimum-Sedia-Ada-Di-Persekitaran-Pengujian-BM.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Info e-Invois - Transaksi lebih RM10,000 wajib e-Invois setiap transaksi (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Transaksi-lebih-RM10000-wajib-e-Invois-setiap-transaksi-BM.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260925 Info e-Invois - Pengecualian Pelaksanaan e-Invois RM3 Juta (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260925-Info-e-Invois-Pengecualian-Pelaksanaan-e-Invois-RM3-Juta-BM.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260922 Info e-Invois - Templat Excel Batch Upload (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260922-Info-e-Invois-Templat-Excel-Batch-Upload-BM.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Info e-Invois - Soalan Lazim e-Invois Telah Dikemas Kini September 2026 (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Soalan-Lazim-e-Invois-Telah-Dikemas-Kini-September-2026-BM.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Info e-Invois - Kenaikan Ambang Pengecualian e-Invois Kepada Kurang Daripada RM3 Juta (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Kenaikan-Ambang-Pengecualian-e-Invois-Kepada-Kurang-Daripada-RM3-Juta-BM.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Notis Pemakluman Pelaksanaan e-Invois (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Notis-Pemakluman-Pelaksanaan-e-Invois-BM-1.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260706-info-e-invois-pengesahan-format-data-di-produksi-mulai-15-ogos-2026-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260706-info-e-invois-pengesahan-format-data-di-produksi-mulai-15-ogos-2026-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Info e-Invois - FAQ Umum PKPS e-Invois BM(Bhg 2)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-FAQ-Umum-PKPS-e-Invois-BMBhg-2.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Info e-Invois - FAQ Umum PKPS e-Invois BM (Bhg 1)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-FAQ-Umum-PKPS-e-Invois-BM-Bhg-1.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260615-info-e-invois-kemas-kini-brn-dalam-rekod-lhdnm-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260615-info-e-invois-kemas-kini-brn-dalam-rekod-lhdnm-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260615-info-e-invois-api-pengesahan-tin-mulai-1-ogos-2026-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260615-info-e-invois-api-pengesahan-tin-mulai-1-ogos-2026-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260604-promo-myinvois-e-pos-jika-boleh-digital-kenapa-perlu-manual-lagi-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260604-promo-myinvois-e-pos-jika-boleh-digital-kenapa-perlu-manual-lagi-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260604-info-e-invois-mohon-e-invois-pelepasan-buku-pbakl-2026-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260604-info-e-invois-mohon-e-invois-pelepasan-buku-pbakl-2026-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260514-info-e-invois-carian-e-invois-sehingga-2-tahun-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260514-info-e-invois-carian-e-invois-sehingga-2-tahun-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260507-info-e-invois-jom-beralih-ke-e-invois-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260507-info-e-invois-jom-beralih-ke-e-invois-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260507-info-e-invois-penggunaan-kod-pengelasan-yang-tepat-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260507-info-e-invois-penggunaan-kod-pengelasan-yang-tepat-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260505-info-e-invois-tempoh-kelonggaran-interim-pindaan-terkini-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260505-info-e-invois-tempoh-kelonggaran-interim-pindaan-terkini-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260420-infografik-e-invois-hasil-tambahan-tempoh-kelonggaran-interim-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260420-infografik-e-invois-hasil-tambahan-tempoh-kelonggaran-interim-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260305-infografik-e-invois-hasil-ayuh-beralih-kepada-e-invois-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260305-infografik-e-invois-hasil-ayuh-beralih-kepada-e-invois-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260127-infografik-media-sosial-myinvois-pusat-sehenti-pengurusan-e-invois-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260127-infografik-media-sosial-myinvois-pusat-sehenti-pengurusan-e-invois-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260106-infografik-had-kadar-api-s1-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260106-infografik-had-kadar-api-s1-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260106-infografik-had-kadar-api-s2-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260106-infografik-had-kadar-api-s2-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260105-pengumuman-terkini-tempoh-kelonggaran-interim-fasa-4-penjualan-bahan-pembinaan-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260105-pengumuman-terkini-tempoh-kelonggaran-interim-fasa-4-penjualan-bahan-pembinaan-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260101-infografik-e-invois-hasil-semuanya-digital-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260101-infografik-e-invois-hasil-semuanya-digital-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260105-pengumuman-terkini-tempoh-kelonggaran-interim-fasa-4-penjualan-bahan-pembinaan-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260105-pengumuman-terkini-tempoh-kelonggaran-interim-fasa-4-penjualan-bahan-pembinaan-bm-1.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20260101-infografik-e-invois-hasil-semuanya-digital-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260101-infografik-e-invois-hasil-semuanya-digital-bm-1.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20251224-promo-manfaat-myinvois-e-pos-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251224-promo-manfaat-myinvois-e-pos-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20251220-pengecualian-pelaksanaan-e-invois-terkini-7-dis-2025-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251220-pengecualian-pelaksanaan-e-invois-terkini-7-dis-2025-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20251220-manfaat-e-invois-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251220-manfaat-e-invois-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20251219-promo-aplikasi-myinvois-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251219-promo-aplikasi-myinvois-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "pengesahan-format-medan-data-persekitaran-pengujian-mulai-15122025-bm-1",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/pengesahan-format-medan-data-persekitaran-pengujian-mulai-15122025-bm-1.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "pengesahan-format-medan-data-persekitaran-pengujian-mulai-15122025-bm-2",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/pengesahan-format-medan-data-persekitaran-pengujian-mulai-15122025-bm-2.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20251216-kombinasi-tin-dan-id-individu-bukan-warganegara-bm-1",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251216-kombinasi-tin-dan-id-individu-bukan-warganegara-bm-1.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20251216-kombinasi-tin-dan-id-individu-warganegara-bm-2",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251216-kombinasi-tin-dan-id-individu-warganegara-bm-2.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20251216-kombinasi-tin-dan-id-individu-warganegara-bm-1",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251216-kombinasi-tin-dan-id-individu-warganegara-bm-1.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20251216-kombinasi-tin-dan-id-individu-bukan-warganegara-bm-2",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251216-kombinasi-tin-dan-id-individu-bukan-warganegara-bm-2.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20251124-3-transaksi-terkini-yang-tidak-dibenarkan-untuk-disatukan-mulai-1-januari-2026",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251124-3-transaksi-terkini-yang-tidak-dibenarkan-untuk-disatukan-mulai-1-januari-2026.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20250718-promo-e-invois-membantu-penyimpanan-rekod-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250718-promo-e-invois-membantu-penyimpanan-rekod-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20250603-awas-e-mel-notifikasi-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250603-awas-e-mel-notifikasi-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20250518-5-langkah-utama-mengemukakan-e-invois-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250518-5-langkah-utama-mengemukakan-e-invois-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20250424-promo-portal-myinvois-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250424-promo-portal-myinvois-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20250415-panduan-ringkas-had-kadar-api",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250415-panduan-ringkas-had-kadar-api.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20250214-cetakan-atau-simpanan-paparan-visual-e-invois-di-portal-myinvois",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250214-cetakan-atau-simpanan-paparan-visual-e-invois-di-portal-myinvois.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "infografik-2-2025-fungsi-carian-dokumen-sehingga-2-tahun",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/infografik-2-2025-fungsi-carian-dokumen-sehingga-2-tahun.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "infografik-1-2025-layanan-e-invois-bagi-perkuisit-dan-manfaat-pekerja",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/infografik-1-2025-layanan-e-invois-bagi-perkuisit-dan-manfaat-pekerja.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20241120-fungsi-janaan-kod-qr-maklumat-pembayar-cukai-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20241120-fungsi-janaan-kod-qr-maklumat-pembayar-cukai-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "aplikasi-myinvois-kini-tersedia-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/aplikasi-myinvois-kini-tersedia-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "portal-myinvois-information-fungsi-dinaik-taraf-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/portal-myinvois-information-fungsi-dinaik-taraf-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "pengguna-pertama-kali-portal-myinvois-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/pengguna-pertama-kali-portal-myinvois-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "promo-portal-myinvois-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/promo-portal-myinvois-bm.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "pengumpulan-maklumat-bagi-pengeluaran-e-invois",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/pengumpulan-maklumat-bagi-pengeluaran-e-invois.png",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "info-untuk-perhatian-pengguna-portal-myinvois-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/info-untuk-perhatian-pengguna-portal-myinvois-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "info-berkaitan-pelaksanaan-e-invois-bil-4-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/info-berkaitan-pelaksanaan-e-invois-bil-4-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "info-berkaitan-pelaksanaan-e-invois-bil-3-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/info-berkaitan-pelaksanaan-e-invois-bil-3-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "info-berkaitan-pelaksanaan-e-invois-bil-2-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/info-berkaitan-pelaksanaan-e-invois-bil-2-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20240509-info-berkaitan-pelaksanaan-e-invois-bil-1-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20240509-info-berkaitan-pelaksanaan-e-invois-bil-1-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "20240419-info-e-invois-hasil-pengumuman-akses-sandbox-myinvois-dibuka-bm",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20240419-info-e-invois-hasil-pengumuman-akses-sandbox-myinvois-dibuka-bm.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "4-sdk-e-invois",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/4-sdk-e-invois.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "3-aliran-kerja-e-invois",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/3-aliran-kerja-e-invois.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "2-manfaat-e-invois",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/2-manfaat-e-invois.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "1-apa-itu-e-invois",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1-apa-itu-e-invois.jpg",
+          "image": true
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/program-e-invois/",
+          "label": "01032025_wb_utama_bm-01",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/garis-panduan/",
+          "label": "Guidelines e-Invoice Guideline Version 4.8 (published on 30 August 2026) Download (876.19 KB) e-Invoice Specific Guideline Version 4.9 (published on 7 September 2026) Download (1.58 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/software-development-kit-sdk-e-invois/",
+          "label": "Software Development Kit (SDK) e-Invois Software Development Kit (SDK) is a collection of tools, libraries, and resources providing a set of functionalities, Application Programming Interfaces (APIs), and development guidelines to assist businesses in integrating their existing system to the MyInvois System via API. Visit Software Development Kit (SDK) Version 1.0 (updated on 17 July 2026).",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Infographic Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Contoh-Ketidakpatuhan-Kesilapan-Lazim-Yang-Perlu-Diperbetulkan-Melalui-PKPS-e-Invois-BM.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Pelaksanaan-e-Invois-Oleh-Platform-e-dagang-Luar-Negara-BM.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Input-Medan-Tarikh-Ke-Belakang-BM.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261001-Info-e-Invois-Had-Panjang-Maksimum-Sedia-Ada-Di-Persekitaran-Pengujian-BM.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Transaksi-lebih-RM10000-wajib-e-Invois-setiap-transaksi-BM.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260925-Info-e-Invois-Pengecualian-Pelaksanaan-e-Invois-RM3-Juta-BM.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260922-Info-e-Invois-Templat-Excel-Batch-Upload-BM.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Soalan-Lazim-e-Invois-Telah-Dikemas-Kini-September-2026-BM.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Kenaikan-Ambang-Pengecualian-e-Invois-Kepada-Kurang-Daripada-RM3-Juta-BM.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Notis-Pemakluman-Pelaksanaan-e-Invois-BM-1.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260706-info-e-invois-pengesahan-format-data-di-produksi-mulai-15-ogos-2026-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-FAQ-Umum-PKPS-e-Invois-BMBhg-2.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-FAQ-Umum-PKPS-e-Invois-BM-Bhg-1.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260615-info-e-invois-kemas-kini-brn-dalam-rekod-lhdnm-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260615-info-e-invois-api-pengesahan-tin-mulai-1-ogos-2026-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260604-promo-myinvois-e-pos-jika-boleh-digital-kenapa-perlu-manual-lagi-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260604-info-e-invois-mohon-e-invois-pelepasan-buku-pbakl-2026-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260514-info-e-invois-carian-e-invois-sehingga-2-tahun-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260507-info-e-invois-jom-beralih-ke-e-invois-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260507-info-e-invois-penggunaan-kod-pengelasan-yang-tepat-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260505-info-e-invois-tempoh-kelonggaran-interim-pindaan-terkini-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260420-infografik-e-invois-hasil-tambahan-tempoh-kelonggaran-interim-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260305-infografik-e-invois-hasil-ayuh-beralih-kepada-e-invois-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260127-infografik-media-sosial-myinvois-pusat-sehenti-pengurusan-e-invois-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260106-infografik-had-kadar-api-s1-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260106-infografik-had-kadar-api-s2-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260105-pengumuman-terkini-tempoh-kelonggaran-interim-fasa-4-penjualan-bahan-pembinaan-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260101-infografik-e-invois-hasil-semuanya-digital-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260105-pengumuman-terkini-tempoh-kelonggaran-interim-fasa-4-penjualan-bahan-pembinaan-bm-1.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260101-infografik-e-invois-hasil-semuanya-digital-bm-1.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251224-promo-manfaat-myinvois-e-pos-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251220-pengecualian-pelaksanaan-e-invois-terkini-7-dis-2025-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251220-manfaat-e-invois-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251219-promo-aplikasi-myinvois-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/pengesahan-format-medan-data-persekitaran-pengujian-mulai-15122025-bm-1.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/pengesahan-format-medan-data-persekitaran-pengujian-mulai-15122025-bm-2.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251216-kombinasi-tin-dan-id-individu-bukan-warganegara-bm-1.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251216-kombinasi-tin-dan-id-individu-warganegara-bm-2.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251216-kombinasi-tin-dan-id-individu-warganegara-bm-1.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251216-kombinasi-tin-dan-id-individu-bukan-warganegara-bm-2.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251124-3-transaksi-terkini-yang-tidak-dibenarkan-untuk-disatukan-mulai-1-januari-2026.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250718-promo-e-invois-membantu-penyimpanan-rekod-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250603-awas-e-mel-notifikasi-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250518-5-langkah-utama-mengemukakan-e-invois-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250424-promo-portal-myinvois-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250415-panduan-ringkas-had-kadar-api.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250214-cetakan-atau-simpanan-paparan-visual-e-invois-di-portal-myinvois.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/infografik-2-2025-fungsi-carian-dokumen-sehingga-2-tahun.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/infografik-1-2025-layanan-e-invois-bagi-perkuisit-dan-manfaat-pekerja.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20241120-fungsi-janaan-kod-qr-maklumat-pembayar-cukai-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/aplikasi-myinvois-kini-tersedia-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/portal-myinvois-information-fungsi-dinaik-taraf-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/pengguna-pertama-kali-portal-myinvois-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/promo-portal-myinvois-bm.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/pengumpulan-maklumat-bagi-pengeluaran-e-invois.png"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/info-untuk-perhatian-pengguna-portal-myinvois-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/info-berkaitan-pelaksanaan-e-invois-bil-4-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/info-berkaitan-pelaksanaan-e-invois-bil-3-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/info-berkaitan-pelaksanaan-e-invois-bil-2-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20240509-info-berkaitan-pelaksanaan-e-invois-bil-1-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20240419-info-e-invois-hasil-pengumuman-akses-sandbox-myinvois-dibuka-bm.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/4-sdk-e-invois.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/3-aliran-kerja-e-invois.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/2-manfaat-e-invois.jpg"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/",
+          "label": "Year 2026 Year 2025 Year 2024",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1-apa-itu-e-invois.jpg"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [],
+  "baselined": [],
+  "needs_login": [],
+  "errors": [],
+  "partial": [],
+  "finished_at": "2026-11-05T03:16:31.994Z"
+}

@@ -36,8 +36,16 @@ Reports are delivered in the chat of the session that runs the check. Do not sen
    - **Removed items:** report one only when a document was withdrawn or
      replaced, not when an old item simply scrolled off a "latest" list.
    - **Image items** (`"image": true`, e.g. MyTax announcement banners): download
-     the image with `curl -sSL -o <scratch file> <href>` and look at it with the
+     the image with `curl -sSL -A 'Mozilla/5.0 (X11; Linux x86_64) Chrome/130.0' -o <scratch file> <href>`
+     (HASiL's firewall blocks downloads without a browser user-agent) and look at it with the
      Read tool to see what it announces.
+   - **HASiL e-Invoice infographics**
+     (https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/infografik/):
+     every new infographic is an announcement to review. Open the image as
+     above and report its title and content in English. HASiL publishes most of
+     them in Malay only (titles end in "(BM)"); if an English version exists
+     (title ending "(BI)"/"(EN)", or a file name ending -EN/-BI), link to that,
+     otherwise give the BM link and say it is the Malay version.
    - **Forms** (`new_form_years` / `new_forms`): report a new year that is now
      available for a form, e.g. "Form BE 2026 now available".
    - **Relevance:** LOM P.U.(A), MOF, MIDA and the Principal Acts list must be
