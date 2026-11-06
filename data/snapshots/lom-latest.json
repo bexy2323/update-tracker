@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-05T08:49:41.537Z",
+  "fetched_at": "2026-11-06T00:49:42.373Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
+          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
+          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
+          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
+          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
+          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
+          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct 30 Oct",
+          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -46,6 +46,10 @@
         {
           "label": "P.U. (A) 386/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzg2LzIwMjZ8YWQ0NmEyY2YxYWIwMTVhMWI4YTEzNWJlZWRlY2Y0NjRlZjc4ODhlM2VkOWZhYzk1NzQ2NDBhY2EwNzRjOTUwOA%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 448/2026 - NOTICE OF CONTESTED ELECTION LEGISLATIVE ASSEMBLY FOR THE STATE OF MALACCA",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQ4LzIwMjZ8NzhiZWFhNTE4YWY3YjY5Y2UzNWY3MWVhYjQ5NTVjZjQzNzllNDcwZjIwOWU0NDNmNjQ3M2I2ZTllYjEwOTE2Mg%3D%3D"
         },
         {
           "label": "P.U. (A) 382/2026 - HOUSING DEVELOPMENT (CONTROL AND LICENSING) (EXEMPTION) (NO. 3) ORDER 2026",
@@ -74,46 +78,6 @@
         {
           "label": "P.U. (B) 447/2026 - APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQ3LzIwMjZ8ZjY0NmEzNjdkNmU1NzJlNzBiNzllZDhjMGI4NWEwZTAzMzNkMTJjM2I4NTI5Mzg0Y2NlNTliOWUwMjczOWM5MQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 374/2026 - ATOMIC ENERGY (SAFEGUARDS) REGULATIONS 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzc0LzIwMjZ8ZWE1MzQ4ZWYxYjA4YTAxMGY0MDhkMTBjYTNjNGI1MmIzMmExZWQ2YzRhOTg3ODQwYzdiZjJiNjBkOGE4M2FlYw%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 375/2026 - PROCLAMATION",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzc1LzIwMjZ8ZmFjMTVlNjVkNmU5ODg5ZWYwNDc0Njk3ZDg4MDEwMWI4Mjc0NzI1MDk3ZmFhZGZkNGU0YzVkYzcwMzk0MzgwNg%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 376/2026 - NATIONAL SERVICE TRAINING (PERSONS REQUIRED TO UNDERGO NATIONAL SERVICE TRAINING) (NO. 2) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzc2LzIwMjZ8ZjMwODIwZTgxNzExZjIyZGFhM2JmNTNmN2E2ZDlkOTQ4MTU4YjE4NjkxMjc5YmZiODU0MjI5MDlhYzRmMWQwMg%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 377/2026 - RADIATION PROTECTION (LICENSING) (AMENDMENT) REGULATIONS 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzc3LzIwMjZ8MDY0M2M1YzJmOWMwOGMyMWY5NWUyNTdkMzkzOWYxOTIyZWJhYWM1ODE3YzE3YzMzMjc5NjI3ZmVmY2Y0YzBmMQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 441/2026 - DECLARATION OF HERITAGE OBJECT (NO. 4) 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQxLzIwMjZ8ZWYzMDRmMGM2YTE0MTM3YzM1MWQ1NTY4NTBmMGE5MTkyNTRhMjg1ZTdhNDU2MTViZGIzY2I5YzgxY2IwMDUzYQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 442/2026 - NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQyLzIwMjZ8NmU1OTEyOTA3NzI4OGNmYTI0MDJiMTA0NzdlMjU4ZTEyMDkzYjc0ZTg0NWU5NDM2ZDIxY2RlY2M4NGQyYzFhYw%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 443/2026 - SPECIAL DIRECTION OF THE MINISTER",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQzLzIwMjZ8M2I0ZTg3YjhjZjljZWJmMGUxYzEyY2FlMDZlYTlkMGUxYTcwYmIwMWU5MGY2YjRiYzNmNzM2YzZlYzU0NTEzNQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 444/2026 - NOTICE OF DESIGNATION OF SITE AS HERITAGE SITE",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQ0LzIwMjZ8OWIzOTE4OWI5NTM4Y2Q2Yzc2MmU3NTExZTQwNDFjM2Q2ODFlNmE2ZTM0NDIxMGI4NmIwZTg2ZjJkNTBmYjAwYQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 445/2026 - RETURN AND STATEMENTS OF ELECTION EXPENSES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQ1LzIwMjZ8ZTg4N2E5ZTNlNDJmODI2NmIzZGIxMDY4ODM0MTdlOTM5MjU1NGQ4ZGQ2YzdhMDcwMzVkYzkzOWJmMjEyMmE3Nw%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 446/2026 - NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQ2LzIwMjZ8YzU2MjMwOTIyZTE5N2Y5YWM3NTU4YzY3OTk5MWU5OTNmYTk4ZjUwMDk0NDRhOTY5MDU3NDJmNmUxYTBhMTk1MQ%3D%3D"
         },
         {
           "label": "STATISTICS ACT 2026",
@@ -164,6 +128,10 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
+          "label": "NOTICE OF CONTESTED ELECTION LEGISLATIVE ASSEMBLY FOR THE STATE OF MALACCA",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDQ4LzIwMjZ8MzE3ZTg4NzliY2NiODA2OGExYmU1YWI5YTJlNjdmODM2MzY3YmEwYjIwMjRhM2FjZDNiNWQ2OWYyMDM5MjMyMA%3D%3D"
+        },
+        {
           "label": "APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDQ3LzIwMjZ8Mzc5NmNmYTUyM2E1NmZlMDgxNDM1OWU5MWIwODk5MDEwMjI3ZTI0NzU0NWNlOWNhZGJmNmZjNTc5OTU4OGEzNA%3D%3D"
         },
@@ -172,11 +140,7 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDQ2LzIwMjZ8ZTNjNGQwYTcyZTM2ZmFhNzZmMjA1MTA3NTBiMTAxMTVlYjliOTgzYjcxMTkxZTMyMGM5ZDBlZTMxZDJlODRjMQ%3D%3D"
         },
         {
-          "label": "RETURN AND STATEMENTS OF ELECTION EXPENSES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDQ1LzIwMjZ8NmRlNDM5ODgyYWRhZWJkZWRmYmIzNWMyNDVlNzMxODAzYjFkN2RjNjM3OGNmZDNjNGE1YmUyNjJhMWQ4MWYzZg%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 447/2026 - APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM P.U. (B) 446/2026 - NOTICE TO THIRD PARTIES P.U. (B) 445/2026 - RETURN AND STATEMENTS OF ELECTION EXPENSES See All...",
+          "label": "P.U. (B) 448/2026 - NOTICE OF CONTESTED ELECTION LEGISLATIVE ASSEMBLY FOR THE STATE OF MALACCA P.U. (B) 447/2026 - APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM P.U. (B) 446/2026 - NOTICE TO THIRD PARTIES See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -184,42 +148,33 @@
           "href": "https://lom.agc.gov.my/federal-constitution.php"
         },
         {
-          "label": "P.U. (A) 375/2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzc1LzIwMjZ8ZWJhOTM0YmEwNDNjNzFkZTE1NzI0NWViZTg1YjQyYWU3ZTZmMzIxZjI4ODExOTcxZDdlYTIxYWEzMWJjNTlmNQ%3D%3D"
+          "label": "P.U. (A) 377/2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzc3LzIwMjZ8YWIwNWQxYmNhYTI2ZTA0MmYyNjJhN2E4YTUxYWNlODdkZTNjZjExZmU4NWM4ZGRmZWE3YmY4ZWU1ZjE5ZGY5ZA%3D%3D"
         }
       ],
       "lines": [
         "What's New",
         "Today",
+        "05 Nov",
         "04 Nov",
         "03 Nov",
         "02 Nov",
         "01 Nov",
         "31 Oct",
-        "30 Oct",
+        "There is no record to display",
         "P.U. (A)",
         "P.U. (A) 384/2026 - INCOME TAX (THE PRINCIPAL HUB INCENTIVE SCHEME) (AMENDMENT) RULES 2026",
         "P.U. (A) 385/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (REVOCATION) (NO. 4) ORDER 2026",
         "P.U. (A) 386/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026",
+        "P.U. (B)",
+        "P.U. (B) 448/2026 - NOTICE OF CONTESTED ELECTION LEGISLATIVE ASSEMBLY FOR THE STATE OF MALACCA",
         "P.U. (A) 382/2026 - HOUSING DEVELOPMENT (CONTROL AND LICENSING) (EXEMPTION) (NO. 3) ORDER 2026",
         "P.U. (A) 383/2026 - FEDERAL ROADS (WEST MALAYSIA) (AMENDMENT) (NO. 5) ORDER 2026",
         "P.U. (A) 378/2026 - CONTROL OF SUPPLIES (CONTROLLED ARTICLES) (NO. 4) ORDER 2026",
         "P.U. (A) 379/2026 - PRICE CONTROL AND ANTI-PROFITEERING (DETERMINATION OF MAXIMUM PRICE) (NO. 4) ORDER 2026",
         "P.U. (A) 380/2026 - PRICE CONTROL AND ANTI-PROFITEERING (PRICE MARKING OF PRICE-CONTROLLED GOODS) (NO. 4) ORDER 2026",
         "P.U. (A) 381/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026",
-        "P.U. (B)",
         "P.U. (B) 447/2026 - APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM",
-        "There is no record to display",
-        "P.U. (A) 374/2026 - ATOMIC ENERGY (SAFEGUARDS) REGULATIONS 2026",
-        "P.U. (A) 375/2026 - PROCLAMATION",
-        "P.U. (A) 376/2026 - NATIONAL SERVICE TRAINING (PERSONS REQUIRED TO UNDERGO NATIONAL SERVICE TRAINING) (NO. 2) ORDER 2026",
-        "P.U. (A) 377/2026 - RADIATION PROTECTION (LICENSING) (AMENDMENT) REGULATIONS 2026",
-        "P.U. (B) 441/2026 - DECLARATION OF HERITAGE OBJECT (NO. 4) 2026",
-        "P.U. (B) 442/2026 - NOTICE TO THIRD PARTIES",
-        "P.U. (B) 443/2026 - SPECIAL DIRECTION OF THE MINISTER",
-        "P.U. (B) 444/2026 - NOTICE OF DESIGNATION OF SITE AS HERITAGE SITE",
-        "P.U. (B) 445/2026 - RETURN AND STATEMENTS OF ELECTION EXPENSES",
-        "P.U. (B) 446/2026 - NOTICE TO THIRD PARTIES",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -231,11 +186,12 @@
         "Act A1799 - MALAYSIAN COMMUNICATIONS AND MULTIMEDIA COMMISSION (AMENDMENT) ACT 2026",
         "List of P.U. (A)",
         "List of P.U. (B)",
+        "P.U. (B) 446/2026 - NOTICE TO THIRD PARTIES",
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 854 840",
-        "P.U. (A) 375/2026 422"
+        "Act 854 521",
+        "P.U. (A) 377/2026 344"
       ]
     }
   ]
