@@ -1,0 +1,22 @@
+[
+  {
+    "source": "MySST (Royal Malaysian Customs)",
+    "section": "Pengumuman Terkini (Latest Announcements)",
+    "title": "Guide on Construction Work Services (Amendment) – revised version",
+    "publication_date": "06/11/2026 (MySST announcement; the guide is headed 'Publication Date: 17 March 2026' and the English file is dated 2.11.26)",
+    "change_type": "amendment",
+    "summary": "RMCD posted a revised Service Tax Guide on Construction Work Services (Group L, taxable at 6% since 1 July 2025). It covers the taxable scope, mixed and residential developments, EPCC contracts for ships and platforms, installation by registered manufacturers, the exemptions (residential buildings in mixed developments, B2B, design-and-build professional services, Federal and State Governments, local authorities, non-reviewable contracts, places of worship), the transition period (retention sums, LAD), special and designated areas, invoicing and FAQs. It includes the exemption under item 8 of STP 3/2025 (Amendment No. 3) for renovating existing non-residential buildings (shops, offices, warehouses, halls) into places of worship, with no refund of service tax already paid on the original construction. RMCD doesn't list what changed from the March 2026 version.",
+    "replaces": "The guide states it revokes and replaces the Construction Work Services Guide dated 9 June 2025; this November upload appears to revise the 17 March 2026 version",
+    "link": "https://pub-359af8e1f79c472292a7e44ec60f3027.r2.dev/Industry%20Guides/EN/GUIDE%20ON%20CONSTRUCTION%20WORK%20SERVICES%20DATED%2017.03.2026%20%5BAMENDMENT%5D%20%5BBI%5D_2.11.26%20(1).pdf"
+  },
+  {
+    "source": "HASiL (Inland Revenue Board)",
+    "section": "Legislation (everything)",
+    "title": "Tax case report: PT Travira Air v. DGIR (High Court KL, 02/11/2026) – helicopter payments to a non-resident taxed as rental of movable property (s.4A(iii)), not shipping/air transport income (s.54)",
+    "publication_date": "02/11/2026 (decision); added to HASiL Tax Case page 06/11/2026",
+    "change_type": "new",
+    "summary": "A non-resident company supplied helicopters (under a dry lease to Weststar) plus pilots and crew for offshore operations, with Carigali Hess paying it directly. The High Court upheld the SCIT: Weststar, not the taxpayer, provided the transport service, so the payments for use of the helicopters were income under s.4A(iii) read with s.109B (withholding tax on payments to non-residents), not air transport income under s.54. The assessments for YAs 2013–2015 stand; there was no double taxation because the 5% withholding tax already paid was credited against the 10% rate. The taxpayer may appeal to the Court of Appeal within 30 days.",
+    "replaces": "",
+    "link": "https://www.hasil.gov.my/wp-content/uploads/20261102-REVENEWS-PT-TRAVIRA-AIR.pdf"
+  }
+]

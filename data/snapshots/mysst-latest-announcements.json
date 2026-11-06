@@ -1,7 +1,7 @@
 {
   "check_id": "mysst-latest-announcements",
   "url": "https://mysst.customs.gov.my/",
-  "fetched_at": "2026-11-06T00:49:55.872Z",
+  "fetched_at": "2026-11-06T08:50:29.367Z",
   "pages": [
     {
       "url": "https://mysst.customs.gov.my/",
@@ -18,6 +18,10 @@
         {
           "label": "16/06/2025 Frequently Asked Questions (FAQ) - (FAQ) - Transition Of Sales Tax Rate Changes 2025 More",
           "href": "https://mysst.customs.gov.my/faq-transition-of-sales-tax-rate-changes-2025/"
+        },
+        {
+          "label": "06/11/2026 Guide on Construction Work Services (Amendment) More",
+          "href": "https://mysst.customs.gov.my/industry-guides/"
         },
         {
           "label": "03/11/2026 Service Tax Policy No. 6/2024 (Amendment No.3) More",
@@ -40,16 +44,12 @@
           "href": "https://mysst.customs.gov.my/sst-orders/"
         },
         {
-          "label": "07/10/2026 Service Tax Policy No. 6/2026 More",
+          "label": "07/10/2026 Service Tax Policy No. 6/2026More",
           "href": "https://mysst.customs.gov.my/service-tax-policy/"
         },
         {
           "label": "25/09/2026 Service Tax (Imposition Of Tax For Taxable Service In Respect Of Designated Areas Excluding Pulau 1 And Special Areas) (Amendment) Order 2026More",
           "href": "https://mysst.customs.gov.my/sst-orders/"
-        },
-        {
-          "label": "21/09/2026 Ketetapan Umum Bil. 6/2026 - Borang, Penyata, Cara Permohonan Dan Kaedah Bayaran Di Bawah Akta Cukai Pelancongan 2017, Akta Cukai Jualan 2018 Dan Akta Cukai Perkhidmatan 2018 More",
-          "href": "https://mysst.customs.gov.my/public-rulings/"
         },
         {
           "label": "Learn more about SST",
@@ -105,6 +105,8 @@
         "More",
         "16/06/2025",
         "Frequently Asked Questions (FAQ) - (FAQ) - Transition Of Sales Tax Rate Changes 2025",
+        "06/11/2026",
+        "Guide on Construction Work Services (Amendment)",
         "03/11/2026",
         "Service Tax Policy No. 6/2024 (Amendment No.3)",
         "Service Tax Policy No. 3/2026 (Amendment No.1)",
@@ -114,8 +116,6 @@
         "Service Tax Policy No. 6/2026 (Amendment No.1)",
         "22/10/2026",
         "Sales Tax (Imposition Of Sales Tax In Respect Of Designated Areas) (Amendment) Order 2025",
-        "07/10/2026",
-        "Service Tax Policy No. 6/2026",
         "WELCOME TO THE",
         "Official Website",
         "Malaysia Sales & Service Tax",

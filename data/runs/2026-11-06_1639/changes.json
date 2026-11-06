@@ -1,0 +1,275 @@
+{
+  "run_id": "2026-11-06_1639",
+  "started_at": "2026-11-06T08:39:31.505Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/perundangan/akta/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/kes-cukai/",
+          "label": "Case Report>> (229.32 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261102-REVENEWS-PT-TRAVIRA-AIR.pdf"
+        }
+      ],
+      "removed_items": [],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-latest",
+      "section": "Principal Act / List of P.U. (A) / Finance Bill (latest legislation feed, tax-relevant only)",
+      "url": "https://lom.agc.gov.my/index.php",
+      "new_items": [
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (B) 450/2026 - NOTICE OF AFFIRMATIVE PRELIMINARY DETERMINATION OF ANTI-DUMPING DUTY INVESTIGATION WITH REGARD TO IMPORTS OF FLAT ROLLED PRODUCT OF OTHER ALLOY STEEL AND NON-ALLOY STEEL, PLATED OR COATED WITH ALUMINIUM AND ZINC, ORIGINATING OR EXPORTED FROM THE PEOPLE’S REPUBLIC OF CHINA, CHINESE TAIPEI AND THE SOCIALIST REPUBLIC OF VIET NAM",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDUwLzIwMjZ8MTFiNTcwOGExYmZkZjI2MTUzNThlYmEyMDM1MmJiMTQ3MjdlN2MzODBjMjhiNTNlZjZkMTk1MmU1NTAzZjdjMA%3D%3D"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "INCOME TAX (THE PRINCIPAL HUB INCENTIVE SCHEME) (AMENDMENT) RULES 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg0LzIwMjZ8YTc3ODZmMDAxZGE0MGJiY2U2MTJjMzQzNjExZDI5NDc2ZjgyMjBiZDRmZTdiZTZkZTM0MWJiYzEwOTg1ZDE2OQ%3D%3D"
+        },
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 386/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026 P.U. (A) 385/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (REVOCATION) (NO. 4) ORDER 2026 P.U. (A) 384/2026 - INCOME TAX (THE PRINCIPAL HUB INCENTIVE SCHEME) (AMENDMENT) RULES 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": [],
+      "not_relevant_count": 12
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-latest-announcements",
+      "section": "Pengumuman Terkini (Latest Announcements)",
+      "url": "https://mysst.customs.gov.my/",
+      "new_items": [
+        {
+          "page": "https://mysst.customs.gov.my/",
+          "label": "06/11/2026 Guide on Construction Work Services (Amendment) More",
+          "href": "https://mysst.customs.gov.my/industry-guides/"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://mysst.customs.gov.my/",
+          "label": "21/09/2026 Ketetapan Umum Bil. 6/2026 - Borang, Penyata, Cara Permohonan Dan Kaedah Bayaran Di Bawah Akta Cukai Pelancongan 2017, Akta Cukai Jualan 2018 Dan Akta Cukai Perkhidmatan 2018 More",
+          "href": "https://mysst.customs.gov.my/public-rulings/"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-announcements",
+      "section": "All announcements",
+      "url": "https://mysst.customs.gov.my/announcements/",
+      "new_items": [
+        {
+          "page": "https://mysst.customs.gov.my/announcements/",
+          "label": "06/11/2026 Guide on Construction Work Services (Amendment) More",
+          "href": "https://mysst.customs.gov.my/industry-guides/"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://mysst.customs.gov.my/announcements/",
+          "label": "21/09/2026 Ketetapan Umum Bil. 6/2026 - Borang, Penyata, Cara Permohonan Dan Kaedah Bayaran Di Bawah Akta Cukai Pelancongan 2017, Akta Cukai Jualan 2018 Dan Akta Cukai Perkhidmatan 2018 More",
+          "href": "https://mysst.customs.gov.my/public-rulings/"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-ectim",
+      "section": "eCTIM (titles listed on the public home page; full text needs member sign-in)",
+      "url": "https://www.ctim.org.my/",
+      "new_items": [
+        {
+          "page": "https://www.ctim.org.my/",
+          "label": "e-CTIM TECH-IT 44-2026 - Service Tax Policy No. 6-2024 (Amendment No. 3) – Expansion of Exemption Eligibility and Effective Dates for Maintenance, Repair and Overhaul (MRO) Services",
+          "href": "https://www.ctim.org.my/"
+        },
+        {
+          "page": "https://www.ctim.org.my/",
+          "label": "e-CTIM TECH-IT 43-2026 - Service Tax Policy No. 3/2026 (Amendment No.1) - Expansion of Service Tax Exemption on Maintenance Charges and Sinking Fund for Non-residential Premises or Buildings to Developers",
+          "href": "https://www.ctim.org.my/"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.ctim.org.my/",
+          "label": "e-CTIM TECH-IT 42-2026 - Service Tax (Digital Services) (Amendment) Regulations 2026 [P.U. (A) 371-2026].pdf",
+          "href": "https://www.ctim.org.my/"
+        },
+        {
+          "page": "https://www.ctim.org.my/",
+          "label": "e-CTIM TECH-DT 91-2026 - Income Tax (Deduction for Cost of Renovation and Conversion of Office Premise to Residential House) Rules 2026.pdf",
+          "href": "https://www.ctim.org.my/"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "url": "https://mytax.hasil.gov.my/",
+      "new_items": [
+        {
+          "page": "https://mytax.hasil.gov.my/",
+          "label": "Image: GetFile?bannerId=91",
+          "href": "https://mytax.hasil.gov.my/Api2/api/File/GetFile?bannerId=91",
+          "image": true
+        }
+      ],
+      "removed_items": [],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-announcements-media",
+      "section": "Home > Kenyataan Media & Pengumuman (Media Statements & Announcements)",
+      "url": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invois/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-myinvois-epos",
+      "section": "Pautan Popular > MyInvois e-POS",
+      "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-return-form-filing-programme",
+      "section": "Forms > Return Form Filing Programme",
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (years listed per form category)",
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-transfer-pricing",
+      "section": "Transfer Pricing",
+      "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/"
+    },
+    {
+      "source": "Ministry of Finance",
+      "check_id": "mof-news",
+      "section": "News (tax-relevant only)",
+      "url": "https://www.mof.gov.my/portal/en/news"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-pengumuman",
+      "section": "Pengumuman (Announcements)",
+      "url": "https://customs.gov.my/ms/arkib/pengumuman"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-berita-media",
+      "section": "Berita dan Media (News and Media)",
+      "url": "https://customs.gov.my/ms/arkib/liputan-media"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-dt",
+      "section": "Technical News > Direct Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-it",
+      "section": "Technical News > Indirect Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-indirect-taxation-tc-it/"
+    },
+    {
+      "source": "MySToDS (Service Tax on Digital Services)",
+      "check_id": "mystods-bulletin",
+      "section": "Bulletin Board",
+      "url": "https://mystods.customs.gov.my/"
+    },
+    {
+      "source": "Rosli Dahlan Saravana Partnership (RDS) - Tax Focus",
+      "check_id": "rds-tax-focus",
+      "section": "Tax Focus publications (for the monthly update class)",
+      "url": "https://www.rdslawpartners.com/publications/categories/tax-focus"
+    },
+    {
+      "source": "MDEC - National e-Invoicing",
+      "check_id": "mdec-einvoicing",
+      "section": "New Updates (Peppol-Ready Solution)",
+      "url": "https://mdec.my/national-einvoicing"
+    },
+    {
+      "source": "MIDA - Announcements & Media Releases",
+      "check_id": "mida-announcements",
+      "section": "Announcements & media releases (tax-relevant only)",
+      "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/"
+    }
+  ],
+  "baselined": [],
+  "needs_login": [
+    {
+      "source": "HASiL Facebook page",
+      "check_id": "hasil-facebook",
+      "section": "Facebook posts",
+      "url": "https://www.facebook.com/HASiLMalaysia"
+    },
+    {
+      "source": "CCH iKnowConnect (Malaysia)",
+      "check_id": "cch-news",
+      "section": "Latest news and articles",
+      "url": "https://iknowconnect.cch.com/MYS/home"
+    }
+  ],
+  "errors": [
+    {
+      "source": "Parliament of Malaysia - Dewan Rakyat bills",
+      "check_id": "parlimen-bills",
+      "section": "Bills (Income Tax Act and Finance Bills only)",
+      "url": "https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "HRD Corp - Circulars",
+      "check_id": "hrdcorp-circulars",
+      "section": "Circulars",
+      "url": "https://hrdcorp.gov.my/circulars",
+      "error": "HTTP 403"
+    }
+  ],
+  "partial": [],
+  "finished_at": "2026-11-06T08:53:16.434Z"
+}

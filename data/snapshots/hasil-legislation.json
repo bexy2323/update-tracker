@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-legislation",
   "url": "https://www.hasil.gov.my/en/perundangan/akta/",
-  "fetched_at": "2026-11-06T00:49:34.535Z",
+  "fetched_at": "2026-11-06T08:50:07.462Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/perundangan/akta/",
@@ -2369,6 +2369,10 @@
           "href": "https://www.hasil.gov.my/en/perundangan/kes-cukai/"
         },
         {
+          "label": "Case Report>> (229.32 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261102-REVENEWS-PT-TRAVIRA-AIR.pdf"
+        },
+        {
           "label": "Case Report>> (246.44 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/20261029-REVENEWS-M12SB.pdf"
         },
@@ -3872,6 +3876,10 @@
         "Expand All",
         "List of Recent Tax Case",
         "Section Case Title Category Date Issued",
+        "Section 4A(iii), 54 & 109B Income Tax Act 1967",
+        "PT Travira Air v Director General of Inland Revenue",
+        "Case Report>> (229.32 KB)",
+        "Tax Appeal 06.11.2026",
         "Section 33(1) Income Tax Act 1967 & P.U.(A) 117/2017",
         "M12SB v Director General of Inland Revenue",
         "Case Report>> (246.44 KB)",
