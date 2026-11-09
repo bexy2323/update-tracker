@@ -1,43 +1,47 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-06T08:50:16.045Z",
+  "fetched_at": "2026-11-09T00:49:41.178Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
+          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
+          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
+          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
+          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
+          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
+          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 05 Nov 04 Nov 03 Nov 02 Nov 01 Nov 31 Oct",
+          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
           "label": "P.U. (A) 387/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzg3LzIwMjZ8YzA2MDAzNTliMzc0OTg0MTk5ZDY0ZTA5ZWJmYTlmODZmOWRhMDExY2JkOWY3OGVlNDEyMTcwNTY4YWRhZTMwMQ%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 388/2026 - CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzg4LzIwMjZ8NzFjZDUzN2Q0NzlmM2M1N2ZlOWRiZDQzODQyODJhODdiNjgzNTlmNDBmNDU0MDYwNTczOTgxYWU3MTA1NzI0MA%3D%3D"
         },
         {
           "label": "P.U. (B) 449/2026 - NOTICE TO THIRD PARTIES",
@@ -60,8 +64,24 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDUzLzIwMjZ8M2QyZDMyMjIxZWRjODRlYjVkY2E0NGE2YzU5Mjg5MjE2YTA1MjQ0N2U5ZDE2ZWQxMmI2ZTY3MzRkNTRkNjg2NA%3D%3D"
         },
         {
+          "label": "P.U. (B) 454/2026 - NOTIFICATION UNDER PARAGRAPH 3(1)(e)",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDU0LzIwMjZ8N2Q2M2U0YzU5MjUzOTM2NzU4NGE5NDllYmUzN2RjZTdiNzllYjYxNGZhMmY4ZDJhN2EzODI2ZTQ4MTU0NDNkMw%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 455/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDU1LzIwMjZ8ODJhYWI1NDE5NjYwZGIyZGFmMmY2ZmNmZDg3M2JhZjMxZTMwMjg5NGU2YjkxN2RjYmEzNzA5M2FkNjBjNDdiZQ%3D%3D"
+        },
+        {
           "label": "P.U. (B) 456/2026 - DECLARATION UNDER SECTION 3",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDU2LzIwMjZ8YTZjZTNmZDQ3MjVlNzJmYzQwY2I0ZGU5MmU3NDEwZmIyOTY3NzExZDdjZWIwY2JiYzZhMjBkNWMwM2YxZDY0Nw%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 457/2026 - NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDU3LzIwMjZ8OWRlZGI2ZDY1MjA2ZDZjZmQxMjYyZDc3NDI0MGVjNmUzMjM2YzA1ZjIwYjczMTU2ODI5ZTMwYTE5YjVkYWM2ZQ%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 458/2026 - NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDU4LzIwMjZ8MDQzNjhlYWJmZGEyNGMwMmRhYmUzMDhjNjI5NmNiODBhNGUxZjdiOWEyOGNmYzM4MGNhMWMwNWRmYjY5ZDk1OQ%3D%3D"
         },
         {
           "label": "P.U. (A) 384/2026 - INCOME TAX (THE PRINCIPAL HUB INCENTIVE SCHEME) (AMENDMENT) RULES 2026",
@@ -140,6 +160,10 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9YW1lbmRtZW50Jmxhbmd1YWdlPUJJfGU0NGQyMzUzY2MyNjFmNjk1Njg2OWM2ZDk3YjJiZjQ2ODg4MzBiYzZiMTk0MGJlMDVkOWZhNmU5Y2FmZWQ2OWE%3D"
         },
         {
+          "label": "CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg4LzIwMjZ8NTEyODgyOTE2NTE4MTg5MGNlOGY2NzlkYjcxOWU4NmJhMzg5NDg1YzNmNWQ4ZTRiOTRkZjI0Mjk0MjcyYTMzZQ%3D%3D"
+        },
+        {
           "label": "NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg3LzIwMjZ8Yzk1NWU1NWE2OGI5OGU3NjQxNjY1ZDk5YmMwN2Y1OTY3OTg2YzA4NjE2MzRhZTUzYzE3ZTYxMWEyMzdlYWRiOA%3D%3D"
         },
@@ -148,27 +172,23 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg2LzIwMjZ8N2M4MDVlZGNhNDA4NzM2MzNlMDI3MGJiY2QzZDE1Y2ExZTU1M2U3NmJiZmViMTk1YzJkYWQ4ZGRmYzliYTVkNg%3D%3D"
         },
         {
-          "label": "ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (REVOCATION) (NO. 4) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg1LzIwMjZ8MzIyYTU0M2VmYjRhMmYxODExMGM5NmVmZTA3YmQxNTJlNzZhNTA0ZmViZTMxM2Q0NGVjMmFhNzczYjUwMjdjMA%3D%3D"
+          "label": "P.U. (A) 388/2026 - CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026 P.U. (A) 387/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026 P.U. (A) 386/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
-          "label": "P.U. (A) 387/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026 P.U. (A) 386/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026 P.U. (A) 385/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (REVOCATION) (NO. 4) ORDER 2026 See All...",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+          "label": "NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDU4LzIwMjZ8N2IwOTMxYTdjZWJmNjg5OTZlOTUyYjMyZjhjY2NhOTgyNmNkOTZlZjU3MzA2YTMzY2FmMWIyYTIwY2IyODg4Nw%3D%3D"
+        },
+        {
+          "label": "NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDU3LzIwMjZ8ZDg1NGNjOGJkNGM2MTAzNTE5ODgwODJmMWVhYjljYzgwYTkzYjJlZTNlZWVjMjM4OGM5ZmI3YjY5NzJhYzlkYw%3D%3D"
         },
         {
           "label": "DECLARATION UNDER SECTION 3",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDU2LzIwMjZ8MDVjOTE5YTNmZWVjNzY2MDJmODY1MDQ1Y2Q3MjlmY2Q1YWI1MzFiMjkxNWFmNWYyOGY1ZWU4MTJhMjM2Y2ExYg%3D%3D"
         },
         {
-          "label": "NOTICE TO HOLD A GENERAL ELECTION TO THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDUzLzIwMjZ8MzZhNGNkNzVkOGMxNDg4ZDA4MTIyMDIyZTlkZmNhZDUwNWQxNmMzNjcwNzE0ZTU0Njk4YWQwY2U5MjEwZjg3MQ%3D%3D"
-        },
-        {
-          "label": "DETERMINATION OF ELECTORAL ROLL FOR THE GENERAL ELECTION OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDUyLzIwMjZ8ZmU2OThiMjM4MWM4MWJiZjVlNTE5MDhmZjNlN2ViNTYwMWU5OWEwZWU4MDk5YjYzNDNkYTM0NzY1Y2U5MjdjYQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 456/2026 - DECLARATION UNDER SECTION 3 P.U. (B) 453/2026 - NOTICE TO HOLD A GENERAL ELECTION TO THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK P.U. (B) 452/2026 - DETERMINATION OF ELECTORAL ROLL FOR THE GENERAL ELECTION OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK See All...",
+          "label": "P.U. (B) 458/2026 - NOTICE TO THIRD PARTIES P.U. (B) 457/2026 - NOTICE TO THIRD PARTIES P.U. (B) 456/2026 - DECLARATION UNDER SECTION 3 See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -176,28 +196,34 @@
           "href": "https://lom.agc.gov.my/federal-constitution.php"
         },
         {
-          "label": "P.U. (A) 377/2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzc3LzIwMjZ8YWIwNWQxYmNhYTI2ZTA0MmYyNjJhN2E4YTUxYWNlODdkZTNjZjExZmU4NWM4ZGRmZWE3YmY4ZWU1ZjE5ZGY5ZA%3D%3D"
+          "label": "P.U. (B) 456/2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDU2LzIwMjZ8MDVjOTE5YTNmZWVjNzY2MDJmODY1MDQ1Y2Q3MjlmY2Q1YWI1MzFiMjkxNWFmNWYyOGY1ZWU4MTJhMjM2Y2ExYg%3D%3D"
         }
       ],
       "lines": [
         "What's New",
         "Today",
+        "08 Nov",
+        "07 Nov",
+        "06 Nov",
         "05 Nov",
         "04 Nov",
         "03 Nov",
-        "02 Nov",
-        "01 Nov",
-        "31 Oct",
+        "There is no record to display",
         "P.U. (A)",
         "P.U. (A) 387/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026",
+        "P.U. (A) 388/2026 - CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026",
         "P.U. (B)",
         "P.U. (B) 449/2026 - NOTICE TO THIRD PARTIES",
         "P.U. (B) 450/2026 - NOTICE OF AFFIRMATIVE PRELIMINARY DETERMINATION OF ANTI-DUMPING DUTY INVESTIGATION WITH REGARD TO IMPORTS OF FLAT ROLLED PRODUCT OF OTHER ALLOY STEEL AND NON-ALLOY STEEL, PLATED OR COATED WITH ALUMINIUM AND ZINC, ORIGINATING OR EXPORTED FROM THE PEOPLE’S REPUBLIC OF CHINA, CHINESE TAIPEI AND THE SOCIALIST REPUBLIC OF VIET NAM",
         "P.U. (B) 451/2026 - NOTICE TO THIRD PARTIES",
         "P.U. (B) 452/2026 - DETERMINATION OF ELECTORAL ROLL FOR THE GENERAL ELECTION OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
         "P.U. (B) 453/2026 - NOTICE TO HOLD A GENERAL ELECTION TO THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
+        "P.U. (B) 454/2026 - NOTIFICATION UNDER PARAGRAPH 3(1)(e)",
+        "P.U. (B) 455/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
         "P.U. (B) 456/2026 - DECLARATION UNDER SECTION 3",
+        "P.U. (B) 457/2026 - NOTICE TO THIRD PARTIES",
+        "P.U. (B) 458/2026 - NOTICE TO THIRD PARTIES",
         "P.U. (A) 384/2026 - INCOME TAX (THE PRINCIPAL HUB INCENTIVE SCHEME) (AMENDMENT) RULES 2026",
         "P.U. (A) 385/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (REVOCATION) (NO. 4) ORDER 2026",
         "P.U. (A) 386/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026",
@@ -209,7 +235,6 @@
         "P.U. (A) 380/2026 - PRICE CONTROL AND ANTI-PROFITEERING (PRICE MARKING OF PRICE-CONTROLLED GOODS) (NO. 4) ORDER 2026",
         "P.U. (A) 381/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026",
         "P.U. (B) 447/2026 - APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM",
-        "There is no record to display",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -224,8 +249,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 854 612",
-        "P.U. (A) 377/2026 357"
+        "P.U. (B) 456/2026 913",
+        "Act 854 556"
       ]
     }
   ]

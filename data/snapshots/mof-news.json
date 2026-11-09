@@ -1,7 +1,7 @@
 {
   "check_id": "mof-news",
   "url": "https://www.mof.gov.my/portal/en/news",
-  "fetched_at": "2026-11-06T08:50:43.678Z",
+  "fetched_at": "2026-11-09T00:50:20.889Z",
   "pages": [
     {
       "url": "https://www.mof.gov.my/portal/en/news",
@@ -22,6 +22,14 @@
         {
           "label": "fas fa-sitemap",
           "href": "https://www.mof.gov.my/portal/en/site-map"
+        },
+        {
+          "label": "Cradle Live! Summit 2026 Speech 05 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/speech/cradle-live-summit-2026"
+        },
+        {
+          "label": "Cradle Live! Summit 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/speech/cradle-live-summit-2026"
         },
         {
           "label": "Phase Four STR: RM1.1 Bln Disbursement Begins Today For Over Five Million Recipients – Anwar Press Citations 04 November 2026",
@@ -62,14 +70,6 @@
         {
           "label": "2.14 Bln E-invoices Submitted As Of Nov 2, Implementation To Uphold Fairness - PM Anwar",
           "href": "https://www.mof.gov.my/portal/en/news/press-citations/2-14-bln-e-invoices-submitted-as-of-nov-2-implementation-to-uphold-fairness-pm-anwar"
-        },
-        {
-          "label": "Courtesy Call From The High Commissioner Of New Zealand Photos 02 November 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/photos/courtesy-call-from-the-high-commissioner-of-new-zealand"
-        },
-        {
-          "label": "Courtesy Call From The High Commissioner Of New Zealand",
-          "href": "https://www.mof.gov.my/portal/en/news/photos/courtesy-call-from-the-high-commissioner-of-new-zealand"
         },
         {
           "label": "Press Release",
@@ -182,6 +182,9 @@
         "fas fa-sitemap",
         "Site Map",
         "NEWS & MEDIA",
+        "Cradle Live! Summit 2026",
+        "Speech",
+        "05 November 2026",
         "Phase Four STR: RM1.1 Bln Disbursement Begins Today For Over Five Million Recipients – Anwar",
         "Press Citations",
         "04 November 2026",
@@ -191,11 +194,8 @@
         "Govt Approves Over RM250 Mln To Support ECRL Development In Kelantan -- MOF",
         "03 November 2026",
         "2.14 Bln E-invoices Submitted As Of Nov 2, Implementation To Uphold Fairness - PM Anwar",
-        "Courtesy Call From The High Commissioner Of New Zealand",
         "Photos",
-        "02 November 2026",
         "Videos",
-        "Speech",
         "ASEAN 2025",
         "Home",
         "Ministry's Profile",

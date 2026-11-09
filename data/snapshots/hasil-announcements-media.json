@@ -1,12 +1,16 @@
 {
   "check_id": "hasil-announcements-media",
   "url": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
-  "fetched_at": "2026-11-06T08:39:43.144Z",
+  "fetched_at": "2026-11-09T00:39:19.438Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/",
       "title": "Pengumuman & Kenyataan Media",
       "items": [
+        {
+          "label": "Announcement 06 Nov 2026 NOTICE OF TEMPORARY SERVICE DISRUPTION DUE TO SCHEDULED MAINTENANCE Please be informed that the HASiL Official Portal will experience temporary service disruption due to scheduled maintenance as follows: Start Date/Time : 6 November 2026, Friday / 10.00 p.m End Date/Time : 7 November 2026, Saturday / 12.00 a.m We apologise for any inconvenience caused. Your cooperation and",
+          "href": "https://www.hasil.gov.my/en/butiran-media/?item=cGVuZ3VtdW1hbnwxMTc%3D"
+        },
         {
           "label": "Media Release 03 Nov 2026 INOVASI DAN INTEGRITI PACU TRANSFORMASI PENTADBIRAN CUKAI NEGARA CYBERJAYA, 3 NOVEMBER 2026 – Inovasi dan integriti terus menjadi teras transformasi pentadbiran cukai negara, seiring dengan komitmen Lembaga Hasil Dalam Negeri Malaysia (HASiL) untuk memperkukuh penggunaan teknologi digital, termasuk kecerdasan buatan (AI), bagi meningkatkan kecekapan operasi, pematuhan per",
           "href": "https://www.hasil.gov.my/en/butiran-media/?item=a2VueWF0YWFuX21lZGlhfDIyMQ%3D%3D"
@@ -104,7 +108,7 @@
           "href": "https://www.hasil.gov.my/en/butiran-media/?item=a2VueWF0YWFuX21lZGlhfDIxMQ%3D%3D"
         },
         {
-          "label": "Media Release 14 Aug 2026 PENDAFTARAN SEMINAR PERCUKAIAN KEBANGSAAN 2026 (BELANJAWAN 2027) KINI DIBUKA CYBERJAYA, 14 OGOS 2026 – Lembaga Hasil Dalam Negeri Malaysia (HASiL) akan menganjurkan Seminar Percukaian Kebangsaan (SPK) 2026 (Belanjawan 2027) susulan pembentangan Belanjawan 2027 yang dijadualkan pada bulan Oktober 2026. Click here to download",
+          "label": "Media Release 14 Aug 2026 Pendaftaran Seminar Percukaian Kebangsaan 2026 (Belanjawan 2027) Kini Dibuka CYBERJAYA, 14 OGOS 2026 – Lembaga Hasil Dalam Negeri Malaysia (HASiL) akan menganjurkan Seminar Percukaian Kebangsaan (SPK) 2026 (Belanjawan 2027) susulan pembentangan Belanjawan 2027 yang dijadualkan pada bulan Oktober 2026. Click here to download",
           "href": "https://www.hasil.gov.my/en/butiran-media/?item=a2VueWF0YWFuX21lZGlhfDIwOQ%3D%3D"
         },
         {
@@ -414,6 +418,10 @@
         "2024",
         "All",
         "Search",
+        "Announcement",
+        "06 Nov 2026",
+        "NOTICE OF TEMPORARY SERVICE DISRUPTION DUE TO SCHEDULED MAINTENANCE",
+        "Please be informed that the HASiL Official Portal will experience temporary service disruption due to scheduled maintenance as follows: Start Date/Time : 6 November 2026, Friday / 10.00 p.m End Date/Time : 7 November 2026, Saturday / 12.00 a.m We apologise for any inconvenience caused. Your cooperation and understanding are greatly appreciated. Thank you.",
         "Media Release",
         "03 Nov 2026",
         "INOVASI DAN INTEGRITI PACU TRANSFORMASI PENTADBIRAN CUKAI NEGARA",
@@ -421,7 +429,6 @@
         "31 Oct 2026",
         "HASIL DEKATI HAMPIR 300,000 ORANG AWAM SEMPENA BULAN HASIL 2026",
         "KUALA LUMPUR, 31 OKTOBER 2026 – Sambutan Bulan HASiL 2026 berjaya mendekati hampir 300,000 orang awam di seluruh negara menerusi pelbagai program pendidikan dan literasi cukai yang dilaksanakan sepanjang Oktober... Click here to download",
-        "Announcement",
         "30 Oct 2026",
         "TECHNICAL GUIDELINES",
         "Please be informed that Technical Guidelines: Guidelines on Applications for Approval by the Director General of Inland Revenue Under Subsection 44(6) of the Income Tax Act 1967 for Houses of Worship Management Funds can now be downloaded from HASiL Official Portal. Click here to download",
@@ -438,7 +445,6 @@
         "LEBIH 5,600 PESERTA DAFTAR SEMINAR PERCUKAIAN KEBANGSAAN (BELANJAWAN 2027) ANJURAN HASIL",
         "CYBERJAYA, 15 OKTOBER 2026 – Lebih 5,600 peserta telah mendaftar untuk menyertai Seminar Percukaian Kebangsaan (SPK) 2026 anjuran Lembaga Hasil Dalam Negeri Malaysia (HASiL), yang dianjurkan secara dalam talian dalam dua siri. Siri Pertama berlangsung pada 14 Oktober 2026, manakala Siri Kedua dijadualkan pada 21 Oktober 2026. Click here to download",
         "09 Oct 2026",
-        "NOTICE OF TEMPORARY SERVICE DISRUPTION DUE TO SCHEDULED MAINTENANCE",
         "Please be informed that the HASiL Official Portal, MyTax, e-Filing, MyInvois (Portal, Mobile Application, API and MyInvois e-POS) and ezHasil Services will experience temporary service disruption due to scheduled maintenance as follows: Start Date/Time: 9 October 2026 (Friday) / 10.00 p.m. End Date/Time: 10 October 2026 (Saturday) / 3.00 a.m. We apologise for any inconvenience…",
         "06 Oct 2026",
         "Please be informed that Technical Guidelines: Guidelines on the Imposition of Stamp Duty on Service Agreement Instruments can now be downloaded from HASiL Official Portal. Click here to download",
@@ -481,10 +487,7 @@
         "Please be informed that the HASiL Official Portal will experience temporary service disruption due to scheduled maintenance as follows: Start Date/Time: 22 August 2026 (Saturday) / 11.00 p.m. End Date/Time: 23 August 2026 (Sunday) / 4.00 a.m. We apologise for any inconvenience caused. Your cooperation and understanding are greatly appreciated. Thank you.",
         "20 Aug 2026",
         "HASIL PERKUKUH TADBIR URUS DAN PEMATUHAN PERCUKAIAN INSTITUSI, ORGANISASI DAN TABUNG MELALUI LIBAT URUS NASIONAL",
-        "Lembaga Hasil Dalam Negeri Malaysia (HASiL) terus memperkukuh tadbir urus dan pematuhan percukaian dalam kalangan Institusi, Organisasi dan Tabung (IOT) melalui pelaksanaan Sesi Libat Urus Strategik HASiL Bersama IOT Tahun 2026 yang dilaksanakan secara berperingkat di enam zon di seluruh negara. Click here to download",
-        "14 Aug 2026",
-        "PENDAFTARAN SEMINAR PERCUKAIAN KEBANGSAAN 2026 (BELANJAWAN 2027) KINI DIBUKA",
-        "CYBERJAYA, 14 OGOS 2026 – Lembaga Hasil Dalam Negeri Malaysia (HASiL) akan menganjurkan Seminar Percukaian Kebangsaan (SPK) 2026 (Belanjawan 2027) susulan pembentangan Belanjawan 2027 yang dijadualkan pada bulan Oktober 2026. Click here to download"
+        "Lembaga Hasil Dalam Negeri Malaysia (HASiL) terus memperkukuh tadbir urus dan pematuhan percukaian dalam kalangan Institusi, Organisasi dan Tabung (IOT) melalui pelaksanaan Sesi Libat Urus Strategik HASiL Bersama IOT Tahun 2026 yang dilaksanakan secara berperingkat di enam zon di seluruh negara. Click here to download"
       ]
     }
   ]
