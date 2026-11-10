@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-legislation",
   "url": "https://www.hasil.gov.my/en/perundangan/akta/",
-  "fetched_at": "2026-11-10T00:51:01.745Z",
+  "fetched_at": "2026-11-10T08:49:32.200Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/perundangan/akta/",
@@ -60,6 +60,10 @@
         {
           "label": "Expand All",
           "href": "https://www.hasil.gov.my/en/perundangan/ketetapan-umum/"
+        },
+        {
+          "label": "Original (759.21 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf"
         },
         {
           "label": "Original (481.10 KB)",
@@ -1087,6 +1091,7 @@
         "Expand All",
         "Year 2026",
         "REF. NO Public Ruling Title Date Issued Notes",
+        "No. 5/2026 Taxation Of A Resident Individual part I - Gifts Or Contributions And Allowable Deductions 04.11.2026 Original (759.21 KB)",
         "No. 4/2026 Special Allowances For Small Value Assets 30.09.2026 Original (481.10 KB)",
         "No. 3/2026 Bilateral Credit And Unilateral Credit 22.05.2026 Original (250.14 KB)",
         "No. 2/2026 Tax Treatment of Foreign Nationals Exercising Employment in Malaysia 27.03.2026 Original (259.99 KB)",

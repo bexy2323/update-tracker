@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-10T00:51:09.518Z",
+  "fetched_at": "2026-11-10T08:49:41.189Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -34,6 +34,22 @@
         {
           "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (A) 389/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzg5LzIwMjZ8YTE1MjRhOWZjMGEyZTQwYzdiODYzNzJlYzJmNjg0MDNiODg0YWYxZDAxMWE3YTI5MjA0YjM0OTVkMTBiMDNhYQ%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzkwLzIwMjZ8NWQwZjU1NDJmNjEwNWE2MzViMzc4MjhkYWIyZWYxMTZjZGE4MDk2NGQyNDM1ZWU5OWRkMTZhMDAwOThjYjVjYg%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 459/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF FEDERAL LANDS COMMISSIONER",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDU5LzIwMjZ8MGZjZDA1Nzc1Y2U2OTNlOTQ5NWQxNThhNjM5OGEwZWU0Yjg0YTZkMWU2OTAyNWZmNGNmNTk5ODg3MTA0MDIzMg%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDYwLzIwMjZ8MjFlZTM1ZDhmZTU3ZDNkNThkYWI4YjAyZGE2MjY0Mjk2ZjRmY2RmMWYzMjZhODVjYzhlY2IwM2NmZDBiZGU0YQ%3D%3D"
         },
         {
           "label": "P.U. (A) 387/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026",
@@ -140,35 +156,35 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9YW1lbmRtZW50Jmxhbmd1YWdlPUJJfGU0NGQyMzUzY2MyNjFmNjk1Njg2OWM2ZDk3YjJiZjQ2ODg4MzBiYzZiMTk0MGJlMDVkOWZhNmU5Y2FmZWQ2OWE%3D"
         },
         {
+          "label": "NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzkwLzIwMjZ8NmMzZGQ2M2I3YzIwYzM5YWJhY2EwMjkxZWU4MDM2ZWVkOGIyZDgxM2JkNmY4ODE4ZjM3ZWI3ZjAyYWE1OGJiMg%3D%3D"
+        },
+        {
+          "label": "NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg5LzIwMjZ8ZmIxYWFlM2I1ZGJmNGRkYTUxMDU1N2I5MTI2ZGE1YmM5MzRkZWE4MzI2YmIzMjgwNDM2YjMyZWM0MmU4MzI4MQ%3D%3D"
+        },
+        {
           "label": "CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg4LzIwMjZ8NTEyODgyOTE2NTE4MTg5MGNlOGY2NzlkYjcxOWU4NmJhMzg5NDg1YzNmNWQ4ZTRiOTRkZjI0Mjk0MjcyYTMzZQ%3D%3D"
         },
         {
-          "label": "NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg3LzIwMjZ8Yzk1NWU1NWE2OGI5OGU3NjQxNjY1ZDk5YmMwN2Y1OTY3OTg2YzA4NjE2MzRhZTUzYzE3ZTYxMWEyMzdlYWRiOA%3D%3D"
-        },
-        {
-          "label": "ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg2LzIwMjZ8N2M4MDVlZGNhNDA4NzM2MzNlMDI3MGJiY2QzZDE1Y2ExZTU1M2U3NmJiZmViMTk1YzJkYWQ4ZGRmYzliYTVkNg%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 388/2026 - CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026 P.U. (A) 387/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026 P.U. (A) 386/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026 See All...",
+          "label": "P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026 P.U. (A) 389/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026 P.U. (A) 388/2026 - CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026 See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+        },
+        {
+          "label": "NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDYwLzIwMjZ8NDFmYzVlYTJlNTRmM2RlZWQ5Zjk5MGEyOGQ1NjkwMjllNjYxOTNkZDE0NjY4NWU2MWE5NTgwYzQwYWY5ZTZmMw%3D%3D"
+        },
+        {
+          "label": "APPOINTMENT AND REVOCATION OF APPOINTMENT OF FEDERAL LANDS COMMISSIONER",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDU5LzIwMjZ8YzA1Njk4N2U1YjNjNTU1YmUwY2UyNGJkN2ZlNzBhYjA5MWExZWNkN2I2ZjliYTU1ZGFlOGUzZTRlYmYwOGI5MA%3D%3D"
         },
         {
           "label": "NOTICE TO THIRD PARTIES",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDU4LzIwMjZ8N2IwOTMxYTdjZWJmNjg5OTZlOTUyYjMyZjhjY2NhOTgyNmNkOTZlZjU3MzA2YTMzY2FmMWIyYTIwY2IyODg4Nw%3D%3D"
         },
         {
-          "label": "NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDU3LzIwMjZ8ZDg1NGNjOGJkNGM2MTAzNTE5ODgwODJmMWVhYjljYzgwYTkzYjJlZTNlZWVjMjM4OGM5ZmI3YjY5NzJhYzlkYw%3D%3D"
-        },
-        {
-          "label": "DECLARATION UNDER SECTION 3",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDU2LzIwMjZ8MDVjOTE5YTNmZWVjNzY2MDJmODY1MDQ1Y2Q3MjlmY2Q1YWI1MzFiMjkxNWFmNWYyOGY1ZWU4MTJhMjM2Y2ExYg%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 458/2026 - NOTICE TO THIRD PARTIES P.U. (B) 457/2026 - NOTICE TO THIRD PARTIES P.U. (B) 456/2026 - DECLARATION UNDER SECTION 3 See All...",
+          "label": "P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES P.U. (B) 459/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF FEDERAL LANDS COMMISSIONER P.U. (B) 458/2026 - NOTICE TO THIRD PARTIES See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -189,11 +205,15 @@
         "06 Nov",
         "05 Nov",
         "04 Nov",
-        "There is no record to display",
         "P.U. (A)",
+        "P.U. (A) 389/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026",
+        "P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026",
+        "P.U. (B)",
+        "P.U. (B) 459/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF FEDERAL LANDS COMMISSIONER",
+        "P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES",
+        "There is no record to display",
         "P.U. (A) 387/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026",
         "P.U. (A) 388/2026 - CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026",
-        "P.U. (B)",
         "P.U. (B) 449/2026 - NOTICE TO THIRD PARTIES",
         "P.U. (B) 450/2026 - NOTICE OF AFFIRMATIVE PRELIMINARY DETERMINATION OF ANTI-DUMPING DUTY INVESTIGATION WITH REGARD TO IMPORTS OF FLAT ROLLED PRODUCT OF OTHER ALLOY STEEL AND NON-ALLOY STEEL, PLATED OR COATED WITH ALUMINIUM AND ZINC, ORIGINATING OR EXPORTED FROM THE PEOPLE’S REPUBLIC OF CHINA, CHINESE TAIPEI AND THE SOCIALIST REPUBLIC OF VIET NAM",
         "P.U. (B) 451/2026 - NOTICE TO THIRD PARTIES",
@@ -224,7 +244,7 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 854 532"
+        "Act 854 613"
       ]
     }
   ]
