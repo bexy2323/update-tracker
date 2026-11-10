@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-09T08:50:50.876Z",
+  "fetched_at": "2026-11-10T00:51:09.518Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
+          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
+          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
+          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
+          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
+          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
+          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov 03 Nov",
+          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -106,26 +106,6 @@
         {
           "label": "P.U. (A) 383/2026 - FEDERAL ROADS (WEST MALAYSIA) (AMENDMENT) (NO. 5) ORDER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzgzLzIwMjZ8NzE3M2Q3MzBlYWI1MmM5MzcxMGRlMDNhODFlZWYwMGI1ZDUwN2ZiMTk1MjBhN2E3YjVmMDJlOWM3ZjdlNWVhYQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 378/2026 - CONTROL OF SUPPLIES (CONTROLLED ARTICLES) (NO. 4) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzc4LzIwMjZ8OWM0ODBmMWEyNjY2ZGU4NmU4NDRlY2MyOTI2YTJkNGMxNDY0NWFlODA5MzIyMjZhODk1YmJlZGE0YTBmODMzMA%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 379/2026 - PRICE CONTROL AND ANTI-PROFITEERING (DETERMINATION OF MAXIMUM PRICE) (NO. 4) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzc5LzIwMjZ8Njc1MzE5YjJkZjVlNjZmZWJlMWFjZTY1MjE3N2JjYmIzYzcyMTk2ZDAzOTIyMTY2NjI1OTExOTBjMDdmNjBhNA%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 380/2026 - PRICE CONTROL AND ANTI-PROFITEERING (PRICE MARKING OF PRICE-CONTROLLED GOODS) (NO. 4) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzgwLzIwMjZ8YTg3M2FjOTVkZjIwZGYxNjYxNWQ2MTZiZmZjNDlkODg5Mzk1MWY2N2VmNWZiZDk0MGRjN2U3ZjAxNjllZjg5Zg%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 381/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzgxLzIwMjZ8N2IwZDZjYTUxZGE3NmIyYzQyYzA4NWU3MGZhMDA1MjVkNDIzMjM5MTVkOWE4MDRjNDQ3ODhlZmNmMDFhMjFhMw%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 447/2026 - APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQ3LzIwMjZ8ZjY0NmEzNjdkNmU1NzJlNzBiNzllZDhjMGI4NWEwZTAzMzNkMTJjM2I4NTI5Mzg0Y2NlNTliOWUwMjczOWM5MQ%3D%3D"
         },
         {
           "label": "STATISTICS ACT 2026",
@@ -203,12 +183,12 @@
       "lines": [
         "What's New",
         "Today",
+        "09 Nov",
         "08 Nov",
         "07 Nov",
         "06 Nov",
         "05 Nov",
         "04 Nov",
-        "03 Nov",
         "There is no record to display",
         "P.U. (A)",
         "P.U. (A) 387/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026",
@@ -230,11 +210,6 @@
         "P.U. (B) 448/2026 - NOTICE OF CONTESTED ELECTION LEGISLATIVE ASSEMBLY FOR THE STATE OF MALACCA",
         "P.U. (A) 382/2026 - HOUSING DEVELOPMENT (CONTROL AND LICENSING) (EXEMPTION) (NO. 3) ORDER 2026",
         "P.U. (A) 383/2026 - FEDERAL ROADS (WEST MALAYSIA) (AMENDMENT) (NO. 5) ORDER 2026",
-        "P.U. (A) 378/2026 - CONTROL OF SUPPLIES (CONTROLLED ARTICLES) (NO. 4) ORDER 2026",
-        "P.U. (A) 379/2026 - PRICE CONTROL AND ANTI-PROFITEERING (DETERMINATION OF MAXIMUM PRICE) (NO. 4) ORDER 2026",
-        "P.U. (A) 380/2026 - PRICE CONTROL AND ANTI-PROFITEERING (PRICE MARKING OF PRICE-CONTROLLED GOODS) (NO. 4) ORDER 2026",
-        "P.U. (A) 381/2026 - ENTERTAINMENTS DUTY (EXEMPTION) (NO. 37) ORDER 2026",
-        "P.U. (B) 447/2026 - APPOINTMENT OF LOCK-UP TO BE A PLACE OF CONFINEMENT CORRIGENDUM",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -249,8 +224,7 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (B) 456/2026 953",
-        "Act 854 587"
+        "Act 854 532"
       ]
     }
   ]
