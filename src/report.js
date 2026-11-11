@@ -73,6 +73,7 @@ function buildMarkdown(changes, updates) {
         out.push(`- **Type:** ${u.change_type}`);
         out.push(`- **What changed:** ${u.summary}`);
         if (u.replaces) out.push(`- **Replaces / supersedes:** ${u.replaces}`);
+        if (u.tax_a_minute) out.push('- **Tax A Minute:** candidate (ruling or guide)');
         out.push(`- **Link:** ${u.link}`, '');
       }
     }
@@ -114,6 +115,7 @@ function buildHtml(changes, updates) {
           + `<li><b>Type:</b> ${esc(u.change_type)}</li>`
           + `<li><b>What changed:</b> ${esc(u.summary)}</li>`
           + (u.replaces ? `<li><b>Replaces / supersedes:</b> ${esc(u.replaces)}</li>` : '')
+          + (u.tax_a_minute ? '<li><b>Tax A Minute:</b> candidate (ruling or guide)</li>' : '')
           + `<li><b>Link:</b> <a href="${esc(u.link)}">${esc(u.link)}</a></li></ul>`);
       }
     }
@@ -181,6 +183,9 @@ async function main() {
   for (const [i, u] of updates.entries()) {
     for (const f of ['source', 'section', 'title', 'change_type', 'summary', 'link']) {
       if (!u[f]) throw new Error(`updates.json entry ${i} is missing "${f}"`);
+    }
+    if ('tax_a_minute' in u && typeof u.tax_a_minute !== 'boolean') {
+      throw new Error(`updates.json entry ${i}: "tax_a_minute" must be true or false`);
     }
   }
 

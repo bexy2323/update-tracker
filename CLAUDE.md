@@ -65,11 +65,19 @@ Reports are delivered in the chat of the session that runs the check. Do not sen
      "change_type": "new | amendment | replacement | withdrawn | new form year",
      "summary": "What the update is and what it changes, in 1-4 sentences.",
      "replaces": "Name and date of the earlier guideline / public ruling / order it replaces or amends, or empty",
-     "link": "Direct link to the updated document"
+     "link": "Direct link to the updated document",
+     "tax_a_minute": true
    }
    ```
    Always fill in `replaces` when the document says it replaces, supersedes or
    amends an earlier guideline, public ruling, order or circular.
+
+   Set `tax_a_minute` to `true` only for **rulings and guides**: gazette orders
+   (P.U.(A)/P.U.(B)), public rulings, guidelines and guides (LHDN, RMCD/MySST,
+   MIDA and the like), FAQs, and RMCD Service Tax / Sales Tax Policies. Set it
+   to `false` for everything else: new form years, infographics and banners,
+   general announcements, news, bills, the Principal Acts list, RDS Tax Focus
+   publications and events.
 
 5. **Compile the report.** Run `node src/report.js`. It writes
    `reports/<run-id>.md`, `reports/<run-id>.html` and appends to
@@ -83,6 +91,36 @@ Reports are delivered in the chat of the session that runs the check. Do not sen
    publication date, what changed (and what it replaces or amends) and its
    link, or say there are no updates. Also list the sites that need the user's
    sign-in and the sites that could not be reached. Do not send email.
+
+8. **Offer a Tax A Minute for each ruling or guide.** Run `node src/tam.js list`.
+   It prints the updates with `tax_a_minute: true`, each with an `output_dir`.
+   If the list is empty, stop here. Otherwise, after the step 7 summary, ask
+   with the AskUserQuestion tool (these are the buttons the user clicks):
+   - **One candidate:** one question, "Generate a Tax A Minute for <title>?",
+     with the options "Generate" and "Skip".
+   - **Two or more:** a `multiSelect` question, "Which updates need a Tax A
+     Minute?", with one option per candidate (label: short title, at most 5
+     words; description: source, publication date and change type). A question
+     takes at most 4 options, so put candidates 5–8 in a second question, and
+     so on (up to 4 questions, 16 candidates). If there are more than 16, ask
+     again for the rest.
+   The user can also answer by typing (e.g. "none", or naming items); follow that.
+
+   For each update the user picks, invoke the `anthropic-skills:tax-a-minute`
+   skill with the Skill tool, one update at a time. In `args` give the title,
+   source, publication date, what it replaces, the summary and the link from
+   `updates.json`, and tell it to save its files in that update's `output_dir`.
+   The skill works from the source document, so open it with
+   `node src/peek.js <link>` if the skill needs the text.
+
+   Then write `data/runs/<run-id>/tax-a-minute.json`, one object per candidate:
+   `{"index": <n>, "title": "...", "decision": "generated | skipped | failed",
+   "output_dir": "...", "files": ["..."]}`. Commit and push:
+   `git add data reports && git commit -m "Tax A Minute for check run <run-id>: <N> generated"`,
+   then `git push -u origin claude/cool-cerf-dsfp4z` (same retry rule as step 6).
+   Finally, send the generated files to the user with SendUserFile and paste
+   each WhatsApp message into the chat. If generation fails for an update,
+   say so and mark it `failed`; never invent its content.
 
 ## Rules
 
