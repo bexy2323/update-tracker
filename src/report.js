@@ -29,6 +29,7 @@ const COLUMNS = [
   { header: 'What changed', key: 'summary', width: 70 },
   { header: 'Replaces / supersedes', key: 'replaces', width: 40 },
   { header: 'Link', key: 'link', width: 50 },
+  { header: 'Previous document link', key: 'replaces_link', width: 50 },
 ];
 
 function esc(s) {
@@ -73,6 +74,7 @@ function buildMarkdown(changes, updates) {
         out.push(`- **Type:** ${u.change_type}`);
         out.push(`- **What changed:** ${u.summary}`);
         if (u.replaces) out.push(`- **Replaces / supersedes:** ${u.replaces}`);
+        if (u.replaces_link) out.push(`- **Previous document:** ${u.replaces_link}`);
         if (u.tax_a_minute) out.push('- **Tax A Minute:** candidate (ruling or guide)');
         out.push(`- **Link:** ${u.link}`, '');
       }
@@ -115,6 +117,7 @@ function buildHtml(changes, updates) {
           + `<li><b>Type:</b> ${esc(u.change_type)}</li>`
           + `<li><b>What changed:</b> ${esc(u.summary)}</li>`
           + (u.replaces ? `<li><b>Replaces / supersedes:</b> ${esc(u.replaces)}</li>` : '')
+          + (u.replaces_link ? `<li><b>Previous document:</b> <a href="${esc(u.replaces_link)}">${esc(u.replaces_link)}</a></li>` : '')
           + (u.tax_a_minute ? '<li><b>Tax A Minute:</b> candidate (ruling or guide)</li>' : '')
           + `<li><b>Link:</b> <a href="${esc(u.link)}">${esc(u.link)}</a></li></ul>`);
       }
@@ -153,10 +156,13 @@ async function appendToLog(runId, updates) {
     ws = wb.addWorksheet('Updates', { views: [{ state: 'frozen', ySplit: 1 }] });
     ws.columns = COLUMNS;
     ws.getRow(1).font = { bold: true };
-    ws.autoFilter = { from: 'A1', to: 'I1' };
+    ws.autoFilter = { from: 'A1', to: 'J1' };
   } else {
     // Column keys are not stored in the file; restore them so addRow maps by key.
+    // This also writes any header added since the file was created.
     ws.columns = COLUMNS;
+    ws.getRow(1).font = { bold: true };
+    ws.autoFilter = { from: 'A1', to: 'J1' };
   }
   // Re-running the report for the same run replaces that run's rows.
   for (let r = ws.rowCount; r >= 2; r--) {
@@ -165,6 +171,9 @@ async function appendToLog(runId, updates) {
   for (const u of updates) {
     const row = ws.addRow({ ...u, run_id: runId });
     row.getCell('link').value = { text: u.link, hyperlink: u.link };
+    if (/^https?:\/\//.test(u.replaces_link || '')) {
+      row.getCell('replaces_link').value = { text: u.replaces_link, hyperlink: u.replaces_link };
+    }
     row.alignment = { vertical: 'top', wrapText: true };
   }
   await wb.xlsx.writeFile(LOG_FILE);
@@ -183,6 +192,9 @@ async function main() {
   for (const [i, u] of updates.entries()) {
     for (const f of ['source', 'section', 'title', 'change_type', 'summary', 'link']) {
       if (!u[f]) throw new Error(`updates.json entry ${i} is missing "${f}"`);
+    }
+    if (['replacement', 'amendment'].includes(u.change_type) && !('replaces_link' in u)) {
+      console.warn(`Warning: updates.json entry ${i} is a ${u.change_type} with no "replaces_link"`);
     }
     if ('tax_a_minute' in u && typeof u.tax_a_minute !== 'boolean') {
       throw new Error(`updates.json entry ${i}: "tax_a_minute" must be true or false`);

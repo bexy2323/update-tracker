@@ -65,12 +65,31 @@ Reports are delivered in the chat of the session that runs the check. Do not sen
      "change_type": "new | amendment | replacement | withdrawn | new form year",
      "summary": "What the update is and what it changes, in 1-4 sentences.",
      "replaces": "Name and date of the earlier guideline / public ruling / order it replaces or amends, or empty",
+     "replaces_link": "Direct link to that earlier document, or a note saying why there is none, or empty",
      "link": "Direct link to the updated document",
      "tax_a_minute": true
    }
    ```
    Always fill in `replaces` when the document says it replaces, supersedes or
    amends an earlier guideline, public ruling, order or circular.
+
+   **Previous document link.** Whenever `replaces` is filled in (and for every
+   `replacement` or `amendment`), find the earlier document and put its direct
+   link in `replaces_link`, so the user can compare the two. Look in this order:
+   1. The same site: archive or "previous versions" lists (e.g. HASiL's public
+      rulings page lists withdrawn rulings; LOM lists the principal order an
+      amendment order amends), and the list page the new item came from.
+   2. The snapshot history: `git log -p -- data/snapshots/<check-id>.json` shows
+      every earlier link the tracker saw for that page.
+   3. The Wayback Machine: `https://archive.org/wayback/available?url=<url>&timestamp=<YYYYMMDD>`
+      for a copy taken before the new version came out (useful when the site
+      overwrote the old file at the same URL). Use the `web.archive.org/web/<timestamp>/<url>`
+      link it returns.
+   Open the link with `node src/peek.js` to confirm it is the earlier document
+   before using it. If it can't be found, write a short note instead of a URL,
+   e.g. "Not available online: MySST replaced version 1 at the same URL". Never
+   guess a link. The report, the Excel log and the chat summary show it as
+   "Previous document".
 
    Set `tax_a_minute` to `true` only for **rulings and guides**: gazette orders
    (P.U.(A)/P.U.(B)), public rulings, guidelines and guides (LHDN, RMCD/MySST,
@@ -89,7 +108,8 @@ Reports are delivered in the chat of the session that runs the check. Do not sen
 
 7. **Notify the user in the chat** with a short summary: each update's title,
    publication date, what changed (and what it replaces or amends) and its
-   link, or say there are no updates. Also list the sites that need the user's
+   link, plus the previous document's link for replacements and amendments,
+   or say there are no updates. Also list the sites that need the user's
    sign-in and the sites that could not be reached. Do not send email.
 
 8. **Offer a Tax A Minute for each ruling or guide.** Run `node src/tam.js list`.
@@ -108,8 +128,8 @@ Reports are delivered in the chat of the session that runs the check. Do not sen
 
    For each update the user picks, invoke the `anthropic-skills:tax-a-minute`
    skill with the Skill tool, one update at a time. In `args` give the title,
-   source, publication date, what it replaces, the summary and the link from
-   `updates.json`, and tell it to save its files in that update's `output_dir`.
+   source, publication date, what it replaces, the previous document's link
+   (`replaces_link`), the summary and the link from `updates.json`, and tell it to save its files in that update's `output_dir`.
    The skill works from the source document, so open it with
    `node src/peek.js <link>` if the skill needs the text.
 

@@ -8,7 +8,7 @@
 // Reads data/runs/<run-id>/updates.json, where the agent sets "tax_a_minute": true
 // on rulings and guides (see CLAUDE.md, step 4). Each entry printed has:
 //   index       position in updates.json
-//   title, source, publication_date, change_type, link
+//   title, source, publication_date, change_type, link, replaces, replaces_link
 //   output_dir  reports/tax-a-minute/<run-id>/<NN>-<slug>/  (where the skill's files go)
 // Choices made in the chat are recorded in data/runs/<run-id>/tax-a-minute.json.
 const fs = require('fs');
@@ -38,6 +38,8 @@ function list(runId) {
       publication_date: u.publication_date || 'Not stated',
       change_type: u.change_type,
       link: u.link,
+      replaces: u.replaces || '',
+      replaces_link: u.replaces_link || '',
       output_dir: path.posix.join('reports', 'tax-a-minute', runId,
         `${String(index + 1).padStart(2, '0')}-${slug(u.title)}`),
     }));
