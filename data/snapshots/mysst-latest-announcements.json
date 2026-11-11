@@ -1,7 +1,7 @@
 {
   "check_id": "mysst-latest-announcements",
   "url": "https://mysst.customs.gov.my/",
-  "fetched_at": "2026-11-10T08:49:56.222Z",
+  "fetched_at": "2026-11-11T00:49:58.582Z",
   "pages": [
     {
       "url": "https://mysst.customs.gov.my/",
@@ -18,6 +18,10 @@
         {
           "label": "16/06/2025 Frequently Asked Questions (FAQ) - (FAQ) - Transition Of Sales Tax Rate Changes 2025 More",
           "href": "https://mysst.customs.gov.my/faq-transition-of-sales-tax-rate-changes-2025/"
+        },
+        {
+          "label": "10/11/2026 Panduan Pengecualian Cukai Jualan Di Bawah Butiran 58A, Jadual A Perintah Cukai Jualan (Orang yang Dikecualikan daripada Pembayaran Cukai) 2018 (Versi 2.0) More",
+          "href": "https://mysst.customs.gov.my/specific-guides/"
         },
         {
           "label": "06/11/2026 Guide on Construction Work Services (Amendment) More",
@@ -40,16 +44,12 @@
           "href": "https://mysst.customs.gov.my/service-tax-policy/"
         },
         {
-          "label": "22/10/2026 Sales Tax (Imposition Of Sales Tax In Respect Of Designated Areas) (Amendment) Order 2025 More",
+          "label": "22/10/2026 Sales Tax (Imposition Of Sales Tax In Respect Of Designated Areas) (Amendment) Order 2025More",
           "href": "https://mysst.customs.gov.my/sst-orders/"
         },
         {
           "label": "07/10/2026 Service Tax Policy No. 6/2026More",
           "href": "https://mysst.customs.gov.my/service-tax-policy/"
-        },
-        {
-          "label": "25/09/2026 Service Tax (Imposition Of Tax For Taxable Service In Respect Of Designated Areas Excluding Pulau 1 And Special Areas) (Amendment) Order 2026More",
-          "href": "https://mysst.customs.gov.my/sst-orders/"
         },
         {
           "label": "Learn more about SST",
@@ -105,6 +105,8 @@
         "More",
         "16/06/2025",
         "Frequently Asked Questions (FAQ) - (FAQ) - Transition Of Sales Tax Rate Changes 2025",
+        "10/11/2026",
+        "Panduan Pengecualian Cukai Jualan Di Bawah Butiran 58A, Jadual A Perintah Cukai Jualan (Orang yang Dikecualikan daripada Pembayaran Cukai) 2018 (Versi 2.0)",
         "06/11/2026",
         "Guide on Construction Work Services (Amendment)",
         "03/11/2026",
@@ -114,8 +116,6 @@
         "Service Tax (Digital Services) (Amendment) Regulations 2026",
         "26/10/2026",
         "Service Tax Policy No. 6/2026 (Amendment No.1)",
-        "22/10/2026",
-        "Sales Tax (Imposition Of Sales Tax In Respect Of Designated Areas) (Amendment) Order 2025",
         "WELCOME TO THE",
         "Official Website",
         "Malaysia Sales & Service Tax",

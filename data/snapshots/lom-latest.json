@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-10T08:49:41.189Z",
+  "fetched_at": "2026-11-11T00:49:44.981Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
+          "label": "Today 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
+          "label": "Today 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
+          "label": "Today 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
+          "label": "Today 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
+          "label": "Today 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
+          "label": "Today 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov 04 Nov",
+          "label": "Today 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -116,14 +116,6 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQ4LzIwMjZ8NzhiZWFhNTE4YWY3YjY5Y2UzNWY3MWVhYjQ5NTVjZjQzNzllNDcwZjIwOWU0NDNmNjQ3M2I2ZTllYjEwOTE2Mg%3D%3D"
         },
         {
-          "label": "P.U. (A) 382/2026 - HOUSING DEVELOPMENT (CONTROL AND LICENSING) (EXEMPTION) (NO. 3) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzgyLzIwMjZ8OThhMGY3NTQyNDRjMzcxY2YzNTA2M2JkMjRjMzRkNTg5YTg0ZjRhOWYwMDliNzIzZDk3NGU3ZTY1YTI0YWQ4YQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 383/2026 - FEDERAL ROADS (WEST MALAYSIA) (AMENDMENT) (NO. 5) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzgzLzIwMjZ8NzE3M2Q3MzBlYWI1MmM5MzcxMGRlMDNhODFlZWYwMGI1ZDUwN2ZiMTk1MjBhN2E3YjVmMDJlOWM3ZjdlNWVhYQ%3D%3D"
-        },
-        {
           "label": "STATISTICS ACT 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZhY3Q9ODg3fGU4N2RhY2NkODY2MDVkODNlYWNhODgwNGU2Y2Y3MjgxNGNkNzg0MjViZGEzZTcyMzQ1OWQ5YzQ3YzJlMmEyYTM%3D"
         },
@@ -194,24 +186,28 @@
         {
           "label": "P.U. (B) 456/2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDU2LzIwMjZ8MDVjOTE5YTNmZWVjNzY2MDJmODY1MDQ1Y2Q3MjlmY2Q1YWI1MzFiMjkxNWFmNWYyOGY1ZWU4MTJhMjM2Y2ExYg%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 388/2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg4LzIwMjZ8NTEyODgyOTE2NTE4MTg5MGNlOGY2NzlkYjcxOWU4NmJhMzg5NDg1YzNmNWQ4ZTRiOTRkZjI0Mjk0MjcyYTMzZQ%3D%3D"
         }
       ],
       "lines": [
         "What's New",
         "Today",
+        "10 Nov",
         "09 Nov",
         "08 Nov",
         "07 Nov",
         "06 Nov",
         "05 Nov",
-        "04 Nov",
+        "There is no record to display",
         "P.U. (A)",
         "P.U. (A) 389/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026",
         "P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026",
         "P.U. (B)",
         "P.U. (B) 459/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF FEDERAL LANDS COMMISSIONER",
         "P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES",
-        "There is no record to display",
         "P.U. (A) 387/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026",
         "P.U. (A) 388/2026 - CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026",
         "P.U. (B) 449/2026 - NOTICE TO THIRD PARTIES",
@@ -228,8 +224,6 @@
         "P.U. (A) 385/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (REVOCATION) (NO. 4) ORDER 2026",
         "P.U. (A) 386/2026 - ROAD TRANSPORT (PROHIBITION OF USE OF ROAD) (FEDERAL ROADS) (NO. 7) ORDER 2026",
         "P.U. (B) 448/2026 - NOTICE OF CONTESTED ELECTION LEGISLATIVE ASSEMBLY FOR THE STATE OF MALACCA",
-        "P.U. (A) 382/2026 - HOUSING DEVELOPMENT (CONTROL AND LICENSING) (EXEMPTION) (NO. 3) ORDER 2026",
-        "P.U. (A) 383/2026 - FEDERAL ROADS (WEST MALAYSIA) (AMENDMENT) (NO. 5) ORDER 2026",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -244,7 +238,7 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 854 613"
+        "P.U. (A) 388/2026 600"
       ]
     }
   ]
