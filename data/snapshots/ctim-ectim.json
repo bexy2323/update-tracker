@@ -1,7 +1,7 @@
 {
   "check_id": "ctim-ectim",
   "url": "https://www.ctim.org.my/",
-  "fetched_at": "2026-11-11T00:50:45.806Z",
+  "fetched_at": "2026-11-11T08:54:59.296Z",
   "pages": [
     {
       "url": "https://www.ctim.org.my/",
@@ -300,15 +300,15 @@
           "href": "https://www.ctim.org.my/download?file=%2F2123%2Fadb0fe2f0667fdb2ee5fbdee8129295d.pdf"
         },
         {
+          "label": "e-CTIM TECH-DT 94-2026 - Update on Global Minimum Tax (GMT) Filing Obligations & Registration Requirement",
+          "href": "https://www.ctim.org.my/"
+        },
+        {
           "label": "e-CTIM TECH-DT 93-2026 - HASiL Webinar on TAeF 3.0 System Implementation (Series 2) - Update on Current Progress",
           "href": "https://www.ctim.org.my/"
         },
         {
           "label": "e-CTIM TECH-IT 44-2026 - Service Tax Policy No. 6-2024 (Amendment No. 3) – Expansion of Exemption Eligibility and Effective Dates for Maintenance, Repair and Overhaul (MRO) Services",
-          "href": "https://www.ctim.org.my/"
-        },
-        {
-          "label": "e-CTIM TECH-IT 43-2026 - Service Tax Policy No. 3/2026 (Amendment No.1) - Expansion of Service Tax Exemption on Maintenance Charges and Sinking Fund for Non-residential Premises or Buildings to Developers",
           "href": "https://www.ctim.org.my/"
         },
         {
@@ -360,10 +360,10 @@
         "02 November 2026",
         "eCTIM",
         "e-CTIM",
+        "e-CTIM TECH-DT 94-2026 - Update on Global Minimum Tax (GMT) Filing Obligations & Registration Requirement",
         "e-CTIM TECH-DT 93-2026 - HASiL Webinar on TAeF 3.0 System Implementation (Series 2) - Update on Current Progress",
         "10 November 2026",
         "e-CTIM TECH-IT 44-2026 - Service Tax Policy No. 6-2024 (Amendment No. 3) – Expansion of Exemption Eligibility and Effective Dates for Maintenance, Repair and Overhaul (MRO) Services",
-        "e-CTIM TECH-IT 43-2026 - Service Tax Policy No. 3/2026 (Amendment No.1) - Expansion of Service Tax Exemption on Maintenance Charges and Sinking Fund for Non-residential Premises or Buildings to Developers",
         "CONTACT US LOCATION MAPS PRIVACY POLICY TERMS & CONDITIONS",
         "© 2021 Chartered Tax Institute Of Malaysia. All Rights Reserved."
       ]

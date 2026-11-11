@@ -1,12 +1,16 @@
 {
   "check_id": "rds-tax-focus",
   "url": "https://www.rdslawpartners.com/publications/categories/tax-focus",
-  "fetched_at": "2026-11-11T00:52:10.766Z",
+  "fetched_at": "2026-11-11T08:56:32.100Z",
   "pages": [
     {
       "url": "https://www.rdslawpartners.com/publications/categories/tax-focus",
       "title": "Tax Focus",
       "items": [
+        {
+          "label": "Court Of Appeal Allows Tax Deduction For Subordinated Bond Profit And Interest Payments",
+          "href": "https://www.rdslawpartners.com/post/court-of-appeal-allows-tax-deduction-for-subordinated-bond-profit-and-interest-payments"
+        },
         {
           "label": "SCIT Allows Tax Deduction Of Intercompany Back-Charges Under Centralised Management Arrangements",
           "href": "https://www.rdslawpartners.com/post/scit-allows-tax-deduction-of-intercompany-back-charges-under-centralised-management-arrangements"
@@ -38,15 +42,13 @@
         {
           "label": "Stamp Duty & Its Impact On Key Business Documents:Employment Letters, Purchase Orders, Intercompany Loans & Supplementary Agreements",
           "href": "https://www.rdslawpartners.com/post/stamp-duty-its-impact-on-key-business-documents-employment-letters-purchase-orders-intercompany"
-        },
-        {
-          "label": "Court Of Appeal Rules Disposal Of Warehouse Is Not Subject To Income Tax",
-          "href": "https://www.rdslawpartners.com/post/court-of-appeal-rules-disposal-of-warehouse-is-not-subject-to-income-tax"
         }
       ],
       "lines": [
         "Skip to Main Content",
         "Publications & News",
+        "Court Of Appeal Allows Tax Deduction For Subordinated Bond Profit And Interest Payments",
+        "The Court of Appeal recently delivered its decisions in EFTB v Ketua Pengarah Hasil Dalam Negeri and EGIB v Ketua Pengarah Hasil Dalam Negeri, concerning the tax deductibility of payments incurred on Tier 2 Capital Subordinated Bonds. The EFTB Appeal concerned profit payments incurred by a takaful operator. Meanwhile, the EGIB Appeal concerned interest payments incurred by an insurance company. The court allowed the appeal, holding that Sections 60 and 60AA of the Income Ta",
         "SCIT Allows Tax Deduction Of Intercompany Back-Charges Under Centralised Management Arrangements",
         "The Special Commissioners of Income Tax (SCIT) in M12 SB v Ketua Pengarah Hasil Dalam Negeri recently allowed the taxpayer's claim for tax deductions in relation to an increasingly common feature of modern corporate structures: the centralisation of management and operational functions within a single group company, with the corresponding expenses subsequently allocated and back-charged to other companies within the group. In particular, the dispute concerned whether the I",
         "Revenue’s Decision To Impose Penalty Under Both Limbs Of Section 44A(9) Group Relief Set Aside",
@@ -62,9 +64,7 @@
         "Stamp Duty On Employment Documents: What Employers Need To Know In 2026",
         "Stamp duty on employment contracts has moved from a largely overlooked administrative requirement to an increasingly important compliance issue for Malaysian employers. Recent developments have provided greater clarity on the treatment of employment contracts, including which documents require stamping, the position for contracts executed in different periods, and the treatment of subsequent documents such as promotion, transfer and bonus letters. For businesses with larg",
         "Stamp Duty & Its Impact On Key Business Documents:Employment Letters, Purchase Orders, Intercompany Loans & Supplementary Agreements",
-        "“For stamp duty purposes, the label placed on a document is rarely decisive. What matters is what the instrument actually does, the rights and obligations it creates, and the transaction it records.” Stamp duty is often treated as a back-office compliance issue. In practice, it is becoming a much broader governance concern. This is especially so as businesses generate large volumes of documents across procurement, treasury, human resources and commercial functions. Employme",
-        "Court Of Appeal Rules Disposal Of Warehouse Is Not Subject To Income Tax",
-        "Last Monday, the Court of Appeal in Ketua Pengarah Hasil Dalam Negeri v Exceptional Landmark Sdn Bhd unanimously dismissed the Revenue's appeal and upheld the concurrent decisions of the Special Commissioners of Income Tax (SCIT) and the High Court that the gains arising from the disposal of a warehouse to a real estate investment trust (REIT) are not subject to income tax. The taxpayer in this matter was successfully represented by the firm's Tax, SST & Customs Partner, S."
+        "“For stamp duty purposes, the label placed on a document is rarely decisive. What matters is what the instrument actually does, the rights and obligations it creates, and the transaction it records.” Stamp duty is often treated as a back-office compliance issue. In practice, it is becoming a much broader governance concern. This is especially so as businesses generate large volumes of documents across procurement, treasury, human resources and commercial functions. Employme"
       ]
     }
   ]

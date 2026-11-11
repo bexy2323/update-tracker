@@ -1,0 +1,26 @@
+[
+  {
+    "source": "Chartered Tax Institute of Malaysia",
+    "section": "eCTIM (titles listed on the public home page; full text needs member sign-in)",
+    "title": "Global Minimum Tax (GMT): GIR and Top-up Tax Return filing obligations and MyGIR ID registration (register for the 12 January 2027 engagement session by 30/11/2026)",
+    "publication_date": "Not stated on HASiL's page; circulated by CTIM as e-CTIM TECH-DT 94/2026 on 11/11/2026",
+    "change_type": "new",
+    "summary": "HASiL's GMT Filing Obligations page sets out what in-scope constituent entities must file. The GloBE Information Return (GIR) is filed in XML through HiDEF and needs a MyGIR ID; the Top-up Tax Return (TTR) is e-filed through MyTax and needs no registration. Both platforms are under development and expected in early 2027. GIR filers who want a MyGIR ID are invited to an engagement session on 12 January 2027; register by 30/11/2026, with up to three representatives each (tax agents included). Entities only disclose the relevant GMT information in their domestic tax returns. Deadlines: 18 months after the end of the first (transition) financial year, then 15 months after each year end. Found through CTIM's circular; the HASiL GMT pages are not on the tracker's list of sites.",
+    "replaces": "",
+    "replaces_link": "",
+    "link": "https://www.hasil.gov.my/en/antarabangsa/global-minimum-tax-gmt/gmt-filing-obligations/",
+    "tax_a_minute": true
+  },
+  {
+    "source": "Rosli Dahlan Saravana Partnership (RDS) - Tax Focus",
+    "section": "Tax Focus publications (for the monthly update class)",
+    "title": "RDS Tax Focus: Court of Appeal allows tax deduction for subordinated bond profit and interest payments (EFTB v DGIR; EGIB v DGIR)",
+    "publication_date": "10/11/2026",
+    "change_type": "new",
+    "summary": "A takaful operator and an insurer issued Tier 2 Capital Subordinated Bonds in 2014 to meet BNM capital adequacy requirements and claimed the profit and interest payments (RM62.3m for YAs 2014–2018) under s.33(1). The SCIT and High Court had disallowed them, holding that ss.60 and 60AA (the specific computation rules for insurers and takaful operators) override s.33(1). The Court of Appeal allowed the appeals: s.60AA(9)(b) is exhaustive only for fund-specific and Shariah-specific expenses and doesn't oust s.33(1) for ordinary financing costs incurred in producing gross income. A good candidate for the monthly update class.",
+    "replaces": "",
+    "replaces_link": "",
+    "link": "https://www.rdslawpartners.com/post/court-of-appeal-allows-tax-deduction-for-subordinated-bond-profit-and-interest-payments",
+    "tax_a_minute": false
+  }
+]

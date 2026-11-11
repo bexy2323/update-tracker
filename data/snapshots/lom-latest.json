@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-11T00:49:44.981Z",
+  "fetched_at": "2026-11-11T08:53:54.830Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -34,6 +34,18 @@
         {
           "label": "Today 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov 05 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzkxLzIwMjZ8NTBkN2E3ZTIyOTMxZTFmMDJlYTc5YTFkZWQzOTVmMWYzZWJhMjk2YjgzYzQ1NmFhYjI3MDk5ZTdmYTRlY2Q5Yg%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 461/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDYxLzIwMjZ8MjgwYTNjYmQxMDdmMDc2YjY5YTIxZDUzZWQwZmNhODQ0MTcwMTRjYTdkODQ2NzU3ZTk4MTQyMjgyODI1ZmYxMA%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 462/2026 - NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDYyLzIwMjZ8OGMzNDMyYzQ0YjYxODM5ZTJmNTA1ZTAwYTMxNGM4YTg3Y2JkOTg5N2M2OGIyNThmNDE0NGVkZTJiZmU3MTQwZQ%3D%3D"
         },
         {
           "label": "P.U. (A) 389/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026",
@@ -148,6 +160,10 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9YW1lbmRtZW50Jmxhbmd1YWdlPUJJfGU0NGQyMzUzY2MyNjFmNjk1Njg2OWM2ZDk3YjJiZjQ2ODg4MzBiYzZiMTk0MGJlMDVkOWZhNmU5Y2FmZWQ2OWE%3D"
         },
         {
+          "label": "FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzkxLzIwMjZ8YjM1NTVlNzZhNTg1YWQyZTliOTdmMzAyMDgxNjIzNDhjODg0ZmQ4OWZhZTBhNWM1NzU0YWMwNzllMmYyMTQ4Mg%3D%3D"
+        },
+        {
           "label": "NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzkwLzIwMjZ8NmMzZGQ2M2I3YzIwYzM5YWJhY2EwMjkxZWU4MDM2ZWVkOGIyZDgxM2JkNmY4ODE4ZjM3ZWI3ZjAyYWE1OGJiMg%3D%3D"
         },
@@ -156,27 +172,23 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg5LzIwMjZ8ZmIxYWFlM2I1ZGJmNGRkYTUxMDU1N2I5MTI2ZGE1YmM5MzRkZWE4MzI2YmIzMjgwNDM2YjMyZWM0MmU4MzI4MQ%3D%3D"
         },
         {
-          "label": "CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg4LzIwMjZ8NTEyODgyOTE2NTE4MTg5MGNlOGY2NzlkYjcxOWU4NmJhMzg5NDg1YzNmNWQ4ZTRiOTRkZjI0Mjk0MjcyYTMzZQ%3D%3D"
+          "label": "P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026 P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026 P.U. (A) 389/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
-          "label": "P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026 P.U. (A) 389/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026 P.U. (A) 388/2026 - CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026 See All...",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+          "label": "NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDYyLzIwMjZ8ZWMzZDAzNDdmYTczNDQ3MzE5ZTJkYTQyYzUwNjYzYzYxOTBjNTVmMzI3NzMyZWVhN2UzNDE4MGE3Y2MzZmY4ZQ%3D%3D"
+        },
+        {
+          "label": "NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDYxLzIwMjZ8ZTdhZTlkMWIwOTBkZTE4NjU3YWMxZWYxMjk4YWIzM2IxZjJmMjkyZWRlYjliYzEyODllNjM2NTVmNzFlMGEwZA%3D%3D"
         },
         {
           "label": "NOTICE TO THIRD PARTIES",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDYwLzIwMjZ8NDFmYzVlYTJlNTRmM2RlZWQ5Zjk5MGEyOGQ1NjkwMjllNjYxOTNkZDE0NjY4NWU2MWE5NTgwYzQwYWY5ZTZmMw%3D%3D"
         },
         {
-          "label": "APPOINTMENT AND REVOCATION OF APPOINTMENT OF FEDERAL LANDS COMMISSIONER",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDU5LzIwMjZ8YzA1Njk4N2U1YjNjNTU1YmUwY2UyNGJkN2ZlNzBhYjA5MWExZWNkN2I2ZjliYTU1ZGFlOGUzZTRlYmYwOGI5MA%3D%3D"
-        },
-        {
-          "label": "NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDU4LzIwMjZ8N2IwOTMxYTdjZWJmNjg5OTZlOTUyYjMyZjhjY2NhOTgyNmNkOTZlZjU3MzA2YTMzY2FmMWIyYTIwY2IyODg4Nw%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES P.U. (B) 459/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF FEDERAL LANDS COMMISSIONER P.U. (B) 458/2026 - NOTICE TO THIRD PARTIES See All...",
+          "label": "P.U. (B) 462/2026 - NOTICE TO THIRD PARTIES P.U. (B) 461/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12 P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -201,13 +213,16 @@
         "07 Nov",
         "06 Nov",
         "05 Nov",
-        "There is no record to display",
         "P.U. (A)",
+        "P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026",
+        "P.U. (B)",
+        "P.U. (B) 461/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
+        "P.U. (B) 462/2026 - NOTICE TO THIRD PARTIES",
         "P.U. (A) 389/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026",
         "P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026",
-        "P.U. (B)",
         "P.U. (B) 459/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF FEDERAL LANDS COMMISSIONER",
         "P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES",
+        "There is no record to display",
         "P.U. (A) 387/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026",
         "P.U. (A) 388/2026 - CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026",
         "P.U. (B) 449/2026 - NOTICE TO THIRD PARTIES",
@@ -238,7 +253,7 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (A) 388/2026 600"
+        "P.U. (A) 388/2026 663"
       ]
     }
   ]
