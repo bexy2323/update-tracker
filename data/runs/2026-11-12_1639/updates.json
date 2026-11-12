@@ -1,0 +1,26 @@
+[
+  {
+    "source": "HASiL (Inland Revenue Board)",
+    "section": "Pautan Popular > E-Invois > Infographics",
+    "title": "Infographic: Micro and small businesses with annual sales under RM3 million are exempt from e-Invoice – use MyInvois e-POS for free",
+    "publication_date": "Not stated (new on the infographics page 12/11/2026)",
+    "change_type": "new",
+    "summary": "HASiL reminds micro and small businesses (night markets, food stalls, roadside stalls, car boot sellers, tailors and the like) with annual sales of less than RM3 million that they are exempt from e-Invoice, and encourages them to digitalise anyway with the free MyInvois e-POS point-of-sale system (details at hasil.gov.my/myinvoisepos). Malay only; HASiL hasn't published an English version.",
+    "replaces": "",
+    "replaces_link": "",
+    "link": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-PMKS-Dikecualikan-Manfaatkan-MyInvois-e-POS.jpg",
+    "tax_a_minute": false
+  },
+  {
+    "source": "HASiL (Inland Revenue Board)",
+    "section": "Pautan Popular > E-Invois > Infographics",
+    "title": "Infographics (series of 4): Improvements to the MyInvois Portal and app from 24 October 2026",
+    "publication_date": "Not stated (new on the infographics page 12/11/2026; improvements effective 24/10/2026)",
+    "change_type": "new",
+    "summary": "Six improvements to the MyInvois Portal/app from 24/10/2026: (1) inactive representatives (staff, ERP, intermediaries) are now shown in a separate 'Inactive' tab; (2) business owners can search for and view documents issued under a sole proprietorship profile that is no longer active (search by old BRN); (3) 'Search All Documents' can now filter by classification code; (4) after a buyer's TIN is validated, the buyer details can be filled in from past transactions; (5) several discounts and fees/charges can be entered per line item, as a rate or a fixed amount; (6) error messages now link to the relevant SDK error page with the code, description, cause and suggested fix. Malay only; parts 1–4 are separate images.",
+    "replaces": "",
+    "replaces_link": "",
+    "link": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Penambahbaikan-Di-Portal-Aplikasi-MyInvois-1-BM.png",
+    "tax_a_minute": false
+  }
+]

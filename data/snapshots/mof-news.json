@@ -1,7 +1,7 @@
 {
   "check_id": "mof-news",
   "url": "https://www.mof.gov.my/portal/en/news",
-  "fetched_at": "2026-11-12T00:49:49.015Z",
+  "fetched_at": "2026-11-12T08:54:54.065Z",
   "pages": [
     {
       "url": "https://www.mof.gov.my/portal/en/news",
@@ -22,6 +22,14 @@
         {
           "label": "fas fa-sitemap",
           "href": "https://www.mof.gov.my/portal/en/site-map"
+        },
+        {
+          "label": "Retail Prices Of RON97, Unsubsidised RON95, Diesel To Drop From Tomorrow - MOF Press Citations 11 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/retail-prices-of-ron97-unsubsidised-ron95-diesel-to-drop-from-tomorrow-mof"
+        },
+        {
+          "label": "Retail Prices Of RON97, Unsubsidised RON95, Diesel To Drop From Tomorrow - MOF",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/retail-prices-of-ron97-unsubsidised-ron95-diesel-to-drop-from-tomorrow-mof"
         },
         {
           "label": "Cradle Live! Summit 2026 Speech 05 November 2026",
@@ -62,14 +70,6 @@
         {
           "label": "Govt Approves Over RM250 Mln To Support ECRL Development In Kelantan -- MOF",
           "href": "https://www.mof.gov.my/portal/en/news/press-citations/govt-approves-over-rm250-mln-to-support-ecrl-development-in-kelantan-mof"
-        },
-        {
-          "label": "2.14 Bln E-invoices Submitted As Of Nov 2, Implementation To Uphold Fairness - PM Anwar Press Citations 03 November 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/2-14-bln-e-invoices-submitted-as-of-nov-2-implementation-to-uphold-fairness-pm-anwar"
-        },
-        {
-          "label": "2.14 Bln E-invoices Submitted As Of Nov 2, Implementation To Uphold Fairness - PM Anwar",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/2-14-bln-e-invoices-submitted-as-of-nov-2-implementation-to-uphold-fairness-pm-anwar"
         },
         {
           "label": "Press Release",
@@ -182,18 +182,19 @@
         "fas fa-sitemap",
         "Site Map",
         "NEWS & MEDIA",
+        "Retail Prices Of RON97, Unsubsidised RON95, Diesel To Drop From Tomorrow - MOF",
+        "Press Citations",
+        "11 November 2026",
         "Cradle Live! Summit 2026",
         "Speech",
         "05 November 2026",
         "Phase Four STR: RM1.1 Bln Disbursement Begins Today For Over Five Million Recipients – Anwar",
-        "Press Citations",
         "04 November 2026",
         "Price of RON97 Down By 20 Sen, RON95 And Diesel Drop By 15 Sen Respectively Tomorrow - MOF",
         "JBMKKS Establishes Independent Mediasas Board To Ensure Sound Governance And Oversight, Supporting Long-Term Sustainability",
         "Press Release",
         "Govt Approves Over RM250 Mln To Support ECRL Development In Kelantan -- MOF",
         "03 November 2026",
-        "2.14 Bln E-invoices Submitted As Of Nov 2, Implementation To Uphold Fairness - PM Anwar",
         "Photos",
         "Videos",
         "ASEAN 2025",

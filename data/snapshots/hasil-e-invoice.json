@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-e-invoice",
   "url": "https://www.hasil.gov.my/en/e-invois/",
-  "fetched_at": "2026-11-12T00:41:28.676Z",
+  "fetched_at": "2026-11-12T08:42:00.656Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/e-invois/",
@@ -1827,6 +1827,31 @@
           "image": true
         },
         {
+          "label": "Info e-Invois - PMKS Dikecualikan, Manfaatkan MyInvois e-POS",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-PMKS-Dikecualikan-Manfaatkan-MyInvois-e-POS.jpg",
+          "image": true
+        },
+        {
+          "label": "Info e-Invois - Penambahbaikan Di Portal & Aplikasi MyInvois 4 (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Penambahbaikan-Di-Portal-Aplikasi-MyInvois-4-BM.png",
+          "image": true
+        },
+        {
+          "label": "Info e-Invois - Penambahbaikan Di Portal & Aplikasi MyInvois 3 (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Penambahbaikan-Di-Portal-Aplikasi-MyInvois-3-BM.png",
+          "image": true
+        },
+        {
+          "label": "Info e-Invois - Penambahbaikan Di Portal & Aplikasi MyInvois 2 (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Penambahbaikan-Di-Portal-Aplikasi-MyInvois-2-BM.png",
+          "image": true
+        },
+        {
+          "label": "Info e-Invois - Penambahbaikan Di Portal & Aplikasi MyInvois 1 (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Penambahbaikan-Di-Portal-Aplikasi-MyInvois-1-BM.png",
+          "image": true
+        },
+        {
           "label": "Info e-Invois - Contoh Ketidakpatuhan & Kesilapan Lazim Yang Perlu Diperbetulkan Melalui PKPS e-Invois (BM)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Contoh-Ketidakpatuhan-Kesilapan-Lazim-Yang-Perlu-Diperbetulkan-Melalui-PKPS-e-Invois-BM.png",
           "image": true
@@ -2177,6 +2202,10 @@
         {
           "label": "Bil. 27/2026 Taklimat e-Invois Anjuran HASiL Perak (Ipoh) Bil. 27/2026 3 Disember 2026 (Khamis) 9:00 am – 12:00 pm Kinta Ballroom, Dusit Princess Hotel, Ipoh, Perak Tarikh tutup: 30 November 2026",
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-anjuran-hasil-perak-ipoh-bil-27-2026/"
+        },
+        {
+          "label": "Bil. 23/2026 Webinar e-Invois Anjuran HASiL Sarawak Bil. 23/2026 30 November 2026 (Isnin) 9:00 am – 11:30 am Ms.Teams Tarikh tutup: 26 November 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/webinar-e-invois-anjuran-hasil-sarawak-bil-23-2026/"
         },
         {
           "label": "Bil. 38/2026 Webinar e-Invois Anjuran HASiL Selangor Bil. 38/2026 30 November 2026 (Isnin) 9:00am - 12:30pm Ms.Teams Tarikh tutup: 28 November 2026",
@@ -3650,11 +3679,15 @@
         "3 Disember 2026 (Khamis)",
         "Kinta Ballroom, Dusit Princess Hotel, Ipoh, Perak",
         "Tarikh tutup: 30 November 2026",
+        "Bil. 23/2026",
+        "Webinar e-Invois Anjuran HASiL Sarawak Bil. 23/2026",
+        "30 November 2026 (Isnin)",
+        "9:00 am – 11:30 am",
+        "Ms.Teams",
+        "Tarikh tutup: 26 November 2026",
         "Bil. 38/2026",
         "Webinar e-Invois Anjuran HASiL Selangor Bil. 38/2026",
-        "30 November 2026 (Isnin)",
         "9:00am - 12:30pm",
-        "Ms.Teams",
         "Tarikh tutup: 28 November 2026",
         "Bil. 35/2026",
         "Webinar e-Invois Anjuran HASiL WP Kuala Lumpur Bil. 35/2026",
@@ -3669,7 +3702,6 @@
         "Bil. 46/2026",
         "Webinar e-Invois Anjuran HASiL Sarawak Bil. 22/2026",
         "25 November 2026 (Rabu)",
-        "9:00 am – 11:30 am",
         "MS. Teams",
         "Tarikh tutup: 22 November 2026",
         "Taklimat e-Invois @ Sabah (Lahad Datu) Bil. 46/2026",
@@ -3747,7 +3779,6 @@
         "Bil. 63/2026",
         "Taklimat e-Invois @ Johor (Muar) Bil. 63/2026",
         "Dewan HASiL, Pejabat HASiL Muar, Johor",
-        "Bil. 23/2026",
         "Taklimat (Webinar) e-Invois @ CIK Bil. 23/2026",
         "Bil. 56/2026",
         "Webinar e-Invois Anjuran HASiL Johor Bil. 56/2026",

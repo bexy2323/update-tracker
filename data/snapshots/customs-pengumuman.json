@@ -1,7 +1,7 @@
 {
   "check_id": "customs-pengumuman",
   "url": "https://customs.gov.my/ms/arkib/pengumuman",
-  "fetched_at": "2026-11-12T00:50:05.405Z",
+  "fetched_at": "2026-11-12T08:55:10.131Z",
   "pages": [
     {
       "url": "https://customs.gov.my/ms/arkib/pengumuman",
@@ -70,6 +70,10 @@
         {
           "label": "Tender & Sebut Harga",
           "href": "https://www.customs.gov.my/ms/arkib/tender-sebut-harga"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN JUALAN SKRAP KENDERAAN & TIDAK BOLEH DIDAFTARKAN JABATAN KASTAM DIRAJA MALAYSIA NEGERI JOHOR BIL.3/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-jualan-skrap-kenderaan-tidak-boleh-didaftarkan-jabatan-kastam-diraja-malaysia-negeri-johor-bil-3-2026"
         },
         {
           "label": "NOTIS KEPUTUSAN SEBUT HARGA PELUPUSAN ASET ALIH BAGI JABATAN KASTAM DIRAJA MALAYSIA NEGERI TERENGGANU BIL.8/2026",
@@ -146,10 +150,6 @@
         {
           "label": "NOTIS KEPUTUSAN TENDER PELUPUSAN BARANG LUCUTHAK SELANGOR BIL. 1 HINGGA 3 TAHUN 2026",
           "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tender-pelupusan-barang-lucuthak-selangor-bil-1-hingga-3-tahun-2026"
-        },
-        {
-          "label": "NOTIS KEPUTUSAN SEBUTHARGA PELUPUSAN BARANG LUCUTHAK SELANGOR BIL. 10 HINGGA 12 TAHUN 2026",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-sebutharga-pelupusan-barang-lucuthak-selangor-bil-10-hingga-12-tahun-2026"
         },
         {
           "label": "Utama",
@@ -660,6 +660,7 @@
         "Papar #",
         "Semua",
         "TAJUK TARIKH TERBITAN BILANGAN KUNJUNGAN",
+        "NOTIS KEPUTUSAN JUALAN SKRAP KENDERAAN & TIDAK BOLEH DIDAFTARKAN JABATAN KASTAM DIRAJA MALAYSIA NEGERI JOHOR BIL.3/2026",
         "NOTIS KEPUTUSAN SEBUT HARGA PELUPUSAN ASET ALIH BAGI JABATAN KASTAM DIRAJA MALAYSIA NEGERI TERENGGANU BIL.8/2026",
         "NOTIS KEPUTUSAN TAWARAN SEBUTHARGA PELUPUSAN BARANG LUCUTHAK KASTAM DIRAJA MALAYSIA SELANGOR BIL. 43/2026 DAN BIL. 44/2026",
         "NOTIS KEPUTUSAN TAWARAN TENDER PELUPUSAN BARANG LUCUTHAK KASTAM DIRAJA MALAYSIA SELANGOR BIL. 7/2026 DAN BIL. 8/2026",
@@ -679,9 +680,8 @@
         "NOTIS KEPUTUSAN TENDER BERSEPADU KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA BIL. 1/2026",
         "KEPUTUSAN TAWARAN SEBUT HARGA BARANG LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI PERAK BIL. 2/2026 DAN BIL. 3/2026",
         "NOTIS KEPUTUSAN TENDER PELUPUSAN BARANG LUCUTHAK SELANGOR BIL. 1 HINGGA 3 TAHUN 2026",
-        "NOTIS KEPUTUSAN SEBUTHARGA PELUPUSAN BARANG LUCUTHAK SELANGOR BIL. 10 HINGGA 12 TAHUN 2026",
         "Laman 1 daripada 8",
-        "Keputusan 1 - 20 daripada 159"
+        "Keputusan 1 - 20 daripada 160"
       ]
     }
   ]
