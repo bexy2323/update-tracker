@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-13T00:49:03.226Z",
+  "fetched_at": "2026-11-13T08:49:31.331Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -34,6 +34,14 @@
         {
           "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (B) 463/2026 - APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDYzLzIwMjZ8NDNlN2MxMzQ1NWU0YmU0MjJjN2Q5MzdjYjA0ZjljN2Y0ZjNiNmI0ZTM3YWUzZDM0NWJiMWEyMmZkMzdkNTc1Zg%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 464/2026 - APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDY0LzIwMjZ8OTk3YmQ3OTcyOTRkZjIyNTRmNjFlOTk4MjkyZTI3ZGQ4NjMxZDg2ODIyYTE2NTM4N2Q5MjA2Y2FmMGJmN2Q3OA%3D%3D"
         },
         {
           "label": "P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026",
@@ -116,19 +124,19 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
+          "label": "APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY0LzIwMjZ8NTlhNjgyOTk3OTczZDU1NWQwMDZlZDY3Y2FlNTJmOGExNzVhYzU3YTNlMDBmMmE4MzY5YmMzMTJhYTU3Njk0Nw%3D%3D"
+        },
+        {
+          "label": "APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDYzLzIwMjZ8ZmJjYzJlZDg2ZDJmZWY2OWM1ZGQ2ZjUyNTBhY2VhODMzYTFmZWQ2NWE1OGM1NWZiNGVkZDliNjFhMDU0YWJhYg%3D%3D"
+        },
+        {
           "label": "NOTICE TO THIRD PARTIES",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDYyLzIwMjZ8ZWMzZDAzNDdmYTczNDQ3MzE5ZTJkYTQyYzUwNjYzYzYxOTBjNTVmMzI3NzMyZWVhN2UzNDE4MGE3Y2MzZmY4ZQ%3D%3D"
         },
         {
-          "label": "NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDYxLzIwMjZ8ZTdhZTlkMWIwOTBkZTE4NjU3YWMxZWYxMjk4YWIzM2IxZjJmMjkyZWRlYjliYzEyODllNjM2NTVmNzFlMGEwZA%3D%3D"
-        },
-        {
-          "label": "NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDYwLzIwMjZ8NDFmYzVlYTJlNTRmM2RlZWQ5Zjk5MGEyOGQ1NjkwMjllNjYxOTNkZDE0NjY4NWU2MWE5NTgwYzQwYWY5ZTZmMw%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 462/2026 - NOTICE TO THIRD PARTIES P.U. (B) 461/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12 P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES See All...",
+          "label": "P.U. (B) 464/2026 - APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY P.U. (B) 463/2026 - APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES P.U. (B) 462/2026 - NOTICE TO THIRD PARTIES See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -153,17 +161,19 @@
         "09 Nov",
         "08 Nov",
         "07 Nov",
-        "There is no record to display",
+        "P.U. (B)",
+        "P.U. (B) 463/2026 - APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES",
+        "P.U. (B) 464/2026 - APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY",
         "P.U. (A)",
         "P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026",
         "P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026",
-        "P.U. (B)",
         "P.U. (B) 461/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
         "P.U. (B) 462/2026 - NOTICE TO THIRD PARTIES",
         "P.U. (A) 389/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026",
         "P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026",
         "P.U. (B) 459/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF FEDERAL LANDS COMMISSIONER",
         "P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES",
+        "There is no record to display",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -178,8 +188,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (B) 456/2026 902",
-        "P.U. (A) 388/2026 666"
+        "P.U. (B) 456/2026 929",
+        "P.U. (A) 388/2026 686"
       ]
     }
   ]

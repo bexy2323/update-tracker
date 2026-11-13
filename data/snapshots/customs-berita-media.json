@@ -1,7 +1,7 @@
 {
   "check_id": "customs-berita-media",
   "url": "https://customs.gov.my/ms/arkib/liputan-media",
-  "fetched_at": "2026-11-13T00:49:52.968Z",
+  "fetched_at": "2026-11-13T08:50:22.370Z",
   "pages": [
     {
       "url": "https://customs.gov.my/ms/arkib/liputan-media",
@@ -70,6 +70,10 @@
         {
           "label": "Tender & Sebut Harga",
           "href": "https://www.customs.gov.my/ms/arkib/tender-sebut-harga"
+        },
+        {
+          "label": "SAMBUTAN HARI INTEGRITI JKDM 2026: “INTEGRITI KITA, NILAI KITA”",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/sambutan-hari-integriti-jkdm-2026-integriti-kita-nilai-kita"
         },
         {
           "label": "THE 30TH JOINT CUSTOMS COMMITTEE (JCC) MEETING FOR THE JOINT DEVELOPMENT AREA (JDA)",
@@ -146,10 +150,6 @@
         {
           "label": "KUNJUNGAN HORMAT YB TIMBALAN MENTERI KEWANGAN KE JABATAN KASTAM DIRAJA MALAYSIA BAGI SESI TAKLIMAT KHAS PROJEK-PROJEK ICT UTAMA DI JKDM",
           "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/kunjungan-hormat-yb-timbalan-menteri-kewangan-ke-jabatan-kastam-diraja-malaysia-bagi-sesi-taklimat-khas-projek-projek-ict-utama-di-jkdm"
-        },
-        {
-          "label": "MAJLIS SEMBAH MENGADAP KE HADAPAN YANG MAHA MULIA PEMANGKU RAJA KELANTAN BAGI MEMPERSEMBAHKAN ALL TERRAIN VEHICLES (ATV) DAN E-BIKE",
-          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/majlis-sembah-mengadap-ke-hadapan-yang-maha-mulia-pemangku-raja-kelantan-bagi-mempersembahkan-all-terrain-vehicles-atv-dan-e-bike"
         },
         {
           "label": "Utama",
@@ -660,6 +660,7 @@
         "Papar #",
         "Semua",
         "TAJUK TARIKH TERBITAN BILANGAN KUNJUNGAN",
+        "SAMBUTAN HARI INTEGRITI JKDM 2026: “INTEGRITI KITA, NILAI KITA”",
         "THE 30TH JOINT CUSTOMS COMMITTEE (JCC) MEETING FOR THE JOINT DEVELOPMENT AREA (JDA)",
         "KUNJUNGAN HORMAT PENGURUSAN TERTINGGI JKDM KE JABATAN IMIGRESEN MALAYSIA",
         "PELUPUSAN SECARA HADIAH KEPADA ZOO NEGARA MALAYSIA",
@@ -679,9 +680,8 @@
         "JABATAN KASTAM DIRAJA MALAYSIA (JKDM) PERKUKUH KERJASAMA STRATEGIK BERSAMA INDUSTRI PETROLEUM DAN GAS",
         "KUNJUNGAN HORMAT DUTA TURKMENISTAN KE ATAS KETUA PENGARAH KASTAM MALAYSIA",
         "KUNJUNGAN HORMAT YB TIMBALAN MENTERI KEWANGAN KE JABATAN KASTAM DIRAJA MALAYSIA BAGI SESI TAKLIMAT KHAS PROJEK-PROJEK ICT UTAMA DI JKDM",
-        "MAJLIS SEMBAH MENGADAP KE HADAPAN YANG MAHA MULIA PEMANGKU RAJA KELANTAN BAGI MEMPERSEMBAHKAN ALL TERRAIN VEHICLES (ATV) DAN E-BIKE",
         "Laman 1 daripada 5",
-        "Keputusan 1 - 20 daripada 81"
+        "Keputusan 1 - 20 daripada 82"
       ]
     }
   ]
