@@ -1,7 +1,7 @@
 {
   "check_id": "mida-announcements",
   "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/",
-  "fetched_at": "2026-11-12T08:58:53.050Z",
+  "fetched_at": "2026-11-13T00:52:51.717Z",
   "pages": [
     {
       "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/",
@@ -36,8 +36,8 @@
           "href": "https://www.mida.gov.my/media-and-events/"
         },
         {
-          "label": "05 Nov 2026 FERROTEC OPENS SECOND KULIM PLANT, CREATING OVER 1,000 HIGH-VALUE JOBS FOR MALAYSIANS Read More",
-          "href": "https://www.mida.gov.my/media-release/ferrotec-opens-second-kulim-plant-creating-over-1000-high-value-jobs-for-malaysians/"
+          "label": "12 Nov 2026 Eppendorf Breaks Ground On New Production Site In Penang, Malaysia Read More",
+          "href": "https://www.mida.gov.my/media-release/eppendorf-breaks-ground-on-new-production-site-in-penang-malaysia/"
         },
         {
           "label": "Read More",
@@ -54,6 +54,10 @@
         {
           "label": "Read More",
           "href": "https://www.mida.gov.my/#whatsapp"
+        },
+        {
+          "label": "05 Nov 2026 FERROTEC OPENS SECOND KULIM PLANT, CREATING OVER 1,000 HIGH-VALUE JOBS FOR MALAYSIANS Read More",
+          "href": "https://www.mida.gov.my/media-release/ferrotec-opens-second-kulim-plant-creating-over-1000-high-value-jobs-for-malaysians/"
         },
         {
           "label": "28 Oct 2026 Safran Strengthens Its Presence In Asia-Pacific With The Expansion Of Itscarbon Brake Facility And The Opening Of A New MRO Center In Malaysia Read More",
@@ -2893,9 +2897,11 @@
         "September",
         "Apply filter",
         "Announcement/Media Release",
+        "12 Nov 2026",
+        "Eppendorf Breaks Ground On New Production Site In Penang, Malaysia",
+        "Read More",
         "05 Nov 2026",
         "FERROTEC OPENS SECOND KULIM PLANT, CREATING OVER 1,000 HIGH-VALUE JOBS FOR MALAYSIANS",
-        "Read More",
         "28 Oct 2026",
         "Safran Strengthens Its Presence In Asia-Pacific With The Expansion Of Itscarbon Brake Facility And The Opening Of A New MRO Center In Malaysia",
         "23 Oct 2026",

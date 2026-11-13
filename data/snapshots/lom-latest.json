@@ -1,39 +1,43 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-12T08:50:32.245Z",
+  "fetched_at": "2026-11-13T00:49:03.226Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov",
+          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov",
+          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov",
+          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov",
+          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov",
+          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov",
+          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov 06 Nov",
+          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzkyLzIwMjZ8Y2FiOTBiZmE1NDk1Y2ZmZWQ3NmMwZjcxZTY2Y2JhNTdkMTczYjA0MzRhMGYwOGFhMTE3OGU5ZThlOTEzZGJhOA%3D%3D"
         },
         {
           "label": "P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026",
@@ -62,54 +66,6 @@
         {
           "label": "P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDYwLzIwMjZ8MjFlZTM1ZDhmZTU3ZDNkNThkYWI4YjAyZGE2MjY0Mjk2ZjRmY2RmMWYzMjZhODVjYzhlY2IwM2NmZDBiZGU0YQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 387/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzg3LzIwMjZ8YzA2MDAzNTliMzc0OTg0MTk5ZDY0ZTA5ZWJmYTlmODZmOWRhMDExY2JkOWY3OGVlNDEyMTcwNTY4YWRhZTMwMQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 388/2026 - CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzg4LzIwMjZ8NzFjZDUzN2Q0NzlmM2M1N2ZlOWRiZDQzODQyODJhODdiNjgzNTlmNDBmNDU0MDYwNTczOTgxYWU3MTA1NzI0MA%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 449/2026 - NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDQ5LzIwMjZ8ZTMyZGZiNzFiNjAzYjBjNjkyMTE2ZWE1YjI0OWVkZDA0NTU2ZTkxNDU4OGViZTYzOGRmNTVhYTdhMWIzZjEyMQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 450/2026 - NOTICE OF AFFIRMATIVE PRELIMINARY DETERMINATION OF ANTI-DUMPING DUTY INVESTIGATION WITH REGARD TO IMPORTS OF FLAT ROLLED PRODUCT OF OTHER ALLOY STEEL AND NON-ALLOY STEEL, PLATED OR COATED WITH ALUMINIUM AND ZINC, ORIGINATING OR EXPORTED FROM THE PEOPLE’S REPUBLIC OF CHINA, CHINESE TAIPEI AND THE SOCIALIST REPUBLIC OF VIET NAM",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDUwLzIwMjZ8MTFiNTcwOGExYmZkZjI2MTUzNThlYmEyMDM1MmJiMTQ3MjdlN2MzODBjMjhiNTNlZjZkMTk1MmU1NTAzZjdjMA%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 451/2026 - NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDUxLzIwMjZ8MGY2N2Q4OTNmY2NkNmVkNDYzN2NlOGUxNjMwYTRkOGRjODk3OTIyNDkzNGMwMTBlZDE4YmE2NzFhZmYxN2YxMA%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 452/2026 - DETERMINATION OF ELECTORAL ROLL FOR THE GENERAL ELECTION OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDUyLzIwMjZ8NDJiZGQyOTI5NTU3YmUyZWJiMmEwNjRiYTc3ZDU2YjJlMjNiMDY2YWM4NzBiNGVjM2I2NTc2YTA4NzMwNDk1ZQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 453/2026 - NOTICE TO HOLD A GENERAL ELECTION TO THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDUzLzIwMjZ8M2QyZDMyMjIxZWRjODRlYjVkY2E0NGE2YzU5Mjg5MjE2YTA1MjQ0N2U5ZDE2ZWQxMmI2ZTY3MzRkNTRkNjg2NA%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 454/2026 - NOTIFICATION UNDER PARAGRAPH 3(1)(e)",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDU0LzIwMjZ8N2Q2M2U0YzU5MjUzOTM2NzU4NGE5NDllYmUzN2RjZTdiNzllYjYxNGZhMmY4ZDJhN2EzODI2ZTQ4MTU0NDNkMw%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 455/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDU1LzIwMjZ8ODJhYWI1NDE5NjYwZGIyZGFmMmY2ZmNmZDg3M2JhZjMxZTMwMjg5NGU2YjkxN2RjYmEzNzA5M2FkNjBjNDdiZQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 456/2026 - DECLARATION UNDER SECTION 3",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDU2LzIwMjZ8YTZjZTNmZDQ3MjVlNzJmYzQwY2I0ZGU5MmU3NDEwZmIyOTY3NzExZDdjZWIwY2JiYzZhMjBkNWMwM2YxZDY0Nw%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 457/2026 - NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDU3LzIwMjZ8OWRlZGI2ZDY1MjA2ZDZjZmQxMjYyZDc3NDI0MGVjNmUzMjM2YzA1ZjIwYjczMTU2ODI5ZTMwYTE5YjVkYWM2ZQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 458/2026 - NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDU4LzIwMjZ8MDQzNjhlYWJmZGEyNGMwMmRhYmUzMDhjNjI5NmNiODBhNGUxZjdiOWEyOGNmYzM4MGNhMWMwNWRmYjY5ZDk1OQ%3D%3D"
         },
         {
           "label": "STATISTICS ACT 2026",
@@ -144,6 +100,10 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9YW1lbmRtZW50Jmxhbmd1YWdlPUJJfGU0NGQyMzUzY2MyNjFmNjk1Njg2OWM2ZDk3YjJiZjQ2ODg4MzBiYzZiMTk0MGJlMDVkOWZhNmU5Y2FmZWQ2OWE%3D"
         },
         {
+          "label": "TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzkyLzIwMjZ8OWMzMTkxYTYwMjM4M2ZkMjkxZjA5ODg3NmU0ZGYyNDBmNzVlN2U3N2UwMmE4ZmJiMDMxMDcxN2I3ZmU4YmE1Mw%3D%3D"
+        },
+        {
           "label": "FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzkxLzIwMjZ8YjM1NTVlNzZhNTg1YWQyZTliOTdmMzAyMDgxNjIzNDhjODg0ZmQ4OWZhZTBhNWM1NzU0YWMwNzllMmYyMTQ4Mg%3D%3D"
         },
@@ -152,11 +112,7 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzkwLzIwMjZ8NmMzZGQ2M2I3YzIwYzM5YWJhY2EwMjkxZWU4MDM2ZWVkOGIyZDgxM2JkNmY4ODE4ZjM3ZWI3ZjAyYWE1OGJiMg%3D%3D"
         },
         {
-          "label": "NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg5LzIwMjZ8ZmIxYWFlM2I1ZGJmNGRkYTUxMDU1N2I5MTI2ZGE1YmM5MzRkZWE4MzI2YmIzMjgwNDM2YjMyZWM0MmU4MzI4MQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026 P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026 P.U. (A) 389/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026 See All...",
+          "label": "P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026 P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026 P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026 See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
@@ -191,14 +147,15 @@
       "lines": [
         "What's New",
         "Today",
+        "12 Nov",
         "11 Nov",
         "10 Nov",
         "09 Nov",
         "08 Nov",
         "07 Nov",
-        "06 Nov",
         "There is no record to display",
         "P.U. (A)",
+        "P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026",
         "P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026",
         "P.U. (B)",
         "P.U. (B) 461/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
@@ -207,18 +164,6 @@
         "P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026",
         "P.U. (B) 459/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF FEDERAL LANDS COMMISSIONER",
         "P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES",
-        "P.U. (A) 387/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 3) ORDER 2026",
-        "P.U. (A) 388/2026 - CUSTOMS (PROVISIONAL ANTI-DUMPING DUTIES) ORDER 2026",
-        "P.U. (B) 449/2026 - NOTICE TO THIRD PARTIES",
-        "P.U. (B) 450/2026 - NOTICE OF AFFIRMATIVE PRELIMINARY DETERMINATION OF ANTI-DUMPING DUTY INVESTIGATION WITH REGARD TO IMPORTS OF FLAT ROLLED PRODUCT OF OTHER ALLOY STEEL AND NON-ALLOY STEEL, PLATED OR COATED WITH ALUMINIUM AND ZINC, ORIGINATING OR EXPORTED FROM THE PEOPLE’S REPUBLIC OF CHINA, CHINESE TAIPEI AND THE SOCIALIST REPUBLIC OF VIET NAM",
-        "P.U. (B) 451/2026 - NOTICE TO THIRD PARTIES",
-        "P.U. (B) 452/2026 - DETERMINATION OF ELECTORAL ROLL FOR THE GENERAL ELECTION OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
-        "P.U. (B) 453/2026 - NOTICE TO HOLD A GENERAL ELECTION TO THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
-        "P.U. (B) 454/2026 - NOTIFICATION UNDER PARAGRAPH 3(1)(e)",
-        "P.U. (B) 455/2026 - NOTIFICATION UNDER SUBREGULATION 3(3) FOR THE PURPOSE OF GENERAL ELECTION FOR THE SEAT OF THE LEGISLATIVE ASSEMBLY OF THE STATE OF SARAWAK",
-        "P.U. (B) 456/2026 - DECLARATION UNDER SECTION 3",
-        "P.U. (B) 457/2026 - NOTICE TO THIRD PARTIES",
-        "P.U. (B) 458/2026 - NOTICE TO THIRD PARTIES",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -233,7 +178,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (A) 388/2026 752"
+        "P.U. (B) 456/2026 902",
+        "P.U. (A) 388/2026 666"
       ]
     }
   ]
