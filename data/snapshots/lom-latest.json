@@ -1,39 +1,43 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-13T08:49:31.331Z",
+  "fetched_at": "2026-11-16T00:49:13.768Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
+          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
+          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
+          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
+          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
+          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
+          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 12 Nov 11 Nov 10 Nov 09 Nov 08 Nov 07 Nov",
+          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzkzLzIwMjZ8MjdkNDhkMDY0ODRiY2I0OTgyOWFiN2NlYjQwNmEwMmUwMWU1MTAzMWQ5OTRjMTgwZGEyNThiNTFlOGI1ZWJlYg%3D%3D"
         },
         {
           "label": "P.U. (B) 463/2026 - APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES",
@@ -42,6 +46,10 @@
         {
           "label": "P.U. (B) 464/2026 - APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDY0LzIwMjZ8OTk3YmQ3OTcyOTRkZjIyNTRmNjFlOTk4MjkyZTI3ZGQ4NjMxZDg2ODIyYTE2NTM4N2Q5MjA2Y2FmMGJmN2Q3OA%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 465/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDY1LzIwMjZ8NWI2ZThlNDc0YjU3NzVmMjNiNmRjYzgyMGU2MTkyZGI2MzQ5OTBmZmNmYWQ2YmE3YTcwN2E4NDE1MWYwOGJjMw%3D%3D"
         },
         {
           "label": "P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026",
@@ -108,6 +116,10 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9YW1lbmRtZW50Jmxhbmd1YWdlPUJJfGU0NGQyMzUzY2MyNjFmNjk1Njg2OWM2ZDk3YjJiZjQ2ODg4MzBiYzZiMTk0MGJlMDVkOWZhNmU5Y2FmZWQ2OWE%3D"
         },
         {
+          "label": "JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzkzLzIwMjZ8MDM3Y2VmYzAxOWZiYzhiNmY5NGRhOTk5ZWU5MTIwYTQxZWM3MzI1MGU3ZjcwNWJjY2ZmMmJjNTQ5ZDVhYjA1Nw%3D%3D"
+        },
+        {
           "label": "TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzkyLzIwMjZ8OWMzMTkxYTYwMjM4M2ZkMjkxZjA5ODg3NmU0ZGYyNDBmNzVlN2U3N2UwMmE4ZmJiMDMxMDcxN2I3ZmU4YmE1Mw%3D%3D"
         },
@@ -116,12 +128,12 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzkxLzIwMjZ8YjM1NTVlNzZhNTg1YWQyZTliOTdmMzAyMDgxNjIzNDhjODg0ZmQ4OWZhZTBhNWM1NzU0YWMwNzllMmYyMTQ4Mg%3D%3D"
         },
         {
-          "label": "NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzkwLzIwMjZ8NmMzZGQ2M2I3YzIwYzM5YWJhY2EwMjkxZWU4MDM2ZWVkOGIyZDgxM2JkNmY4ODE4ZjM3ZWI3ZjAyYWE1OGJiMg%3D%3D"
+          "label": "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026 P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026 P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
-          "label": "P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026 P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026 P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026 See All...",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+          "label": "NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY1LzIwMjZ8ODM0ZTdhZDVkOWFkM2NlMTEwMWMzMTNmN2NkNjNlODM5YmZmMDE3OGU1MTk5MDVlOWEzMzkwMmEzNTYyZjdjOQ%3D%3D"
         },
         {
           "label": "APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY",
@@ -132,39 +144,30 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDYzLzIwMjZ8ZmJjYzJlZDg2ZDJmZWY2OWM1ZGQ2ZjUyNTBhY2VhODMzYTFmZWQ2NWE1OGM1NWZiNGVkZDliNjFhMDU0YWJhYg%3D%3D"
         },
         {
-          "label": "NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDYyLzIwMjZ8ZWMzZDAzNDdmYTczNDQ3MzE5ZTJkYTQyYzUwNjYzYzYxOTBjNTVmMzI3NzMyZWVhN2UzNDE4MGE3Y2MzZmY4ZQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 464/2026 - APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY P.U. (B) 463/2026 - APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES P.U. (B) 462/2026 - NOTICE TO THIRD PARTIES See All...",
+          "label": "P.U. (B) 465/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12 P.U. (B) 464/2026 - APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY P.U. (B) 463/2026 - APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
           "label": "FEDERAL CONSTITUTION",
           "href": "https://lom.agc.gov.my/federal-constitution.php"
-        },
-        {
-          "label": "P.U. (B) 456/2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDU2LzIwMjZ8MDVjOTE5YTNmZWVjNzY2MDJmODY1MDQ1Y2Q3MjlmY2Q1YWI1MzFiMjkxNWFmNWYyOGY1ZWU4MTJhMjM2Y2ExYg%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 388/2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzg4LzIwMjZ8NTEyODgyOTE2NTE4MTg5MGNlOGY2NzlkYjcxOWU4NmJhMzg5NDg1YzNmNWQ4ZTRiOTRkZjI0Mjk0MjcyYTMzZQ%3D%3D"
         }
       ],
       "lines": [
         "What's New",
         "Today",
+        "15 Nov",
+        "14 Nov",
+        "13 Nov",
         "12 Nov",
         "11 Nov",
         "10 Nov",
-        "09 Nov",
-        "08 Nov",
-        "07 Nov",
+        "There is no record to display",
+        "P.U. (A)",
+        "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026",
         "P.U. (B)",
         "P.U. (B) 463/2026 - APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES",
         "P.U. (B) 464/2026 - APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY",
-        "P.U. (A)",
+        "P.U. (B) 465/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
         "P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026",
         "P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026",
         "P.U. (B) 461/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
@@ -173,7 +176,6 @@
         "P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026",
         "P.U. (B) 459/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF FEDERAL LANDS COMMISSIONER",
         "P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES",
-        "There is no record to display",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -188,8 +190,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "P.U. (B) 456/2026 929",
-        "P.U. (A) 388/2026 686"
+        "Act 136 561",
+        "Act 854 554"
       ]
     }
   ]
