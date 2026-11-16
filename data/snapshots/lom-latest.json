@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-16T00:49:13.768Z",
+  "fetched_at": "2026-11-16T08:49:04.720Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -34,6 +34,10 @@
         {
           "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (B) 466/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDY2LzIwMjZ8NGNiNDE2Y2NhNTM3ZWJjMmQ3MjQ1Y2JhMzllZGFlZTdmNWRlZGQ1YzI4NmI3YTgzY2FlZjg3MzMxYWZkMTU5YQ%3D%3D"
         },
         {
           "label": "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026",
@@ -132,6 +136,10 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
+          "label": "APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY2LzIwMjZ8NzQxZTRhYmJmZDc1YTUwMDk4NTg0MTEyZjZiODkwMTFlNGU1MjZjYjY1ZmY3ZmZjZTEwZWVmMTk5OGVhNDgyNg%3D%3D"
+        },
+        {
           "label": "NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY1LzIwMjZ8ODM0ZTdhZDVkOWFkM2NlMTEwMWMzMTNmN2NkNjNlODM5YmZmMDE3OGU1MTk5MDVlOWEzMzkwMmEzNTYyZjdjOQ%3D%3D"
         },
@@ -140,11 +148,7 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY0LzIwMjZ8NTlhNjgyOTk3OTczZDU1NWQwMDZlZDY3Y2FlNTJmOGExNzVhYzU3YTNlMDBmMmE4MzY5YmMzMTJhYTU3Njk0Nw%3D%3D"
         },
         {
-          "label": "APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDYzLzIwMjZ8ZmJjYzJlZDg2ZDJmZWY2OWM1ZGQ2ZjUyNTBhY2VhODMzYTFmZWQ2NWE1OGM1NWZiNGVkZDliNjFhMDU0YWJhYg%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 465/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12 P.U. (B) 464/2026 - APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY P.U. (B) 463/2026 - APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES See All...",
+          "label": "P.U. (B) 466/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD P.U. (B) 465/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12 P.U. (B) 464/2026 - APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -161,10 +165,11 @@
         "12 Nov",
         "11 Nov",
         "10 Nov",
+        "P.U. (B)",
+        "P.U. (B) 466/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD",
         "There is no record to display",
         "P.U. (A)",
         "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026",
-        "P.U. (B)",
         "P.U. (B) 463/2026 - APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES",
         "P.U. (B) 464/2026 - APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY",
         "P.U. (B) 465/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
@@ -190,8 +195,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 136 561",
-        "Act 854 554"
+        "Act 854 727",
+        "Act 136 598"
       ]
     }
   ]

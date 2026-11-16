@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Chartered Tax Institute of Malaysia",
+    "section": "eCTIM (titles listed on the public home page; full text needs member sign-in)",
+    "title": "Finance Bill 2026 tabled for first reading in the Dewan Rakyat (Budget 2027 tax measures)",
+    "publication_date": "16/11/2026",
+    "change_type": "new",
+    "summary": "The Finance Bill 2026, which carries the Budget 2027 tax measures, was tabled for first reading by the Finance Ministry on 16/11/2026 (confirmed by Media Selangor's Dewan Rakyat agenda report; CTIM posted the bill the same day). Business Today reports that it amends the Income Tax Act 1967, Stamp Act 1949, Labuan Business Activity Tax Act 1990, Petroleum (Income Tax) Act 1967 and Finance Act 2025, and is due for second reading this sitting; I couldn't open that article to confirm. CTIM's PDF currently returns a server error and the Parlimen site is unreachable from here, so the bill's text hasn't been reviewed.",
+    "replaces": "",
+    "replaces_link": "",
+    "link": "https://www.ctim.org.my/download?file=%2F44%2Fcf6335b74b7491c006771fdcaa1cc656.pdf",
+    "tax_a_minute": false
+  },
+  {
+    "source": "Chartered Tax Institute of Malaysia",
+    "section": "eCTIM (titles listed on the public home page; full text needs member sign-in)",
+    "title": "Measures for the Collection, Administration and Enforcement of Tax Bill 2026 tabled for first reading",
+    "publication_date": "16/11/2026",
+    "change_type": "new",
+    "summary": "A companion bill on tax collection, administration and enforcement was tabled for first reading alongside the Finance Bill 2026 on 16/11/2026 (Media Selangor; CTIM posted it the same day). Business Today reports that it amends seven laws and will involve additional government expenditure; I couldn't open that article to confirm. The bill's text hasn't been reviewed: CTIM's PDF returns a server error and Parlimen is unreachable from here.",
+    "replaces": "",
+    "replaces_link": "",
+    "link": "https://www.ctim.org.my/download?file=%2F44%2F1d362267677b064990bab374d1b86af5.pdf",
+    "tax_a_minute": false
+  },
+  {
+    "source": "HASiL (Inland Revenue Board)",
+    "section": "Forms > Download Forms (years listed per form category)",
+    "title": "Form CP55 revised (Pin. 1/2026) – Authority to furnish prescribed forms/returns electronically (appointment of tax agent)",
+    "publication_date": "Not stated (new on HASiL Download Forms 16/11/2026)",
+    "change_type": "replacement",
+    "summary": "HASiL replaced Form CP55 with a 1/2026 revision. Taxpayers use it to appoint and authorise a tax agent and firm to file prescribed forms and returns electronically under the ITA 1967 (s.152), PITA 1967 (s.82), RPGT Act 1976 (s.57) and LBATA 1990 (s.21A). The new version identifies the taxpayer and the appointed firm by TIN. HASiL doesn't list the changes.",
+    "replaces": "Form CP55 [Pin. 1/2019]",
+    "replaces_link": "Not available online: HASiL removed CP55_Pin2019.pdf (it now returns 404) and the Wayback Machine has no copy",
+    "link": "https://www.hasil.gov.my/wp-content/uploads/Form_CP55_amend.2026.pdf",
+    "tax_a_minute": false
+  }
+]
