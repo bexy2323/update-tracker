@@ -1,7 +1,7 @@
 {
   "check_id": "ctim-ectim",
   "url": "https://www.ctim.org.my/",
-  "fetched_at": "2026-11-16T08:50:21.887Z",
+  "fetched_at": "2026-11-17T00:51:10.943Z",
   "pages": [
     {
       "url": "https://www.ctim.org.my/",
@@ -300,15 +300,15 @@
           "href": "https://www.ctim.org.my/download?file=%2F14%2Fea60cbe31c05682493bb9e859723f5a3.pdf"
         },
         {
+          "label": "e-CTIM TECH-DT 96-2026 - Finance Bill 2026 and Measures for the Collection, Administration & Enforcement of Tax Bill 2026",
+          "href": "https://www.ctim.org.my/"
+        },
+        {
           "label": "e-CTIM TECH-IT 45-2026 - Amendment to Industry Guide on Construction Works Services dated 17 March 2026 – Summary of Editorial Amendments",
           "href": "https://www.ctim.org.my/"
         },
         {
           "label": "e-CTIM TECH-DT 95-2026 - Income Tax (Principal Hub Incentive Scheme) (Amendment) Rules 2026 [P.U. (A) 384-2026]",
-          "href": "https://www.ctim.org.my/"
-        },
-        {
-          "label": "e-CTIM TECH-DT 94-2026 - Update on Global Minimum Tax (GMT) Filing Obligations & Registration Requirement",
           "href": "https://www.ctim.org.my/"
         },
         {
@@ -361,9 +361,9 @@
         "11 November 2026",
         "eCTIM",
         "e-CTIM",
+        "e-CTIM TECH-DT 96-2026 - Finance Bill 2026 and Measures for the Collection, Administration & Enforcement of Tax Bill 2026",
         "e-CTIM TECH-IT 45-2026 - Amendment to Industry Guide on Construction Works Services dated 17 March 2026 – Summary of Editorial Amendments",
         "e-CTIM TECH-DT 95-2026 - Income Tax (Principal Hub Incentive Scheme) (Amendment) Rules 2026 [P.U. (A) 384-2026]",
-        "e-CTIM TECH-DT 94-2026 - Update on Global Minimum Tax (GMT) Filing Obligations & Registration Requirement",
         "CONTACT US LOCATION MAPS PRIVACY POLICY TERMS & CONDITIONS",
         "© 2021 Chartered Tax Institute Of Malaysia. All Rights Reserved."
       ]

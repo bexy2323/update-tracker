@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-16T08:49:04.720Z",
+  "fetched_at": "2026-11-17T00:49:47.527Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
+          "label": "Today 16 Nov 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
+          "label": "Today 16 Nov 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
+          "label": "Today 16 Nov 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
+          "label": "Today 16 Nov 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
+          "label": "Today 16 Nov 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
+          "label": "Today 16 Nov 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 Nov",
+          "label": "Today 16 Nov 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -70,22 +70,6 @@
         {
           "label": "P.U. (B) 462/2026 - NOTICE TO THIRD PARTIES",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDYyLzIwMjZ8OGMzNDMyYzQ0YjYxODM5ZTJmNTA1ZTAwYTMxNGM4YTg3Y2JkOTg5N2M2OGIyNThmNDE0NGVkZTJiZmU3MTQwZQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 389/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzg5LzIwMjZ8YTE1MjRhOWZjMGEyZTQwYzdiODYzNzJlYzJmNjg0MDNiODg0YWYxZDAxMWE3YTI5MjA0YjM0OTVkMTBiMDNhYQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzkwLzIwMjZ8NWQwZjU1NDJmNjEwNWE2MzViMzc4MjhkYWIyZWYxMTZjZGE4MDk2NGQyNDM1ZWU5OWRkMTZhMDAwOThjYjVjYg%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 459/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF FEDERAL LANDS COMMISSIONER",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDU5LzIwMjZ8MGZjZDA1Nzc1Y2U2OTNlOTQ5NWQxNThhNjM5OGEwZWU0Yjg0YTZkMWU2OTAyNWZmNGNmNTk5ODg3MTA0MDIzMg%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDYwLzIwMjZ8MjFlZTM1ZDhmZTU3ZDNkNThkYWI4YjAyZGE2MjY0Mjk2ZjRmY2RmMWYzMjZhODVjYzhlY2IwM2NmZDBiZGU0YQ%3D%3D"
         },
         {
           "label": "STATISTICS ACT 2026",
@@ -159,15 +143,15 @@
       "lines": [
         "What's New",
         "Today",
+        "16 Nov",
         "15 Nov",
         "14 Nov",
         "13 Nov",
         "12 Nov",
         "11 Nov",
-        "10 Nov",
+        "There is no record to display",
         "P.U. (B)",
         "P.U. (B) 466/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD",
-        "There is no record to display",
         "P.U. (A)",
         "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026",
         "P.U. (B) 463/2026 - APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES",
@@ -177,10 +161,6 @@
         "P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026",
         "P.U. (B) 461/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
         "P.U. (B) 462/2026 - NOTICE TO THIRD PARTIES",
-        "P.U. (A) 389/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 4) ORDER 2026",
-        "P.U. (A) 390/2026 - NATIONAL HERITAGE (DECLARATION OF NATIONAL HERITAGE) (HERITAGE OBJECT) (NO. 5) ORDER 2026",
-        "P.U. (B) 459/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF FEDERAL LANDS COMMISSIONER",
-        "P.U. (B) 460/2026 - NOTICE TO THIRD PARTIES",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -195,8 +175,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 854 727",
-        "Act 136 598"
+        "Act 854 649",
+        "Act 136 543"
       ]
     }
   ]
