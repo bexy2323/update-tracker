@@ -1,7 +1,7 @@
 {
   "check_id": "mida-announcements",
   "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/",
-  "fetched_at": "2026-11-17T00:55:00.231Z",
+  "fetched_at": "2026-11-17T08:55:12.260Z",
   "pages": [
     {
       "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/",
@@ -36,8 +36,8 @@
           "href": "https://www.mida.gov.my/media-and-events/"
         },
         {
-          "label": "12 Nov 2026 Eppendorf Breaks Ground On New Production Site In Penang, Malaysia Read More",
-          "href": "https://www.mida.gov.my/media-release/eppendorf-breaks-ground-on-new-production-site-in-penang-malaysia/"
+          "label": "17 Nov 2026 Malaysia Records RM350.4 Billion In Approved Investments In The First Nine Months Of 2026, Up 20.7% Read More",
+          "href": "https://www.mida.gov.my/media-release/malaysia-records-rm350-4-billion-in-approved-investments-in-the-first-nine-months-of-2026-up-20-7/"
         },
         {
           "label": "Read More",
@@ -54,6 +54,10 @@
         {
           "label": "Read More",
           "href": "https://www.mida.gov.my/#whatsapp"
+        },
+        {
+          "label": "12 Nov 2026 Eppendorf Breaks Ground On New Production Site In Penang, Malaysia Read More",
+          "href": "https://www.mida.gov.my/media-release/eppendorf-breaks-ground-on-new-production-site-in-penang-malaysia/"
         },
         {
           "label": "05 Nov 2026 FERROTEC OPENS SECOND KULIM PLANT, CREATING OVER 1,000 HIGH-VALUE JOBS FOR MALAYSIANS Read More",
@@ -2897,9 +2901,11 @@
         "September",
         "Apply filter",
         "Announcement/Media Release",
+        "17 Nov 2026",
+        "Malaysia Records RM350.4 Billion In Approved Investments In The First Nine Months Of 2026, Up 20.7%",
+        "Read More",
         "12 Nov 2026",
         "Eppendorf Breaks Ground On New Production Site In Penang, Malaysia",
-        "Read More",
         "05 Nov 2026",
         "FERROTEC OPENS SECOND KULIM PLANT, CREATING OVER 1,000 HIGH-VALUE JOBS FOR MALAYSIANS",
         "28 Oct 2026",
