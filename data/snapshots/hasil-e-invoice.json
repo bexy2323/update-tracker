@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-e-invoice",
   "url": "https://www.hasil.gov.my/en/e-invois/",
-  "fetched_at": "2026-11-18T00:41:41.962Z",
+  "fetched_at": "2026-11-18T08:41:46.487Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/e-invois/",
@@ -1824,6 +1824,11 @@
         {
           "label": "01032025_wb_utama_bm-01",
           "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "label": "Info e-Invois - Fungsi Pengesahan Biometrik di Aplikasi MyInvois (BM)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Fungsi-Pengesahan-Biometrik-di-Aplikasi-MyInvois-BM.png",
           "image": true
         },
         {

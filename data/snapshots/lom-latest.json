@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-18T00:50:06.544Z",
+  "fetched_at": "2026-11-18T08:49:36.494Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -34,6 +34,14 @@
         {
           "label": "Today 17 Nov 16 Nov 15 Nov 14 Nov 13 Nov 12 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (B) 467/2026 - SPECIAL DIRECTION OF THE MINISTER",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDY3LzIwMjZ8ZjE5ZDQ0NjRkODJmY2YwYjg2YmRjZDdmZmRhM2NkNGRkNWQ2MTJhY2ZkMmM5ZGMzZmVhMDBmZjFjNTY3MWU2OQ%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 468/2026 - NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDY4LzIwMjZ8YTY1MjkzNThlMWNmYjUyMTk1NTUwNWQ1ODRlMWZlNThjYjNkODBiMWI0ZGE5YzM3ZGM5OGM0NGZkOTU3MjI4NA%3D%3D"
         },
         {
           "label": "P.U. (B) 466/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD",
@@ -108,19 +116,19 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
+          "label": "NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY4LzIwMjZ8MjgwNmRmNDQwYTE1NWEzOWRmYjM3MWVmYWIxNGNhMzMzOTBlYzI0ZWNiNzZhYTZlY2RjNjdkMWM0MmQwZDdmNQ%3D%3D"
+        },
+        {
+          "label": "SPECIAL DIRECTION OF THE MINISTER",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY3LzIwMjZ8MjIxZmNjYTg5OWIxMTlmMDQwYzg4NzAwNGQyZjJlNjM2ZTQ2NzAwOTA5ODljZjJmYzU2YTNiNmQyOTQwNThhMg%3D%3D"
+        },
+        {
           "label": "APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY2LzIwMjZ8NzQxZTRhYmJmZDc1YTUwMDk4NTg0MTEyZjZiODkwMTFlNGU1MjZjYjY1ZmY3ZmZjZTEwZWVmMTk5OGVhNDgyNg%3D%3D"
         },
         {
-          "label": "NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY1LzIwMjZ8ODM0ZTdhZDVkOWFkM2NlMTEwMWMzMTNmN2NkNjNlODM5YmZmMDE3OGU1MTk5MDVlOWEzMzkwMmEzNTYyZjdjOQ%3D%3D"
-        },
-        {
-          "label": "APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY0LzIwMjZ8NTlhNjgyOTk3OTczZDU1NWQwMDZlZDY3Y2FlNTJmOGExNzVhYzU3YTNlMDBmMmE4MzY5YmMzMTJhYTU3Njk0Nw%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 466/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD P.U. (B) 465/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12 P.U. (B) 464/2026 - APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY See All...",
+          "label": "P.U. (B) 468/2026 - NOTICE TO THIRD PARTIES P.U. (B) 467/2026 - SPECIAL DIRECTION OF THE MINISTER P.U. (B) 466/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -137,8 +145,10 @@
         "14 Nov",
         "13 Nov",
         "12 Nov",
-        "There is no record to display",
         "P.U. (B)",
+        "P.U. (B) 467/2026 - SPECIAL DIRECTION OF THE MINISTER",
+        "P.U. (B) 468/2026 - NOTICE TO THIRD PARTIES",
+        "There is no record to display",
         "P.U. (B) 466/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD",
         "P.U. (A)",
         "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026",
@@ -161,8 +171,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 854 668",
-        "Act 164 544"
+        "Act 854 738",
+        "Act 164 633"
       ]
     }
   ]

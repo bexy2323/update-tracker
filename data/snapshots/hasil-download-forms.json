@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-download-forms",
   "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
-  "fetched_at": "2026-11-18T00:48:12.964Z",
+  "fetched_at": "2026-11-18T08:48:21.954Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
@@ -591,32 +591,40 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/Brg_PEL_T_2.pdf"
         },
         {
-          "label": "| Application to the Director General of Inland Revenue for Relief in respect of Error or Mistake Form CP 15C - Amend. 1/2026 (127.03 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/cp-15c-pin-1-2026-borang-permohonan-relif-acp-s131.pdf"
+          "label": "| Application for Relief to the Director General of Inland Revenue in respect of an error or mistake Paragraph 97(A)(5)(a) ITA 1976 Subsection 131(1) ITA 1976 CP 15C - Amend. 1/2026 (159.46 KB) Available in Malay only. This form can be downloaded and used.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CP-15C.pdf"
         },
         {
-          "label": "| Application to the Director General of Inland Revenue for Relief in respect of other than Error or Mistake Form CP 15F - Amend. 1/2026 (125.72 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/cp-15f-pin-1-2026-borang-permohonan-relif-acp-131a.pdf"
+          "label": "| Application for Relief to the Director General of Inland Revenue other than in respect of an error or mistake Paragraph 97(A)(5)(b) ITA 1976 Subsection 131A(1) ITA 1976 CP 15F - Amend. 1/2026 (160.22 KB) Available in Malay only. This form can be downloaded and used.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CP-15F.pdf"
         },
         {
-          "label": "| Permohonan Relif kepada Ketua Pengarah Hasil Dalam Negeri berkaitan kesalahan atau kesilapan di bawah Akta Cukai Keuntungan Harta Tanah 1976 Form CKHT 15H – 1/2026 (102.12 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/ckht-15h-1-2026-borang-permohonan-relif-seksyen-19-ackht-1976-pin2026.pdf"
+          "label": "| Application for Relief to the Director General of Inland Revenue in respect of an error or mistake Section 19 RPGTA 1976 CKHT 15H – 1/2026 (149.27 KB) Available in Malay only. This form can be downloaded and used.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CKHT-15H.pdf"
         },
         {
-          "label": "| Permohonan Relif kepada Ketua Pengarah Hasil Dalam Negeri berkaitan selain daripada kesalahan atau kesilapan di bawah Akta Cukai Keuntungan Harta Tanah 1976 Form CKHT 15J – 1/2026 (102.36 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/ckht-15j-1-2026-borang-permohonan-relif-seksyen-19a-ackht-1976-pin2026.pdf"
+          "label": "| Application for Relief to the Director General of Inland Revenue other than in respect of an error or mistake Section 19A RPGTA 1976 CKHT 15J – 1/2026 (148.66 KB) Available in Malay only. This form can be downloaded and used.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CKHT-15J.pdf"
         },
         {
-          "label": "| Request form to forward the relief application to The Special Commissioner of Petroleum Income Tax Form CP.136A – 1/2022 (115.39 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/BORANG_RF_CP_136A_1_2022_1.pdf"
+          "label": "| Application for Relief to the Director General of Inland Revenue in respect of an error or mistake Paragraph 41(A)(5)(a) PCP 1967 Subsection 66(1) PCP 1967 CP 136H – 2026 (196.51 KB) Available in Malay only. This form can be downloaded and used.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CP-136H.pdf"
         },
         {
-          "label": "| Request form to forward the relief application to The Special Commissioner of Income Tax Form CP.15G – 1/2022 (113.79 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/BORANG_RF_CP_15G_1_2022_1.pdf"
+          "label": "| Application for Relief to the Director General of Inland Revenue other than in respect of an error or mistake Paragraph 41A(5)(b) PCP 1967 Subsection 66A(1) PCP 1967 CP 136J – 2026 (196.41 KB) Available in Malay only. This form can be downloaded and used.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CP-136J.pdf"
         },
         {
-          "label": "| Borang Permintaan Kepada Pesuruhjaya Khas Cukai Pendapatan di bawah Akta Cukai Keuntungan Harta Tanah 1976 (Permohonan Relif) Form CKHT 15K – 1/2026 (106.00 KB) Available in Malay language only. This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia.",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-ckht-15k-1-2026.pdf"
+          "label": "| Request Form to the Special Commissioners of Income Tax (Application for Relief) Paragraph 41A(10)(a) Paragraph 66(5)(a)/66A(5)(a) PIA 1967 CP 136A – 1/2026 (152.98 KB) Available in Malay only. This form can be downloaded and used.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CP-136A.pdf"
+        },
+        {
+          "label": "| Request Form to the Special Commissioners of Income Tax (Application for Relief) Paragraph 97A(10)(a) Paragraph 131(5)(a)/131A(5)(a) ITA 1976 CP 15G – 1/2026 (151.75 KB) Available in Malay only. This form can be downloaded and used.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CP-15G.pdf"
+        },
+        {
+          "label": "| Request Form to the Special Commissioners of Income Tax (Application for Relief) Paragraph 19(5)(a) Paragraph 19A(5)(a) RPGTA 1976 CKHT 15K – 1/2026 (151.07 KB) Available in Malay only. This form can be downloaded and used.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CKHT-15K.pdf"
         },
         {
           "label": "| Application Form of Tax Clearance Letter for Dissolution by Strike Off e-SPC (314.79 KB) Applications for Tax Clearance Letter (TCL) for company must be submitted online via the e-SPC application in MyTax. Sample of Form CP7 : Form CP7 (155.28 KB) Appendix 3A (128.43 KB)",

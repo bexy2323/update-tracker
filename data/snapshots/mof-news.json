@@ -1,7 +1,7 @@
 {
   "check_id": "mof-news",
   "url": "https://www.mof.gov.my/portal/en/news",
-  "fetched_at": "2026-11-18T00:50:34.087Z",
+  "fetched_at": "2026-11-18T08:50:02.374Z",
   "pages": [
     {
       "url": "https://www.mof.gov.my/portal/en/news",
@@ -22,6 +22,14 @@
         {
           "label": "fas fa-sitemap",
           "href": "https://www.mof.gov.my/portal/en/site-map"
+        },
+        {
+          "label": "Malaysia’s 2026 GDP Growth On Track To Exceed 5% For Third Consecutive Year Press Release 18 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-release/malaysias-2026-gdp-growth-on-track-to-exceed-5-for-third-consecutive-year"
+        },
+        {
+          "label": "Malaysia’s 2026 GDP Growth On Track To Exceed 5% For Third Consecutive Year",
+          "href": "https://www.mof.gov.my/portal/en/news/press-release/malaysias-2026-gdp-growth-on-track-to-exceed-5-for-third-consecutive-year"
         },
         {
           "label": "Govt Approves MRL's Fifth Sukuk Programme Worth RM19.05 Bln To Finance ECRL Project Press Citations 16 November 2026",
@@ -62,14 +70,6 @@
         {
           "label": "OPR Held Steady To Allow Businesses To Continue Growing – Amir Hamzah",
           "href": "https://www.mof.gov.my/portal/en/news/press-citations/opr-held-steady-to-allow-businesses-to-continue-growing---amir-hamzah"
-        },
-        {
-          "label": "Retail Prices Of RON97, Unsubsidised RON95, Diesel To Drop From Tomorrow - MOF Press Citations 11 November 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/retail-prices-of-ron97-unsubsidised-ron95-diesel-to-drop-from-tomorrow-mof"
-        },
-        {
-          "label": "Retail Prices Of RON97, Unsubsidised RON95, Diesel To Drop From Tomorrow - MOF",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/retail-prices-of-ron97-unsubsidised-ron95-diesel-to-drop-from-tomorrow-mof"
         },
         {
           "label": "Press Release",
@@ -182,6 +182,9 @@
         "fas fa-sitemap",
         "Site Map",
         "NEWS & MEDIA",
+        "Malaysia’s 2026 GDP Growth On Track To Exceed 5% For Third Consecutive Year",
+        "Press Release",
+        "18 November 2026",
         "Govt Approves MRL's Fifth Sukuk Programme Worth RM19.05 Bln To Finance ECRL Project",
         "Press Citations",
         "16 November 2026",
@@ -191,9 +194,6 @@
         "Malaysian Economy Expected To Grow More Than Five Pct For Third Consecutive Year -- Amir Hamzah",
         "OPR Held Steady To Allow Businesses To Continue Growing – Amir Hamzah",
         "15 November 2026",
-        "Retail Prices Of RON97, Unsubsidised RON95, Diesel To Drop From Tomorrow - MOF",
-        "11 November 2026",
-        "Press Release",
         "Photos",
         "Videos",
         "ASEAN 2025",
