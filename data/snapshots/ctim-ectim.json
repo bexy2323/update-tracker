@@ -1,7 +1,7 @@
 {
   "check_id": "ctim-ectim",
   "url": "https://www.ctim.org.my/",
-  "fetched_at": "2026-11-19T00:49:58.552Z",
+  "fetched_at": "2026-11-19T08:51:17.063Z",
   "pages": [
     {
       "url": "https://www.ctim.org.my/",
@@ -300,15 +300,15 @@
           "href": "https://www.ctim.org.my/download?file=%2F14%2Fea60cbe31c05682493bb9e859723f5a3.pdf"
         },
         {
+          "label": "e-CTIM TECH-IT 46-2026 - Updated Guide on Sales Tax Exemption under Item 58A, Sch A of the Sales Tax (Persons Exempted from Payment of Tax) Order 2018.pdf",
+          "href": "https://www.ctim.org.my/"
+        },
+        {
           "label": "e-CTIM TECH-DT 97-2026 - HASiL - Public Ruling No. 5-2026 - Taxation of Resident Individuals Part I - Gifts or Contributions and Allowable Deductions.pdf",
           "href": "https://www.ctim.org.my/"
         },
         {
           "label": "e-CTIM TECH-DT 96-2026 - Finance Bill 2026 and Measures for the Collection, Administration & Enforcement of Tax Bill 2026",
-          "href": "https://www.ctim.org.my/"
-        },
-        {
-          "label": "e-CTIM TECH-IT 45-2026 - Amendment to Industry Guide on Construction Works Services dated 17 March 2026 – Summary of Editorial Amendments",
           "href": "https://www.ctim.org.my/"
         },
         {
@@ -361,10 +361,11 @@
         "11 November 2026",
         "eCTIM",
         "e-CTIM",
+        "e-CTIM TECH-IT 46-2026 - Updated Guide on Sales Tax Exemption under Item 58A, Sch A of the Sales Tax (Persons Exempted from Payment of Tax) Order 2018.pdf",
+        "19 November 2026",
         "e-CTIM TECH-DT 97-2026 - HASiL - Public Ruling No. 5-2026 - Taxation of Resident Individuals Part I - Gifts or Contributions and Allowable Deductions.pdf",
         "17 November 2026",
         "e-CTIM TECH-DT 96-2026 - Finance Bill 2026 and Measures for the Collection, Administration & Enforcement of Tax Bill 2026",
-        "e-CTIM TECH-IT 45-2026 - Amendment to Industry Guide on Construction Works Services dated 17 March 2026 – Summary of Editorial Amendments",
         "CONTACT US LOCATION MAPS PRIVACY POLICY TERMS & CONDITIONS",
         "© 2021 Chartered Tax Institute Of Malaysia. All Rights Reserved."
       ]

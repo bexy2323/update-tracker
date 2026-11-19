@@ -1,7 +1,7 @@
 {
   "check_id": "mof-news",
   "url": "https://www.mof.gov.my/portal/en/news",
-  "fetched_at": "2026-11-19T00:49:23.601Z",
+  "fetched_at": "2026-11-19T08:49:40.355Z",
   "pages": [
     {
       "url": "https://www.mof.gov.my/portal/en/news",
@@ -22,6 +22,30 @@
         {
           "label": "fas fa-sitemap",
           "href": "https://www.mof.gov.my/portal/en/site-map"
+        },
+        {
+          "label": "RON97 Down 20 Sen, Unsubsidised RON95 and Diesel Down 15 Sen From Nov 19 - MOF Press Citations 18 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/ron97-down-20-sen-unsubsidised-ron95-and-diesel-down-15-sen-from-nov-19-mof"
+        },
+        {
+          "label": "RON97 Down 20 Sen, Unsubsidised RON95 and Diesel Down 15 Sen From Nov 19 - MOF",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/ron97-down-20-sen-unsubsidised-ron95-and-diesel-down-15-sen-from-nov-19-mof"
+        },
+        {
+          "label": "Malaysia Hopes To Record Highest Growth Among Emerging Economies – PM Anwar Press Citations 18 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/malaysia-hopes-to-record-highest-growth-among-emerging-economies-pm-anwar"
+        },
+        {
+          "label": "Malaysia Hopes To Record Highest Growth Among Emerging Economies – PM Anwar",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/malaysia-hopes-to-record-highest-growth-among-emerging-economies-pm-anwar"
+        },
+        {
+          "label": "MADANI Government Remains Committed To Reforms, Safeguarding Economic Stability – Anwar Press Citations 18 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/madani-government-remains-committed-to-reforms-safeguarding-economic-stability---anwar"
+        },
+        {
+          "label": "MADANI Government Remains Committed To Reforms, Safeguarding Economic Stability – Anwar",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/madani-government-remains-committed-to-reforms-safeguarding-economic-stability---anwar"
         },
         {
           "label": "Malaysia’s 2026 GDP Growth On Track To Exceed 5% For Third Consecutive Year Press Release 18 November 2026",
@@ -46,30 +70,6 @@
         {
           "label": "Yayasan Khazanah 20th Anniversary Celebration",
           "href": "https://www.mof.gov.my/portal/en/news/speech/yayasan-khazanah-20th-anniversary-celebration"
-        },
-        {
-          "label": "Fiscal Discipline, Accountability Must Be Built Into Government — Amir Hamzah Press Citations 16 November 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/fiscal-discipline-accountability-must-be-built-into-government---amir-hamzah"
-        },
-        {
-          "label": "Fiscal Discipline, Accountability Must Be Built Into Government — Amir Hamzah",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/fiscal-discipline-accountability-must-be-built-into-government---amir-hamzah"
-        },
-        {
-          "label": "Malaysian Economy Expected To Grow More Than Five Pct For Third Consecutive Year -- Amir Hamzah Press Citations 16 November 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/malaysian-economy-expected-to-grow-more-than-five-pct-for-third-consecutive-year-amir-hamzah"
-        },
-        {
-          "label": "Malaysian Economy Expected To Grow More Than Five Pct For Third Consecutive Year -- Amir Hamzah",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/malaysian-economy-expected-to-grow-more-than-five-pct-for-third-consecutive-year-amir-hamzah"
-        },
-        {
-          "label": "OPR Held Steady To Allow Businesses To Continue Growing – Amir Hamzah Press Citations 15 November 2026",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/opr-held-steady-to-allow-businesses-to-continue-growing---amir-hamzah"
-        },
-        {
-          "label": "OPR Held Steady To Allow Businesses To Continue Growing – Amir Hamzah",
-          "href": "https://www.mof.gov.my/portal/en/news/press-citations/opr-held-steady-to-allow-businesses-to-continue-growing---amir-hamzah"
         },
         {
           "label": "Press Release",
@@ -182,18 +182,17 @@
         "fas fa-sitemap",
         "Site Map",
         "NEWS & MEDIA",
+        "RON97 Down 20 Sen, Unsubsidised RON95 and Diesel Down 15 Sen From Nov 19 - MOF",
+        "Press Citations",
+        "18 November 2026",
+        "Malaysia Hopes To Record Highest Growth Among Emerging Economies – PM Anwar",
+        "MADANI Government Remains Committed To Reforms, Safeguarding Economic Stability – Anwar",
         "Malaysia’s 2026 GDP Growth On Track To Exceed 5% For Third Consecutive Year",
         "Press Release",
-        "18 November 2026",
         "Govt Approves MRL's Fifth Sukuk Programme Worth RM19.05 Bln To Finance ECRL Project",
-        "Press Citations",
         "16 November 2026",
         "Yayasan Khazanah 20th Anniversary Celebration",
         "Speech",
-        "Fiscal Discipline, Accountability Must Be Built Into Government — Amir Hamzah",
-        "Malaysian Economy Expected To Grow More Than Five Pct For Third Consecutive Year -- Amir Hamzah",
-        "OPR Held Steady To Allow Businesses To Continue Growing – Amir Hamzah",
-        "15 November 2026",
         "Photos",
         "Videos",
         "ASEAN 2025",

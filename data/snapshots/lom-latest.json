@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-19T00:48:58.407Z",
+  "fetched_at": "2026-11-19T08:49:11.867Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -34,6 +34,10 @@
         {
           "label": "Today 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov 13 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (B) 469/2026 - NOTICE UNDER SECTION 70",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDY5LzIwMjZ8YTZkY2FkMzc5MDM3ZDQwOGFkYmYyYjUyYzdlZjE2NTI0ZjI5MjkyNmY5ODMxMjI1YmQ4NzYyYzQ1YzU5ZDJjYQ%3D%3D"
         },
         {
           "label": "P.U. (B) 467/2026 - SPECIAL DIRECTION OF THE MINISTER",
@@ -112,6 +116,10 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
+          "label": "NOTICE UNDER SECTION 70",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY5LzIwMjZ8ZjQ3ZDM2Yzc5ZjFhODZkMDkyYzhlNjA5ZDJkZjEzZTYzMDg1MzYyMTE0NTQ5ZTc3MTU1YWIwYmI3MDI0Njk1NA%3D%3D"
+        },
+        {
           "label": "NOTICE TO THIRD PARTIES",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY4LzIwMjZ8MjgwNmRmNDQwYTE1NWEzOWRmYjM3MWVmYWIxNGNhMzMzOTBlYzI0ZWNiNzZhYTZlY2RjNjdkMWM0MmQwZDdmNQ%3D%3D"
         },
@@ -120,11 +128,7 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY3LzIwMjZ8MjIxZmNjYTg5OWIxMTlmMDQwYzg4NzAwNGQyZjJlNjM2ZTQ2NzAwOTA5ODljZjJmYzU2YTNiNmQyOTQwNThhMg%3D%3D"
         },
         {
-          "label": "APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY2LzIwMjZ8NzQxZTRhYmJmZDc1YTUwMDk4NTg0MTEyZjZiODkwMTFlNGU1MjZjYjY1ZmY3ZmZjZTEwZWVmMTk5OGVhNDgyNg%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 468/2026 - NOTICE TO THIRD PARTIES P.U. (B) 467/2026 - SPECIAL DIRECTION OF THE MINISTER P.U. (B) 466/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD See All...",
+          "label": "P.U. (B) 469/2026 - NOTICE UNDER SECTION 70 P.U. (B) 468/2026 - NOTICE TO THIRD PARTIES P.U. (B) 467/2026 - SPECIAL DIRECTION OF THE MINISTER See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -141,10 +145,11 @@
         "15 Nov",
         "14 Nov",
         "13 Nov",
-        "There is no record to display",
         "P.U. (B)",
+        "P.U. (B) 469/2026 - NOTICE UNDER SECTION 70",
         "P.U. (B) 467/2026 - SPECIAL DIRECTION OF THE MINISTER",
         "P.U. (B) 468/2026 - NOTICE TO THIRD PARTIES",
+        "There is no record to display",
         "P.U. (B) 466/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD",
         "P.U. (A)",
         "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026",
@@ -167,8 +172,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 854 689",
-        "Act 164 607"
+        "Act 854 805",
+        "Act 164 677"
       ]
     }
   ]
