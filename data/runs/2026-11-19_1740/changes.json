@@ -1,0 +1,317 @@
+{
+  "run_id": "2026-11-19_1740",
+  "started_at": "2026-11-19T09:40:13.912Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invois/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/garis-panduan/",
+          "label": "e-Invoice Guideline Version 4.8 (published on 30 August 2026) Download (876.19 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/garis-panduan/",
+          "label": "e-Invoice Specific Guideline Version 4.9 (published on 7 September 2026) Download (1.58 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "General Frequently Asked Questions Updated Download (1.31 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm-e-invoice-general-faqs.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Healthcare Download (64.75 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_healthcare_faqs-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Construction Download (46.75 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_construction-industry_specific-faqs-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Telecommunication Download (38.88 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_industry-specific-faqs_telecommunication_microsite_bi-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "e-Commerce Download (60.26 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_industry-specific-faqs_e-commerce_microsite_bi-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Petroleum Operations Download (85.39 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_industry-specific-faqs_petroleum-operations_bi_v2-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Insurance and Takaful Download (173.45 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/specific-faq-insurance-and-takaful-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Aviation Updated Download (216.82 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_aviation-faqs.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Tourism Download (50.10 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_tourism_faqs-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Financial Services, Pawnbroking, Stockbroking, Unit Trust & Money Changing Services Updated Download (309.86 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/specific-faq-financial-services-stockbroking-and-unit-trust.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Donations or Contributions Download (67.29 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/specific-faq-donations-or-contributions-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "MyInvois Portal FAQs Download (269.43 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/myinvois-portal-faqs-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/program-e-invois/",
+          "label": "Bil. 27/2026 Taklimat e-Invois @ Pulau Pinang (Bukit Mertajam) Bil. 60/2026 3 Disember 2026 (Khamis) 9:30 am – 1:00 pm Bilik Mesyuarat, Tingkat 2, Wisma HASiL Bukit Mertajam, Pulau Pinang Tarikh tutup: 1 Disember 2026",
+          "href": "https://e-invois/program-e-invois/taklimat-e-invois-pulau-pinang-bukit-mertajam-bil-60-2026//"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/garis-panduan/",
+          "label": "Download (876.19 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/garis-panduan/",
+          "label": "Download (1.58 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Download (1.31 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm-e-invoice-general-faqs.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Download (64.75 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_healthcare_faqs-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Download (46.75 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_construction-industry_specific-faqs-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Download (38.88 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_industry-specific-faqs_telecommunication_microsite_bi-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Download (60.26 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_industry-specific-faqs_e-commerce_microsite_bi-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Download (85.39 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_industry-specific-faqs_petroleum-operations_bi_v2-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Download (173.45 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/specific-faq-insurance-and-takaful-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Download (216.82 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_aviation-faqs.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Download (50.10 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_tourism_faqs-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Download (309.86 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/specific-faq-financial-services-stockbroking-and-unit-trust.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Download (67.29 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/specific-faq-donations-or-contributions-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/rujukan-pelaksanaan-e-invois/soalan-lazim/",
+          "label": "Download (269.43 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/myinvois-portal-faqs-1.pdf"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-myinvois-epos",
+      "section": "Pautan Popular > MyInvois e-POS",
+      "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/soalan-lazim-panduan-pengguna/",
+          "label": "General Frequently Asked Questions Updated Download (215.26 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Guideline-myinvois-epos-faqs.pdf"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/myinvoisepos/soalan-lazim-panduan-pengguna/",
+          "label": "Download (215.26 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Guideline-myinvois-epos-faqs.pdf"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/perundangan/akta/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/akta/",
+          "label": "Income Tax Act 1967 (Act 53) As at 1 January 2026 Download (3.50 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Income-Tax-Act-1967-online-version-as-at-1-January-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/akta/",
+          "label": "Stamp Act 1949 (Act 378) As at 1 January 2026 Download (984.12 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Stamp-Act-Act-378-online-version-as-at-1-January-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/akta/",
+          "label": "Real Property Gains Tax Act 1976 (Act 169) As at 1 January 2026 Download (902.71 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CKHT-Akta-169-versi-dalam-talian-sebagaimana-pada-1-Januari-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/akta/",
+          "label": "Labuan Business Activity Tax Act 1990 (Act 445) As at 1 January 2026 Download (705.99 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/LBATA-Act-445-online-version-as-at-1-January-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/akta/",
+          "label": "Petroleum (Income Tax) Act 1967 (Act 543) As at 1 January 2026 Download (1.22 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/PITA-ACT-543-online-version-as-at-1-January-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/akta/",
+          "label": "Promotion of Investments Act 1986 (Act 327) As at 1 January 2022 Download (878.95 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20220101-akta-penggalakan-pelaburan-1986-akta-327.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/minit-dialog-isu-isu-operasi-dan-teknikal/",
+          "label": "Dialog Desire Bil. 1/2025 Minutes of the LHDNM Working Group Meeting with the Association of Accountants and Tax Practitioners Download (2.73 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/2025-Minit-Mesyuarat-Dan-Maklum-Balas-Dialog-Delivery-Service-of-Inland-Revenue-DESIRE-Tahun-2025.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/minit-dialog-isu-isu-operasi-dan-teknikal/",
+          "label": "Dialog Desire Bil. 1/2024 Minutes of the LHDNM Working Group Meeting with the Association of Accountants and Tax Practitioners Download (2.76 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/2024-Minit-Mesyuarat-Dan-Maklum-Balas-Dialog-Delivery-Service-of-Inland-Revenue-DESIRE-Tahun-2024.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/minit-dialog-isu-isu-operasi-dan-teknikal/",
+          "label": "Dialog Desire Bil. 1/2023 Minutes of the LHDNM Working Group Meeting with the Association of Accountants and Tax Practitioners Download (5.13 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/2023-Minit-Mesyuarat-Dan-Maklum-Balas-Dialog-DESIRE-Tahun-2023.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/minit-dialog-isu-isu-operasi-dan-teknikal/",
+          "label": "Dialog Desire Bil. 1/2022 Minutes of the LHDNM Working Group Meeting with the Association of Accountants and Tax Practitioners Download (7.34 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/minit-dan-maklum-balas-dialog-desire-bil-1-tahun-2022.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/minit-dialog-isu-isu-operasi-dan-teknikal/",
+          "label": "Dialog Desire Bil. 1/2020 Minutes of the LHDNM Working Group Meeting with the Association of Accountants and Tax Practitioners Download (2.44 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Isu_Dialog_DESIRE_Bil_1_Tahun_2020.pdf"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/akta/",
+          "label": "Download (3.50 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Income-Tax-Act-1967-online-version-as-at-1-January-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/akta/",
+          "label": "Download (984.12 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Stamp-Act-Act-378-online-version-as-at-1-January-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/akta/",
+          "label": "Download (902.71 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/CKHT-Akta-169-versi-dalam-talian-sebagaimana-pada-1-Januari-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/akta/",
+          "label": "Download (705.99 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/LBATA-Act-445-online-version-as-at-1-January-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/akta/",
+          "label": "Download (1.22 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/PITA-ACT-543-online-version-as-at-1-January-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/akta/",
+          "label": "Download (878.95 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20220101-akta-penggalakan-pelaburan-1986-akta-327.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/minit-dialog-isu-isu-operasi-dan-teknikal/",
+          "label": "Download (2.73 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/2025-Minit-Mesyuarat-Dan-Maklum-Balas-Dialog-Delivery-Service-of-Inland-Revenue-DESIRE-Tahun-2025.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/minit-dialog-isu-isu-operasi-dan-teknikal/",
+          "label": "Download (2.76 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/2024-Minit-Mesyuarat-Dan-Maklum-Balas-Dialog-Delivery-Service-of-Inland-Revenue-DESIRE-Tahun-2024.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/minit-dialog-isu-isu-operasi-dan-teknikal/",
+          "label": "Download (5.13 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/2023-Minit-Mesyuarat-Dan-Maklum-Balas-Dialog-DESIRE-Tahun-2023.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/minit-dialog-isu-isu-operasi-dan-teknikal/",
+          "label": "Download (7.34 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/minit-dan-maklum-balas-dialog-desire-bil-1-tahun-2022.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/minit-dialog-isu-isu-operasi-dan-teknikal/",
+          "label": "Download (2.44 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Isu_Dialog_DESIRE_Bil_1_Tahun_2020.pdf"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [],
+  "baselined": [],
+  "needs_login": [],
+  "errors": [],
+  "partial": [],
+  "finished_at": "2026-11-19T09:44:35.670Z"
+}

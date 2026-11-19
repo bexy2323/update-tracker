@@ -1,34 +1,34 @@
 {
   "check_id": "hasil-return-form-filing-programme",
   "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
-  "fetched_at": "2026-11-19T08:41:49.284Z",
+  "fetched_at": "2026-11-19T09:39:52.918Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
       "title": "Program Memfail Borang Nyata",
       "items": [
         {
-          "label": "Download (434.89 KB)",
+          "label": "Return Form (RF) Filing Programme For The Year 2026 Download (434.89 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/rf-filing-programme-for-2026.pdf"
         },
         {
-          "label": "Download (360.54 KB)",
+          "label": "Return Form (RF) Filing Programme For The Year 2025 Download (360.54 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/rf-filing-programme-for-2025.pdf"
         },
         {
-          "label": "Download (536.57 KB)",
+          "label": "Return Form (RF) Filing Programme For The Year 2024 Download (536.57 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/rf-filing-programme-for-the-year-2024.pdf"
         },
         {
-          "label": "Download (673.27 KB)",
+          "label": "Return Form (RF) Filing Programme For The Year 2023 Download (673.27 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/return-form-filing-programme-for-the-year-2023.pdf"
         },
         {
-          "label": "Download (1.45 MB)",
+          "label": "Return Form (RF) Filing Programme For The Year 2022 Download (1.45 MB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/ProgramMemfailBN_2022_2.pdf"
         },
         {
-          "label": "Download (1.83 MB)",
+          "label": "Return Form (RF) Filing Programme For The Year 2021 Download (1.83 MB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/ProgramMemfailBN_2021_Pin.4_2.pdf"
         }
       ],
@@ -49,6 +49,204 @@
         "(1.45 MB)",
         "Return Form (RF) Filing Programme For The Year 2021",
         "(1.83 MB)"
+      ]
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-penyata-keuntungan-oleh-suatu-entiti-labuan-bagi-tahun-taksiran-2025-di-bawah-sistem-taksir-sendiri/",
+      "title": "Program Memfail Penyata Keuntungan Oleh Suatu Entiti Labuan Bagi Tahun Taksiran 2025 Di Bawah Sistem Taksir Sendiri",
+      "items": [
+        {
+          "label": "Expand All Filing Programme For Return Of Profits By A Labuan Entity For The Year Of Assessment 2025 Under The Self Assessment System Labuan Entity Guide Notes On Submission Of Return Of Profits",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-penyata-keuntungan-oleh-suatu-entiti-labuan-bagi-tahun-taksiran-2025-di-bawah-sistem-taksir-sendiri/"
+        },
+        {
+          "label": "mytax.hasil.gov.my.",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "lines": [
+        "Skip to content",
+        "Form",
+        "Filing Programme For Return Of Profits By A Labuan Entity For The Year Of Assessment 2025 Under The Self Assessment System",
+        "Expand All",
+        "Labuan Entity",
+        "Guide Notes On Submission Of Return Of Profits"
+      ]
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata-ckm/",
+      "title": "Program Memfail Borang Nyata CKM",
+      "items": [
+        {
+          "label": "Expand All CAPITAL GAINS TAX RETURN FORM (CGTRF) FILING PROGRAMME WITH EFFECT FROM 1st MARCH 2024 COMPANY, LIMITED LIABILITY PARTNERSHIP, TRUST BODY AND CO-OPERATIVE SOCIETY - For disposal effective from 1st March 2024 CGTRF SUBMISSION GUIDE NOTES",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata-ckm/"
+        },
+        {
+          "label": "mytax.hasil.gov.my",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "e-Daftar",
+          "href": "https://mytax.hasil.gov.my/ezHasil?data=e-Daftar&id=ezHasil+sebelum"
+        }
+      ],
+      "lines": [
+        "Skip to content",
+        "Form",
+        "Capital Gains Tax Return Form (CGTRF) Filing Programme",
+        "Expand All",
+        "CAPITAL GAINS TAX RETURN FORM (CGTRF) FILING PROGRAMME WITH EFFECT FROM 1st MARCH 2024",
+        "COMPANY, LIMITED LIABILITY PARTNERSHIP, TRUST BODY AND CO-OPERATIVE SOCIETY - For disposal effective from 1st March 2024",
+        "CGTRF SUBMISSION GUIDE NOTES"
+      ]
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata-ckht/",
+      "title": "Program Memfail Borang Nyata CKHT",
+      "items": [
+        {
+          "label": "Expand All Filing Programme for Real Property Gains Tax Return Form (RPGTRF) and RPGT Payment A. Disposer – Year of Assessment 2025 Return Form B. Acquirer – Year of Assessment 2025 Return Form Guidelines for Submission of RPGT Return Form (RPGTRF) and Payment of RPGT FAQ FAQ e-CKHT (260.22 KB)– Updated on 1 May 2025 Download Form RPGT Forms – RPGT",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata-ckht/"
+        },
+        {
+          "label": "mytax.hasil.gov.my",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "byrhasil.hasil.gov.my",
+          "href": "https://byrhasil.hasil.gov.my/"
+        },
+        {
+          "label": "FAQ e-CKHT (260.22 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/faq_eckht.pdf"
+        },
+        {
+          "label": "Forms – RPGT",
+          "href": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-ckht/"
+        }
+      ],
+      "lines": [
+        "Skip to content",
+        "Form",
+        "Real Property Gains Tax Return Form (RPGTRF) Filing Programme",
+        "Expand All",
+        "Filing Programme for Real Property Gains Tax Return Form (RPGTRF) and RPGT Payment",
+        "A. Disposer – Year of Assessment 2025 Return Form",
+        "B. Acquirer – Year of Assessment 2025 Return Form",
+        "Guidelines for Submission of RPGT Return Form (RPGTRF) and Payment of RPGT",
+        "FAQ",
+        "FAQ e-CKHT (260.22 KB)– Updated on 1 May 2025",
+        "Download Form RPGT",
+        "Forms – RPGT"
+      ]
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-82b-acp-1967-melalui-mitrs/",
+      "title": "Tahun Taksiran 2026",
+      "items": [
+        {
+          "label": "Expand All Filing Programme For Documents Specified Under Section 82B Through MITRS For The Year 2026 Company, Limited Liability Partnership, Trust Body Or Co-operative Society Document Submission Guide Notes As Defined Under Section 82B Through MITRS",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-82b-acp-1967-melalui-mitrs/tahun-taksiran-2026/"
+        },
+        {
+          "label": "mytax.hasil.gov.my",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "mytax.hasil.gov.my.",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "lines": [
+        "Skip to content",
+        "Form",
+        "Year of Assessment 2026",
+        "Expand All",
+        "Filing Programme For Documents Specified Under Section 82B Through MITRS For The Year 2026",
+        "Company, Limited Liability Partnership, Trust Body Or Co-operative Society",
+        "Document Submission Guide Notes As Defined Under Section 82B Through MITRS"
+      ]
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-22eb-acapl-1990-melalui-mitrs/",
+      "title": "Program Memfail Dokumen yang Ditentukan di Bawah Seksyen 22EB ACAPL 1990 Melalui MITRS",
+      "items": [
+        {
+          "label": "Expand All Filing Programme For Documents Specified Under Section 22EB LBATA 1990 Through MITRS Labuan Entity Document Submission Guide Notes As Defined Under Section 82B Through MITRS",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-22eb-acapl-1990-melalui-mitrs/"
+        },
+        {
+          "label": "mytax.hasil.gov.my",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "lines": [
+        "Skip to content",
+        "Form",
+        "Filing Programme For Documents Specified Under Section 22EB LBATA 1990 Through MITRS",
+        "Expand All",
+        "Labuan Entity",
+        "Document Submission Guide Notes As Defined Under Section 82B Through MITRS"
+      ]
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-82b-acp-1967-melalui-mitrs/tahun-taksiran-2026/",
+      "title": "Tahun Taksiran 2026",
+      "items": [
+        {
+          "label": "Expand All Filing Programme For Documents Specified Under Section 82B Through MITRS For The Year 2026 Company, Limited Liability Partnership, Trust Body Or Co-operative Society Document Submission Guide Notes As Defined Under Section 82B Through MITRS",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-82b-acp-1967-melalui-mitrs/tahun-taksiran-2026/"
+        },
+        {
+          "label": "mytax.hasil.gov.my",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "mytax.hasil.gov.my.",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "lines": [
+        "Skip to content",
+        "Form",
+        "Year of Assessment 2026",
+        "Expand All",
+        "Filing Programme For Documents Specified Under Section 82B Through MITRS For The Year 2026",
+        "Company, Limited Liability Partnership, Trust Body Or Co-operative Society",
+        "Document Submission Guide Notes As Defined Under Section 82B Through MITRS"
+      ]
+    },
+    {
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-82b-acp-1967-melalui-mitrs/tahun-taksiran-2025/",
+      "title": "Tahun Taksiran 2025",
+      "items": [
+        {
+          "label": "Expand All Filing programme for documents specified under Section 82B ITA 1967 through MITRS Company and Limited Liability Partnership Document Submission Guide Notes Under Section 82B Through MITRS FAQ Frequently Asked Questions (FAQ) Submission of Documents Prescribed under Section 82B through MITRS (180.69 KB)- Updated on 26 November 2025",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-82b-acp-1967-melalui-mitrs/tahun-taksiran-2025/"
+        },
+        {
+          "label": "mytax.hasil.gov.my",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "mytax.hasil.gov.my.",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "Frequently Asked Questions (FAQ) Submission of Documents Prescribed under Section 82B through MITRS (180.69 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/faq-mitrs_bm_26112025.pdf"
+        }
+      ],
+      "lines": [
+        "Skip to content",
+        "Form",
+        "Year of Assessment 2025",
+        "Expand All",
+        "Filing programme for documents specified under Section 82B ITA 1967 through MITRS",
+        "Company and Limited Liability Partnership",
+        "Document Submission Guide Notes Under Section 82B Through MITRS",
+        "FAQ",
+        "Frequently Asked Questions (FAQ) Submission of Documents Prescribed under Section 82B through MITRS (180.69 KB)- Updated on 26 November 2025"
       ]
     }
   ]

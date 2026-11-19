@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-myinvois-epos",
   "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/",
-  "fetched_at": "2026-11-19T08:41:45.481Z",
+  "fetched_at": "2026-11-19T09:42:42.863Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/",
@@ -42,7 +42,7 @@
       "title": "Soalan Lazim & Panduan Pengguna",
       "items": [
         {
-          "label": "Download (215.26 KB)",
+          "label": "General Frequently Asked Questions Updated Download (215.26 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/Guideline-myinvois-epos-faqs.pdf"
         },
         {

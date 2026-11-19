@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-e-invoice",
   "url": "https://www.hasil.gov.my/en/e-invois/",
-  "fetched_at": "2026-11-19T08:41:06.839Z",
+  "fetched_at": "2026-11-19T09:42:04.350Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/e-invois/",
@@ -119,11 +119,11 @@
           "image": true
         },
         {
-          "label": "Download (876.19 KB)",
+          "label": "e-Invoice Guideline Version 4.8 (published on 30 August 2026) Download (876.19 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
         },
         {
-          "label": "Download (1.58 MB)",
+          "label": "e-Invoice Specific Guideline Version 4.9 (published on 7 September 2026) Download (1.58 MB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
         }
       ],
@@ -150,47 +150,47 @@
           "image": true
         },
         {
-          "label": "Download (1.31 MB)",
+          "label": "General Frequently Asked Questions Updated Download (1.31 MB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm-e-invoice-general-faqs.pdf"
         },
         {
-          "label": "Download (64.75 KB)",
+          "label": "Healthcare Download (64.75 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_healthcare_faqs-1.pdf"
         },
         {
-          "label": "Download (46.75 KB)",
+          "label": "Construction Download (46.75 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_construction-industry_specific-faqs-1.pdf"
         },
         {
-          "label": "Download (38.88 KB)",
+          "label": "Telecommunication Download (38.88 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_industry-specific-faqs_telecommunication_microsite_bi-1.pdf"
         },
         {
-          "label": "Download (60.26 KB)",
+          "label": "e-Commerce Download (60.26 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_industry-specific-faqs_e-commerce_microsite_bi-1.pdf"
         },
         {
-          "label": "Download (85.39 KB)",
+          "label": "Petroleum Operations Download (85.39 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_industry-specific-faqs_petroleum-operations_bi_v2-1.pdf"
         },
         {
-          "label": "Download (173.45 KB)",
+          "label": "Insurance and Takaful Download (173.45 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/specific-faq-insurance-and-takaful-1.pdf"
         },
         {
-          "label": "Download (216.82 KB)",
+          "label": "Aviation Updated Download (216.82 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_aviation-faqs.pdf"
         },
         {
-          "label": "Download (50.10 KB)",
+          "label": "Tourism Download (50.10 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/lhdnm_tourism_faqs-1.pdf"
         },
         {
-          "label": "Download (309.86 KB)",
+          "label": "Financial Services, Pawnbroking, Stockbroking, Unit Trust & Money Changing Services Updated Download (309.86 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/specific-faq-financial-services-stockbroking-and-unit-trust.pdf"
         },
         {
-          "label": "Download (67.29 KB)",
+          "label": "Donations or Contributions Download (67.29 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/specific-faq-donations-or-contributions-1.pdf"
         },
         {
@@ -198,7 +198,7 @@
           "href": "https://sdk.myinvois.hasil.gov.my/faq/"
         },
         {
-          "label": "Download (269.43 KB)",
+          "label": "MyInvois Portal FAQs Download (269.43 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/myinvois-portal-faqs-1.pdf"
         }
       ],
@@ -2205,6 +2205,10 @@
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-sarawak-kuching-bil-15-2026/"
         },
         {
+          "label": "Bil. 27/2026 Taklimat e-Invois @ Pulau Pinang (Bukit Mertajam) Bil. 60/2026 3 Disember 2026 (Khamis) 9:30 am – 1:00 pm Bilik Mesyuarat, Tingkat 2, Wisma HASiL Bukit Mertajam, Pulau Pinang Tarikh tutup: 1 Disember 2026",
+          "href": "https://e-invois/program-e-invois/taklimat-e-invois-pulau-pinang-bukit-mertajam-bil-60-2026//"
+        },
+        {
           "label": "Bil. 27/2026 Taklimat e-Invois Anjuran HASiL Perak (Ipoh) Bil. 27/2026 3 Disember 2026 (Khamis) 9:00 am – 12:00 pm Kinta Ballroom, Dusit Princess Hotel, Ipoh, Perak Tarikh tutup: 30 November 2026",
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-anjuran-hasil-perak-ipoh-bil-27-2026/"
         },
@@ -3684,8 +3688,12 @@
         "Dewan HASiL Aras 4, Pejabat HASiL Kuching, Sarawak",
         "Tarikh tutup: 8 Disember 2026",
         "Bil. 27/2026",
-        "Taklimat e-Invois Anjuran HASiL Perak (Ipoh) Bil. 27/2026",
+        "Taklimat e-Invois @ Pulau Pinang (Bukit Mertajam) Bil. 60/2026",
         "3 Disember 2026 (Khamis)",
+        "9:30 am – 1:00 pm",
+        "Bilik Mesyuarat, Tingkat 2, Wisma HASiL Bukit Mertajam, Pulau Pinang",
+        "Tarikh tutup: 1 Disember 2026",
+        "Taklimat e-Invois Anjuran HASiL Perak (Ipoh) Bil. 27/2026",
         "Kinta Ballroom, Dusit Princess Hotel, Ipoh, Perak",
         "Tarikh tutup: 30 November 2026",
         "Bil. 23/2026",
@@ -3741,7 +3749,6 @@
         "Dewan Al-Khawarizmi, Menara HASiL Bangi, Selangor",
         "Webinar e-Invois Anjuran HASiL Terengganu Bil. 14/2026",
         "23 November 2026 (Isnin)",
-        "9:30 am – 1:00 pm",
         "Bil. 57/2026",
         "Webinar e-Invois Anjuran HASiL Johor Bil. 57/2026",
         "10.00 am - 12.00 pm",
@@ -3773,7 +3780,6 @@
         "Tarikh tutup: N/A",
         "Bil. 58/2026",
         "Taklimat e-Invois @ Pulau Pinang (Bukit Mertajam) Bil. 58/2026",
-        "Bilik Mesyuarat, Tingkat 2, Wisma HASiL Bukit Mertajam, Pulau Pinang",
         "Tarikh tutup: 16 November 2026",
         "Bil. 22/2026",
         "Webinar e-Invois @ HASiL Kelantan Bil. 22/2026",

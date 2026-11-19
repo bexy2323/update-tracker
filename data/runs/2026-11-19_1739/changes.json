@@ -1,0 +1,121 @@
+{
+  "run_id": "2026-11-19_1739",
+  "started_at": "2026-11-19T09:39:03.041Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-return-form-filing-programme",
+      "section": "Forms > Return Form Filing Programme",
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+          "label": "Return Form (RF) Filing Programme For The Year 2026 Download (434.89 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/rf-filing-programme-for-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+          "label": "Return Form (RF) Filing Programme For The Year 2025 Download (360.54 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/rf-filing-programme-for-2025.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+          "label": "Return Form (RF) Filing Programme For The Year 2024 Download (536.57 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/rf-filing-programme-for-the-year-2024.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+          "label": "Return Form (RF) Filing Programme For The Year 2023 Download (673.27 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/return-form-filing-programme-for-the-year-2023.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+          "label": "Return Form (RF) Filing Programme For The Year 2022 Download (1.45 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ProgramMemfailBN_2022_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+          "label": "Return Form (RF) Filing Programme For The Year 2021 Download (1.83 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ProgramMemfailBN_2021_Pin.4_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-penyata-keuntungan-oleh-suatu-entiti-labuan-bagi-tahun-taksiran-2025-di-bawah-sistem-taksir-sendiri/",
+          "label": "New page: Program Memfail Penyata Keuntungan Oleh Suatu Entiti Labuan Bagi Tahun Taksiran 2025 Di Bawah Sistem Taksir Sendiri",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-penyata-keuntungan-oleh-suatu-entiti-labuan-bagi-tahun-taksiran-2025-di-bawah-sistem-taksir-sendiri/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata-ckm/",
+          "label": "New page: Program Memfail Borang Nyata CKM",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata-ckm/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata-ckht/",
+          "label": "New page: Program Memfail Borang Nyata CKHT",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata-ckht/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-82b-acp-1967-melalui-mitrs/",
+          "label": "New page: Tahun Taksiran 2026",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-82b-acp-1967-melalui-mitrs/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-22eb-acapl-1990-melalui-mitrs/",
+          "label": "New page: Program Memfail Dokumen yang Ditentukan di Bawah Seksyen 22EB ACAPL 1990 Melalui MITRS",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-22eb-acapl-1990-melalui-mitrs/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-82b-acp-1967-melalui-mitrs/tahun-taksiran-2026/",
+          "label": "New page: Tahun Taksiran 2026",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-82b-acp-1967-melalui-mitrs/tahun-taksiran-2026/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-82b-acp-1967-melalui-mitrs/tahun-taksiran-2025/",
+          "label": "New page: Tahun Taksiran 2025",
+          "href": "https://www.hasil.gov.my/en/borang/program-memfail-dokumen-yang-ditentukan-di-bawah-seksyen-82b-acp-1967-melalui-mitrs/tahun-taksiran-2025/"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+          "label": "Download (434.89 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/rf-filing-programme-for-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+          "label": "Download (360.54 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/rf-filing-programme-for-2025.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+          "label": "Download (536.57 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/rf-filing-programme-for-the-year-2024.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+          "label": "Download (673.27 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/return-form-filing-programme-for-the-year-2023.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+          "label": "Download (1.45 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ProgramMemfailBN_2022_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/",
+          "label": "Download (1.83 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ProgramMemfailBN_2021_Pin.4_2.pdf"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [],
+  "baselined": [],
+  "needs_login": [],
+  "errors": [],
+  "partial": [],
+  "finished_at": "2026-11-19T09:39:53.011Z"
+}

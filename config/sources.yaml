@@ -129,6 +129,12 @@ sources:
       - id: hasil-return-form-filing-programme
         section: Forms > Return Form Filing Programme
         url: https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/
+        # Also the other filing programmes in the Forms menu (CGT and RPGT return
+        # forms, MITRS documents under s.82B ITA / s.22EB LBATA, Labuan), and any
+        # new programme page HASiL adds there.
+        crawl:
+          path_prefix: /en/borang/program-memfail-
+          max_pages: 20
       - id: hasil-download-forms
         section: Forms > Download Forms (years listed per form category)
         mode: hasil_forms

@@ -48,6 +48,12 @@ Reports are delivered in the chat of the session that runs the check. Do not sen
      otherwise give the BM link and say it is the Malay version.
    - **Forms** (`new_form_years` / `new_forms`): report a new year that is now
      available for a form, e.g. "Form BE 2026 now available".
+   - **Return Form Filing Programmes** (`hasil-return-form-filing-programme`,
+     which also covers the CGT, RPGT, MITRS s.82B / s.22EB and Labuan filing
+     programme pages): report every new programme (e.g. "Return Form (RF)
+     Filing Programme For The Year 2027"), a new filing programme page, and any
+     revised programme or changed due date, with a direct link to the PDF or page.
+     `change_type` is `new` (or `amendment` for a revision), `tax_a_minute` false.
    - **Relevance:** LOM P.U.(A), MOF, MIDA and the Principal Acts list must be
      relevant to tax or taxpayers in Malaysia. Parlimen and the LOM bills list
      are limited to Income Tax Act bills and Finance Bills. The keyword filter
