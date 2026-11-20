@@ -1,7 +1,7 @@
 {
   "check_id": "ctim-ectim",
   "url": "https://www.ctim.org.my/",
-  "fetched_at": "2026-11-19T08:51:17.063Z",
+  "fetched_at": "2026-11-20T01:00:38.775Z",
   "pages": [
     {
       "url": "https://www.ctim.org.my/",
@@ -288,16 +288,16 @@
           "href": "https://www.ctim.org.my/membership-application/"
         },
         {
+          "label": "HASiL - Info on e-Invoice - Functional Improvements to MyInvois Portal/Application (19112026)",
+          "href": "https://www.ctim.org.my/download?file=%2F14%2F9e9a1a1d0a9243f3e3a455fe0d5d9451.pdf"
+        },
+        {
           "label": "Measures for the Collection Administration and Enforcement of Tax Bill 2026 (16112026).pdf",
           "href": "https://www.ctim.org.my/download?file=%2F44%2F1d362267677b064990bab374d1b86af5.pdf"
         },
         {
           "label": "Finance Bill 2026 (16112026).pdf",
           "href": "https://www.ctim.org.my/download?file=%2F44%2Fcf6335b74b7491c006771fdcaa1cc656.pdf"
-        },
-        {
-          "label": "HASiL - Poster of Webinar on TAeF 3.0 System Implementation (Series 2) – Update on Current Progress (111126)",
-          "href": "https://www.ctim.org.my/download?file=%2F14%2Fea60cbe31c05682493bb9e859723f5a3.pdf"
         },
         {
           "label": "e-CTIM TECH-IT 46-2026 - Updated Guide on Sales Tax Exemption under Item 58A, Sch A of the Sales Tax (Persons Exempted from Payment of Tax) Order 2018.pdf",
@@ -350,19 +350,18 @@
         "Other professional or academic qualifications recognised by CTIM",
         "APPLY",
         "TECHNICAL NEWS",
+        "Technical Developments - Direct Taxation",
+        "HASiL - Info on e-Invoice - Functional Improvements to MyInvois Portal/Application (19112026)",
+        "19 November 2026",
         "Others",
         "Measures for the Collection Administration and Enforcement of Tax Bill 2026 (16112026).pdf",
         "16 November 2026",
         "Measures for the Collection Administration and Enforcement of Tax Bill 2026",
         "Finance Bill 2026 (16112026).pdf",
         "Finance Bill 2026",
-        "Technical Developments - Direct Taxation",
-        "HASiL - Poster of Webinar on TAeF 3.0 System Implementation (Series 2) – Update on Current Progress (111126)",
-        "11 November 2026",
         "eCTIM",
         "e-CTIM",
         "e-CTIM TECH-IT 46-2026 - Updated Guide on Sales Tax Exemption under Item 58A, Sch A of the Sales Tax (Persons Exempted from Payment of Tax) Order 2018.pdf",
-        "19 November 2026",
         "e-CTIM TECH-DT 97-2026 - HASiL - Public Ruling No. 5-2026 - Taxation of Resident Individuals Part I - Gifts or Contributions and Allowable Deductions.pdf",
         "17 November 2026",
         "e-CTIM TECH-DT 96-2026 - Finance Bill 2026 and Measures for the Collection, Administration & Enforcement of Tax Bill 2026",

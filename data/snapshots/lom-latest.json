@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-19T08:49:11.867Z",
+  "fetched_at": "2026-11-20T00:59:19.207Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov 13 Nov",
+          "label": "Today 19 Nov 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov 13 Nov",
+          "label": "Today 19 Nov 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov 13 Nov",
+          "label": "Today 19 Nov 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov 13 Nov",
+          "label": "Today 19 Nov 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov 13 Nov",
+          "label": "Today 19 Nov 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov 13 Nov",
+          "label": "Today 19 Nov 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov 13 Nov",
+          "label": "Today 19 Nov 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -50,22 +50,6 @@
         {
           "label": "P.U. (B) 466/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDY2LzIwMjZ8NGNiNDE2Y2NhNTM3ZWJjMmQ3MjQ1Y2JhMzllZGFlZTdmNWRlZGQ1YzI4NmI3YTgzY2FlZjg3MzMxYWZkMTU5YQ%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzkzLzIwMjZ8MjdkNDhkMDY0ODRiY2I0OTgyOWFiN2NlYjQwNmEwMmUwMWU1MTAzMWQ5OTRjMTgwZGEyNThiNTFlOGI1ZWJlYg%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 463/2026 - APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDYzLzIwMjZ8NDNlN2MxMzQ1NWU0YmU0MjJjN2Q5MzdjYjA0ZjljN2Y0ZjNiNmI0ZTM3YWUzZDM0NWJiMWEyMmZkMzdkNTc1Zg%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 464/2026 - APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDY0LzIwMjZ8OTk3YmQ3OTcyOTRkZjIyNTRmNjFlOTk4MjkyZTI3ZGQ4NjMxZDg2ODIyYTE2NTM4N2Q5MjA2Y2FmMGJmN2Q3OA%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 465/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDY1LzIwMjZ8NWI2ZThlNDc0YjU3NzVmMjNiNmRjYzgyMGU2MTkyZGI2MzQ5OTBmZmNmYWQ2YmE3YTcwN2E4NDE1MWYwOGJjMw%3D%3D"
         },
         {
           "label": "STATISTICS ACT 2026",
@@ -139,23 +123,18 @@
       "lines": [
         "What's New",
         "Today",
+        "19 Nov",
         "18 Nov",
         "17 Nov",
         "16 Nov",
         "15 Nov",
         "14 Nov",
-        "13 Nov",
+        "There is no record to display",
         "P.U. (B)",
         "P.U. (B) 469/2026 - NOTICE UNDER SECTION 70",
         "P.U. (B) 467/2026 - SPECIAL DIRECTION OF THE MINISTER",
         "P.U. (B) 468/2026 - NOTICE TO THIRD PARTIES",
-        "There is no record to display",
         "P.U. (B) 466/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD",
-        "P.U. (A)",
-        "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026",
-        "P.U. (B) 463/2026 - APPOINTMENT OF ASSISTANT REGISTRAR FOR PERSONS WITH DISABILITIES",
-        "P.U. (B) 464/2026 - APPOINTMENT OF MEMBER AND ALTERNATE MEMBER OF THE AUTHORITY",
-        "P.U. (B) 465/2026 - NOTIFICATION OF VALUE OF CRUDE PALM OIL UNDER SECTION 12",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -166,14 +145,15 @@
         "Act A1800 - COMPETITION (AMENDMENT) ACT 2026",
         "Act A1799 - MALAYSIAN COMMUNICATIONS AND MULTIMEDIA COMMISSION (AMENDMENT) ACT 2026",
         "List of P.U. (A)",
+        "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026",
         "P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026",
         "P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026",
         "List of P.U. (B)",
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 854 805",
-        "Act 164 677"
+        "Act 854 769",
+        "Act 164 682"
       ]
     }
   ]
