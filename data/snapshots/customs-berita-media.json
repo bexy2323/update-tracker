@@ -1,7 +1,7 @@
 {
   "check_id": "customs-berita-media",
   "url": "https://customs.gov.my/ms/arkib/liputan-media",
-  "fetched_at": "2026-11-20T01:00:23.983Z",
+  "fetched_at": "2026-11-20T08:46:18.883Z",
   "pages": [
     {
       "url": "https://customs.gov.my/ms/arkib/liputan-media",
@@ -70,6 +70,10 @@
         {
           "label": "Tender & Sebut Harga",
           "href": "https://www.customs.gov.my/ms/arkib/tender-sebut-harga"
+        },
+        {
+          "label": "MENYOROTI KESIAPSIAGAAN OPERASI SEMPADAN I KETUA PENGARAH KASTAM TINJAU PROJEK RTS LINK JOHOR BAHRU – SINGAPURA",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/menyoroti-kesiapsiagaan-operasi-sempadan-i-ketua-pengarah-kastam-tinjau-projek-rts-link-johor-bahru-singapura"
         },
         {
           "label": "SAMBUTAN HARI INTEGRITI JKDM 2026: “INTEGRITI KITA, NILAI KITA”",
@@ -146,10 +150,6 @@
         {
           "label": "KUNJUNGAN HORMAT DUTA TURKMENISTAN KE ATAS KETUA PENGARAH KASTAM MALAYSIA",
           "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/kunjungan-hormat-duta-turkmenistan-ke-atas-ketua-pengarah-kastam-malaysia"
-        },
-        {
-          "label": "KUNJUNGAN HORMAT YB TIMBALAN MENTERI KEWANGAN KE JABATAN KASTAM DIRAJA MALAYSIA BAGI SESI TAKLIMAT KHAS PROJEK-PROJEK ICT UTAMA DI JKDM",
-          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/kunjungan-hormat-yb-timbalan-menteri-kewangan-ke-jabatan-kastam-diraja-malaysia-bagi-sesi-taklimat-khas-projek-projek-ict-utama-di-jkdm"
         },
         {
           "label": "Utama",
@@ -660,6 +660,7 @@
         "Papar #",
         "Semua",
         "TAJUK TARIKH TERBITAN BILANGAN KUNJUNGAN",
+        "MENYOROTI KESIAPSIAGAAN OPERASI SEMPADAN I KETUA PENGARAH KASTAM TINJAU PROJEK RTS LINK JOHOR BAHRU – SINGAPURA",
         "SAMBUTAN HARI INTEGRITI JKDM 2026: “INTEGRITI KITA, NILAI KITA”",
         "THE 30TH JOINT CUSTOMS COMMITTEE (JCC) MEETING FOR THE JOINT DEVELOPMENT AREA (JDA)",
         "KUNJUNGAN HORMAT PENGURUSAN TERTINGGI JKDM KE JABATAN IMIGRESEN MALAYSIA",
@@ -679,7 +680,6 @@
         "KETUA PENGARAH KASTAM MENGETUAI DELEGASI JKDM KE 35TH ASEAN DIRECTORS-GENERAL OF CUSTOMS MEETING DI KEMBOJA",
         "JABATAN KASTAM DIRAJA MALAYSIA (JKDM) PERKUKUH KERJASAMA STRATEGIK BERSAMA INDUSTRI PETROLEUM DAN GAS",
         "KUNJUNGAN HORMAT DUTA TURKMENISTAN KE ATAS KETUA PENGARAH KASTAM MALAYSIA",
-        "KUNJUNGAN HORMAT YB TIMBALAN MENTERI KEWANGAN KE JABATAN KASTAM DIRAJA MALAYSIA BAGI SESI TAKLIMAT KHAS PROJEK-PROJEK ICT UTAMA DI JKDM",
         "Laman 1 daripada 5"
       ]
     }

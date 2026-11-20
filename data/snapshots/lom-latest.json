@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-20T00:59:19.207Z",
+  "fetched_at": "2026-11-20T08:45:30.302Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -34,6 +34,10 @@
         {
           "label": "Today 19 Nov 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (B) 470/2026 - NOTIFICATION OF VALUE OF PALM KERNEL UNDER SECTION 12",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDcwLzIwMjZ8OTA1NzQ0NjljMjUyZDQyNDQyYWZlNDQ0NTYwYzdhYjY0N2Q2ZGZlMTVhOTAwYzIyY2JmN2EzYTU0MGZiMGE0ZQ%3D%3D"
         },
         {
           "label": "P.U. (B) 469/2026 - NOTICE UNDER SECTION 70",
@@ -100,6 +104,10 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
+          "label": "NOTIFICATION OF VALUE OF PALM KERNEL UNDER SECTION 12",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDcwLzIwMjZ8MmRkODAyYWU3NjFmYTBlYjhjOGFjNDEwMTMxZGM2OTA0MGVmZWIyZTBmODRkZDg1YWUzYmQ0ZDE4ZTNmZTMwYw%3D%3D"
+        },
+        {
           "label": "NOTICE UNDER SECTION 70",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY5LzIwMjZ8ZjQ3ZDM2Yzc5ZjFhODZkMDkyYzhlNjA5ZDJkZjEzZTYzMDg1MzYyMTE0NTQ5ZTc3MTU1YWIwYmI3MDI0Njk1NA%3D%3D"
         },
@@ -108,11 +116,7 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY4LzIwMjZ8MjgwNmRmNDQwYTE1NWEzOWRmYjM3MWVmYWIxNGNhMzMzOTBlYzI0ZWNiNzZhYTZlY2RjNjdkMWM0MmQwZDdmNQ%3D%3D"
         },
         {
-          "label": "SPECIAL DIRECTION OF THE MINISTER",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDY3LzIwMjZ8MjIxZmNjYTg5OWIxMTlmMDQwYzg4NzAwNGQyZjJlNjM2ZTQ2NzAwOTA5ODljZjJmYzU2YTNiNmQyOTQwNThhMg%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 469/2026 - NOTICE UNDER SECTION 70 P.U. (B) 468/2026 - NOTICE TO THIRD PARTIES P.U. (B) 467/2026 - SPECIAL DIRECTION OF THE MINISTER See All...",
+          "label": "P.U. (B) 470/2026 - NOTIFICATION OF VALUE OF PALM KERNEL UNDER SECTION 12 P.U. (B) 469/2026 - NOTICE UNDER SECTION 70 P.U. (B) 468/2026 - NOTICE TO THIRD PARTIES See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -129,11 +133,12 @@
         "16 Nov",
         "15 Nov",
         "14 Nov",
-        "There is no record to display",
         "P.U. (B)",
+        "P.U. (B) 470/2026 - NOTIFICATION OF VALUE OF PALM KERNEL UNDER SECTION 12",
         "P.U. (B) 469/2026 - NOTICE UNDER SECTION 70",
         "P.U. (B) 467/2026 - SPECIAL DIRECTION OF THE MINISTER",
         "P.U. (B) 468/2026 - NOTICE TO THIRD PARTIES",
+        "There is no record to display",
         "P.U. (B) 466/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF MEMBERS AND ALTERNATE MEMBERS OF THE BOARD",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
@@ -152,8 +157,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 854 769",
-        "Act 164 682"
+        "Act 854 820",
+        "Act 164 737"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-download-forms",
   "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
-  "fetched_at": "2026-11-20T00:57:54.369Z",
+  "fetched_at": "2026-11-20T08:44:43.221Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
@@ -16,31 +16,11 @@
           "href": "https://byrhasil.hasil.gov.my/"
         },
         {
-          "label": "| Business, Employment and Other Income e-M 2025 Non-resident individuals are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is available only in English Language version. Sample Form M 2025 (850.94 KB) M 2025 Explanatory Notes (804.54 KB) Working",
-          "href": "https://mytax.hasil.gov.my/"
+          "label": "| Employment and Other Income Amended Return Form BE 2025 (536.53 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form BE 2025 (122.34 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_be2025_2.pdf"
         },
         {
-          "label": "| Business, Employment and Other Income Amended Return Form M 2025 (326.13 KB) This form is available only in English Language version. This form can be downloaded and submitted to the HASiL office which handles your income tax file or to the nearest HASiL state office. Guide Notes on Amended Return Form M 2025 (122.72 KB)",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_m2025_2.pdf"
-        },
-        {
-          "label": "| Business, Employment and Other Income (Knowledge Worker) e-MT 2025 Non-resident individuals who are knowledge workers are required to furnish their returns via electronic medium or by way of electronic transmission to Lembaga Hasil Dalam Negeri Malaysia. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is available only in English Language version.",
-          "href": "https://mytax.hasil.gov.my/"
-        },
-        {
-          "label": "| Business, Employment and Other Income (Knowledge Worker) Amended Return Form MT 2025 (314.90 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form MT 2025 (122.72 KB)",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_mt2025_2.pdf"
-        },
-        {
-          "label": "| Business, Employment and Other Income (Knowledge Worker / Expert Worker / Non-Citizen Worker Holding Key Position) e-BT 2025 Resident individuals who are knowledge workers / expert workers / non-citizen workers holding key positions are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return",
-          "href": "https://mytax.hasil.gov.my/"
-        },
-        {
-          "label": "| Business, Employment and Other Income (Knowledge Workers / Expert Workers) Amended Return Form BT 2025 (624.08 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form BT 2025 (142.55 KB)",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_bt2025_2.pdf"
-        },
-        {
-          "label": "| Business, Employment and Other Income e-B 2025 Resident individuals who carry on business are required to furnish their returns via electronic medium or by way of electronic transmission to Lembaga Hasil Dalam Negeri Malaysia. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay language version for submission ",
+          "label": "| Employment and Other Income e-BE 2025 Resident individuals who do not carry on business are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay language version for submission to HASiL office. Sample Form BE ",
           "href": "https://mytax.hasil.gov.my/"
         },
         {
@@ -48,12 +28,32 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_b2025_2.pdf"
         },
         {
-          "label": "| Employment and Other Income e-BE 2025 Resident individuals who do not carry on business are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay language version for submission to HASiL office. Sample Form BE ",
+          "label": "| Business, Employment and Other Income e-B 2025 Resident individuals who carry on business are required to furnish their returns via electronic medium or by way of electronic transmission to Lembaga Hasil Dalam Negeri Malaysia. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay language version for submission ",
           "href": "https://mytax.hasil.gov.my/"
         },
         {
-          "label": "| Employment and Other Income Amended Return Form BE 2025 (536.53 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form BE 2025 (122.34 KB)",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_be2025_2.pdf"
+          "label": "| Business, Employment and Other Income (Knowledge Workers / Expert Workers) Amended Return Form BT 2025 (624.08 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form BT 2025 (142.55 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_bt2025_2.pdf"
+        },
+        {
+          "label": "| Business, Employment and Other Income (Knowledge Worker / Expert Worker / Non-Citizen Worker Holding Key Position) e-BT 2025 Resident individuals who are knowledge workers / expert workers / non-citizen workers holding key positions are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Business, Employment and Other Income (Knowledge Worker) Amended Return Form MT 2025 (314.90 KB) This form is only for viewing. Please use the Malay language version for submission to HASiL office. Guide Notes on Amended Return Form MT 2025 (122.72 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_mt2025_2.pdf"
+        },
+        {
+          "label": "| Business, Employment and Other Income (Knowledge Worker) e-MT 2025 Non-resident individuals who are knowledge workers are required to furnish their returns via electronic medium or by way of electronic transmission to Lembaga Hasil Dalam Negeri Malaysia. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is available only in English Language version.",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Business, Employment and Other Income Amended Return Form M 2025 (326.13 KB) This form is available only in English Language version. This form can be downloaded and submitted to the HASiL office which handles your income tax file or to the nearest HASiL state office. Guide Notes on Amended Return Form M 2025 (122.72 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/amendedreturnform_m2025_2.pdf"
+        },
+        {
+          "label": "| Business, Employment and Other Income e-M 2025 Non-resident individuals are required to furnish their returns via electronic medium or by way of electronic transmission to HASiL. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is available only in English Language version. Sample Form M 2025 (850.94 KB) M 2025 Explanatory Notes (804.54 KB) Working",
+          "href": "https://mytax.hasil.gov.my/"
         }
       ],
       "lines": []
@@ -63,11 +63,11 @@
       "title": "Muat Turun Borang Syarikat",
       "items": [
         {
-          "label": "| Company e-C 2026 (from 1 April 2026) Companies are required to furnish their returns based on audited financial statements and submit via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via https://mytax.hasil.gov.my/ Sample Company Return Form 2026 and Appendices (1.02 MB) Guidebook ",
+          "label": "| Company e-BNT C 2026 (From 1 October 2026) With effect from Year of Assessment 2024, companies are required to furnish their returns via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. Tax agents are required to use the TAeF to submit return form via https://mytax.hasil.gov.my/ Sample Amended Return Form C 2026 and related references are as below: Samp",
           "href": "https://mytax.hasil.gov.my/"
         },
         {
-          "label": "| Company e-BNT C 2026 (From 1 October 2026) With effect from Year of Assessment 2024, companies are required to furnish their returns via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. Tax agents are required to use the TAeF to submit return form via https://mytax.hasil.gov.my/ Sample Amended Return Form C 2026 and related references are as below: Samp",
+          "label": "| Company e-C 2026 (from 1 April 2026) Companies are required to furnish their returns based on audited financial statements and submit via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via https://mytax.hasil.gov.my/ Sample Company Return Form 2026 and Appendices (1.02 MB) Guidebook ",
           "href": "https://mytax.hasil.gov.my/"
         }
       ],
@@ -82,43 +82,7 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/workingsheets_tatctr_2026_2.pdf"
         },
         {
-          "label": "| Business Trust Amended Return Form TN 2026 This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes on Amended Return Form TN 2026",
-          "href": "https://www.hasil.gov.my/en/borang/kriteria-bncp-tidak-lengkap-yang-tidak-boleh-diterima/"
-        },
-        {
-          "label": "| Business Trust Tax Returns TN TN 2026 Form Printing Requirement (117.80 KB) e-Filing will be the primary method for submission of tax return in the future. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay version for manual submission to LHDNM. TN 2026 Explanatory Notes",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/syaratcetakan_1.pdf"
-        },
-        {
-          "label": "| Real Estate Investment Trust/Property Trust Fund Amended Return Form TR ARF TR 2026 (895.79 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Note",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/sample_arf_tr2026_2.pdf"
-        },
-        {
-          "label": "| Real Estate Investment Trust / Property Trust Fund Tax Returns TR e-TR 2026 (from 1 September 2026) Real estate investment trust/property trust fund are required to furnish their Tax Returns by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Real Estate Investment Trust/Property Trust Fund Return Form 2026 and Appendices (986.61 KB) Explanatory Note",
-          "href": "https://mytax.hasil.gov.my/"
-        },
-        {
-          "label": "| Unit Trust / Property Trust Amended Tax Returns TC 2026 This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes of Amended Return Form TC 2026",
-          "href": "https://www.hasil.gov.my/en/borang/kriteria-bncp-tidak-lengkap-yang-tidak-boleh-diterima/"
-        },
-        {
-          "label": "| Unit Trust/Property Trust Tax Returns TC e-TC 2026 (From 1 July 2026) Unit Trust/Property Trust are required to furnish their Tax Returns by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample Unit Trust/Property Trust Return Form 2026 and Appendices Explanatory Notes TC 2026",
-          "href": "https://mytax.hasil.gov.my/"
-        },
-        {
-          "label": "| Trust Body Amended Tax Returns TA ARF TA 2026 (726.16 KB) (From 15 December 2026) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes of Amended R",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/arf_ta2026_2-1.pdf"
-        },
-        {
-          "label": "| Trust Body Tax Returns TA e-TA 2026 (from 1 August 2026) Trust bodies are required to furnish their Tax Returns by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Trust Body Return Form 2026 and Appendices (705.32 KB) TA 2026 Explanatory Notes (1.20 MB)",
-          "href": "https://mytax.hasil.gov.my/"
-        },
-        {
-          "label": "| Limited Liability Partneship Amended Return Form PT ARF PT 2026 (811.40 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes Amended Return For",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/ARF-PT-2026_2.pdf"
-        },
-        {
-          "label": "| Limited Liability Partnership Tax Returns PT e-PT 2026 (From 1st May 2025) LLP are required to submit their Tax Returns via electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Limited Liability Partnership Return Form 2026 & Appendices (830.84 KB) PT 2026 Explanatory Notes (2.12 MB)",
+          "label": "| Co-operative society Tax Returns C1 e-C1 2026 (from 1 August 2026) Co-operative societies are required to furnish their Tax Returns by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Co-Operative Society Return Form 2026 and Appendices (1.32 MB) Guidebook C1 2026 (5.49 MB)",
           "href": "https://mytax.hasil.gov.my/"
         },
         {
@@ -126,8 +90,44 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/ARF-C1-2026_2.pdf"
         },
         {
-          "label": "| Co-operative society Tax Returns C1 e-C1 2026 (from 1 August 2026) Co-operative societies are required to furnish their Tax Returns by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Co-Operative Society Return Form 2026 and Appendices (1.32 MB) Guidebook C1 2026 (5.49 MB)",
+          "label": "| Limited Liability Partnership Tax Returns PT e-PT 2026 (From 1st May 2025) LLP are required to submit their Tax Returns via electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Limited Liability Partnership Return Form 2026 & Appendices (830.84 KB) PT 2026 Explanatory Notes (2.12 MB)",
           "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Limited Liability Partneship Amended Return Form PT ARF PT 2026 (811.40 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes Amended Return For",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ARF-PT-2026_2.pdf"
+        },
+        {
+          "label": "| Trust Body Tax Returns TA e-TA 2026 (from 1 August 2026) Trust bodies are required to furnish their Tax Returns by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Trust Body Return Form 2026 and Appendices (705.32 KB) TA 2026 Explanatory Notes (1.20 MB)",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Trust Body Amended Tax Returns TA ARF TA 2026 (726.16 KB) (From 15 December 2026) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes of Amended R",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/arf_ta2026_2-1.pdf"
+        },
+        {
+          "label": "| Unit Trust/Property Trust Tax Returns TC e-TC 2026 (From 1 July 2026) Unit Trust/Property Trust are required to furnish their Tax Returns by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample Unit Trust/Property Trust Return Form 2026 and Appendices Explanatory Notes TC 2026",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Unit Trust / Property Trust Amended Tax Returns TC 2026 This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes of Amended Return Form TC 2026",
+          "href": "https://www.hasil.gov.my/en/borang/kriteria-bncp-tidak-lengkap-yang-tidak-boleh-diterima/"
+        },
+        {
+          "label": "| Real Estate Investment Trust / Property Trust Fund Tax Returns TR e-TR 2026 (from 1 September 2026) Real estate investment trust/property trust fund are required to furnish their Tax Returns by way of electronic transmission to Inland Revenue Board of Malaysia via MyTax Portal. Sample of Real Estate Investment Trust/Property Trust Fund Return Form 2026 and Appendices (986.61 KB) Explanatory Note",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Real Estate Investment Trust/Property Trust Fund Amended Return Form TR ARF TR 2026 (895.79 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Note",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/sample_arf_tr2026_2.pdf"
+        },
+        {
+          "label": "| Business Trust Tax Returns TN TN 2026 Form Printing Requirement (117.80 KB) e-Filing will be the primary method for submission of tax return in the future. Tax agents are encouraged to use the TaeF to submit Return Form (RF) via MyTax Portal. This form is only for viewing. Please use the Malay version for manual submission to LHDNM. TN 2026 Explanatory Notes",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/syaratcetakan_1.pdf"
+        },
+        {
+          "label": "| Business Trust Amended Return Form TN 2026 This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes on Amended Return Form TN 2026",
+          "href": "https://www.hasil.gov.my/en/borang/kriteria-bncp-tidak-lengkap-yang-tidak-boleh-diterima/"
         }
       ],
       "lines": []
@@ -230,31 +230,19 @@
       "title": "Muat Turun Borang CKHT",
       "items": [
         {
-          "label": "| Borang Kuasa Pemfailan Borang Secara Elektronik (CKHT 57A) CKHT57A (82.08 KB) Peguam perlu mendapatkan surat lantikan pembayar cukai menggunakan Borang Kuasa Pemfailan Borang Secara Elektronik (Borang CKHT 57A) sebelum memohon peranan peguam di MyTax. Borang CKHT 57A ini hendaklah disimpan dan dikemukakan ke LHDNM sekiranya diminta.",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/ckht-57a-surat-kuasa-lantikan-peguam.pdf"
+          "label": "| Pelupusan Harta Tanah / Syer Dalam Syarikat Harta Tanah e-CKHT (Mandatori mulai 01 Januari 2025) Borang ini diisi oleh pelupus. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT melalui e-CKHT di MyTax ke LHDNM di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Manual Pe",
+          "href": "https://mytax.hasil.gov.my/"
         },
         {
           "label": "| Pemerolehan Harta Tanah / Syer Dalam Syarikat Harta Tanah e-CKHT (Mandatori mulai 01 Januari 2025) Borang ini diisi oleh pemeroleh. Mulai 01 Januari 2025, pemeroleh hendaklah mengemukakan Borang CKHT melalui e-CKHT di MyTax ke LHDNM di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Man",
           "href": "https://mytax.hasil.gov.my/"
         },
         {
-          "label": "| Pelupusan Harta Tanah / Syer Dalam Syarikat Harta Tanah e-CKHT (Mandatori mulai 01 Januari 2025) Borang ini diisi oleh pelupus. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT melalui e-CKHT di MyTax ke LHDNM di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Manual Pe",
-          "href": "https://mytax.hasil.gov.my/"
-        },
-        {
           "label": "| Borang Kuasa Pemfailan Borang Secara Elektronik (CKHT 57A) CKHT57A (82.08 KB) Peguam perlu mendapatkan surat lantikan pembayar cukai menggunakan Borang Kuasa Pemfailan Borang Secara Elektronik (Borang CKHT 57A) sebelum memohon peranan peguam di MyTax. Borang CKHT 57A ini hendaklah disimpan dan dikemukakan ke LHDNM sekiranya diminta.",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/6-contoh-borang-ckht-57a.pdf"
+          "href": "https://www.hasil.gov.my/wp-content/uploads/ckht-57a-surat-kuasa-lantikan-peguam.pdf"
         },
         {
-          "label": "| Bayaran di Bawah Seksyen 21B ACKHT 1976 (CKHT 502) e-CKHT 502 (Mandatori bagi pelupusan sehingga 31 Disember 2024) Diisi oleh pemeroleh bagi tujuan pembayaran di bawah seksyen 21B ACKHT 1976. Pemeroleh hendaklah mengemukakan Slip Bayaran CKHT 502 bagi pelupusan sehingga 31 Disember 2024 secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan P",
-          "href": "https://mytax.hasil.gov.my/"
-        },
-        {
-          "label": "| Pemberitahuan di Bawah Seksyen 13(6) Pengecualian / Pelupusan Tidak Dikenakan Cukai e-CKHT 3 (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pelupus dan dikemukakan bersama-sama Borang CKHT 1A atau CKHT 1B. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT 3 bersama-sama Borang CKHT 1A atau 1B secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my",
-          "href": "https://mytax.hasil.gov.my/"
-        },
-        {
-          "label": "| Pemerolehan Harta Tanah atau Syer Tertakluk Kepada ACKHT 1976 e-CKHT 2A (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pemeroleh bagi pelaporan pemerolehan aset tertakluk kepada ACKHT 1976 dan menjana Nombor Bil bagi tujuan pembayaran di bawah seksyen 21B ACKHT 1976. Mulai 01 Januari 2025, pemeroleh hendaklah mengemukakan Borang CKHT 2A secara secara dalam talian melalui e-CKHT di",
+          "label": "| Pelupusan Harta Tanah e-CKHT 1A (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pelupus. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT 1A secara secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Manual Penggu",
           "href": "https://mytax.hasil.gov.my/"
         },
         {
@@ -262,27 +250,23 @@
           "href": "https://mytax.hasil.gov.my/"
         },
         {
-          "label": "| Pelupusan Harta Tanah e-CKHT 1A (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pelupus. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT 1A secara secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Manual Penggu",
+          "label": "| Pemerolehan Harta Tanah atau Syer Tertakluk Kepada ACKHT 1976 e-CKHT 2A (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pemeroleh bagi pelaporan pemerolehan aset tertakluk kepada ACKHT 1976 dan menjana Nombor Bil bagi tujuan pembayaran di bawah seksyen 21B ACKHT 1976. Mulai 01 Januari 2025, pemeroleh hendaklah mengemukakan Borang CKHT 2A secara secara dalam talian melalui e-CKHT di",
           "href": "https://mytax.hasil.gov.my/"
         },
         {
-          "label": "| Bayaran di Bawah Seksyen 21B ACKHT 1976 e-CKHT 502 (Mandatori bagi pelupusan sehingga 31 Disember 2024) Diisi oleh pemeroleh bagi tujuan pembayaran di bawah seksyen 21B ACKHT 1976. Pemeroleh hendaklah mengemukakan Slip Bayaran CKHT 502 bagi pelupusan sehingga 31 Disember 2024 secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan Peranan Pegu",
+          "label": "| Pemberitahuan di Bawah Seksyen 13(6) Pengecualian / Pelupusan Tidak Dikenakan Cukai e-CKHT 3 (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pelupus dan dikemukakan bersama-sama Borang CKHT 1A atau CKHT 1B. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT 3 bersama-sama Borang CKHT 1A atau 1B secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my",
           "href": "https://mytax.hasil.gov.my/"
         },
         {
-          "label": "| Pindaan Syer Tertakluk Kepada ACKHT 1976 e-BNT CKHT 1B (Mandatori mulai Tahun 2025) Pelupus yang melupuskan aset mulai 01 Januari 2025 boleh mengemukakan Borang Nyata Terpinda secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax https://mytax.hasil.gov.my • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasi",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/mytax.hasil.gov.my"
-        },
-        {
-          "label": "| Pindaan Pelupusan Harta Tanah e-BNT CKHT 1A (Mandatori mulai Tahun 2025) Pelupus yang melupuskan aset mulai 01 Januari 2025 boleh mengemukakan Borang Nyata Terpinda secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax https://mytax.hasil.gov.my • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ N",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/mytax.hasil.gov.my"
+          "label": "| Bayaran di Bawah Seksyen 21B ACKHT 1976 (CKHT 502) e-CKHT 502 (Mandatori bagi pelupusan sehingga 31 Disember 2024) Diisi oleh pemeroleh bagi tujuan pembayaran di bawah seksyen 21B ACKHT 1976. Pemeroleh hendaklah mengemukakan Slip Bayaran CKHT 502 bagi pelupusan sehingga 31 Disember 2024 secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan P",
+          "href": "https://mytax.hasil.gov.my/"
         },
         {
           "label": "| Borang Kuasa Pemfailan Borang Secara Elektronik (CKHT 57A) CKHT57A (82.08 KB) Peguam perlu mendapatkan surat lantikan pembayar cukai menggunakan Borang Kuasa Pemfailan Borang Secara Elektronik (Borang CKHT 57A) sebelum memohon peranan peguam di MyTax. Borang CKHT 57A ini hendaklah disimpan dan dikemukakan ke LHDNM sekiranya diminta.",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/5-contoh-borang-ckht-57a.pdf"
+          "href": "https://www.hasil.gov.my/wp-content/uploads/6-contoh-borang-ckht-57a.pdf"
         },
         {
-          "label": "| Pelupusan Syer Tertakluk Kepada ACKHT 1976 e-CKHT 1B (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pelupus. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT 1B secara secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax• Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.go",
+          "label": "| Bayaran di Bawah Seksyen 21B ACKHT 1976 e-CKHT 502 (Mandatori bagi pelupusan sehingga 31 Disember 2024) Diisi oleh pemeroleh bagi tujuan pembayaran di bawah seksyen 21B ACKHT 1976. Pemeroleh hendaklah mengemukakan Slip Bayaran CKHT 502 bagi pelupusan sehingga 31 Disember 2024 secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my/ • Peguam menggunakan perkhidmatan Peranan Pegu",
           "href": "https://mytax.hasil.gov.my/"
         },
         {
@@ -290,19 +274,23 @@
           "href": "https://mytax.hasil.gov.my/"
         },
         {
-          "label": "| Pindaan Syer Tertakluk Kepada ACKHT 1976 e-BNT CKHT 1B Pelupus yang melupuskan aset mulai 01 Januari 2026 boleh mengemukakan Borang Nyata Terpinda secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax https://mytax.hasil.gov.my • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh BNT CKHT 1B ",
+          "label": "| Pelupusan Syer Tertakluk Kepada ACKHT 1976 e-CKHT 1B (Mandatori mulai 01 Januari 2025) Borang ini perlu diisi oleh pelupus. Mulai 01 Januari 2025, pelupus hendaklah mengemukakan Borang CKHT 1B secara secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax• Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.go",
           "href": "https://mytax.hasil.gov.my/"
         },
         {
-          "label": "| Pindaan Pelupusan Harta Tanah e-BNT CKHT 1A Pelupus yang melupuskan aset mulai 01 Januari 2026 boleh mengemukakan Borang Nyata Terpinda secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax https://mytax.hasil.gov.my • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh BNT CKHT 1A dan panduan",
-          "href": "https://mytax.hasil.gov.my/"
+          "label": "| Borang Kuasa Pemfailan Borang Secara Elektronik (CKHT 57A) CKHT57A (82.08 KB) Peguam perlu mendapatkan surat lantikan pembayar cukai menggunakan Borang Kuasa Pemfailan Borang Secara Elektronik (Borang CKHT 57A) sebelum memohon peranan peguam di MyTax. Borang CKHT 57A ini hendaklah disimpan dan dikemukakan ke LHDNM sekiranya diminta.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/5-contoh-borang-ckht-57a.pdf"
         },
         {
-          "label": "| Pemberitahuan di Bawah Seksyen 13(6) Pengecualian / Pelupusan Tidak Dikenakan Cukai e-CKHT 3 Borang ini perlu diisi oleh pelupus dan dikemukakan bersama-sama Borang CKHT 1A atau CKHT 1B. • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh Borang CKHT 3 dan panduan pengisian seperti di bawah: • Contoh Borang CKH",
-          "href": "https://mytax.hasil.gov.my/"
+          "label": "| Pindaan Pelupusan Harta Tanah e-BNT CKHT 1A (Mandatori mulai Tahun 2025) Pelupus yang melupuskan aset mulai 01 Januari 2025 boleh mengemukakan Borang Nyata Terpinda secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax https://mytax.hasil.gov.my • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ N",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/mytax.hasil.gov.my"
         },
         {
-          "label": "| Pemerolehan Harta Tanah atau Syer Tertakluk Kepada ACKHT 1976 e-CKHT 2A Borang ini perlu diisi oleh pemeroleh bagi pelaporan pemerolehan aset tertakluk kepada ACKHT 1976 dan menjana Nombor Bil bagi tujuan pembayaran di bawah seksyen 21B ACKHT 1976. • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh Borang CKHT",
+          "label": "| Pindaan Syer Tertakluk Kepada ACKHT 1976 e-BNT CKHT 1B (Mandatori mulai Tahun 2025) Pelupus yang melupuskan aset mulai 01 Januari 2025 boleh mengemukakan Borang Nyata Terpinda secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax https://mytax.hasil.gov.my • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasi",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/mytax.hasil.gov.my"
+        },
+        {
+          "label": "| Pelupusan Harta Tanah e-CKHT 1A Borang ini perlu diisi oleh pelupus. • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh Borang CKHT 1A dan panduan pengisian seperti di bawah: • Contoh Borang CKHT 1A 2026 (322.10 KB) • Nota Panduan Borang CKHT 1A 2026 (326.84 KB)",
           "href": "https://mytax.hasil.gov.my/"
         },
         {
@@ -310,7 +298,19 @@
           "href": "https://mytax.hasil.gov.my/"
         },
         {
-          "label": "| Pelupusan Harta Tanah e-CKHT 1A Borang ini perlu diisi oleh pelupus. • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh Borang CKHT 1A dan panduan pengisian seperti di bawah: • Contoh Borang CKHT 1A 2026 (322.10 KB) • Nota Panduan Borang CKHT 1A 2026 (326.84 KB)",
+          "label": "| Pemerolehan Harta Tanah atau Syer Tertakluk Kepada ACKHT 1976 e-CKHT 2A Borang ini perlu diisi oleh pemeroleh bagi pelaporan pemerolehan aset tertakluk kepada ACKHT 1976 dan menjana Nombor Bil bagi tujuan pembayaran di bawah seksyen 21B ACKHT 1976. • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh Borang CKHT",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pemberitahuan di Bawah Seksyen 13(6) Pengecualian / Pelupusan Tidak Dikenakan Cukai e-CKHT 3 Borang ini perlu diisi oleh pelupus dan dikemukakan bersama-sama Borang CKHT 1A atau CKHT 1B. • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh Borang CKHT 3 dan panduan pengisian seperti di bawah: • Contoh Borang CKH",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pindaan Pelupusan Harta Tanah e-BNT CKHT 1A Pelupus yang melupuskan aset mulai 01 Januari 2026 boleh mengemukakan Borang Nyata Terpinda secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax https://mytax.hasil.gov.my • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh BNT CKHT 1A dan panduan",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "label": "| Pindaan Syer Tertakluk Kepada ACKHT 1976 e-BNT CKHT 1B Pelupus yang melupuskan aset mulai 01 Januari 2026 boleh mengemukakan Borang Nyata Terpinda secara dalam talian melalui e-CKHT di MyTax di https://mytax.hasil.gov.my • Peguam menggunakan perkhidmatan Peranan Peguam di MyTax https://mytax.hasil.gov.my • Ejen cukai menggunakan perkhidmatan TAeF di https://taef.hasil.gov.my/ Contoh BNT CKHT 1B ",
           "href": "https://mytax.hasil.gov.my/"
         }
       ],
@@ -706,16 +706,16 @@
       "title": "Muat Turun Borang Petroleum",
       "items": [
         {
+          "label": "| Petroleum e-CPE 2026 e-CPP 2026 (From 1 July 2026) With effect from Year of Assessment 2024 Petroleum are required to furnish their return via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. With effect from Year of Assessment 2024 Petroleum are required to furnish their return via electronic medium or by way of electronic transmission to Inland Revenu",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
           "label": "| Petroleum Amended Return Form CPE ARF CPE 2026 (556.63 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes of Amended Return Form CPE 2026 (11",
           "href": "https://www.hasil.gov.my/wp-content/uploads/sample_arf_cpe2026_2.pdf"
         },
         {
           "label": "| Petroleum Amended Return Form CPP ARF CPP 2026 (634.45 KB) This form is only for viewing. Please use the Malay language version for submission to LHDNM. Please ensure that the Amended Return Form and its accompanying attachments are printed in full in accordance with the Criteria for Incomplete Tax Return Forms (IRTF) as stipulated on LHDNM Portal. Guide Notes of Amended Return Form CPP 2026 (12",
           "href": "https://www.hasil.gov.my/wp-content/uploads/sample_arf_cpp2026_2.pdf"
-        },
-        {
-          "label": "| Petroleum e-CPE 2026 e-CPP 2026 (From 1 July 2026) With effect from Year of Assessment 2024 Petroleum are required to furnish their return via electronic medium or by way of electronic transmission to Inland Revenue Board of Malaysia. With effect from Year of Assessment 2024 Petroleum are required to furnish their return via electronic medium or by way of electronic transmission to Inland Revenu",
-          "href": "https://mytax.hasil.gov.my/"
         }
       ],
       "lines": []

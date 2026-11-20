@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-e-invoice",
   "url": "https://www.hasil.gov.my/en/e-invois/",
-  "fetched_at": "2026-11-20T00:51:25.623Z",
+  "fetched_at": "2026-11-20T08:40:51.127Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/e-invois/",
@@ -2209,6 +2209,10 @@
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-sarawak-kuching-bil-15-2026/"
         },
         {
+          "label": "Bil. 24/2026 Webinar e-Invois Anjuran HASiL Sarawak Bil. 24/2026 10 Disember 2026 (Khamis) 9:00 am – 12:30 pm Webinar melalui Ms. Teams Tarikh tutup: 8 Disember 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/webinar-e-invois-anjuran-hasil-sarawak-bil-24-2026/"
+        },
+        {
           "label": "Bil. 61/2026 Taklimat e-Invois @ Pulau Pinang (Georgetown) Bil. 61/2026 9 Disember 2026 (Rabu) 9:30 am – 1:00 pm Mutiara I, Menara HASiL Pulau Pinang, Pulau Pinang Tarikh tutup: 7 Disember 2026",
           "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-pulau-pinang-georgetown-bil-61-2026/"
         },
@@ -3701,6 +3705,11 @@
         "9:00 am – 12:00 pm",
         "Dewan HASiL Aras 4, Pejabat HASiL Kuching, Sarawak",
         "Tarikh tutup: 8 Disember 2026",
+        "Bil. 24/2026",
+        "Webinar e-Invois Anjuran HASiL Sarawak Bil. 24/2026",
+        "10 Disember 2026 (Khamis)",
+        "9:00 am – 12:30 pm",
+        "Webinar melalui Ms. Teams",
         "Bil. 61/2026",
         "Taklimat e-Invois @ Pulau Pinang (Georgetown) Bil. 61/2026",
         "9 Disember 2026 (Rabu)",
@@ -3757,7 +3766,6 @@
         "Tarikh tutup: 20 November 2026",
         "Bil. 14/2026",
         "Taklimat e-Invois @ Selangor (Klang) Bil. 14/2026",
-        "9:00 am – 12:30 pm",
         "Bilik Latihan Aras 1, HASiL Satelit Klang, Selangor",
         "Bil. 5/2026",
         "Taklimat e-Invois Anjuran HASiL WP Putrajaya (Bangi) Bil. 5/2026",
@@ -3790,7 +3798,6 @@
         "Taklimat e-Invois @ Johor (Kluang) Bil. 64/2026",
         "10:00am - 12:00pm",
         "Bilik Komputer, Menara HASiL Kluang, Johor",
-        "Bil. 24/2026",
         "Taklimat (Webinar) e-Invois @ CIK Bil. 24/2026",
         "9:30 am – 12:30 pm",
         "Tarikh tutup: N/A",
@@ -3803,7 +3810,6 @@
         "Bil. 21/2026",
         "Webinar e-Invois Anjuran HASiL Sarawak Bil. 21/2026",
         "9:00am - 11:30am",
-        "Webinar melalui Ms. Teams",
         "Tarikh tutup: 15 November 2026",
         "Bil. 13/2026",
         "Taklimat e-Invois @ Selangor (Shah Alam) Bil. 13/2026",
