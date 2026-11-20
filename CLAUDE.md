@@ -17,7 +17,11 @@ Reports are delivered in the chat of the session that runs the check. Do not sen
    then `npm ci`.
 
 2. **Visit every website.** Run `node src/check.js`. It visits every page, saves new
-   snapshots and writes `data/runs/<run-id>/changes.json`. `data/runs/LATEST`
+   snapshots and writes `data/runs/<run-id>/changes.json`.
+   A full run takes about 15–25 minutes: run it in the background with a time
+   limit of at least an hour. If it is stopped before it writes `changes.json`,
+   restore the snapshots with `git checkout -- data/snapshots/` and run it again,
+   or the changes on the pages it already saved would never be reported. `data/runs/LATEST`
    holds the run id. In that file:
    - `changed`: pages that differ from the last visit, with `new_items`,
      `removed_items`, `text_changes`, `new_form_years` and `new_forms`.
