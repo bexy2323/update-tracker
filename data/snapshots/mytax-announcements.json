@@ -1,7 +1,7 @@
 {
   "check_id": "mytax-announcements",
   "url": "https://mytax.hasil.gov.my/",
-  "fetched_at": "2026-11-23T00:48:51.700Z",
+  "fetched_at": "2026-11-23T08:48:53.097Z",
   "pages": [
     {
       "url": "https://mytax.hasil.gov.my/",
@@ -41,24 +41,35 @@
       "lines": [
         "Portal Rasmi HASiL",
         "Perkhidmatan ezHasil",
+        "ByrHASiL",
+        "Duti Setem",
+        "e-Duti SetemDaftar ID PenggunaSemakan KetulenanBayar HasilBayar Melalui VAPengumumanSoalan Lazim (FAQ)Akuan Berkanun",
+        "e-Daftar",
+        "e-Pelarian Cukai",
+        "e-Residence",
+        "e-ResidenceSoalan Lazim",
+        "e-TT",
+        "e-TTFAQ",
+        "Kalkulator PCB",
         "e-Janji Temu",
         "Maklum Balas Pelanggan",
         "Panduan Pengguna",
         "e-POS",
+        "Login",
         "ENG",
-        "Cerah",
+        "GelapCerah",
         "Sila Masukkan Maklumat Anda",
         "Sila Pilih Jenis Pengenalan",
         "MyKad/MyPR/MyKAS",
         "No. Pasport/Dokumen Lain",
         "Hantar",
         "Carian TIN",
-        "e-Daftar",
-        "ByrHASiL",
-        "e-TT",
-        "Previous",
-        "Next",
-        "© 2026 Hak Cipta Terpelihara LHDNM"
+        "PreviousNext",
+        "© 2026 Hak Cipta Terpelihara LHDNM",
+        "Laman Utama",
+        "Pengumuman",
+        "e-Buku Navigasi HASIL",
+        "eduZONE"
       ]
     }
   ]

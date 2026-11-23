@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-download-forms",
   "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
-  "fetched_at": "2026-11-23T00:44:22.419Z",
+  "fetched_at": "2026-11-23T08:44:17.988Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
@@ -687,8 +687,12 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/borang-2-pind2023.docx"
         },
         {
-          "label": "| Application Form For Amendment Of Instalment Payment Form CP502 (167.04 KB) -",
+          "label": "| Application Form For Amendment Of Instalment Payment Form CP502 (167.04 KB) 2026",
           "href": "https://www.hasil.gov.my/wp-content/uploads/form-cp502.pdf"
+        },
+        {
+          "label": "| Application Form For Amendment Of Instalment Payment Form CP502 (217.94 KB) 2027",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Form-CP502-Rev.3_2026.pdf"
         },
         {
           "label": "| Payment in Monetary Form to Agent, Dealer or Distributor (Resident Individual) e-107D Panduan Pengemukaan Borang dan Lampiran Bagi Bayaran Seksyen 107D 2025 (10.83 KB)",

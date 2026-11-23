@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-legislation",
   "url": "https://www.hasil.gov.my/en/perundangan/akta/",
-  "fetched_at": "2026-11-23T00:50:43.968Z",
+  "fetched_at": "2026-11-23T08:45:07.900Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/perundangan/akta/",
@@ -2078,7 +2078,7 @@
         },
         {
           "label": "Guidelines (36.55 KB)",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/PotonganBagiPenggalakanEksport_GARISPANDUAN.pdf"
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Guidelines_POE.pdf"
         },
         {
           "label": "Form (31.85 KB)",
@@ -2110,7 +2110,7 @@
         },
         {
           "label": "Guidelines (125.24 KB)",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/GarispanduanMengenaiDutiSetemKeatasSuratcaraPindahmilikSyerBSKL02.pdf"
+          "href": "https://www.hasil.gov.my/wp-content/uploads/guideline_stampingofshares.pdf"
         },
         {
           "label": "Guidelines (174.10 KB)",
@@ -2118,7 +2118,7 @@
         },
         {
           "label": "Guidelines on Advance Ruling (198.91 KB)",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/GP_Ketetapan_Awal_10062016.pdf"
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Guidelines_Advance_Ruling_10062016-1.pdf"
         }
       ],
       "lines": [
