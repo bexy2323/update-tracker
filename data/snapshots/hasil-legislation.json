@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-legislation",
   "url": "https://www.hasil.gov.my/en/perundangan/akta/",
-  "fetched_at": "2026-11-20T08:45:20.959Z",
+  "fetched_at": "2026-11-23T00:45:12.827Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/perundangan/akta/",
@@ -2375,6 +2375,10 @@
           "href": "https://www.hasil.gov.my/en/perundangan/kes-cukai/"
         },
         {
+          "label": "Case Report>> (308.41 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20261113-REVENEWS-THMSB.pdf"
+        },
+        {
           "label": "Case Report>> (229.32 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/20261102-REVENEWS-PT-TRAVIRA-AIR.pdf"
         },
@@ -3882,16 +3886,20 @@
         "Expand All",
         "List of Recent Tax Case",
         "Section Case Title Category Date Issued",
+        "Subsection 113(2) Income Tax Act 1967 & P.U.(A) 207/2006",
+        "THMSB v. Director General of Inland Revenue",
+        "Case Report>> (308.41 KB)",
+        "Tax Appeal 20.11.2026",
         "Section 4A(iii), 54 & 109B Income Tax Act 1967",
-        "PT Travira Air v Director General of Inland Revenue",
+        "PT Travira Air v. Director General of Inland Revenue",
         "Case Report>> (229.32 KB)",
         "Tax Appeal 06.11.2026",
         "Section 33(1) Income Tax Act 1967 & P.U.(A) 117/2017",
-        "M12SB v Director General of Inland Revenue",
+        "M12SB v. Director General of Inland Revenue",
         "Case Report>> (246.44 KB)",
         "Tax Appeal 05.11.2026",
         "Section 33(1), 39 & 113(2) Income Tax Act 1967",
-        "ACSB v Director General of Inland Revenue",
+        "ACSB v. Director General of Inland Revenue",
         "Case Report>> (244.04 KB)",
         "Section 4(a) & 112(3) Income Tax Act 1967",
         "Ismail bin Idris v. Director General of Inland Revenue",
@@ -4468,7 +4476,6 @@
         "Case Report>> (476.03 KB)",
         "Tax Appeal 15.02.2024",
         "Subsection 77A(1) Income Tax Act 1967",
-        "ACSB v. Director General of Inland Revenue",
         "Case Report>> (199.26 KB)",
         "Tax Appeal 14.02.2024",
         "Item 66(c) and Item 32(a) First Schedule Stamp Act 1949",
