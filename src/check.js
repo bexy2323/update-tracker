@@ -71,7 +71,7 @@ function keywordMatcher(words) {
 // Runs in the browser: returns the page's items (links with a readable label) and
 // its visible text, leaving out the header, navigation menus and footer.
 function extractPage(imageSelector) {
-  const GENERIC = /^(more|read more|baca lagi|selanjutnya|lihat|view|details?|download|muat turun|pdf|click here|klik di sini|here|>+|»|›)(\s*\(?[\d.,]+\s*[KMG]B\)?)?$/i;
+  const GENERIC = /^(more|read more|baca lagi|selanjutnya|lihat|view|details?|download|muat turun|pdf|click here|klik di sini|here|case report|>+|»|›)\s*[>»›]*(\s*\(?[\d.,]+\s*[KMG]B\)?)?$/i;
   const SKIP = 'header, nav, footer, [role=navigation], [role=banner], [role=contentinfo], script, style, noscript';
   const norm = s => (s || '').replace(/\s+/g, ' ').trim();
 
