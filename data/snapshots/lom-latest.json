@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-23T08:45:15.530Z",
+  "fetched_at": "2026-11-24T00:45:27.968Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov 17 Nov",
+          "label": "Today 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov 17 Nov",
+          "label": "Today 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov 17 Nov",
+          "label": "Today 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov 17 Nov",
+          "label": "Today 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov 17 Nov",
+          "label": "Today 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov 17 Nov",
+          "label": "Today 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov 17 Nov",
+          "label": "Today 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -131,15 +131,15 @@
       "lines": [
         "What's New",
         "Today",
+        "23 Nov",
         "22 Nov",
         "21 Nov",
         "20 Nov",
         "19 Nov",
         "18 Nov",
-        "17 Nov",
+        "There is no record to display",
         "P.U. (B)",
         "P.U. (B) 472/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF OCTOBER 2026",
-        "There is no record to display",
         "P.U. (B) 470/2026 - NOTIFICATION OF VALUE OF PALM KERNEL UNDER SECTION 12",
         "P.U. (B) 471/2026 - RESULTS OF CONTESTED ELECTION AND STATEMENTS OF THE POLL AFTER THE OFFICIAL ADDITION OF VOTES STATE CONSTITUENCIES FOR THE STATE OF MALACCA",
         "P.U. (B) 469/2026 - NOTICE UNDER SECTION 70",
@@ -162,8 +162,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 164 775",
-        "Act 854 716"
+        "Act 164 728",
+        "Act 854 622"
       ]
     }
   ]

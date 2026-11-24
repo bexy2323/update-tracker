@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-e-invoice",
   "url": "https://www.hasil.gov.my/en/e-invois/",
-  "fetched_at": "2026-11-23T08:40:36.825Z",
+  "fetched_at": "2026-11-24T00:40:33.939Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/e-invois/",
@@ -1824,6 +1824,21 @@
         {
           "label": "01032025_wb_utama_bm-01",
           "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "label": "Carousel 3 - Mohon e-Invois",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Carousel-3-Mohon-e-Invois.jpg",
+          "image": true
+        },
+        {
+          "label": "Carousel 2 - Mohon e-Invois",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Carousel-2-Mohon-e-Invois.jpg",
+          "image": true
+        },
+        {
+          "label": "Carousel 1 - Mohon e-Invois",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Carousel-1-Mohon-e-Invois.jpg",
           "image": true
         },
         {
