@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-e-invoice",
   "url": "https://www.hasil.gov.my/en/e-invois/",
-  "fetched_at": "2026-11-24T00:40:33.939Z",
+  "fetched_at": "2026-11-24T08:41:24.533Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/e-invois/",
@@ -837,6 +837,10 @@
           "href": "https://www.hasil.gov.my/en/e-invois/komunikasi-dan-hebahan/video-kesedaran-pendidikan-e-invois/"
         },
         {
+          "label": "MyInvois – ‘AKU PERCAYA’",
+          "href": "https://www.youtube.com/watch?v=JM-3XXWGcN8"
+        },
+        {
           "label": "MyInvois Dari Manual Ke Digital",
           "href": "https://www.youtube.com/watch?v=Ol3gGv9MA1w"
         },
@@ -980,6 +984,7 @@
         "Expand All",
         "Year 2026",
         "List of e-Invoice Awareness / Education Video 2026",
+        "MyInvois – ‘AKU PERCAYA’",
         "MyInvois Dari Manual Ke Digital",
         "e-Invois Mudahkan Bisnes PMKS",
         "Apa Kata Pengguna Tentang MyInvois e-POS – NoorFash Enterprise di Hulu Terengganu, Terengganu",

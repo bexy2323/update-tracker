@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-24T00:45:27.968Z",
+  "fetched_at": "2026-11-24T08:46:05.157Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -34,6 +34,10 @@
         {
           "label": "Today 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (B) 473/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF DEPUTY DIRECTORS GENERAL OF THE BOARD",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDczLzIwMjZ8YzlmZTc0YmI4Mzk1YmNkYTEyZjdlYmZiNjVmYzk5M2JkNTFhNmE2ZjQ4YmEwOTUwZTIxMmIyODQ2ZDkzZDY1Ng%3D%3D"
         },
         {
           "label": "P.U. (B) 472/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF OCTOBER 2026",
@@ -108,6 +112,10 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
+          "label": "APPOINTMENT AND REVOCATION OF APPOINTMENT OF DEPUTY DIRECTORS GENERAL OF THE BOARD",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDczLzIwMjZ8YWE5ODJlMWNmMmIzOGQ1ZWM5ZmViMzg5YmNiZThhOTZiYmEwOWI0OGQ4NmU3MWUxNTFjNWYwNzBmZTI2OTExMA%3D%3D"
+        },
+        {
           "label": "NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF OCTOBER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDcyLzIwMjZ8YzdjNDQ2ODgxMjdlMjNjMDkyMzIwZTQzYzI5OGNlZDZiYTU4ZjIzNDEzNWYxNzUxYzY1MjEwOTNhNDkzMmI1NA%3D%3D"
         },
@@ -116,11 +124,7 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDcxLzIwMjZ8MWYyNzZkMmVkMmQzMDI1MDhkODYxNTRlMTYxYzcxYjkwNDhmNTYwY2RhODQ0YTQxMzFiOGMzNzYxNTMzY2RkNw%3D%3D"
         },
         {
-          "label": "NOTIFICATION OF VALUE OF PALM KERNEL UNDER SECTION 12",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDcwLzIwMjZ8MmRkODAyYWU3NjFmYTBlYjhjOGFjNDEwMTMxZGM2OTA0MGVmZWIyZTBmODRkZDg1YWUzYmQ0ZDE4ZTNmZTMwYw%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 472/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF OCTOBER 2026 P.U. (B) 471/2026 - RESULTS OF CONTESTED ELECTION AND STATEMENTS OF THE POLL AFTER THE OFFICIAL ADDITION OF VOTES STATE CONSTITUENCIES FOR THE STATE OF MALACCA P.U. (B) 470/2026 - NOTIFICATION OF VALUE OF PALM KERNEL UNDER SECTION 12 See All...",
+          "label": "See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -137,9 +141,10 @@
         "20 Nov",
         "19 Nov",
         "18 Nov",
-        "There is no record to display",
         "P.U. (B)",
+        "P.U. (B) 473/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF DEPUTY DIRECTORS GENERAL OF THE BOARD",
         "P.U. (B) 472/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF OCTOBER 2026",
+        "There is no record to display",
         "P.U. (B) 470/2026 - NOTIFICATION OF VALUE OF PALM KERNEL UNDER SECTION 12",
         "P.U. (B) 471/2026 - RESULTS OF CONTESTED ELECTION AND STATEMENTS OF THE POLL AFTER THE OFFICIAL ADDITION OF VOTES STATE CONSTITUENCIES FOR THE STATE OF MALACCA",
         "P.U. (B) 469/2026 - NOTICE UNDER SECTION 70",
@@ -162,8 +167,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 164 728",
-        "Act 854 622"
+        "Act 164 830",
+        "Act 854 713"
       ]
     }
   ]

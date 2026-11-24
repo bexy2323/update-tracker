@@ -1,7 +1,7 @@
 {
   "check_id": "mida-announcements",
   "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/",
-  "fetched_at": "2026-11-24T00:49:16.123Z",
+  "fetched_at": "2026-11-24T08:50:35.734Z",
   "pages": [
     {
       "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/",
@@ -36,8 +36,8 @@
           "href": "https://www.mida.gov.my/media-and-events/"
         },
         {
-          "label": "17 Nov 2026 Malaysia Records RM350.4 Billion In Approved Investments In The First Nine Months Of 2026, Up 20.7% Read More",
-          "href": "https://www.mida.gov.my/media-release/malaysia-records-rm350-4-billion-in-approved-investments-in-the-first-nine-months-of-2026-up-20-7/"
+          "label": "24 Nov 2026 IMPORTANT NOTICE: TEMPORARY CLOSURE OF JIM MIDA COUNTER Read More",
+          "href": "https://www.mida.gov.my/media-release/important-notice-temporary-closure-of-jim-mida-counter/"
         },
         {
           "label": "Read More",
@@ -54,6 +54,14 @@
         {
           "label": "Read More",
           "href": "https://www.mida.gov.my/#whatsapp"
+        },
+        {
+          "label": "24 Nov 2026 IMPORTANT NOTICE: TEMPORARY CLOSURE OF MIDA EXPATRIATE SYSTEM (MES) Read More",
+          "href": "https://www.mida.gov.my/media-release/important-notice-temporary-closure-of-mida-expatriate-system-mes/"
+        },
+        {
+          "label": "17 Nov 2026 Malaysia Records RM350.4 Billion In Approved Investments In The First Nine Months Of 2026, Up 20.7% Read More",
+          "href": "https://www.mida.gov.my/media-release/malaysia-records-rm350-4-billion-in-approved-investments-in-the-first-nine-months-of-2026-up-20-7/"
         },
         {
           "label": "12 Nov 2026 Eppendorf Breaks Ground On New Production Site In Penang, Malaysia Read More",
@@ -2901,9 +2909,12 @@
         "September",
         "Apply filter",
         "Announcement/Media Release",
+        "24 Nov 2026",
+        "IMPORTANT NOTICE: TEMPORARY CLOSURE OF JIM MIDA COUNTER",
+        "Read More",
+        "IMPORTANT NOTICE: TEMPORARY CLOSURE OF MIDA EXPATRIATE SYSTEM (MES)",
         "17 Nov 2026",
         "Malaysia Records RM350.4 Billion In Approved Investments In The First Nine Months Of 2026, Up 20.7%",
-        "Read More",
         "12 Nov 2026",
         "Eppendorf Breaks Ground On New Production Site In Penang, Malaysia",
         "05 Nov 2026",

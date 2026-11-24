@@ -1,0 +1,26 @@
+[
+  {
+    "source": "HASiL (Inland Revenue Board)",
+    "section": "Forms > Download Forms (years listed per form category)",
+    "title": "Form CP55 (authority to file return electronically): tax agent appointment now online via MyTax only",
+    "publication_date": "Not stated (change first seen on HASiL Download Forms 24/11/2026)",
+    "change_type": "amendment",
+    "summary": "HASiL changed the note on Form CP55 [1/2026] (Authority to File Return Electronically - Declaration by Taxpayer). The form is now 'for reference purposes only' and the appointment of a tax agent must be made online via MyTax; HASiL links a general guide to appointing and authorising a tax agent for e-filing (Malay only). Previously the page said the form could be downloaded and submitted to HASiL. The form file itself is unchanged.",
+    "replaces": "Earlier instruction on the same page: Form CP55 [1/2026] 'can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia'",
+    "replaces_link": "Not applicable: the form file (Form_CP55_amend.2026.pdf) is unchanged; only the instruction on HASiL's Download Forms page changed",
+    "link": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-lain-lain-borang/",
+    "tax_a_minute": false
+  },
+  {
+    "source": "HASiL (Inland Revenue Board)",
+    "section": "Home > Kenyataan Media & Pengumuman (Media Statements & Announcements)",
+    "title": "HASiL media release: tax refunds, e-Invoice figures, and Stamp Duty Self-Assessment Phase 2 from 1 January 2027",
+    "publication_date": "23/11/2026",
+    "change_type": "new",
+    "summary": "From HASiL's engagement session with chambers of commerce (Malay only). Phase 2 of the Stamp Duty Self-Assessment System (STSDS) starts on 1 January 2027, and there is no penalty throughout 2026 for submitting inaccurate stamp duty return forms (BNDS) under STSDS. The Stamp Duty Special Voluntary Disclosure Programme (PKPS), extended to 31 December 2026, had over 1.05 million applications with RM184 million of penalties fully remitted by 31/10/2026. Other figures: RM20.271 billion of tax refunds to 3.65 million cases by 31/10/2026, and 2.25 billion e-Invoices from over 270,000 taxpayers by 23/11/2026.",
+    "replaces": "",
+    "replaces_link": "",
+    "link": "https://www.hasil.gov.my/wp-content/uploads/20261123-Kenyataan-Media-HASiL-23-November-2026_SESI-LIBAT-URUS-HASiL-X-DEWAN-PERNIAGAAN.pdf",
+    "tax_a_minute": false
+  }
+]
