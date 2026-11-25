@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-25T00:45:42.658Z",
+  "fetched_at": "2026-11-25T08:45:08.916Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -157,8 +157,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 164 734",
-        "Act 854 632"
+        "Act 164 856",
+        "Act 854 719"
       ]
     }
   ]
