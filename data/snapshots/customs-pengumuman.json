@@ -1,7 +1,7 @@
 {
   "check_id": "customs-pengumuman",
   "url": "https://customs.gov.my/ms/arkib/pengumuman",
-  "fetched_at": "2026-11-24T08:46:51.837Z",
+  "fetched_at": "2026-11-25T00:46:24.888Z",
   "pages": [
     {
       "url": "https://customs.gov.my/ms/arkib/pengumuman",
@@ -70,6 +70,10 @@
         {
           "label": "Tender & Sebut Harga",
           "href": "https://www.customs.gov.my/ms/arkib/tender-sebut-harga"
+        },
+        {
+          "label": "NOTIS KEPUTUSAN TAWARAN SEBUT HARGA BARANG LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI PERAK BIL. 4/2026 DAN BIL. 5/2026",
+          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tawaran-sebut-harga-barang-lucut-hak-kastam-jabatan-kastam-diraja-malaysia-negeri-perak-bil-4-2026-dan-bil-5-2026"
         },
         {
           "label": "NOTIS KEPUTUSAN SEBUT HARGA BARANG LUCUT HAK KASTAM (CABLE BRIDGE) BIL. 9/2026 DAN (PLYWOOD, STEEL PIPE & DENSIFIED WOOD) BIL. 10/2026, JABATAN KASTAM DIRAJA MALAYSIA WPKL",
@@ -146,10 +150,6 @@
         {
           "label": "KEPUTUSAN SEBUT HARGA SKRAP / TIDAK BOLEH DIDAFTAR KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI KELANTAN BIL. 1/2026",
           "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/keputusan-sebut-harga-skrap-tidak-boleh-didaftar-kenderaan-lucut-hak-jabatan-kastam-diraja-malaysia-negeri-kelantan-bil-1-2026"
-        },
-        {
-          "label": "NOTIS KEPUTUSAN TENDER BERSEPADU KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA BIL. 1/2026",
-          "href": "https://www.customs.gov.my/ms/arkib/pengumuman/pengumuman/notis-keputusan-tender-bersepadu-kenderaan-lucut-hak-jabatan-kastam-diraja-malaysia-bil-1-2026"
         },
         {
           "label": "Utama",
@@ -660,6 +660,7 @@
         "Papar #",
         "Semua",
         "TAJUK TARIKH TERBITAN BILANGAN KUNJUNGAN",
+        "NOTIS KEPUTUSAN TAWARAN SEBUT HARGA BARANG LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI PERAK BIL. 4/2026 DAN BIL. 5/2026",
         "NOTIS KEPUTUSAN SEBUT HARGA BARANG LUCUT HAK KASTAM (CABLE BRIDGE) BIL. 9/2026 DAN (PLYWOOD, STEEL PIPE & DENSIFIED WOOD) BIL. 10/2026, JABATAN KASTAM DIRAJA MALAYSIA WPKL",
         "NOTIS KEPUTUSAN TENDER BERSEPADU KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA BIL. 3/2026",
         "NOTIS KEPUTUSAN JUALAN SKRAP KENDERAAN & TIDAK BOLEH DIDAFTARKAN JABATAN KASTAM DIRAJA MALAYSIA NEGERI JOHOR BIL.3/2026",
@@ -679,8 +680,7 @@
         "NOTIS KEPUTUSAN TAWARAN SEBUTHARGA PELUPUSAN BARANG LUCUTHAK KASTAM DIRAJA MALAYSIA SELANGOR BIL. 13/2026 HINGGA BIL. 19/2026",
         "NOTIS KEPUTUSAN TENDER SARANG BURUNG JABATAN KASTAM DIRAJA MALAYSIA LTA KUALA LUMPUR BIL.3/202",
         "KEPUTUSAN SEBUT HARGA SKRAP / TIDAK BOLEH DIDAFTAR KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA NEGERI KELANTAN BIL. 1/2026",
-        "NOTIS KEPUTUSAN TENDER BERSEPADU KENDERAAN LUCUT HAK JABATAN KASTAM DIRAJA MALAYSIA BIL. 1/2026",
-        "Laman 1 daripada 8"
+        "Laman 1 daripada 9"
       ]
     }
   ]

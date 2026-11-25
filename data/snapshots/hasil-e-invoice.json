@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-e-invoice",
   "url": "https://www.hasil.gov.my/en/e-invois/",
-  "fetched_at": "2026-11-24T08:41:24.533Z",
+  "fetched_at": "2026-11-25T00:41:06.222Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/e-invois/",
@@ -1829,6 +1829,11 @@
         {
           "label": "01032025_wb_utama_bm-01",
           "href": "https://www.hasil.gov.my/wp-content/uploads/1_EN-scaled.jpg",
+          "image": true
+        },
+        {
+          "label": "Info e-Invois - Mohon e-Invois Untuk Mudahkan Simpan Rekod Secara Digital",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Info-e-Invois-Mohon-e-Invois-Untuk-Mudahkan-Simpan-Rekod-Secara-Digital-BM.jpg",
           "image": true
         },
         {
