@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-25T08:45:08.916Z",
+  "fetched_at": "2026-11-26T00:45:26.912Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov",
+          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov",
+          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov",
+          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov",
+          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov",
+          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov",
+          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov",
+          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -50,10 +50,6 @@
         {
           "label": "P.U. (B) 471/2026 - RESULTS OF CONTESTED ELECTION AND STATEMENTS OF THE POLL AFTER THE OFFICIAL ADDITION OF VOTES STATE CONSTITUENCIES FOR THE STATE OF MALACCA",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDcxLzIwMjZ8OTRhNjJhMDhkYzdhYThiNTk1ZTRlZTMyNDI3ZTczN2M5NTkyODY2YWVkZmRiZWI1NmMyM2VkYjIwMTQ5YWQ3Mg%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 469/2026 - NOTICE UNDER SECTION 70",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDY5LzIwMjZ8YTZkY2FkMzc5MDM3ZDQwOGFkYmYyYjUyYzdlZjE2NTI0ZjI5MjkyNmY5ODMxMjI1YmQ4NzYyYzQ1YzU5ZDJjYQ%3D%3D"
         },
         {
           "label": "STATISTICS ACT 2026",
@@ -127,19 +123,18 @@
       "lines": [
         "What's New",
         "Today",
+        "25 Nov",
         "24 Nov",
         "23 Nov",
         "22 Nov",
         "21 Nov",
         "20 Nov",
-        "19 Nov",
         "There is no record to display",
         "P.U. (B)",
         "P.U. (B) 473/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF DEPUTY DIRECTORS GENERAL OF THE BOARD",
         "P.U. (B) 472/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF OCTOBER 2026",
         "P.U. (B) 470/2026 - NOTIFICATION OF VALUE OF PALM KERNEL UNDER SECTION 12",
         "P.U. (B) 471/2026 - RESULTS OF CONTESTED ELECTION AND STATEMENTS OF THE POLL AFTER THE OFFICIAL ADDITION OF VOTES STATE CONSTITUENCIES FOR THE STATE OF MALACCA",
-        "P.U. (B) 469/2026 - NOTICE UNDER SECTION 70",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -157,8 +152,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 164 856",
-        "Act 854 719"
+        "Act 164 766",
+        "Act 854 613"
       ]
     }
   ]
