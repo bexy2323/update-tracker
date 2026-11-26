@@ -1,7 +1,7 @@
 {
   "check_id": "customs-berita-media",
   "url": "https://customs.gov.my/ms/arkib/liputan-media",
-  "fetched_at": "2026-11-26T00:46:17.194Z",
+  "fetched_at": "2026-11-26T08:46:07.637Z",
   "pages": [
     {
       "url": "https://customs.gov.my/ms/arkib/liputan-media",
@@ -72,6 +72,18 @@
           "href": "https://www.customs.gov.my/ms/arkib/tender-sebut-harga"
         },
         {
+          "label": "𝐌𝐄𝐌𝐏𝐄𝐑𝐊𝐔𝐊𝐔𝐇 𝐉𝐀𝐋𝐈𝐍𝐀𝐍, 𝐌𝐄𝐌𝐏𝐄𝐑𝐊𝐀𝐒𝐀 𝐊𝐄𝐑𝐉𝐀𝐒𝐀𝐌𝐀! - 𝐌𝐄𝐒𝐘𝐔𝐀𝐑𝐀𝐓 𝐁𝐈𝐋𝐀𝐓𝐄𝐑𝐀𝐋 𝐊𝐄-𝟐𝟐 𝐉𝐊𝐃𝐌 – 𝐃𝐉𝐁𝐂 𝐈𝐍𝐃𝐎𝐍𝐄𝐒𝐈𝐀",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/memperkukuh-jalinan-memperkasa-kerjasama-mesyuarat-bilateral-ke-22-jkdm-djbc-indonesia"
+        },
+        {
+          "label": "MEMPERKUKUH JALINAN, MEMPERKASA KERJASAMA - MESYUARAT BILATERAL KE-22 JKDM - DJBC INDONESIA",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/memperkukuh-jalinan-memperkasa-kerjasama-mesyuarat-bilateral-ke-22-jkdm-djbc-indonesia-2"
+        },
+        {
+          "label": "NAZIRAN PTS BAHAGIAN CDN: STRATEGI MANTAP, PELAKSANAAN TELITI",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/naziran-pts-bahagian-cdn-strategi-mantap-pelaksanaan-teliti"
+        },
+        {
           "label": "MENYOROTI KESIAPSIAGAAN OPERASI SEMPADAN I KETUA PENGARAH KASTAM TINJAU PROJEK RTS LINK JOHOR BAHRU – SINGAPURA",
           "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/menyoroti-kesiapsiagaan-operasi-sempadan-i-ketua-pengarah-kastam-tinjau-projek-rts-link-johor-bahru-singapura"
         },
@@ -138,18 +150,6 @@
         {
           "label": "MAJLIS SEMBAH MENGHADAP KETUA PENGARAH KASTAM KE HADAPAN YANG MAHA MULIA (YMM) TENGKU MAHKOTA KELANTAN",
           "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/majlis-sembah-menghadap-ketua-pengarah-kastam-ke-hadapan-yang-maha-mulia-ymm-tengku-mahkota-kelantan"
-        },
-        {
-          "label": "KETUA PENGARAH KASTAM MENGETUAI DELEGASI JKDM KE 35TH ASEAN DIRECTORS-GENERAL OF CUSTOMS MEETING DI KEMBOJA",
-          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/ketua-pengarah-kastam-mengetuai-delegasi-jkdm-ke-35th-asean-directors-general-of-customs-meeting-di-kemboja"
-        },
-        {
-          "label": "JABATAN KASTAM DIRAJA MALAYSIA (JKDM) PERKUKUH KERJASAMA STRATEGIK BERSAMA INDUSTRI PETROLEUM DAN GAS",
-          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/jkdm-perkukuh-kerjasama-strategik-bersama-industri-petroleum-dan-gas"
-        },
-        {
-          "label": "KUNJUNGAN HORMAT DUTA TURKMENISTAN KE ATAS KETUA PENGARAH KASTAM MALAYSIA",
-          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/kunjungan-hormat-duta-turkmenistan-ke-atas-ketua-pengarah-kastam-malaysia"
         },
         {
           "label": "Utama",
@@ -660,6 +660,9 @@
         "Papar #",
         "Semua",
         "TAJUK TARIKH TERBITAN BILANGAN KUNJUNGAN",
+        "𝐌𝐄𝐌𝐏𝐄𝐑𝐊𝐔𝐊𝐔𝐇 𝐉𝐀𝐋𝐈𝐍𝐀𝐍, 𝐌𝐄𝐌𝐏𝐄𝐑𝐊𝐀𝐒𝐀 𝐊𝐄𝐑𝐉𝐀𝐒𝐀𝐌𝐀! - 𝐌𝐄𝐒𝐘𝐔𝐀𝐑𝐀𝐓 𝐁𝐈𝐋𝐀𝐓𝐄𝐑𝐀𝐋 𝐊𝐄-𝟐𝟐 𝐉𝐊𝐃𝐌 – 𝐃𝐉𝐁𝐂 𝐈𝐍𝐃𝐎𝐍𝐄𝐒𝐈𝐀",
+        "MEMPERKUKUH JALINAN, MEMPERKASA KERJASAMA - MESYUARAT BILATERAL KE-22 JKDM - DJBC INDONESIA",
+        "NAZIRAN PTS BAHAGIAN CDN: STRATEGI MANTAP, PELAKSANAAN TELITI",
         "MENYOROTI KESIAPSIAGAAN OPERASI SEMPADAN I KETUA PENGARAH KASTAM TINJAU PROJEK RTS LINK JOHOR BAHRU – SINGAPURA",
         "SAMBUTAN HARI INTEGRITI JKDM 2026: “INTEGRITI KITA, NILAI KITA”",
         "THE 30TH JOINT CUSTOMS COMMITTEE (JCC) MEETING FOR THE JOINT DEVELOPMENT AREA (JDA)",
@@ -677,9 +680,6 @@
         "KUNJUNGAN HORMAT PESURUHJAYA TINGGI KANADA KE MALAYSIA DAN CANADA BORDER SERVICES AGENCY (CBSA) KEPADA KETUA PENGARAH KASTAM",
         "JKDM IBU PEJABAT TUMPASKAN SINDIKET PENGEDARAN DADAH ANTARABANGSA MELIBATKAN RAMPASAN 4.83 TAN DADAH BERNILAI RM300.72 JUTA",
         "MAJLIS SEMBAH MENGHADAP KETUA PENGARAH KASTAM KE HADAPAN YANG MAHA MULIA (YMM) TENGKU MAHKOTA KELANTAN",
-        "KETUA PENGARAH KASTAM MENGETUAI DELEGASI JKDM KE 35TH ASEAN DIRECTORS-GENERAL OF CUSTOMS MEETING DI KEMBOJA",
-        "JABATAN KASTAM DIRAJA MALAYSIA (JKDM) PERKUKUH KERJASAMA STRATEGIK BERSAMA INDUSTRI PETROLEUM DAN GAS",
-        "KUNJUNGAN HORMAT DUTA TURKMENISTAN KE ATAS KETUA PENGARAH KASTAM MALAYSIA",
         "Laman 1 daripada 5"
       ]
     }

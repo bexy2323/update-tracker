@@ -1,12 +1,16 @@
 {
   "check_id": "rds-tax-focus",
   "url": "https://www.rdslawpartners.com/publications/categories/tax-focus",
-  "fetched_at": "2026-11-26T00:48:01.668Z",
+  "fetched_at": "2026-11-26T08:48:19.888Z",
   "pages": [
     {
       "url": "https://www.rdslawpartners.com/publications/categories/tax-focus",
       "title": "Tax Focus",
       "items": [
+        {
+          "label": "Court Of Appeal Rejects Revenue’s Bid To Revive Dissolved Company Over Alleged Understatement Of Income Of Nearly RM 300 Million",
+          "href": "https://www.rdslawpartners.com/post/court-of-appeal-rejects-revenue-s-bid-to-revive-dissolved-company-over-alleged-understatement-of-inc"
+        },
         {
           "label": "Court Of Appeal Allows Tax Deduction For Subordinated Bond Profit And Interest Payments",
           "href": "https://www.rdslawpartners.com/post/court-of-appeal-allows-tax-deduction-for-subordinated-bond-profit-and-interest-payments"
@@ -38,15 +42,13 @@
         {
           "label": "Stamp Duty On Employment Documents: What Employers Need To Know In 2026",
           "href": "https://www.rdslawpartners.com/post/stamp-duty-on-employment-documents-what-employers-need-to-know-in-2026"
-        },
-        {
-          "label": "Stamp Duty & Its Impact On Key Business Documents:Employment Letters, Purchase Orders, Intercompany Loans & Supplementary Agreements",
-          "href": "https://www.rdslawpartners.com/post/stamp-duty-its-impact-on-key-business-documents-employment-letters-purchase-orders-intercompany"
         }
       ],
       "lines": [
         "Skip to Main Content",
         "Publications & News",
+        "Court Of Appeal Rejects Revenue’s Bid To Revive Dissolved Company Over Alleged Understatement Of Income Of Nearly RM 300 Million",
+        "In a significant decision concerning the intersection of tax administration and corporate insolvency law, last Monday, the Court of Appeal in Ketua Pengarah Hasil Dalam Negeri v Suruhanjaya Syarikat Malaysia & Mahabuilders Sdn Bhd & Ors, dismissed an appeal by the Director General of Inland Revenue (DGIR) seeking to revive a dissolved company for the purpose of pursuing additional tax assessments. This decision provides important guidance on the extent to which the DGIR may",
         "Court Of Appeal Allows Tax Deduction For Subordinated Bond Profit And Interest Payments",
         "The Court of Appeal recently delivered its decisions in EFTB v Ketua Pengarah Hasil Dalam Negeri and EGIB v Ketua Pengarah Hasil Dalam Negeri, concerning the tax deductibility of payments incurred on Tier 2 Capital Subordinated Bonds. The EFTB Appeal concerned profit payments incurred by a takaful operator. Meanwhile, the EGIB Appeal concerned interest payments incurred by an insurance company. The court allowed the appeal, holding that Sections 60 and 60AA of the Income Ta",
         "SCIT Allows Tax Deduction Of Intercompany Back-Charges Under Centralised Management Arrangements",
@@ -62,9 +64,7 @@
         "RDS Legal Insight Vol.23/Q3/2026 - 2",
         "RDS Partnership is pleased to publish RDS Legal Insight Q3 of 2026. This quarterly magazine features the following articles by our colleagues 2) When Is a Drink Not a Beverage? High Court Rules on Yakult’s Tariff Classification by S. Saravana Kumar, Amira Azhar & Rita Soong",
         "Stamp Duty On Employment Documents: What Employers Need To Know In 2026",
-        "Stamp duty on employment contracts has moved from a largely overlooked administrative requirement to an increasingly important compliance issue for Malaysian employers. Recent developments have provided greater clarity on the treatment of employment contracts, including which documents require stamping, the position for contracts executed in different periods, and the treatment of subsequent documents such as promotion, transfer and bonus letters. For businesses with larg",
-        "Stamp Duty & Its Impact On Key Business Documents:Employment Letters, Purchase Orders, Intercompany Loans & Supplementary Agreements",
-        "“For stamp duty purposes, the label placed on a document is rarely decisive. What matters is what the instrument actually does, the rights and obligations it creates, and the transaction it records.” Stamp duty is often treated as a back-office compliance issue. In practice, it is becoming a much broader governance concern. This is especially so as businesses generate large volumes of documents across procurement, treasury, human resources and commercial functions. Employme"
+        "Stamp duty on employment contracts has moved from a largely overlooked administrative requirement to an increasingly important compliance issue for Malaysian employers. Recent developments have provided greater clarity on the treatment of employment contracts, including which documents require stamping, the position for contracts executed in different periods, and the treatment of subsequent documents such as promotion, transfer and bonus letters. For businesses with larg"
       ]
     }
   ]

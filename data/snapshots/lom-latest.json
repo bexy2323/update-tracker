@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-26T00:45:26.912Z",
+  "fetched_at": "2026-11-26T08:45:11.873Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -34,6 +34,14 @@
         {
           "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
+        },
+        {
+          "label": "P.U. (B) 474/2026 - NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDc0LzIwMjZ8NzgyM2FmNzYyM2JjMWM3YWMzZTdhMzViNGRmZDFhMDQ5M2QzNDc1YTM0N2M3YjlhNThiZGEwMDJlMzk2NmQ5NA%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 475/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDc1LzIwMjZ8YmM5MzhkZjg2ZDZkZDliMTE2ZTYzZDZlYTQ0YzlkMTgyMWFkYTNjM2Y0ZTNkYWEyNmY4YTQwM2VjOWVhNDNlOQ%3D%3D"
         },
         {
           "label": "P.U. (B) 473/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF DEPUTY DIRECTORS GENERAL OF THE BOARD",
@@ -100,19 +108,19 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
+          "label": "NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDc1LzIwMjZ8YTg3MWYyMjRhNzRkOTRhMmVjMTMzNjY4ZWIzZTgwZjg1YmJlYzk4OTFkYWY1YTJhNGIyOTRhZjhmMmY0MWY2NQ%3D%3D"
+        },
+        {
+          "label": "NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDc0LzIwMjZ8NjcyYjkyNTNlMzk0ZGI5MTUyMDZmNzBmNDk0ZDZmZGU3MTFjNDRkYzdiYWEwZDhjYmFlMGEzZWEwZDUxYmM2Mg%3D%3D"
+        },
+        {
           "label": "APPOINTMENT AND REVOCATION OF APPOINTMENT OF DEPUTY DIRECTORS GENERAL OF THE BOARD",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDczLzIwMjZ8YWE5ODJlMWNmMmIzOGQ1ZWM5ZmViMzg5YmNiZThhOTZiYmEwOWI0OGQ4NmU3MWUxNTFjNWYwNzBmZTI2OTExMA%3D%3D"
         },
         {
-          "label": "NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF OCTOBER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDcyLzIwMjZ8YzdjNDQ2ODgxMjdlMjNjMDkyMzIwZTQzYzI5OGNlZDZiYTU4ZjIzNDEzNWYxNzUxYzY1MjEwOTNhNDkzMmI1NA%3D%3D"
-        },
-        {
-          "label": "RESULTS OF CONTESTED ELECTION AND STATEMENTS OF THE POLL AFTER THE OFFICIAL ADDITION OF VOTES STATE CONSTITUENCIES FOR THE STATE OF MALACCA",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDcxLzIwMjZ8MWYyNzZkMmVkMmQzMDI1MDhkODYxNTRlMTYxYzcxYjkwNDhmNTYwY2RhODQ0YTQxMzFiOGMzNzYxNTMzY2RkNw%3D%3D"
-        },
-        {
-          "label": "See All...",
+          "label": "P.U. (B) 475/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12 P.U. (B) 474/2026 - NOTICE TO THIRD PARTIES P.U. (B) 473/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF DEPUTY DIRECTORS GENERAL OF THE BOARD See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -129,8 +137,10 @@
         "22 Nov",
         "21 Nov",
         "20 Nov",
-        "There is no record to display",
         "P.U. (B)",
+        "P.U. (B) 474/2026 - NOTICE TO THIRD PARTIES",
+        "P.U. (B) 475/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
+        "There is no record to display",
         "P.U. (B) 473/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF DEPUTY DIRECTORS GENERAL OF THE BOARD",
         "P.U. (B) 472/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF OCTOBER 2026",
         "P.U. (B) 470/2026 - NOTIFICATION OF VALUE OF PALM KERNEL UNDER SECTION 12",
@@ -152,8 +162,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 164 766",
-        "Act 854 613"
+        "Act 164 816",
+        "Act 854 682"
       ]
     }
   ]

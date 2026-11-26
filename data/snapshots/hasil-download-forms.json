@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-download-forms",
   "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
-  "fetched_at": "2026-11-26T00:44:18.406Z",
+  "fetched_at": "2026-11-26T08:44:25.597Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
@@ -455,8 +455,8 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_CP58_Pin_012022_1.pdf"
         },
         {
-          "label": "| Notification of The Demise of Taxpayer Form CP57 (223.71 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_CP57_1.pdf"
+          "label": "| Notification of The Demise of Taxpayer Form CP57 (250.99 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Brg_CP57_Pin-1_2026-1.pdf"
         },
         {
           "label": "| Notification of New Employee e-CP22 TFrom 1 September 2024, notification of new employee is mandatory to be submitted online through MyTax portal using e-CP22 application. Tax agents are required to submit e-CP22 through TAef 2.0 via https://mytax.hasil.gov.my/ Sample Form CP22 [Pin.1/2021] (171.48 KB)",
@@ -635,7 +635,7 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/CKHT-15K.pdf"
         },
         {
-          "label": "| Application Form of Tax Clearance Letter for Dissolution by Strike Off e-SPC (314.79 KB) Applications for Tax Clearance Letter (TCL) for company must be submitted online via the e-SPC application in MyTax. Sample of Form CP7 : Form CP7 (155.28 KB) Appendix 3A (128.43 KB)",
+          "label": "| Application Form of Tax Clearance Letter for Dissolution by Strike Off e-SPC (314.79 KB) Applications for Tax Clearance Letter (TCL) for company must be submitted online via the e-SPC application in MyTax. Sample of Form CP7: Form CP7 (155.28 KB) Appendix 3A (128.43 KB)",
           "href": "https://www.hasil.gov.my/wp-content/uploads/cp7_syarikat_2.pdf"
         },
         {
@@ -643,7 +643,7 @@
           "href": "https://mytax.hasil.gov.my/"
         },
         {
-          "label": "| Application form of Tax Clearance Letter for Limited Liability Partnership e-SPC Applications for Tax Clearance Letter (TCL) for limited liability partnership must be submitted online via the e-SPC application in MyTax. Sample of Form CP7(PT): Form CP7(PT) (124.16 KB) Appendix 3B (63.20 KB)",
+          "label": "| Application form of Tax Clearance Letter for Limited Liability Partnership CP7(PT) Applications for Tax Clearance Letter (TCL) must be submitted online via e-SPC in MyTax. As the e-SPC facility for tax agents to submit Form CP7(PT) is currently unavailable, the application must be submitted manually by the tax agent. Please refer Operational Guidelines for Applications for Tax Clearance Letters ",
           "href": "https://mytax.hasil.gov.my/"
         },
         {

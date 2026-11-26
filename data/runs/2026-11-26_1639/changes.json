@@ -1,0 +1,250 @@
+{
+  "run_id": "2026-11-26_1639",
+  "started_at": "2026-11-26T08:39:19.949Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (years listed per form category)",
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-lain-lain-borang/",
+          "label": "| Notification of The Demise of Taxpayer Form CP57 (250.99 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Brg_CP57_Pin-1_2026-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-lain-lain-borang/",
+          "label": "| Application form of Tax Clearance Letter for Limited Liability Partnership CP7(PT) Applications for Tax Clearance Letter (TCL) must be submitted online via e-SPC in MyTax. As the e-SPC facility for tax agents to submit Form CP7(PT) is currently unavailable, the application must be submitted manually by the tax agent. Please refer Operational Guidelines for Applications for Tax Clearance Letters ",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-lain-lain-borang/",
+          "label": "| Notification of The Demise of Taxpayer Form CP57 (223.71 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_CP57_1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-lain-lain-borang/",
+          "label": "| Application form of Tax Clearance Letter for Limited Liability Partnership e-SPC Applications for Tax Clearance Letter (TCL) for limited liability partnership must be submitted online via the e-SPC application in MyTax. Sample of Form CP7(PT): Form CP7(PT) (124.16 KB) Appendix 3B (63.20 KB)",
+          "href": "https://mytax.hasil.gov.my/"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-berita-media",
+      "section": "Berita dan Media (News and Media)",
+      "url": "https://customs.gov.my/ms/arkib/liputan-media",
+      "new_items": [
+        {
+          "page": "https://customs.gov.my/ms/arkib/liputan-media",
+          "label": "𝐌𝐄𝐌𝐏𝐄𝐑𝐊𝐔𝐊𝐔𝐇 𝐉𝐀𝐋𝐈𝐍𝐀𝐍, 𝐌𝐄𝐌𝐏𝐄𝐑𝐊𝐀𝐒𝐀 𝐊𝐄𝐑𝐉𝐀𝐒𝐀𝐌𝐀! - 𝐌𝐄𝐒𝐘𝐔𝐀𝐑𝐀𝐓 𝐁𝐈𝐋𝐀𝐓𝐄𝐑𝐀𝐋 𝐊𝐄-𝟐𝟐 𝐉𝐊𝐃𝐌 – 𝐃𝐉𝐁𝐂 𝐈𝐍𝐃𝐎𝐍𝐄𝐒𝐈𝐀",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/memperkukuh-jalinan-memperkasa-kerjasama-mesyuarat-bilateral-ke-22-jkdm-djbc-indonesia"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/liputan-media",
+          "label": "MEMPERKUKUH JALINAN, MEMPERKASA KERJASAMA - MESYUARAT BILATERAL KE-22 JKDM - DJBC INDONESIA",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/memperkukuh-jalinan-memperkasa-kerjasama-mesyuarat-bilateral-ke-22-jkdm-djbc-indonesia-2"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/liputan-media",
+          "label": "NAZIRAN PTS BAHAGIAN CDN: STRATEGI MANTAP, PELAKSANAAN TELITI",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/naziran-pts-bahagian-cdn-strategi-mantap-pelaksanaan-teliti"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://customs.gov.my/ms/arkib/liputan-media",
+          "label": "KETUA PENGARAH KASTAM MENGETUAI DELEGASI JKDM KE 35TH ASEAN DIRECTORS-GENERAL OF CUSTOMS MEETING DI KEMBOJA",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/ketua-pengarah-kastam-mengetuai-delegasi-jkdm-ke-35th-asean-directors-general-of-customs-meeting-di-kemboja"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/liputan-media",
+          "label": "JABATAN KASTAM DIRAJA MALAYSIA (JKDM) PERKUKUH KERJASAMA STRATEGIK BERSAMA INDUSTRI PETROLEUM DAN GAS",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/jkdm-perkukuh-kerjasama-strategik-bersama-industri-petroleum-dan-gas"
+        },
+        {
+          "page": "https://customs.gov.my/ms/arkib/liputan-media",
+          "label": "KUNJUNGAN HORMAT DUTA TURKMENISTAN KE ATAS KETUA PENGARAH KASTAM MALAYSIA",
+          "href": "https://www.customs.gov.my/ms/arkib/liputan-media/liputan-media/kunjungan-hormat-duta-turkmenistan-ke-atas-ketua-pengarah-kastam-malaysia"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Rosli Dahlan Saravana Partnership (RDS) - Tax Focus",
+      "check_id": "rds-tax-focus",
+      "section": "Tax Focus publications (for the monthly update class)",
+      "url": "https://www.rdslawpartners.com/publications/categories/tax-focus",
+      "new_items": [
+        {
+          "page": "https://www.rdslawpartners.com/publications/categories/tax-focus",
+          "label": "Court Of Appeal Rejects Revenue’s Bid To Revive Dissolved Company Over Alleged Understatement Of Income Of Nearly RM 300 Million",
+          "href": "https://www.rdslawpartners.com/post/court-of-appeal-rejects-revenue-s-bid-to-revive-dissolved-company-over-alleged-understatement-of-inc"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.rdslawpartners.com/publications/categories/tax-focus",
+          "label": "Stamp Duty & Its Impact On Key Business Documents:Employment Letters, Purchase Orders, Intercompany Loans & Supplementary Agreements",
+          "href": "https://www.rdslawpartners.com/post/stamp-duty-its-impact-on-key-business-documents-employment-letters-purchase-orders-intercompany"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-announcements-media",
+      "section": "Home > Kenyataan Media & Pengumuman (Media Statements & Announcements)",
+      "url": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invois/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-myinvois-epos",
+      "section": "Pautan Popular > MyInvois e-POS",
+      "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-return-form-filing-programme",
+      "section": "Forms > Return Form Filing Programme",
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/perundangan/akta/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-transfer-pricing",
+      "section": "Transfer Pricing",
+      "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/"
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-latest",
+      "section": "Principal Act / List of P.U. (A) / Finance Bill (latest legislation feed, tax-relevant only)",
+      "url": "https://lom.agc.gov.my/index.php"
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-latest-announcements",
+      "section": "Pengumuman Terkini (Latest Announcements)",
+      "url": "https://mysst.customs.gov.my/"
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-announcements",
+      "section": "All announcements",
+      "url": "https://mysst.customs.gov.my/announcements/"
+    },
+    {
+      "source": "Ministry of Finance",
+      "check_id": "mof-news",
+      "section": "News (tax-relevant only)",
+      "url": "https://www.mof.gov.my/portal/en/news"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-pengumuman",
+      "section": "Pengumuman (Announcements)",
+      "url": "https://customs.gov.my/ms/arkib/pengumuman"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-dt",
+      "section": "Technical News > Direct Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-it",
+      "section": "Technical News > Indirect Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-indirect-taxation-tc-it/"
+    },
+    {
+      "source": "MySToDS (Service Tax on Digital Services)",
+      "check_id": "mystods-bulletin",
+      "section": "Bulletin Board",
+      "url": "https://mystods.customs.gov.my/"
+    },
+    {
+      "source": "MDEC - National e-Invoicing",
+      "check_id": "mdec-einvoicing",
+      "section": "New Updates (Peppol-Ready Solution)",
+      "url": "https://mdec.my/national-einvoicing"
+    },
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "url": "https://mytax.hasil.gov.my/"
+    },
+    {
+      "source": "MIDA - Announcements & Media Releases",
+      "check_id": "mida-announcements",
+      "section": "Announcements & media releases (tax-relevant only)",
+      "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/"
+    }
+  ],
+  "baselined": [],
+  "needs_login": [
+    {
+      "source": "HASiL Facebook page",
+      "check_id": "hasil-facebook",
+      "section": "Facebook posts",
+      "url": "https://www.facebook.com/HASiLMalaysia"
+    },
+    {
+      "source": "CCH iKnowConnect (Malaysia)",
+      "check_id": "cch-news",
+      "section": "Latest news and articles",
+      "url": "https://iknowconnect.cch.com/MYS/home"
+    }
+  ],
+  "errors": [
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-ectim",
+      "section": "eCTIM (titles listed on the public home page; full text needs member sign-in)",
+      "url": "https://www.ctim.org.my/",
+      "error": "HTTP 500"
+    },
+    {
+      "source": "Parliament of Malaysia - Dewan Rakyat bills",
+      "check_id": "parlimen-bills",
+      "section": "Bills (Income Tax Act and Finance Bills only)",
+      "url": "https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en",
+      "error": "HTTP 502"
+    },
+    {
+      "source": "HRD Corp - Circulars",
+      "check_id": "hrdcorp-circulars",
+      "section": "Circulars",
+      "url": "https://hrdcorp.gov.my/circulars",
+      "error": "HTTP 403"
+    }
+  ],
+  "partial": [],
+  "finished_at": "2026-11-26T08:49:23.397Z"
+}

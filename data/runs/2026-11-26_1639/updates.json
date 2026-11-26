@@ -1,0 +1,38 @@
+[
+  {
+    "source": "HASiL (Inland Revenue Board)",
+    "section": "Forms > Download Forms (years listed per form category)",
+    "title": "Form CP57 (Notification of Taxpayer's Demise) revised: CP57 [Pin. 1/2026]",
+    "publication_date": "Not stated (revision Pin. 1/2026; first seen on HASiL Download Forms 26/11/2026)",
+    "change_type": "replacement",
+    "summary": "HASiL replaced Form CP57 [Pin. 1/2020] with CP57 [Pin. 1/2026], used by executors or administrators to notify HASiL of a taxpayer's death (s.74(3) ITA 1967 / s.14(4) RPGTA 1976). The form now asks for the tax identification number (TIN) instead of the income tax number. It accepts more documents in place of a grant of probate or letter of administration: a Declaration of Authority (statutory declaration), a Letter of Administration (Form F) under the Small Estates (Distribution) Act 1955, or a Declaration of Sale; and a presumed-death certificate or death register extract instead of a death certificate. It can now be submitted to the State HASiL office handling the file or any nearby HASiL Service Counter.",
+    "replaces": "Form CP57 [Pin. 1/2020]",
+    "replaces_link": "https://www.hasil.gov.my/wp-content/uploads/Borang_CP57_1.pdf",
+    "link": "https://www.hasil.gov.my/wp-content/uploads/Brg_CP57_Pin-1_2026-1.pdf",
+    "tax_a_minute": false
+  },
+  {
+    "source": "HASiL (Inland Revenue Board)",
+    "section": "Forms > Download Forms (years listed per form category)",
+    "title": "Tax clearance for LLPs (Form CP7(PT)): tax agents must apply manually while e-SPC is unavailable to them",
+    "publication_date": "Not stated (change first seen on HASiL Download Forms 26/11/2026)",
+    "change_type": "amendment",
+    "summary": "HASiL's note on Form CP7(PT) (application for a Tax Clearance Letter for a limited liability partnership) now says that, although applications must be submitted online via e-SPC in MyTax, the e-SPC facility for tax agents to submit CP7(PT) is currently unavailable, so tax agents must submit the application manually. It refers to the Operational Guidelines for Applications for Tax Clearance Letters.",
+    "replaces": "Earlier note on the same page: CP7(PT) applications must be submitted online via e-SPC in MyTax (sample form and Appendix 3B linked)",
+    "replaces_link": "Not applicable: only the instruction on HASiL's Download Forms page changed",
+    "link": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-lain-lain-borang/",
+    "tax_a_minute": false
+  },
+  {
+    "source": "Rosli Dahlan Saravana Partnership (RDS) - Tax Focus",
+    "section": "Tax Focus publications (for the monthly update class)",
+    "title": "RDS Tax Focus: Court of Appeal rejects DGIR's bid to revive a dissolved company (KPHDN v Suruhanjaya Syarikat Malaysia & Mahabuilders Sdn Bhd & Ors)",
+    "publication_date": "Not stated",
+    "change_type": "new",
+    "summary": "The Court of Appeal dismissed the DGIR's appeal to have the dissolution of a company declared void under s.535(1) Companies Act 2016 so it could pursue additional assessments of about RM72.85 million for YAs 2012-2013 (alleged understatement of nearly RM300 million). The company had been wound up voluntarily after the DGIR issued a tax clearance letter in 2016. The article covers the two-year limit under s.535(1), the court's powers under s.582, who is an 'interested person', and the conditions for assessments beyond the time limit under s.91(3) ITA 1967. Worth covering in the monthly update class (winding up, tax clearance, time-barred assessments).",
+    "replaces": "",
+    "replaces_link": "",
+    "link": "https://www.rdslawpartners.com/post/court-of-appeal-rejects-revenue-s-bid-to-revive-dissolved-company-over-alleged-understatement-of-inc",
+    "tax_a_minute": false
+  }
+]
