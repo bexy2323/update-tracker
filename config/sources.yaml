@@ -202,7 +202,8 @@ sources:
     url: https://www.mof.gov.my/portal/en/news
     checks:
       - id: mof-news
-        section: News and media releases (all reported)
+        section: News (tax-relevant only)
+        keywords: tax
         url: https://www.mof.gov.my/portal/en/news
 
   - id: customs
@@ -295,7 +296,8 @@ sources:
     url: https://www.mida.gov.my/media-and-events/announcement-media-release/
     checks:
       - id: mida-announcements
-        section: Announcements & media releases (all reported)
+        section: Announcements & media releases (tax-relevant only)
+        keywords: tax
         url: https://www.mida.gov.my/media-and-events/announcement-media-release/
 
   - id: cch

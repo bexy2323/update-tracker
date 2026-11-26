@@ -58,14 +58,13 @@ Reports are delivered in the chat of the session that runs the check. Do not sen
      Filing Programme For The Year 2027"), a new filing programme page, and any
      revised programme or changed due date, with a direct link to the PDF or page.
      `change_type` is `new` (or `amendment` for a revision), `tax_a_minute` false.
-   - **Media releases:** report every new media release, whether or not it is
-     about tax: HASiL media releases (`hasil-announcements-media`), Customs
-     Berita dan Media (`customs-berita-media`), MOF news and media releases
-     (`mof-news`) and MIDA announcements and media releases (`mida-announcements`).
-     Open the release (its PDF if there is one), give its title, date and a
-     1–2 sentence English summary of what it says, and link to it.
-     `change_type` is `new`, `tax_a_minute` false.
-   - **Relevance:** LOM P.U.(A) and the Principal Acts list must be
+   - **HASiL media releases:** report every new HASiL media release
+     (`hasil-announcements-media`), whether or not it is about tax. Open the
+     release (its PDF if there is one), give its title, date and a 1–2 sentence
+     English summary, and link to it. `change_type` is `new`, `tax_a_minute`
+     false. Media releases and news from other sources (Customs, MOF, MIDA)
+     are reported only when they are tax updates.
+   - **Relevance:** LOM P.U.(A), MOF, MIDA and the Principal Acts list must be
      relevant to tax or taxpayers in Malaysia. Parlimen and the LOM bills list
      are limited to Income Tax Act bills and Finance Bills. The keyword filter
      in `check.js` already narrows these, but use judgement too.
