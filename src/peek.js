@@ -27,7 +27,7 @@ async function main() {
   try {
     // curl honours the environment's proxy settings; Playwright's request API does not.
     const file = path.join(fs.mkdtempSync(path.join(os.tmpdir(), 'peek-')), 'doc');
-    const type = execFileSync('curl', ['-sSL', '-m', '60', '-A', 'Mozilla/5.0', '-o', file, '-w', '%{content_type}', url], { encoding: 'utf8' });
+    const type = execFileSync('curl', ['--http1.1', '-sSL', '-m', '60', '-A', 'Mozilla/5.0', '-o', file, '-w', '%{content_type}', url], { encoding: 'utf8' });
     if (type.includes('pdf') || /\.pdf($|\?)/i.test(url)) {
       text = execFileSync('pdftotext', ['-layout', file, '-'], { encoding: 'utf8' });
     } else {

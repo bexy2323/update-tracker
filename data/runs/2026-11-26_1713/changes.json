@@ -1,0 +1,20 @@
+{
+  "run_id": "2026-11-26_1713",
+  "started_at": "2026-11-26T09:13:15.414Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [],
+  "unchanged": [],
+  "baselined": [
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-prosedur",
+      "section": "Prosedur (left bar, Ketetapan Umum to Pekeliling Kewangan)",
+      "url": "https://www.customs.gov.my/ms/prosedur/ketetapan-umum",
+      "items": 2251
+    }
+  ],
+  "needs_login": [],
+  "errors": [],
+  "partial": [],
+  "finished_at": "2026-11-26T09:14:24.199Z"
+}

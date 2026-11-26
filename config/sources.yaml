@@ -225,6 +225,26 @@ sources:
           url_hint: https://www.customs.gov.my/ms/utama
         ignore: ['^Pergi ke halaman', '^Go to (next|last|first|previous) page', 'hit\(s\)', '^[\d\s]+$', '^Keputusan \d+ - \d+ daripada \d+$']
 
+      - id: customs-prosedur
+        section: Prosedur (left bar, Ketetapan Umum to Pekeliling Kewangan)
+        # Every page in the left bar of the Prosedur section. The "Warta Kerajaan"
+        # menu link points to the Kastam page, which is already included.
+        url: https://www.customs.gov.my/ms/prosedur/ketetapan-umum
+        pages:
+          - https://www.customs.gov.my/ms/prosedur/perkastaman/kastam
+          - https://www.customs.gov.my/ms/prosedur/perkastaman/eksais
+          - https://www.customs.gov.my/ms/prosedur/perkastaman/zon-bebas
+          - https://www.customs.gov.my/ms/prosedur/perkastaman/levi
+          - https://www.customs.gov.my/ms/prosedur/perkastaman/levi/levi-keuntungan-luar-biasa
+          - https://www.customs.gov.my/ms/prosedur/warta-kerajaan/lain-lain
+          - https://www.customs.gov.my/ms/prosedur/perkhidmatan-teknik
+          - https://www.customs.gov.my/ms/prosedur/perkhidmatan-teknik/ketetapan-kastam
+          - https://www.customs.gov.my/ms/prosedur/pengurusan-pematuhan
+          - https://www.customs.gov.my/ms/prosedur/penguatkuasaan
+          - https://www.customs.gov.my/ms/prosedur/teknologi-maklumat
+          - https://www.customs.gov.my/ms/prosedur/pekeliling-kewangan
+        ignore: ['^Pergi ke halaman', '^Go to (next|last|first|previous) page', 'hit\(s\)', '^[\d\s]+$', '^Keputusan \d+ - \d+ daripada \d+$', '^Kunjungan:']
+
   - id: ctim
     name: Chartered Tax Institute of Malaysia
     url: https://www.ctim.org.my/

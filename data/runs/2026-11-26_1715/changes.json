@@ -1,0 +1,116 @@
+{
+  "run_id": "2026-11-26_1715",
+  "started_at": "2026-11-26T09:15:18.979Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-prosedur",
+      "section": "Prosedur (left bar, Ketetapan Umum to Pekeliling Kewangan)",
+      "url": "https://www.customs.gov.my/ms/prosedur/ketetapan-umum",
+      "new_items": [],
+      "removed_items": [],
+      "text_changes": [
+        {
+          "page": "https://www.customs.gov.my/ms/prosedur/ketetapan-umum",
+          "added_lines": [],
+          "removed_lines": [
+            "Kunjungan: 24011"
+          ]
+        },
+        {
+          "page": "https://www.customs.gov.my/ms/prosedur/perkastaman/kastam",
+          "added_lines": [],
+          "removed_lines": [
+            "Kunjungan: 128634"
+          ]
+        },
+        {
+          "page": "https://www.customs.gov.my/ms/prosedur/perkastaman/eksais",
+          "added_lines": [],
+          "removed_lines": [
+            "Kunjungan: 32691"
+          ]
+        },
+        {
+          "page": "https://www.customs.gov.my/ms/prosedur/perkastaman/zon-bebas",
+          "added_lines": [],
+          "removed_lines": [
+            "Kunjungan: 24754"
+          ]
+        },
+        {
+          "page": "https://www.customs.gov.my/ms/prosedur/perkastaman/levi",
+          "added_lines": [],
+          "removed_lines": [
+            "Kunjungan: 14780"
+          ]
+        },
+        {
+          "page": "https://www.customs.gov.my/ms/prosedur/perkastaman/levi/levi-keuntungan-luar-biasa",
+          "added_lines": [],
+          "removed_lines": [
+            "Kunjungan: 14781"
+          ]
+        },
+        {
+          "page": "https://www.customs.gov.my/ms/prosedur/warta-kerajaan/lain-lain",
+          "added_lines": [],
+          "removed_lines": [
+            "Kunjungan: 16667"
+          ]
+        },
+        {
+          "page": "https://www.customs.gov.my/ms/prosedur/perkhidmatan-teknik",
+          "added_lines": [],
+          "removed_lines": [
+            "Kunjungan: 53636"
+          ]
+        },
+        {
+          "page": "https://www.customs.gov.my/ms/prosedur/perkhidmatan-teknik/ketetapan-kastam",
+          "added_lines": [],
+          "removed_lines": [
+            "Kunjungan: 40441"
+          ]
+        },
+        {
+          "page": "https://www.customs.gov.my/ms/prosedur/pengurusan-pematuhan",
+          "added_lines": [],
+          "removed_lines": [
+            "Kunjungan: 11725"
+          ]
+        },
+        {
+          "page": "https://www.customs.gov.my/ms/prosedur/penguatkuasaan",
+          "added_lines": [],
+          "removed_lines": [
+            "Kunjungan: 10912"
+          ]
+        },
+        {
+          "page": "https://www.customs.gov.my/ms/prosedur/teknologi-maklumat",
+          "added_lines": [],
+          "removed_lines": [
+            "Kunjungan: 11344"
+          ]
+        },
+        {
+          "page": "https://www.customs.gov.my/ms/prosedur/pekeliling-kewangan",
+          "added_lines": [],
+          "removed_lines": [
+            "Kunjungan: 8319"
+          ]
+        }
+      ],
+      "new_form_years": [],
+      "new_forms": []
+    }
+  ],
+  "unchanged": [],
+  "baselined": [],
+  "needs_login": [],
+  "errors": [],
+  "partial": [],
+  "finished_at": "2026-11-26T09:16:21.264Z"
+}
