@@ -491,6 +491,7 @@ async function main() {
     unchanged: [],
     baselined: [],
     needs_login: [],
+    manual_check: [],
     errors: [],
     partial: [],
   };
@@ -510,6 +511,11 @@ async function main() {
       const meta = { source: source.name, check_id: check.id, section: check.section };
       if (check.requires_login) {
         result.needs_login.push({ ...meta, url: check.url || source.url });
+        continue;
+      }
+      // Sites that block automated visits: listed for the user to check by hand.
+      if (check.manual) {
+        result.manual_check.push({ ...meta, url: check.url || source.url, reason: check.manual_reason || '' });
         continue;
       }
       const checkUrl = check.url || (check.discover && check.discover.url_hint) || source.url;
@@ -572,7 +578,7 @@ async function main() {
   fs.writeFileSync(path.join(runDir, 'changes.json'), JSON.stringify(result, null, 2) + '\n');
   fs.writeFileSync(path.join(RUNS_DIR, 'LATEST'), id + '\n');
   console.log(`\nRun ${id}: ${result.changed.length} changed, ${result.unchanged.length} unchanged, `
-    + `${result.baselined.length} baselined, ${result.needs_login.length} need sign-in, ${result.errors.length} errors`);
+    + `${result.baselined.length} baselined, ${result.needs_login.length} need sign-in, ${result.manual_check.length} to check manually, ${result.errors.length} errors`);
   console.log(`Wrote ${path.relative(ROOT, path.join(runDir, 'changes.json'))}`);
 }
 

@@ -1,7 +1,7 @@
 # Update tracker
 
 An agent that checks Malaysian tax websites (HASiL, LOM, MySST, MOF, Customs,
-CTIM, Parlimen, MySToDS, RDS, MDEC, HRD Corp, MyTax, MIDA, CCH) twice a day. It
+CTIM, Parlimen, MySToDS, RDS, MDEC, HRD Corp, MyTax, MIDA) twice a day. It
 compares each page with what it saw on the last visit and compiles the updates
 into one report.
 

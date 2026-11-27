@@ -23,6 +23,8 @@
 #                  out of the report (but are still saved in the snapshot).
 #   requires_login true: never fetched automatically; listed in every report as
 #                  needing a manual sign-in check.
+#   manual         true: never fetched (the site blocks automated visits); its link
+#                  is listed in every report for the user to check by hand.
 #   ignore         regexes; matching text lines are ignored (visitor counters, clocks).
 #   static         true: download the HTML directly instead of loading it in the
 #                  browser (for server-rendered sites the browser can't load reliably).
@@ -163,15 +165,6 @@ sources:
           path_prefix: /en/antarabangsa/harga-pindahan/
           max_pages: 20
 
-  - id: hasil-facebook
-    name: HASiL Facebook page
-    url: https://www.facebook.com/HASiLMalaysia
-    checks:
-      - id: hasil-facebook
-        section: Facebook posts
-        url: https://www.facebook.com/HASiLMalaysia
-        requires_login: true
-
   - id: lom
     name: Laws of Malaysia (AGC)
     url: https://lom.agc.gov.my/index.php
@@ -300,6 +293,8 @@ sources:
       - id: hrdcorp-circulars
         section: Circulars
         url: https://hrdcorp.gov.my/circulars
+        # Blocked by an anti-bot check (HTTP 403): not visited, listed for a manual check.
+        manual: true
 
   - id: mytax
     name: MyTax portal (HASiL)
@@ -319,12 +314,3 @@ sources:
         section: Announcements & media releases (tax-relevant only)
         keywords: tax
         url: https://www.mida.gov.my/media-and-events/announcement-media-release/
-
-  - id: cch
-    name: CCH iKnowConnect (Malaysia)
-    url: https://iknowconnect.cch.com/MYS/home
-    checks:
-      - id: cch-news
-        section: Latest news and articles
-        url: https://iknowconnect.cch.com/MYS/home
-        requires_login: true

@@ -1,0 +1,21 @@
+{
+  "run_id": "2026-11-27_1428",
+  "started_at": "2026-11-27T06:28:27.994Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [],
+  "unchanged": [],
+  "baselined": [],
+  "needs_login": [],
+  "manual_check": [
+    {
+      "source": "HRD Corp - Circulars",
+      "check_id": "hrdcorp-circulars",
+      "section": "Circulars",
+      "url": "https://hrdcorp.gov.my/circulars",
+      "reason": ""
+    }
+  ],
+  "errors": [],
+  "partial": [],
+  "finished_at": "2026-11-27T06:28:28.392Z"
+}

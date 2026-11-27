@@ -28,6 +28,8 @@ Reports are delivered in the chat of the session that runs the check. Do not sen
    - `unchanged`: same as last visit. Skip these.
    - `baselined`: first visit. A snapshot is saved and there is nothing to compare yet.
    - `needs_login`: sites that need the user's sign-in. They are not checked.
+   - `manual_check`: sites that block automated visits (HRD Corp). They are not
+     checked; give the user their links to check by hand.
    - `errors`: sites that could not be reached. The previous snapshot is kept.
 
 3. **Review each change** in `changed` and decide whether it is a real update.
@@ -126,7 +128,9 @@ Reports are delivered in the chat of the session that runs the check. Do not sen
    publication date, what changed (and what it replaces or amends) and its
    link, plus the previous document's link for replacements and amendments,
    or say there are no updates. Also list the sites that need the user's
-   sign-in and the sites that could not be reached. Do not send email.
+   sign-in, the sites that could not be reached, and each `manual_check` site
+   with its link (e.g. "HRD Corp circulars, check manually:
+   https://hrdcorp.gov.my/circulars"). Do not send email.
 
 8. **Offer a Tax A Minute for each ruling or guide.** Run `node src/tam.js list`.
    It prints the updates with `tax_a_minute: true`, each with an `output_dir`.

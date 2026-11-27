@@ -53,6 +53,11 @@ function groupBySource(updates) {
   return groups;
 }
 
+// Older runs have no manual_check list.
+function manual(changes) {
+  return changes.manual_check || [];
+}
+
 function heading(changes) {
   const [date, time] = changes.run_id.split('_');
   return `Website update check: ${date} ${time.slice(0, 2)}:${time.slice(2)} (MYT)`;
@@ -62,7 +67,7 @@ function buildMarkdown(changes, updates) {
   const out = [`# ${heading(changes)}`, ''];
   out.push(`**${updates.length} update(s) found.** `
     + `${changes.unchanged.length} page(s) unchanged, ${changes.baselined.length} baselined, `
-    + `${changes.errors.length} unreachable, ${changes.needs_login.length} need your sign-in.`, '');
+    + `${changes.errors.length} unreachable, ${changes.needs_login.length} need your sign-in, ${manual(changes).length} to check manually.`, '');
 
   if (updates.length) {
     for (const [source, list] of groupBySource(updates)) {
@@ -88,6 +93,11 @@ function buildMarkdown(changes, updates) {
     for (const s of changes.needs_login) out.push(`- **${s.source}** (${s.section}): ${s.url}`);
     out.push('');
   }
+  if (manual(changes).length) {
+    out.push('## Check manually', '', 'These sites block automated visits. Open the link to check for updates:', '');
+    for (const s of manual(changes)) out.push(`- **${s.source}** (${s.section}): ${s.url}`);
+    out.push('');
+  }
   if (changes.errors.length) {
     out.push('## Could not be checked', '', '| Source | Section | Error | URL |', '|---|---|---|---|');
     for (const e of changes.errors) out.push(`| ${md(e.source)} | ${md(e.section)} | ${md(e.error)} | ${md(e.url)} |`);
@@ -105,7 +115,7 @@ function buildHtml(changes, updates) {
   const out = [`<h2>${esc(heading(changes))}</h2>`];
   out.push(`<p><b>${updates.length} update(s) found.</b> ${changes.unchanged.length} page(s) unchanged, `
     + `${changes.baselined.length} baselined, ${changes.errors.length} unreachable, `
-    + `${changes.needs_login.length} need your sign-in.</p>`);
+    + `${changes.needs_login.length} need your sign-in, ${manual(changes).length} to check manually.</p>`);
 
   if (updates.length) {
     for (const [source, list] of groupBySource(updates)) {
@@ -129,6 +139,13 @@ function buildHtml(changes, updates) {
   if (changes.needs_login.length) {
     out.push('<h3>Needs your sign-in</h3><p>These sites need a login, so they were not checked automatically:</p><ul>');
     for (const s of changes.needs_login) {
+      out.push(`<li><b>${esc(s.source)}</b> (${esc(s.section)}): <a href="${esc(s.url)}">${esc(s.url)}</a></li>`);
+    }
+    out.push('</ul>');
+  }
+  if (manual(changes).length) {
+    out.push('<h3>Check manually</h3><p>These sites block automated visits. Open the link to check for updates:</p><ul>');
+    for (const s of manual(changes)) {
       out.push(`<li><b>${esc(s.source)}</b> (${esc(s.section)}): <a href="${esc(s.url)}">${esc(s.url)}</a></li>`);
     }
     out.push('</ul>');
