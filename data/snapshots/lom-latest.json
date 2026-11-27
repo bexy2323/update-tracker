@@ -1,7 +1,7 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-27T00:45:30.596Z",
+  "fetched_at": "2026-11-27T08:45:25.743Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
@@ -36,6 +36,38 @@
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
+          "label": "888 - SOCIAL WORK PROFESSION ACT 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZhY3Q9ODg4fDBmMWVkNjE0MmQwOGI5YTExYzkxYWIwYzYzNWRkMzA1MmI5YTQzNzNmODU0MDkyODZiNmMyMWJjZTY2NDJiY2I%3D"
+        },
+        {
+          "label": "A1802 - CONTROL OF PADI AND RICE (AMENDMENT) ACT 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZ0eXBlPWFtZW5kbWVudCZhY3Q9QTE4MDJ8OWE2MTgxYWI0YjYzMDUxMTJmMWY0YmM0Mjg5ZThjZGUyMTlkNTk2ZGY0YzExMDZjNTQ3YjFmMGRlNTgxODUwYw%3D%3D"
+        },
+        {
+          "label": "P.U. (A) 394/2026 - INTERNATIONAL ORGANIZATIONS (PRIVILEGES AND IMMUNITIES) (DRUGS FOR NEGLECTED DISEASES INITIATIVE) REGULATIONS 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWEmbm89UC5VLiAoQSkgMzk0LzIwMjZ8ZjVhOTM0NTE5ZGM4NThmODA1ZTI0YjI4NGQwZDE5MzlmNTFiMzM2M2I3OWJmYWJlYjdjYjkyNmMxNGJmMWU3Zg%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 476/2026 - NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDc2LzIwMjZ8YTNhOTg2YjhlNjY0MWRhNDBiOTRjY2I0MTg4NjJhNGI4NWU0MWYyNGNlYTdhYzA0ZWI1ODVlYmFhYWYwNjIzOQ%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 477/2026 - RESERVATION OF LAND FOR PUBLIC PURPOSE",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDc3LzIwMjZ8NTg4Y2Q3ZjZjOTFlZDBhMDMzZjFjZDVkYmJlZGRlZmRhOGNiZDYwMTZmOThlYTNkZTRkNWRlM2RlY2FiMzQ2MA%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 478/2026 - APPOINTMENT OF NOTARIES PUBLIC",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDc4LzIwMjZ8NTZiNTQ2MTlmNTc4NjIwMGIwODdhMzAyNDQ4NWM5YWVmNjk0NjM2OWY2N2E1NjQwM2VhMjdlODI1ZGRjZTA5Mg%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 479/2026 - NOTICE TO THIRD PARTIES",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDc5LzIwMjZ8MTYyNmFkNTczMjY5MzNlOTZjNWQxYTY5OWY0NTNmNjAzYWM2YTFiZTU2ZDFiZGZlZDU4YmQ3NjJkMTQ2OWJmNA%3D%3D"
+        },
+        {
+          "label": "P.U. (B) 482/2026 - RESERVATION OF LAND FOR PUBLIC PURPOSE",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDgyLzIwMjZ8MjFkZmZmYTcyMTkwOGJiZjg3MGIwMWRjYzlmODkyMTY1ZTZjMTU1YjcyM2RlNDc5Mjc1NGFhMmUzM2Y4ZjUzNQ%3D%3D"
+        },
+        {
           "label": "P.U. (B) 474/2026 - NOTICE TO THIRD PARTIES",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDc0LzIwMjZ8NzgyM2FmNzYyM2JjMWM3YWMzZTdhMzViNGRmZDFhMDQ5M2QzNDc1YTM0N2M3YjlhNThiZGEwMDJlMzk2NmQ5NA%3D%3D"
         },
@@ -52,6 +84,10 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDcyLzIwMjZ8N2I2ZjYzZTE2YjUwNWYwMTk4MTQwZTc0YTAwMWIwMWRiZDA3OWFmMTI5NDYwODVmOGRjOWRkNmE1N2YwMDNiZQ%3D%3D"
         },
         {
+          "label": "SOCIAL WORK PROFESSION ACT 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZhY3Q9ODg4fDBmMWVkNjE0MmQwOGI5YTExYzkxYWIwYzYzNWRkMzA1MmI5YTQzNzNmODU0MDkyODZiNmMyMWJjZTY2NDJiY2I%3D"
+        },
+        {
           "label": "STATISTICS ACT 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZhY3Q9ODg3fGU4N2RhY2NkODY2MDVkODNlYWNhODgwNGU2Y2Y3MjgxNGNkNzg0MjViZGEzZTcyMzQ1OWQ5YzQ3YzJlMmEyYTM%3D"
         },
@@ -60,12 +96,12 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZhY3Q9ODg2fDUzNjZjNTk5ZWFlNGQzNGQ0OGE4OGNhNGVlYTZiZDJjMjNkYjU0MmViMDMxZGVmMzJlOTkxNGU2NThkZTZmOWQ%3D"
         },
         {
-          "label": "NATIONAL TRUST FUND ACT 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZhY3Q9ODg1fGU5NGFiOTYxMTBhOTJjZmE4YTg2ZDAxNWUyYTdiY2FjN2NhZTIxNDljNDBhNmMyNjM2NzA3NjFhZjA0MDg0ODg%3D"
+          "label": "Act 888 - SOCIAL WORK PROFESSION ACT 2026 Act 887 - STATISTICS ACT 2026 Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026) See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9b3JpZ2luYWwmbGFuZ3VhZ2U9Qkl8MmRmNDE2MGEzZjY4OGFjZmQyOTIyY2NmNWY5ZGQ1Y2RiMjljNThlZGQwMWI2NGNjYTEzNzEyNGRjZGRjYWM4NA%3D%3D"
         },
         {
-          "label": "Act 887 - STATISTICS ACT 2026 Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026) Act 885 - NATIONAL TRUST FUND ACT 2026 See All...",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9b3JpZ2luYWwmbGFuZ3VhZ2U9Qkl8MmRmNDE2MGEzZjY4OGFjZmQyOTIyY2NmNWY5ZGQ1Y2RiMjljNThlZGQwMWI2NGNjYTEzNzEyNGRjZGRjYWM4NA%3D%3D"
+          "label": "CONTROL OF PADI AND RICE (AMENDMENT) ACT 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZ0eXBlPWFtZW5kbWVudCZhY3Q9QTE4MDJ8OWE2MTgxYWI0YjYzMDUxMTJmMWY0YmM0Mjg5ZThjZGUyMTlkNTk2ZGY0YzExMDZjNTQ3YjFmMGRlNTgxODUwYw%3D%3D"
         },
         {
           "label": "COMPETITION COMMISSION (AMENDMENT) ACT 2026",
@@ -76,12 +112,12 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZ0eXBlPWFtZW5kbWVudCZhY3Q9QTE4MDB8Y2JjZWE3M2VlYjgzNzkwZDgzNTI4MWRiYjFjOTFjOTc5ZGMyMWRjYWQyMjZkMDA1Y2I0N2QxZDBlYWI3NWVmZQ%3D%3D"
         },
         {
-          "label": "MALAYSIAN COMMUNICATIONS AND MULTIMEDIA COMMISSION (AMENDMENT) ACT 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3QtZGV0YWlsLnBocD9sYW5ndWFnZT1CSSZ0eXBlPWFtZW5kbWVudCZhY3Q9QTE3OTl8MWI5YTFlMzEwNDE1YWM4MTQ2ZTEwNGVlNTU4MDZiZjY4ZThiODhlMDJmYzUyODViNWRmYTgxZTgwYzNiMjQxOQ%3D%3D"
+          "label": "Act A1802 - CONTROL OF PADI AND RICE (AMENDMENT) ACT 2026 Act A1801 - COMPETITION COMMISSION (AMENDMENT) ACT 2026 Act A1800 - COMPETITION (AMENDMENT) ACT 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9YW1lbmRtZW50Jmxhbmd1YWdlPUJJfGU0NGQyMzUzY2MyNjFmNjk1Njg2OWM2ZDk3YjJiZjQ2ODg4MzBiYzZiMTk0MGJlMDVkOWZhNmU5Y2FmZWQ2OWE%3D"
         },
         {
-          "label": "Act A1801 - COMPETITION COMMISSION (AMENDMENT) ACT 2026 Act A1800 - COMPETITION (AMENDMENT) ACT 2026 Act A1799 - MALAYSIAN COMMUNICATIONS AND MULTIMEDIA COMMISSION (AMENDMENT) ACT 2026 See All...",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9wcmluY2lwYWwucGhwP3R5cGU9YW1lbmRtZW50Jmxhbmd1YWdlPUJJfGU0NGQyMzUzY2MyNjFmNjk1Njg2OWM2ZDk3YjJiZjQ2ODg4MzBiYzZiMTk0MGJlMDVkOWZhNmU5Y2FmZWQ2OWE%3D"
+          "label": "INTERNATIONAL ORGANIZATIONS (PRIVILEGES AND IMMUNITIES) (DRUGS FOR NEGLECTED DISEASES INITIATIVE) REGULATIONS 2026",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzk0LzIwMjZ8ZjVhYTVhN2IwMjA5OTFmYmZkMGI0NWNjYzdkM2EzZmJhMTdjM2JiMTBlZTgzZjc5YmQ4ZDM2ZGZiYmJmZmQ0OA%3D%3D"
         },
         {
           "label": "JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026",
@@ -92,27 +128,23 @@
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzkyLzIwMjZ8OWMzMTkxYTYwMjM4M2ZkMjkxZjA5ODg3NmU0ZGYyNDBmNzVlN2U3N2UwMmE4ZmJiMDMxMDcxN2I3ZmU4YmE1Mw%3D%3D"
         },
         {
-          "label": "FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWEmbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQSkgMzkxLzIwMjZ8YjM1NTVlNzZhNTg1YWQyZTliOTdmMzAyMDgxNjIzNDhjODg0ZmQ4OWZhZTBhNWM1NzU0YWMwNzllMmYyMTQ4Mg%3D%3D"
-        },
-        {
-          "label": "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026 P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026 P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026 See All...",
+          "label": "P.U. (A) 394/2026 - INTERNATIONAL ORGANIZATIONS (PRIVILEGES AND IMMUNITIES) (DRUGS FOR NEGLECTED DISEASES INITIATIVE) REGULATIONS 2026 P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026 P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026 See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
         },
         {
-          "label": "NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDc1LzIwMjZ8YTg3MWYyMjRhNzRkOTRhMmVjMTMzNjY4ZWIzZTgwZjg1YmJlYzk4OTFkYWY1YTJhNGIyOTRhZjhmMmY0MWY2NQ%3D%3D"
+          "label": "RESERVATION OF LAND FOR PUBLIC PURPOSE",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDgyLzIwMjZ8MmFmNjNkNjM5MTU2ZDVjYzA1YWI4N2VjYmQ5Njc0ZjNlOTE4NWRmNzk5YTE3MjJjMmI0NGIzYjg2ZmVjODI5YQ%3D%3D"
         },
         {
           "label": "NOTICE TO THIRD PARTIES",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDc0LzIwMjZ8NjcyYjkyNTNlMzk0ZGI5MTUyMDZmNzBmNDk0ZDZmZGU3MTFjNDRkYzdiYWEwZDhjYmFlMGEzZWEwZDUxYmM2Mg%3D%3D"
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDc5LzIwMjZ8NjY2Y2U2Zjg0NTAzYzc1ZGFiNTgwMDMxNWZkNmMxYWRmZTk4ZWIxNTY5OTc3YTk4Y2I5NGExNDM3MmJjMjhlOA%3D%3D"
         },
         {
-          "label": "APPOINTMENT AND REVOCATION OF APPOINTMENT OF DEPUTY DIRECTORS GENERAL OF THE BOARD",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDczLzIwMjZ8YWE5ODJlMWNmMmIzOGQ1ZWM5ZmViMzg5YmNiZThhOTZiYmEwOWI0OGQ4NmU3MWUxNTFjNWYwNzBmZTI2OTExMA%3D%3D"
+          "label": "APPOINTMENT OF NOTARIES PUBLIC",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FdHlwZT1wdWImbGFuZ3VhZ2U9Qkkmbm89UC5VLiAoQikgNDc4LzIwMjZ8MjY0ODJmN2RjNDM5YjQxMzZjMjMyYmQ5OTM0YTgyMGI1N2MwNmQxMWVhY2E2MzI3MDk4Njc5NTk2MDg5NTlhZQ%3D%3D"
         },
         {
-          "label": "P.U. (B) 475/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12 P.U. (B) 474/2026 - NOTICE TO THIRD PARTIES P.U. (B) 473/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF DEPUTY DIRECTORS GENERAL OF THE BOARD See All...",
+          "label": "P.U. (B) 482/2026 - RESERVATION OF LAND FOR PUBLIC PURPOSE P.U. (B) 479/2026 - NOTICE TO THIRD PARTIES P.U. (B) 478/2026 - APPOINTMENT OF NOTARIES PUBLIC See All...",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHViJmxhbmd1YWdlPUJJfGJjMjU4NTRiMzIxMjZiNDZkZGY4YjEzYzk1OTU0NWJiN2IwMmI1ZDU5Yzc0MTFhZmJlMzhjZDQxNWI2OTEyOWE%3D"
         },
         {
@@ -129,31 +161,39 @@
         "23 Nov",
         "22 Nov",
         "21 Nov",
-        "There is no record to display",
+        "Principal Act",
+        "888 - SOCIAL WORK PROFESSION ACT 2026",
+        "Amendment Act",
+        "A1802 - CONTROL OF PADI AND RICE (AMENDMENT) ACT 2026",
+        "P.U. (A)",
+        "P.U. (A) 394/2026 - INTERNATIONAL ORGANIZATIONS (PRIVILEGES AND IMMUNITIES) (DRUGS FOR NEGLECTED DISEASES INITIATIVE) REGULATIONS 2026",
         "P.U. (B)",
+        "P.U. (B) 476/2026 - NOTICE TO THIRD PARTIES",
+        "P.U. (B) 477/2026 - RESERVATION OF LAND FOR PUBLIC PURPOSE",
+        "P.U. (B) 478/2026 - APPOINTMENT OF NOTARIES PUBLIC",
+        "P.U. (B) 479/2026 - NOTICE TO THIRD PARTIES",
+        "P.U. (B) 482/2026 - RESERVATION OF LAND FOR PUBLIC PURPOSE",
         "P.U. (B) 474/2026 - NOTICE TO THIRD PARTIES",
         "P.U. (B) 475/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
+        "There is no record to display",
         "P.U. (B) 473/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF DEPUTY DIRECTORS GENERAL OF THE BOARD",
         "P.U. (B) 472/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF OCTOBER 2026",
-        "Principal Act",
+        "Act 888 - SOCIAL WORK PROFESSION ACT 2026",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
-        "Act 885 - NATIONAL TRUST FUND ACT 2026",
         "See All...",
-        "Amendment Act",
+        "Act A1802 - CONTROL OF PADI AND RICE (AMENDMENT) ACT 2026",
         "Act A1801 - COMPETITION COMMISSION (AMENDMENT) ACT 2026",
         "Act A1800 - COMPETITION (AMENDMENT) ACT 2026",
-        "Act A1799 - MALAYSIAN COMMUNICATIONS AND MULTIMEDIA COMMISSION (AMENDMENT) ACT 2026",
         "List of P.U. (A)",
         "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026",
         "P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026",
-        "P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026",
         "List of P.U. (B)",
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 164 762",
-        "Act 854 624"
+        "Act 164 822",
+        "Act 854 711"
       ]
     }
   ]

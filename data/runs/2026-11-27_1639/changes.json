@@ -1,0 +1,759 @@
+{
+  "run_id": "2026-11-27_1639",
+  "started_at": "2026-11-27T08:39:26.265Z",
+  "timezone": "Asia/Kuala_Lumpur",
+  "changed": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-e-invoice",
+      "section": "Pautan Popular > E-Invois",
+      "url": "https://www.hasil.gov.my/en/e-invois/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/program-e-invois/",
+          "label": "Bil. 25/2026 Webinar e-Invois @ Negeri Sembilan Bil. 25/2026 17 Disember 2026 (Khamis) 10:00 am – 12:00 pm Ms. Teams Tarikh tutup: 16 Disember 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/webinar-e-invois-negeri-sembilan-bil-25-2026/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/e-invois/program-e-invois/",
+          "label": "Bil. 25/2026 Taklimat e-Invois @ CIK Bil. 25/2026 15 Disember 2026 (Selasa) 9:30 am - 12:30 pm Bilik Cendana, Tingkat 11, Blok 8, CIK, Kompleks Bangunan Kerajaan Jalan TAH, KL Tarikh tutup: 10 Disember 2026",
+          "href": "https://www.hasil.gov.my/en/e-invois/program-e-invois/taklimat-e-invois-cik-bil-25-2026/"
+        }
+      ],
+      "removed_items": [],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-download-forms",
+      "section": "Forms > Download Forms (years listed per form category)",
+      "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-lain-lain-borang/",
+          "label": "| Application Form of Tax Clearance Letter for Dissolution Other Than Strike-Off Company\\'s winding-up Cessation of business (Foreign company) Amalgamation and merger of companies Conversion of company to Limited Liability Partnership CP7(C) Applications for Tax Clearance Letter (TCL) for company must be submitted online via e-SPC in MyTax. Labuan entities (including those taxed under the Income T",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-lain-lain-borang/",
+          "label": "| Application Form of Tax Clearance Letter for Labuan Entity (including those taxed under the Income Tax Act 1967) CP7(LE) (163.39 KB) This form can be downloaded and used for submission to Labuan International Section, HASiL Sabah. Please refer to Operational Guideline No. 3 Year 2026 Application for Tax Clearance Letter for Company, Limited Liability Partnership and Labuan Entity. (1.15 MB) Appe",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp7_le_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Company Income Tax Return Form for the purpose of Tax Clearance Letter application Form C 2026 (For TCL Purpose Only) (720.67 KB) This Form C 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 3 Year 2026: Operational Guidelines for Applications for Tax Clearance Letters for Compa",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/C2026_SPC.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Employer Borang E 2026 (For TCL Purpose Only) (467.08 KB) This Form E 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). Please refer Operational Guideline No. 3 Year 2026: Application for Tax Clearance Letter for Company, Limited Liability Partnership and Labuan Entity (1.15 MB). The 2026 Form E uses the Year of Assessment 2025 Form E format (Form E 2025). The",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-e2026-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Business, Employment and Other Income (Knowledge Worker) - Non-Resident Form MT 2026 (For TCL Purpose) (943.97 KB) This Form MT 2026 is specially provided solely for the purpose of applying for Tax Clearance Letter (TCL). This form adopts the format of Year of Assessment 2025 MT Form (Form MT 2025). Accordingly, this page must be submitted with page 1 to 4 of Form MT 2025 to enable the TCL appli",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/form-mt2025-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Business, Employment and Other Income (Knowledge Workers/Expert Workers) Form BT 2026 (For TCL Purpose) (1.42 MB) This Form BT 2026 is specially provided solely for the purpose of applying Tax Clearance Letter (TCL). This form adopts the format of Year of Assessment 2025 Form BT (Form BT 2025). Accordingly, this page must be submitted with page 1 to 6 of Form BT 2025 to enable the TCL applicatio",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-bt2025-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Employment and Other Income Form BE 2026 (For TCL Purpose) (1.24 MB) This Form BE 2026 is specially provided solely for the purpose of applying for Tax Clearance Letter (TCL). This form adopts the format of Year of Assessment 2025 Form BE (Form BE 2025). Accordingly, this page must be submitted with page 1 to 4 of Form BE 2025 to enable the TCL application to be processed. Please complete all re",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-be2025-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Borang TF 2026 (1.01 MB) (For TCL Purpose Only) This Form TF 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). Please refer Operational Guideline No. 3 Year 2026: Application for Tax Clearance Letter for Company, Limited Liability Partnership and Labuan Entity (1.15 MB). The 2026 Form TF uses the Year of Assessment 2025 Form TF format (Form TF 2025). Therefore",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-tf2026-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Limited Liability Partnership Tax Return Form for the purpose of Tax Clearance Letter application PT2026 SPC (For TCL Purpose) (651.94 KB) This Form PT 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). Please refer Operational Guideline No. 3 Year 2026: Application for Tax Clearance Letter for Company, Limited Liability Partnership and Labuan Entity (1.15 MB).",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/PT2026-SPC.pdf"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-lain-lain-borang/",
+          "label": "| Application Form of Tax Clearance Letter for Dissolution Other Than Strike-Off CP7(C) Applications for Tax Clearance Letter (TCL) for company must be submitted online via the e-SPC in MyTax. Labuan entities (including those taxed under the Income Tax Act 1967) are required to submit their TCL application using Form CP7(LE). Please refer Operational Guidelines No. 3 Year 2026: Application for Tax",
+          "href": "https://mytax.hasil.gov.my/"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-lain-lain-borang/",
+          "label": "| Application Form of Tax Clearance Letter for Labuan Entity Form CP7(LE) (163.39 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia. Appendix 3C (157.48 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/cp7_le_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Company Income Tax Return Form for the purpose of Tax Clearance Letter application Form C 2026 (720.67 KB) (For TCL Purpose Only) This Form C 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 3 Year 2026: Operational Guidelines for Applications for Tax Clearance Letters for Compa",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/C2026_SPC.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Borang E 2026 (467.08 KB) (For TCL Purpose Only) This Form E 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 3 Year 2026: Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (1.15 MB). The 2026 Form",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-e2026-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Borang MT 2026 (943.97 KB) (Untuk Tujuan SPC) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/form-mt2025-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Borang BT 2026 (1.42 MB) (Untuk Tujuan SPC) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-bt2025-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Borang BE 2026 (1.24 MB) (Untuk Tujuan SPC) -",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-be2025-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Borang TF 2026 (1.01 MB) (For TCL Purpose Only) This Form TF 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 3 Year 2026: Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (1.15 MB). The 2026 Form",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/borang-tf2026-untuk-tujuan-spc.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-surat-penyelesaian-cukai/",
+          "label": "| Limited Liability Partnership Tax Return Form for the purpose of Tax Clearance Letter application PT2026 SPC (651.94 KB) (For TCL Purpose Only) This Form PT 2026 is to be used solely for the purpose of applying for Tax Clearance Letter (TCL). For the purpose of TCL application, please refer to the Operational Guideline No. 3 Year 2026: Operational Guidelines for Applications for Tax Clearance Le",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/PT2026-SPC.pdf"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-legislation",
+      "section": "Legislation (everything)",
+      "url": "https://www.hasil.gov.my/en/perundangan/akta/",
+      "new_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (Available in Malay Only) (1.15 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Garis-Panduan-Operasi-Permohonan-SPC-Bagi-Syarikat-Perkongsian-Liabiliti-Terhad-Entiti-Labuan.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Operational Guidelines for Real Property Gains Tax (RPGT) (Available in Malay Only) (268.65 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260317-garis-panduan-operasi-ckht-bil-2-tahun-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Operational Guidelines for Special Penalty Treatment Under Section 47A of the Stamp Act 1949 for the 2026 Stamp Duty Special Voluntary Disclosure Programme (Available in Malay Only) (266.02 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-operasi-layanan-khas-penalti-di-bawah-seksyen-47a-akta-setem-1949-bagi-program-khas-pengakuan-sukarela-duti-setem-2026-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for the Application and Approval of Extensions of Time for the Online Submission of Tax Return Forms (e-Lanjutan Masa) (Available in Malay Only) (309.23 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/gpo-bil-4-tahun-2025-prosedur-permohonan-dan-kelulusan-lanjutan-masa-pengemukaan-borang-nyata-secara-dalam-talian-e-lanjutan-masa.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines for Applications for Stamping via the Self-Assessment Stamp Duty System (STSDS) (Available in Malay Only) (943.17 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251226-garis-panduan-operasi-permohonan-penyeteman-melalui-sistem-taksir-sendiri-duti-setem.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Operational Guidelines for Real Property Gains Tax (RPGT) (Available in Malay Only) (228.54 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250113-garis-panduan-operasi-ckht-tahun-2025.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Implementation of the Tax Compliance Certificate (TCC) for Government Procurement (Available in Malay Only) (567.06 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-operasi-bil-1-2025-faq-dikemas-kini-pelaksanaan-sijil-pematuhan-cukai-atau-tax-compliance-certificate-tcc-faq.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for Submitting Amended Return Forms (Available in Malay Only) (516.15 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-operasi-bnt-bil-3-tahun-2024.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for the Application for an Individual Tax Clearance Letter (SPC) – Original Version (Available in Malay Only) (700.57 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/garis-panduan_spc_individu_bil_2_2024_final.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for the Application for an Individual Tax Clearance Letter (SPC) (Amendment) (Available in Malay Only) (345.35 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251101_garis-panduan-operasi-bil-2-tahun-2024-prosedur-permohonan-spc-individu.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Monthly Tax Deduction Under the Income Tax Rules (Deduction from Remuneration) 1994 [P.U.(A) 507/1994] (Available in Malay Only) (803.47 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20240102-gpo-1-2024-potongan-cukai-bulanan-di-bawah-kaedah-kaedah-cukai-pendapatan-potongan-daripada-saraan-1994.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Special Voluntary Disclosure Programme 2.0 (Original Version) (615.87 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/operational-guidelines-no-22023.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Special Voluntary Disclosure Programme 2.0 (Amendment) (613.54 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/2-operational-guidelines-no-2_2023-22082023.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Application for Tax Clearance Letter for Companies, Limited Liability Partnerships and Labuan Entities (Available in Malay Only) (420.23 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/gpo_1_2022.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Application for Tax Clearance Letter for Companies, Limited Liability Partnerships and Labuan Entities (Available in Malay Only) (3.56 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_3_2021.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guideline On Compensation On Late Refund Of Overpayment Of Tax (Available in Malay Only) (241.76 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_2_2021.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Submission of Estimated Tax Payable Under Section 107C of The Income Tax Act 1967 (ITA) (Available in Malay Only) (872.78 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_1_2021.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Monthly Tax Deduction Under the Income Tax Rules (Deduction from Remuneration) 1994 (Available in Malay Only) (703.62 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_4_2020.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Imposition of Penalties Under Subsection 112(3) of the Income Tax Act 1967, Subsection 51(3) of the Petroleum (Income Tax) Act 1967, and Subsection 29(3) of the Real Property Gains Tax Act 1976 (Available in Malay Only) (112.59 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_3_2020.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Amendment of Tax Estimates (CP204) in the Third Instalment Month Falling Within the 2020 Calendar Year and Deferment of Tax Estimate Payments (CP204 and CP500) Under the 2020 Economic Stimulus Package (ESP) (Available in Malay Only) (575.17 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_2_2020_1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure On Submission Of Amended Return Form 1994 (229.92 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_1_2020_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Imposition of Penalties Under Subsection 112(3) of the Income Tax Act 1967, Subsection 51(3) of the Petroleum (Income Tax) Act 1967, and Subsection 29(3) of the Real Property Gains Tax Act 1976 (Available in Malay Only) (111.47 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_5_2019.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for Submitting Amended Return Forms (Available in Malay Only) (321.45 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_4_2019_dwi.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for Submitting Amended Return Forms (Available in Malay Only) (34.88 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_3_2019_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Application for Tax Clearance Letter for Companies, Limited Liability Partnerships and Labuan Entities (Available in Malay Only) (1.51 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_2_2019.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Special Program For Voluntary Disclosure (423.30 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_1_2019_ENG.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Special Program For Voluntary Disclosure (Original) (406.47 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GO_012018_02.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Special Program For Voluntary Disclosure (Amended) (408.67 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_1_2018_29032019_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Application for Tax Clearance Letter for Companies, Limited Liability Partnerships(LLP) and Labuan Entities (Labuan Companies and Labuan LLP) (Available in Malay Only) (213.92 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GarisPanduanOperasi_Bil_3_2016_1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Offer of Penalty Reduction and Remission of Tax Increase (Available in Malay Only) (232.34 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_Bil_1_2016_PINDAAN_05082016.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Offer of Penalty Reduction and Remission of Tax Increase (Available in Malay Only) (227.82 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPOperasiBil1Tahun2016.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Imposition of Penalties Under Subsection 112(3) of the Income Tax Act 1967 (Available in Malay Only) (97.97 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Garis_Panduan_LHDNM_Pengenaan_Penalti_di_Bawah_ACP1967.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guideline On Compensation On Late Refund Of Overpayment Of Tax (Available in Malay Only) (1.24 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN1_2014.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for Submitting Amended Return Forms (Available in Malay Only) (31.10 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN1_2010.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Application for Temporary Release of Travel Restrictions Under Section 104 of the Income Tax Act 1967 / Section 22 of the Real Property Gains Tax Act 1976 (Available in Malay Only) (99.43 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN_3_2009.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for the Application for a Company Tax Clearance Letter (SPC) (Available in Malay Only) (113.54 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN_2_2009.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Information Required When Making Tax Payments (Available in Malay Only) (158.53 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN_1_2009.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Remission of Tax Increase (Available in Malay Only) (24.05 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN_3_2008.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Utilisation of Company Income Tax Credit as a Set-Off (Available in Malay Only) (29.92 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN_1_2008.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (238.47 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260114-guidelines-tax-treatment-on-income-of-social-media-influencer.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (165.13 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/guidlines-labuan-trading-activity-and-labuan-non-trading-activity.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (174.15 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251128-guidelines-on-tax-treatment-for-pre-petroleum-agreement-expenditure-under-the-petroleum-income-tax-act-1967.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (98.23 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251105-guidelines-on-substance-requirements-for-fit-and-proper-full-time-employees-of-labuan-entities.pdf"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Operational Guidelines for Applications for Tax Clearance Letters for Companies, Limited Liability Partnerships and Labuan Entities (1.15 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Garis-Panduan-Operasi-Permohonan-SPC-Bagi-Syarikat-Perkongsian-Liabiliti-Terhad-Entiti-Labuan.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Operational Guidelines for Real Property Gains Tax (RPGT) (268.65 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260317-garis-panduan-operasi-ckht-bil-2-tahun-2026.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Operational Guidelines for Special Penalty Treatment Under Section 47A of the Stamp Act 1949 for the 2026 Stamp Duty Special Voluntary Disclosure Programme (266.02 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-operasi-layanan-khas-penalti-di-bawah-seksyen-47a-akta-setem-1949-bagi-program-khas-pengakuan-sukarela-duti-setem-2026-1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for the Application and Approval of Extensions of Time for the Online Submission of Tax Return Forms (e-Lanjutan Masa) (309.23 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/gpo-bil-4-tahun-2025-prosedur-permohonan-dan-kelulusan-lanjutan-masa-pengemukaan-borang-nyata-secara-dalam-talian-e-lanjutan-masa.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines for Applications for Stamping via the Self-Assessment Stamp Duty System (STSDS) (943.17 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251226-garis-panduan-operasi-permohonan-penyeteman-melalui-sistem-taksir-sendiri-duti-setem.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Operational Guidelines for Real Property Gains Tax (RPGT) (228.54 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20250113-garis-panduan-operasi-ckht-tahun-2025.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Implementation of the Tax Compliance Certificate (TCC) for Government Procurement. (567.06 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-operasi-bil-1-2025-faq-dikemas-kini-pelaksanaan-sijil-pematuhan-cukai-atau-tax-compliance-certificate-tcc-faq.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for Submitting Amended Return Forms (516.15 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-operasi-bnt-bil-3-tahun-2024.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for the Application for an Individual Tax Clearance Letter (SPC) – Original Version (700.57 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/garis-panduan_spc_individu_bil_2_2024_final.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for the Application for an Individual Tax Clearance Letter (SPC) (Amendment) (345.35 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251101_garis-panduan-operasi-bil-2-tahun-2024-prosedur-permohonan-spc-individu.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Monthly Tax Deduction Under the Income Tax Rules (Deduction from Remuneration) 1994 [P.U.(A) 507/1994]” (803.47 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20240102-gpo-1-2024-potongan-cukai-bulanan-di-bawah-kaedah-kaedah-cukai-pendapatan-potongan-daripada-saraan-1994.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Special Voluntary Disclosure Programme 2.0 (Original Version) (615.87 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-operasi-bil-22023.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Special Voluntary Disclosure Programme 2.0 (Amendment) (613.54 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/1-garis-panduan-operasi-bil-2_2023-22082023.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Application for Tax Clearance Letter for Companies, Limited Liability Partnerships and Labuan Entities (420.23 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/gpo_1_2022.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Application for Tax Clearance Letter for Companies, Limited Liability Partnerships and Labuan Entities (3.56 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_3_2021.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guideline On Compensation On Late Refund Of Overpayment Of Tax (241.76 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_2_2021.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Submission of Estimated Tax Payable Under Section 107C of The Income Tax Act 1967 (ITA) (872.78 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_1_2021.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Monthly Tax Deduction Under the Income Tax Rules (Deduction from Remuneration) 1994 (703.62 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_4_2020.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Imposition of Penalties Under Subsection 112(3) of the Income Tax Act 1967, Subsection 51(3) of the Petroleum (Income Tax) Act 1967, and Subsection 29(3) of the Real Property Gains Tax Act 1976 (112.59 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_3_2020.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Amendment of Tax Estimates (CP204) in the Third Instalment Month Falling Within the 2020 Calendar Year and Deferment of Tax Estimate Payments (CP204 and CP500) Under the 2020 Economic Stimulus Package (ESP) (575.17 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_2_2020_1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure On Submission Of Amended Return Form 1994 (229.92 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_1_2020_1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Imposition of Penalties Under Subsection 112(3) of the Income Tax Act 1967, Subsection 51(3) of the Petroleum (Income Tax) Act 1967, and Subsection 29(3) of the Real Property Gains Tax Act 1976 (111.47 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_5_2019.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for Submitting Amended Return Forms (321.45 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_4_2019_dwi.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for Submitting Amended Return Forms (34.88 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_3_2019_2.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Application for Tax Clearance Letter for Companies, Limited Liability Partnerships and Labuan Entities (1.51 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_2_2019.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Special Program For Voluntary Disclosure (423.30 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_1_2019_BM.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Special Program For Voluntary Disclosure (Original) (406.47 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GO_012018_01.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Special Program For Voluntary Disclosure (Amended) (408.67 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_1_2018_29032019_1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Application for Tax Clearance Letter for Companies, Limited Liability Partnerships(LLP) and Labuan Entities (Labuan Companies and Labuan LLP) (213.92 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GarisPanduanOperasi_Bil_3_2016_1.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Offer of Penalty Reduction and Remission of Tax Increase (232.34 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPO_Bil_1_2016_PINDAAN_05082016.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Offer of Penalty Reduction and Remission of Tax Increase (227.82 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPOperasiBil1Tahun2016.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Imposition of Penalties Under Subsection 112(3) of the Income Tax Act 1967 (97.97 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Garis_Panduan_LHDNM_Pengenaan_Penalti_di_Bawah_ACP1967.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guideline On Compensation On Late Refund Of Overpayment Of Tax (1.24 MB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN1_2014.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for Submitting Amended Return Forms (31.10 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN1_2010.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Application for Temporary Release of Travel Restrictions Under Section 104 of the Income Tax Act 1967 / Section 22 of the Real Property Gains Tax Act 1976 (99.43 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN_3_2009.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Procedure for the Application for a Company Tax Clearance Letter (SPC (113.54 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN_2_2009.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Information Required When Making Tax Payments (158.53 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN_1_2009.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Remission of Tax Increasw (24.05 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN_3_2008.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Utilisation of Company Income Tax Credit as a Set-Off (29.92 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/GPHDN_1_2008.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (238.47 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20260114-garis-panduan-layanan-cukai-ke-atas-pendapatan-pempengaruh-media-sosial.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (165.13 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-aktiviti-perdagangan-labuan-dan-aktiviti-bukan-perdagangan-labuan.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (174.15 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251128-garis-panduan-layanan-cukai-bagi-perbelanjaan-praperjanjian-petroleum-di-bawah-akta-petroleum-cukai-pendapatan-1967.pdf"
+        },
+        {
+          "page": "https://www.hasil.gov.my/en/perundangan/garis-panduan/",
+          "label": "Guidelines (98.23 KB)",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/20251105-garis-panduan-berhubung-kehendak-substantif-pekerja-sepenuh-masa-yang-layak-dan-wajar-bagi-entiti-labuan.pdf"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": []
+    },
+    {
+      "source": "Laws of Malaysia (AGC)",
+      "check_id": "lom-latest",
+      "section": "Principal Act / List of P.U. (A) / Finance Bill (latest legislation feed, tax-relevant only)",
+      "url": "https://lom.agc.gov.my/index.php",
+      "new_items": [
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 394/2026 - INTERNATIONAL ORGANIZATIONS (PRIVILEGES AND IMMUNITIES) (DRUGS FOR NEGLECTED DISEASES INITIATIVE) REGULATIONS 2026 P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026 P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+        }
+      ],
+      "removed_items": [
+        {
+          "page": "https://lom.agc.gov.my/index.php",
+          "label": "P.U. (A) 393/2026 - JURISDICTIONAL IMMUNITIES OF FOREIGN STATES (NATIONAL IRANIAN OIL COMPANY) (EXEMPTION) ORDER 2026 P.U. (A) 392/2026 - TRADE DESCRIPTIONS (CERTIFICATION AND MARKING OF HALAL) (AMENDMENT) (NO. 4) ORDER 2026 P.U. (A) 391/2026 - FEDERAL CONSTITUTION (REVIEW OF SPECIAL GRANT UNDER ARTICLE 112D) (STATE OF SABAH) ORDER 2026 See All...",
+          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9zdWJzaWQucGhwP3R5cGU9cHVhJmxhbmd1YWdlPUJJfDg4ZGQ5YWNiMzkzMmVjYWQ4YTNlMzkwYzFkMzQ2ZGRkNzM5YTMwODJhMGMyZTYzZTk1NmMyMjZhYjhjMjg2ZGE%3D"
+        }
+      ],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": [],
+      "not_relevant_count": 17
+    },
+    {
+      "source": "Ministry of Finance",
+      "check_id": "mof-news",
+      "section": "News (tax-relevant only)",
+      "url": "https://www.mof.gov.my/portal/en/news",
+      "new_items": [
+        {
+          "page": "https://www.mof.gov.my/portal/en/news",
+          "label": "Budget 2027 Approval Marks Key Step In Improving People’s Lives - Anwar Press Citations 26 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/budget-2027-approval-marks-key-step-in-improving-peoples-lives-anwar"
+        },
+        {
+          "page": "https://www.mof.gov.my/portal/en/news",
+          "label": "Budget 2027 Approval Marks Key Step In Improving People’s Lives - Anwar",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/budget-2027-approval-marks-key-step-in-improving-peoples-lives-anwar"
+        },
+        {
+          "page": "https://www.mof.gov.my/portal/en/news",
+          "label": "Dewan Rakyat Passes Budget 2027 Press Citations 26 November 2026",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/dewan-rakyat-passes-budget-2027"
+        },
+        {
+          "page": "https://www.mof.gov.my/portal/en/news",
+          "label": "Dewan Rakyat Passes Budget 2027",
+          "href": "https://www.mof.gov.my/portal/en/news/press-citations/dewan-rakyat-passes-budget-2027"
+        }
+      ],
+      "removed_items": [],
+      "text_changes": [],
+      "new_form_years": [],
+      "new_forms": [],
+      "not_relevant_count": 8
+    }
+  ],
+  "unchanged": [
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-announcements-media",
+      "section": "Home > Kenyataan Media & Pengumuman (Media Statements & Announcements)",
+      "url": "https://www.hasil.gov.my/en/pengumuman-kenyataan-media/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-myinvois-epos",
+      "section": "Pautan Popular > MyInvois e-POS",
+      "url": "https://www.hasil.gov.my/en/myinvoisepos/mengenai-myinvois-e-pos/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-return-form-filing-programme",
+      "section": "Forms > Return Form Filing Programme",
+      "url": "https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/"
+    },
+    {
+      "source": "HASiL (Inland Revenue Board)",
+      "check_id": "hasil-transfer-pricing",
+      "section": "Transfer Pricing",
+      "url": "https://www.hasil.gov.my/en/antarabangsa/harga-pindahan/"
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-latest-announcements",
+      "section": "Pengumuman Terkini (Latest Announcements)",
+      "url": "https://mysst.customs.gov.my/"
+    },
+    {
+      "source": "MySST (Royal Malaysian Customs)",
+      "check_id": "mysst-announcements",
+      "section": "All announcements",
+      "url": "https://mysst.customs.gov.my/announcements/"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-pengumuman",
+      "section": "Pengumuman (Announcements)",
+      "url": "https://customs.gov.my/ms/arkib/pengumuman"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-berita-media",
+      "section": "Berita dan Media (News and Media)",
+      "url": "https://customs.gov.my/ms/arkib/liputan-media"
+    },
+    {
+      "source": "Royal Malaysian Customs Department",
+      "check_id": "customs-prosedur",
+      "section": "Prosedur (left bar, Ketetapan Umum to Pekeliling Kewangan)",
+      "url": "https://www.customs.gov.my/ms/prosedur/ketetapan-umum"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-dt",
+      "section": "Technical News > Direct Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-direct-taxation-tc-dt/"
+    },
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-technical-news-it",
+      "section": "Technical News > Indirect Taxation",
+      "url": "https://www.ctim.org.my/technical-developments-indirect-taxation-tc-it/"
+    },
+    {
+      "source": "MySToDS (Service Tax on Digital Services)",
+      "check_id": "mystods-bulletin",
+      "section": "Bulletin Board",
+      "url": "https://mystods.customs.gov.my/"
+    },
+    {
+      "source": "Rosli Dahlan Saravana Partnership (RDS) - Tax Focus",
+      "check_id": "rds-tax-focus",
+      "section": "Tax Focus publications (for the monthly update class)",
+      "url": "https://www.rdslawpartners.com/publications/categories/tax-focus"
+    },
+    {
+      "source": "MDEC - National e-Invoicing",
+      "check_id": "mdec-einvoicing",
+      "section": "New Updates (Peppol-Ready Solution)",
+      "url": "https://mdec.my/national-einvoicing"
+    },
+    {
+      "source": "MyTax portal (HASiL)",
+      "check_id": "mytax-announcements",
+      "section": "Announcement (bottom left of the site)",
+      "url": "https://mytax.hasil.gov.my/"
+    },
+    {
+      "source": "MIDA - Announcements & Media Releases",
+      "check_id": "mida-announcements",
+      "section": "Announcements & media releases (tax-relevant only)",
+      "url": "https://www.mida.gov.my/media-and-events/announcement-media-release/"
+    }
+  ],
+  "baselined": [],
+  "needs_login": [],
+  "manual_check": [
+    {
+      "source": "HRD Corp - Circulars",
+      "check_id": "hrdcorp-circulars",
+      "section": "Circulars",
+      "url": "https://hrdcorp.gov.my/circulars",
+      "reason": ""
+    }
+  ],
+  "errors": [
+    {
+      "source": "Chartered Tax Institute of Malaysia",
+      "check_id": "ctim-ectim",
+      "section": "eCTIM (titles listed on the public home page; full text needs member sign-in)",
+      "url": "https://www.ctim.org.my/",
+      "error": "HTTP 500"
+    },
+    {
+      "source": "Parliament of Malaysia - Dewan Rakyat bills",
+      "check_id": "parlimen-bills",
+      "section": "Bills (Income Tax Act and Finance Bills only)",
+      "url": "https://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&lang=en",
+      "error": "HTTP 502"
+    }
+  ],
+  "partial": [],
+  "finished_at": "2026-11-27T08:52:56.041Z"
+}
