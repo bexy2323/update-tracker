@@ -1,38 +1,38 @@
 {
   "check_id": "lom-latest",
   "url": "https://lom.agc.gov.my/index.php",
-  "fetched_at": "2026-11-26T08:45:11.873Z",
+  "fetched_at": "2026-11-27T00:45:30.596Z",
   "pages": [
     {
       "url": "https://lom.agc.gov.my/index.php",
       "title": "Malaysia Federal Legislation",
       "items": [
         {
-          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
+          "label": "Today 26 Nov 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-1"
         },
         {
-          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
+          "label": "Today 26 Nov 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-2"
         },
         {
-          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
+          "label": "Today 26 Nov 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-3"
         },
         {
-          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
+          "label": "Today 26 Nov 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-4"
         },
         {
-          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
+          "label": "Today 26 Nov 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-5"
         },
         {
-          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
+          "label": "Today 26 Nov 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-6"
         },
         {
-          "label": "Today 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov 20 Nov",
+          "label": "Today 26 Nov 25 Nov 24 Nov 23 Nov 22 Nov 21 Nov",
           "href": "https://lom.agc.gov.my/index.php#tabs-7"
         },
         {
@@ -50,14 +50,6 @@
         {
           "label": "P.U. (B) 472/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF OCTOBER 2026",
           "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDcyLzIwMjZ8N2I2ZjYzZTE2YjUwNWYwMTk4MTQwZTc0YTAwMWIwMWRiZDA3OWFmMTI5NDYwODVmOGRjOWRkNmE1N2YwMDNiZQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 470/2026 - NOTIFICATION OF VALUE OF PALM KERNEL UNDER SECTION 12",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDcwLzIwMjZ8OTA1NzQ0NjljMjUyZDQyNDQyYWZlNDQ0NTYwYzdhYjY0N2Q2ZGZlMTVhOTAwYzIyY2JmN2EzYTU0MGZiMGE0ZQ%3D%3D"
-        },
-        {
-          "label": "P.U. (B) 471/2026 - RESULTS OF CONTESTED ELECTION AND STATEMENTS OF THE POLL AFTER THE OFFICIAL ADDITION OF VOTES STATE CONSTITUENCIES FOR THE STATE OF MALACCA",
-          "href": "https://lom.agc.gov.my/processFile.php?isDirect=1&token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9hY3Qtdmlldy5waHA%2FbGFuZ3VhZ2U9QkkmdHlwZT1wdWImbm89UC5VLiAoQikgNDcxLzIwMjZ8OTRhNjJhMDhkYzdhYThiNTk1ZTRlZTMyNDI3ZTczN2M5NTkyODY2YWVkZmRiZWI1NmMyM2VkYjIwMTQ5YWQ3Mg%3D%3D"
         },
         {
           "label": "STATISTICS ACT 2026",
@@ -131,20 +123,18 @@
       "lines": [
         "What's New",
         "Today",
+        "26 Nov",
         "25 Nov",
         "24 Nov",
         "23 Nov",
         "22 Nov",
         "21 Nov",
-        "20 Nov",
+        "There is no record to display",
         "P.U. (B)",
         "P.U. (B) 474/2026 - NOTICE TO THIRD PARTIES",
         "P.U. (B) 475/2026 - NOTIFICATION OF VALUE OF CRUDE PETROLEUM OIL UNDER SECTION 12",
-        "There is no record to display",
         "P.U. (B) 473/2026 - APPOINTMENT AND REVOCATION OF APPOINTMENT OF DEPUTY DIRECTORS GENERAL OF THE BOARD",
         "P.U. (B) 472/2026 - NOTICE REGARDING THE CERTIFICATION AND INSPECTION OF THE SUPPLEMENTARY ELECTORAL ROLL FOR THE MONTH OF OCTOBER 2026",
-        "P.U. (B) 470/2026 - NOTIFICATION OF VALUE OF PALM KERNEL UNDER SECTION 12",
-        "P.U. (B) 471/2026 - RESULTS OF CONTESTED ELECTION AND STATEMENTS OF THE POLL AFTER THE OFFICIAL ADDITION OF VOTES STATE CONSTITUENCIES FOR THE STATE OF MALACCA",
         "Principal Act",
         "Act 887 - STATISTICS ACT 2026",
         "Act 886 - THE TITULAR SUPERIOR OF THE INSTITUTE OF THE MARIST BROTHERS OF THE SCHOOLS (INCORPORATION) ACT 1958 (Revised—2026)",
@@ -162,8 +152,8 @@
         "Top Hit (All Time)",
         "Views",
         "Top Hit (Weekly)",
-        "Act 164 816",
-        "Act 854 682"
+        "Act 164 762",
+        "Act 854 624"
       ]
     }
   ]

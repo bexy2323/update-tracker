@@ -1,7 +1,7 @@
 {
   "check_id": "hasil-download-forms",
   "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
-  "fetched_at": "2026-11-26T08:44:25.597Z",
+  "fetched_at": "2026-11-27T00:44:34.706Z",
   "pages": [
     {
       "url": "https://www.hasil.gov.my/en/muat-turun-borang/muat-turun-borang-individu/",
@@ -404,8 +404,8 @@
           "href": "https://mytax.hasil.gov.my/ezHasil?data=e-Daftar&id=ezHasil+sebelum"
         },
         {
-          "label": "| Deceased Person'S Estate Form CP57 (223.71 KB) This form can be downloaded and submitted to Lembaga Hasil Dalam Negeri Malaysia",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/Borang_CP57_1.pdf"
+          "label": "| Deceased Person\\'S Estate Form CP57 (250.99 KB) This form can be downloaded and submitted to the HASiL office which handles your income tax file or to the nearest HASiL state office.",
+          "href": "https://www.hasil.gov.my/wp-content/uploads/Brg_CP57_Pin-1_2026-1.pdf"
         },
         {
           "label": "| Employer e-Daftar From 1 January 2024, a new application for registration of Tax Identification Number (TIN) for Employer must be made online through the e-Daftar application at MyTax. Sample of Registration Form for Employer: Form CP600E [Pin.1/2020] (210.01 KB)",
@@ -635,11 +635,11 @@
           "href": "https://www.hasil.gov.my/wp-content/uploads/CKHT-15K.pdf"
         },
         {
-          "label": "| Application Form of Tax Clearance Letter for Dissolution by Strike Off e-SPC (314.79 KB) Applications for Tax Clearance Letter (TCL) for company must be submitted online via the e-SPC application in MyTax. Sample of Form CP7: Form CP7 (155.28 KB) Appendix 3A (128.43 KB)",
-          "href": "https://www.hasil.gov.my/wp-content/uploads/cp7_syarikat_2.pdf"
+          "label": "| Application Form of Tax Clearance Letter for Dissolution by Strike Off CP7 Applications for Tax Clearance Letter (TCL) for company must be submitted online via e-SPC in MyTax. Labuan entities (including those taxed under the Income Tax Act 1967) are required to submit their TCL application using Form CP7(LE). Please refer Operational Guideline No. 3 Year 2026: Application for Tax Clearance Lette",
+          "href": "https://mytax.hasil.gov.my/"
         },
         {
-          "label": "| Application Form of Tax Clearance Letter for Dissolution (other than Strike-Off) e-SPC Applications for Tax Clearance Letter (TCL) for company must be submitted online via the e-SPC application in MyTax.",
+          "label": "| Application Form of Tax Clearance Letter for Dissolution Other Than Strike-Off CP7(C) Applications for Tax Clearance Letter (TCL) for company must be submitted online via the e-SPC in MyTax. Labuan entities (including those taxed under the Income Tax Act 1967) are required to submit their TCL application using Form CP7(LE). Please refer Operational Guidelines No. 3 Year 2026: Application for Tax",
           "href": "https://mytax.hasil.gov.my/"
         },
         {
